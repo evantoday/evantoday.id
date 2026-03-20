@@ -2,58 +2,43 @@
 const year = new Date().getFullYear();
 ---
 
-<footer class="bg-gray-900 text-gray-300 mt-20">
-	<div class="max-w-6xl mx-auto px-4 sm:px-6 py-16">
-		<div class="grid grid-cols-1 md:grid-cols-4 gap-10">
-			<!-- Brand -->
-			<div class="md:col-span-1">
-				<div class="flex items-center gap-2.5 mb-4">
-					<div class="w-9 h-9 bg-gradient-to-br from-slate-600 to-slate-700 rounded-lg flex items-center justify-center">
-						<span class="text-white text-sm font-bold tracking-tight">ET</span>
-					</div>
-					<span class="text-lg font-bold text-white">Evan Today</span>
-				</div>
-				<p class="text-sm text-gray-400 leading-relaxed">
-					Your trusted guide to personal finance, fintech, and building wealth in Indonesia and Southeast Asia.
+<footer class="border-t border-gray-200 mt-16">
+	<div class="max-w-5xl mx-auto px-4 sm:px-6 py-10">
+		<div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-sm">
+			<div class="col-span-2 md:col-span-1">
+				<span class="font-bold text-gray-900">Evan Today</span>
+				<p class="text-gray-400 mt-2 leading-relaxed">
+					Personal finance for real people in Indonesia.
 				</p>
 			</div>
-
-			<!-- Categories -->
 			<div>
-				<h3 class="text-sm font-semibold text-white uppercase tracking-wider mb-4">Categories</h3>
-				<ul class="space-y-2.5 text-sm">
-					<li><a href="/category/personal-finance" class="text-gray-400 hover:text-white no-underline transition-colors">Personal Finance</a></li>
-					<li><a href="/category/fintech" class="text-gray-400 hover:text-white no-underline transition-colors">Fintech</a></li>
-					<li><a href="/category/investing" class="text-gray-400 hover:text-white no-underline transition-colors">Investing</a></li>
-					<li><a href="/category/cryptocurrency" class="text-gray-400 hover:text-white no-underline transition-colors">Cryptocurrency</a></li>
-					<li><a href="/category/insurance" class="text-gray-400 hover:text-white no-underline transition-colors">Insurance</a></li>
-					<li><a href="/category/digital-banking" class="text-gray-400 hover:text-white no-underline transition-colors">Digital Banking</a></li>
+				<h3 class="font-medium text-gray-900 mb-3">Topics</h3>
+				<ul class="space-y-2 text-gray-500">
+					<li><a href="/category/personal-finance" class="hover:text-gray-900 no-underline">Personal Finance</a></li>
+					<li><a href="/category/fintech" class="hover:text-gray-900 no-underline">Fintech</a></li>
+					<li><a href="/category/investing" class="hover:text-gray-900 no-underline">Investing</a></li>
+					<li><a href="/category/cryptocurrency" class="hover:text-gray-900 no-underline">Crypto</a></li>
 				</ul>
 			</div>
-
-			<!-- Company -->
 			<div>
-				<h3 class="text-sm font-semibold text-white uppercase tracking-wider mb-4">Company</h3>
-				<ul class="space-y-2.5 text-sm">
-					<li><a href="/about" class="text-gray-400 hover:text-white no-underline transition-colors">About Us</a></li>
-					<li><a href="/contact" class="text-gray-400 hover:text-white no-underline transition-colors">Contact</a></li>
-					<li><a href="/blog" class="text-gray-400 hover:text-white no-underline transition-colors">All Articles</a></li>
+				<h3 class="font-medium text-gray-900 mb-3">More</h3>
+				<ul class="space-y-2 text-gray-500">
+					<li><a href="/category/insurance" class="hover:text-gray-900 no-underline">Insurance</a></li>
+					<li><a href="/category/digital-banking" class="hover:text-gray-900 no-underline">Digital Banking</a></li>
+					<li><a href="/about" class="hover:text-gray-900 no-underline">About</a></li>
+					<li><a href="/contact" class="hover:text-gray-900 no-underline">Contact</a></li>
 				</ul>
 			</div>
-
-			<!-- Legal -->
 			<div>
-				<h3 class="text-sm font-semibold text-white uppercase tracking-wider mb-4">Legal</h3>
-				<ul class="space-y-2.5 text-sm">
-					<li><a href="/privacy-policy" class="text-gray-400 hover:text-white no-underline transition-colors">Privacy Policy</a></li>
-					<li><a href="/disclaimer" class="text-gray-400 hover:text-white no-underline transition-colors">Disclaimer</a></li>
+				<h3 class="font-medium text-gray-900 mb-3">Legal</h3>
+				<ul class="space-y-2 text-gray-500">
+					<li><a href="/privacy-policy" class="hover:text-gray-900 no-underline">Privacy</a></li>
+					<li><a href="/disclaimer" class="hover:text-gray-900 no-underline">Disclaimer</a></li>
 				</ul>
 			</div>
 		</div>
-
-		<div class="border-t border-gray-800 mt-12 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-			<p class="text-sm text-gray-500">&copy; {year} Evan Today. All rights reserved.</p>
-			<p class="text-sm text-gray-500">Made with care in Indonesia</p>
+		<div class="border-t border-gray-200 mt-8 pt-6 text-xs text-gray-400">
+			&copy; {year} Evan Today
 		</div>
 	</div>
 </footer>
