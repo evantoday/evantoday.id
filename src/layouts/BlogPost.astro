@@ -15,12 +15,14 @@ type Props = CollectionEntry<'blog'>['data'] & { slug?: string; readingTime?: nu
 const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, author, category, tags, slug, readingTime } = Astro.props;
 const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
 const articleUrl = Astro.url.toString();
+const ogImageUrl = slug ? `/og/${slug}.png` : undefined;
 ---
 
 <BaseLayout
 	title={title}
 	description={description}
 	image={heroImage}
+	ogImage={ogImageUrl}
 	type="article"
 	publishedDate={pubDate}
 	modifiedDate={updatedDate}
@@ -30,7 +32,7 @@ const articleUrl = Astro.url.toString();
 		title={title}
 		description={description}
 		url={articleUrl}
-		image={heroImage ? new URL(heroImage.src, siteUrl).toString() : undefined}
+		image={ogImageUrl ? new URL(ogImageUrl, siteUrl).toString() : heroImage ? new URL(heroImage.src, siteUrl).toString() : undefined}
 		publishedDate={pubDate}
 		modifiedDate={updatedDate}
 		author={author}
