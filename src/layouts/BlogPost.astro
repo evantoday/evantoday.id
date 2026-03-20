@@ -2,6 +2,7 @@
 import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import AdSense from '../components/AdSense.astro';
+import AuthorBio from '../components/AuthorBio.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
@@ -104,6 +105,8 @@ const ogImageUrl = slug ? `/og/${slug}.png` : undefined;
 		</div>
 
 		<ShareButtons title={title} url={articleUrl} />
+
+		<AuthorBio author={author || 'Evan'} />
 
 		<AdSense slot="footer" />
 

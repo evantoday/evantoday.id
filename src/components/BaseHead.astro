@@ -1,7 +1,6 @@
 ---
 import '../styles/global.css';
 import type { ImageMetadata } from 'astro';
-import FallbackImage from '../assets/blog-placeholder-1.jpg';
 import { SITE_TITLE } from '../consts';
 
 interface Props {
@@ -18,7 +17,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const {
 	title,
 	description,
-	image = FallbackImage,
+	image,
 	ogImage,
 	type = 'website',
 	publishedDate,
@@ -28,10 +27,12 @@ const {
 const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
 const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
 
-// Use generated OG image if available, otherwise fall back to hero image
+// Use generated OG image if available, otherwise fall back to hero image or default OG
 const socialImage = ogImage
 	? new URL(ogImage, Astro.site).toString()
-	: new URL(image.src, Astro.url).toString();
+	: image
+		? new URL(image.src, Astro.url).toString()
+		: new URL('/og/index.png', Astro.site).toString();
 ---
 
 <!-- Global Metadata -->

@@ -1,11 +1,10 @@
 ---
 title: "Building an Emergency Fund in Indonesia: How Much Do You Need?"
 description: "A practical guide to building your emergency fund in Indonesia. Learn how much to save, where to keep it, and strategies to build it fast."
-pubDate: 2026-03-15
-author: "Evan Today"
+pubDate: 2026-03-02
+author: "Evan"
 category: "personal-finance"
 tags: ["emergency-fund", "saving-money", "financial-planning"]
-heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 Life is unpredictable. A sudden job loss, unexpected medical bill, or urgent home repair can derail your finances in an instant. That's where an emergency fund comes in — your financial safety net that keeps you afloat when the unexpected happens.

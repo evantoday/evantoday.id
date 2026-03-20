@@ -1,11 +1,10 @@
 ---
 title: "How to Budget Money in Indonesia: A Complete Beginner's Guide"
 description: "Learn practical budgeting strategies for living in Indonesia. From the 50/30/20 rule to local apps that help you track spending."
-pubDate: 2026-03-20
-author: "Evan Today"
+pubDate: 2026-02-14
+author: "Evan"
 category: "personal-finance"
 tags: ["budgeting", "saving-money", "beginners", "indonesia"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
 ---
 
 Managing your money wisely is one of the most important skills you can develop, especially in Indonesia's dynamic economy. Whether you're a fresh graduate starting your first job in Jakarta or a seasoned professional looking to get your finances in order, having a solid budget is the foundation of financial success.

@@ -2,37 +2,79 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="About" description="Learn about Evan Today - your guide to personal finance and fintech in Indonesia.">
-	<div class="max-w-3xl mx-auto px-4 py-12">
-		<h1 class="text-3xl font-bold text-gray-900 mb-6">About Evan Today</h1>
+<BaseLayout title="About" description="Meet Evan - the person behind Evan Today, a personal finance blog for Indonesians.">
+	<div class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+		<!-- Author intro -->
+		<div class="flex flex-col sm:flex-row items-start gap-6 mb-12">
+			<div class="w-20 h-20 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-2xl flex items-center justify-center flex-shrink-0 shadow-lg">
+				<span class="text-white text-2xl font-bold">E</span>
+			</div>
+			<div>
+				<h1 class="text-3xl font-bold text-gray-900 mb-2">Hey, I'm Evan</h1>
+				<p class="text-lg text-gray-500">Writer, finance nerd, and Indonesian trying to figure out money — just like you.</p>
+			</div>
+		</div>
+
 		<div class="prose">
 			<p>
-				Welcome to Evan Today — your trusted source for personal finance insights, fintech reviews,
-				and money management tips tailored for Indonesia and Southeast Asia.
+				I started Evan Today because I was tired of financial advice that didn't apply to life in Indonesia.
+				Most personal finance content out there is written for Americans or Europeans — talking about 401(k)s,
+				ISAs, and credit scores that don't exist here. We have our own system, our own tools, and our own
+				challenges.
 			</p>
-			<h2>Our Mission</h2>
+
 			<p>
-				We believe that financial literacy is the foundation of financial freedom. Our mission is to
-				make personal finance accessible, practical, and actionable for everyone in Southeast Asia.
-				Whether you're just starting your financial journey or looking to optimize your wealth-building
-				strategy, we're here to help.
+				I'm not a certified financial planner. I'm someone who spent years making money mistakes —
+				blowing my THR on things I didn't need, ignoring BPJS until I actually needed it, and keeping all
+				my savings in a regular BCA account earning basically nothing. Eventually I started learning,
+				experimenting, and documenting what worked.
 			</p>
-			<h2>What We Cover</h2>
+
+			<p>
+				This blog is that documentation. Everything I write comes from actual research, real experience
+				using Indonesian financial products, and genuine curiosity about how money works in Southeast Asia.
+			</p>
+
+			<h2>What you'll find here</h2>
+
+			<p>
+				I write about the stuff that actually matters for people living in Indonesia:
+			</p>
+
 			<ul>
-				<li><strong>Personal Finance</strong> — Budgeting, saving, and building emergency funds</li>
-				<li><strong>Fintech</strong> — Reviews and comparisons of digital wallets, payment apps, and financial tools</li>
-				<li><strong>Investing</strong> — Stock market basics, mutual funds, and wealth building strategies</li>
-				<li><strong>Cryptocurrency</strong> — Understanding crypto, blockchain, and digital assets</li>
-				<li><strong>Insurance</strong> — Finding the right coverage for your needs</li>
-				<li><strong>Digital Banking</strong> — The best digital banks and their features</li>
+				<li>How to budget when your income is in Rupiah and everything on the internet is priced in USD</li>
+				<li>Which digital bank actually gives the best interest rate this month (spoiler: it changes constantly)</li>
+				<li>Whether that unit link insurance your agent is pushing is actually worth it (usually no)</li>
+				<li>How to start investing with Rp 100,000 — because not everyone has millions lying around</li>
+				<li>Honest comparisons of fintech apps, not sponsored fluff</li>
 			</ul>
-			<h2>Why Trust Us</h2>
+
+			<h2>My approach</h2>
+
 			<p>
-				Every article we publish is thoroughly researched and written with accuracy in mind. We focus on
-				providing practical, unbiased information that you can actually use to improve your financial life.
+				I try to write like I'm explaining something to a friend over kopi. No jargon for the sake of
+				sounding smart. No generic advice like "just save more." Instead, I focus on specific, actionable
+				steps that work in the Indonesian context.
 			</p>
+
 			<p>
-				Have a question or suggestion? <a href="/contact">Get in touch</a> — we'd love to hear from you.
+				If I recommend something, it's because I've used it or researched it thoroughly — not because
+				someone paid me to say it's good. When I do have affiliate links, I'll always tell you.
+			</p>
+
+			<h2>Get in touch</h2>
+
+			<p>
+				Found a mistake? Have a topic you want me to cover? Just want to say hi?
+				Drop me a message at <a href="mailto:hello@evantoday.id">hello@evantoday.id</a>.
+			</p>
+
+			<p>
+				Thanks for reading. I hope something here helps you make smarter decisions with your money.
+			</p>
+
+			<p>
+				— Evan
 			</p>
 		</div>
 	</div>

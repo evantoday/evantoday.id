@@ -1,11 +1,10 @@
 ---
 title: "Best E-Wallet Apps in Indonesia 2026: Complete Comparison Guide"
 description: "Compare the top e-wallet apps in Indonesia including GoPay, OVO, Dana, ShopeePay, and LinkAja. Features, fees, and cashback compared."
-pubDate: 2026-03-18
-author: "Evan Today"
+pubDate: 2026-02-21
+author: "Evan"
 category: "fintech"
 tags: ["e-wallet", "digital-payment", "gopay", "ovo", "dana"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
 ---
 
 Digital wallets have completely transformed how Indonesians handle money. From buying street food at a warung to paying electricity bills, e-wallets are now woven into daily life. But with so many options available, which one is right for you?
