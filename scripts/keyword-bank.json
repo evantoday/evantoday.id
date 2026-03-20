@@ -1,0 +1,72 @@
+{
+  "personal-finance": [
+    { "keyword": "how to save money on a low salary in Indonesia", "type": "guide", "priority": "high" },
+    { "keyword": "50 30 20 budget rule explained for Indonesians", "type": "guide", "priority": "high" },
+    { "keyword": "how to manage THR money wisely", "type": "guide", "priority": "high" },
+    { "keyword": "financial goals setting guide for beginners", "type": "guide", "priority": "medium" },
+    { "keyword": "how to teach kids about money in Indonesia", "type": "guide", "priority": "medium" },
+    { "keyword": "cost of living comparison Jakarta vs Surabaya vs Bandung", "type": "comparison", "priority": "high" },
+    { "keyword": "how to negotiate salary in Indonesia", "type": "guide", "priority": "medium" },
+    { "keyword": "debt free journey tips for Indonesians", "type": "guide", "priority": "high" },
+    { "keyword": "how to reduce monthly expenses Indonesia", "type": "listicle", "priority": "medium" },
+    { "keyword": "financial mistakes to avoid in your 20s", "type": "listicle", "priority": "high" }
+  ],
+  "fintech": [
+    { "keyword": "best digital banks in Indonesia 2026", "type": "review", "priority": "high" },
+    { "keyword": "GoPay vs OVO vs Dana which is better", "type": "comparison", "priority": "high" },
+    { "keyword": "how to use QRIS for payments in Indonesia", "type": "guide", "priority": "medium" },
+    { "keyword": "is buy now pay later safe in Indonesia", "type": "guide", "priority": "high" },
+    { "keyword": "best money transfer apps Indonesia", "type": "review", "priority": "medium" },
+    { "keyword": "Jago bank review features and fees", "type": "review", "priority": "medium" },
+    { "keyword": "Seabank review interest rates and features", "type": "review", "priority": "medium" },
+    { "keyword": "best apps for splitting bills with friends", "type": "listicle", "priority": "low" },
+    { "keyword": "how fintech is changing banking in Indonesia", "type": "guide", "priority": "medium" },
+    { "keyword": "BNPL apps comparison Indonesia 2026", "type": "comparison", "priority": "high" }
+  ],
+  "investing": [
+    { "keyword": "how to start investing in Indonesia for beginners", "type": "guide", "priority": "high" },
+    { "keyword": "best reksadana apps in Indonesia 2026", "type": "review", "priority": "high" },
+    { "keyword": "stock investing vs reksadana which is better for beginners", "type": "comparison", "priority": "high" },
+    { "keyword": "how to invest in gold in Indonesia", "type": "guide", "priority": "medium" },
+    { "keyword": "SBN government bonds Indonesia explained", "type": "guide", "priority": "medium" },
+    { "keyword": "Bibit vs Bareksa vs Ajaib comparison", "type": "comparison", "priority": "high" },
+    { "keyword": "passive income ideas Indonesia 2026", "type": "listicle", "priority": "high" },
+    { "keyword": "how much money do you need to start investing Indonesia", "type": "guide", "priority": "medium" },
+    { "keyword": "dollar cost averaging strategy explained", "type": "guide", "priority": "medium" },
+    { "keyword": "best dividend stocks IDX for beginners", "type": "listicle", "priority": "medium" }
+  ],
+  "cryptocurrency": [
+    { "keyword": "how to buy Bitcoin in Indonesia legally", "type": "guide", "priority": "high" },
+    { "keyword": "best crypto exchanges in Indonesia 2026", "type": "review", "priority": "high" },
+    { "keyword": "is cryptocurrency legal in Indonesia", "type": "guide", "priority": "high" },
+    { "keyword": "crypto tax rules Indonesia explained", "type": "guide", "priority": "medium" },
+    { "keyword": "Indodax vs Tokocrypto vs Pintu comparison", "type": "comparison", "priority": "high" },
+    { "keyword": "beginners guide to blockchain technology", "type": "guide", "priority": "medium" },
+    { "keyword": "risks of cryptocurrency investing in Indonesia", "type": "guide", "priority": "medium" }
+  ],
+  "insurance": [
+    { "keyword": "BPJS Kesehatan complete guide benefits and registration", "type": "guide", "priority": "high" },
+    { "keyword": "best health insurance in Indonesia 2026", "type": "review", "priority": "high" },
+    { "keyword": "do you need life insurance in Indonesia", "type": "guide", "priority": "medium" },
+    { "keyword": "term life vs whole life insurance Indonesia explained", "type": "comparison", "priority": "medium" },
+    { "keyword": "car insurance comparison Indonesia 2026", "type": "comparison", "priority": "medium" },
+    { "keyword": "unit link insurance worth it or not", "type": "guide", "priority": "high" }
+  ],
+  "digital-banking": [
+    { "keyword": "best high interest savings accounts Indonesia 2026", "type": "review", "priority": "high" },
+    { "keyword": "neo bank vs traditional bank Indonesia", "type": "comparison", "priority": "high" },
+    { "keyword": "how to open a bank account online in Indonesia", "type": "guide", "priority": "medium" },
+    { "keyword": "BCA digital vs Jago vs Blu comparison", "type": "comparison", "priority": "high" },
+    { "keyword": "best deposito rates Indonesia 2026", "type": "review", "priority": "medium" }
+  ],
+  "financial-tips": [
+    { "keyword": "how to build good credit score in Indonesia", "type": "guide", "priority": "high" },
+    { "keyword": "side hustle ideas Indonesia that actually work", "type": "listicle", "priority": "high" },
+    { "keyword": "financial planning for newlyweds Indonesia", "type": "guide", "priority": "medium" },
+    { "keyword": "how to financially prepare for retirement Indonesia", "type": "guide", "priority": "medium" },
+    { "keyword": "money management tips for freelancers Indonesia", "type": "guide", "priority": "high" },
+    { "keyword": "KPR mortgage guide first time home buyer Indonesia", "type": "guide", "priority": "high" },
+    { "keyword": "how to calculate net worth and why it matters", "type": "guide", "priority": "medium" },
+    { "keyword": "financial independence retire early FIRE movement Indonesia", "type": "guide", "priority": "medium" }
+  ]
+}

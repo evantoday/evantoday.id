@@ -1,0 +1,30 @@
+---
+import SchemaOrg from './SchemaOrg.astro';
+
+interface Props {
+	items: { label: string; href?: string }[];
+}
+
+const { items } = Astro.props;
+const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
+const breadcrumbData = items.map((item) => ({
+	name: item.label,
+	url: item.href ? new URL(item.href, siteUrl).toString() : '',
+}));
+---
+
+<SchemaOrg type="breadcrumb" breadcrumbs={breadcrumbData} />
+<nav aria-label="Breadcrumb" class="text-sm text-gray-500 mb-6">
+	<ol class="flex items-center gap-2 flex-wrap">
+		{items.map((item, i) => (
+			<li class="flex items-center gap-2">
+				{i > 0 && <span>/</span>}
+				{item.href ? (
+					<a href={item.href} class="hover:text-blue-600 no-underline">{item.label}</a>
+				) : (
+					<span class="text-gray-900">{item.label}</span>
+				)}
+			</li>
+		))}
+	</ol>
+</nav>

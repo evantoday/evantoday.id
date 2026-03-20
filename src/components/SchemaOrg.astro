@@ -1,0 +1,71 @@
+---
+interface Props {
+	type: 'website' | 'article' | 'breadcrumb';
+	title?: string;
+	description?: string;
+	url?: string;
+	image?: string;
+	publishedDate?: Date;
+	modifiedDate?: Date;
+	author?: string;
+	breadcrumbs?: { name: string; url: string }[];
+}
+
+const { type, title, description, url, image, publishedDate, modifiedDate, author, breadcrumbs } = Astro.props;
+const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
+
+function getSchema() {
+	if (type === 'website') {
+		return {
+			'@context': 'https://schema.org',
+			'@type': 'WebSite',
+			name: 'Evan Today',
+			description: description,
+			url: siteUrl,
+		};
+	}
+
+	if (type === 'article') {
+		return {
+			'@context': 'https://schema.org',
+			'@type': 'Article',
+			headline: title,
+			description: description,
+			url: url,
+			image: image,
+			datePublished: publishedDate?.toISOString(),
+			dateModified: (modifiedDate || publishedDate)?.toISOString(),
+			author: {
+				'@type': 'Person',
+				name: author || 'Evan Today',
+			},
+			publisher: {
+				'@type': 'Organization',
+				name: 'Evan Today',
+				url: siteUrl,
+			},
+		};
+	}
+
+	if (type === 'breadcrumb' && breadcrumbs) {
+		return {
+			'@context': 'https://schema.org',
+			'@type': 'BreadcrumbList',
+			itemListElement: breadcrumbs.map((item, index) => ({
+				'@type': 'ListItem',
+				position: index + 1,
+				name: item.name,
+				item: item.url,
+			})),
+		};
+	}
+
+	return null;
+}
+
+const schema = getSchema();
+---
+
+{schema && (
+	<script type="application/ld+json" set:html={JSON.stringify(schema)} />
+)}

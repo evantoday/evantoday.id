@@ -1,0 +1,95 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import AdSense from '../components/AdSense.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import SchemaOrg from '../components/SchemaOrg.astro';
+import { CATEGORY_LABELS, type Category } from '../consts';
+import BaseLayout from './BaseLayout.astro';
+
+type Props = CollectionEntry<'blog'>['data'];
+
+const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, author, category, tags } = Astro.props;
+const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
+---
+
+<BaseLayout
+	title={title}
+	description={description}
+	image={heroImage}
+	type="article"
+	publishedDate={pubDate}
+	modifiedDate={updatedDate}
+>
+	<SchemaOrg
+		type="article"
+		title={title}
+		description={description}
+		url={Astro.url.toString()}
+		image={heroImage ? new URL(heroImage.src, siteUrl).toString() : undefined}
+		publishedDate={pubDate}
+		modifiedDate={updatedDate}
+		author={author}
+	/>
+
+	<article class="max-w-4xl mx-auto px-4 py-8">
+		<Breadcrumbs items={[
+			{ label: 'Home', href: '/' },
+			{ label: CATEGORY_LABELS[category as Category], href: `/category/${category}` },
+			{ label: title },
+		]} />
+
+		{heroImage && (
+			<div class="mb-8">
+				<Image
+					src={heroImage}
+					alt={heroImageAlt || title}
+					width={1020}
+					height={510}
+					class="w-full rounded-xl shadow-md"
+				/>
+			</div>
+		)}
+
+		<header class="mb-8">
+			<div class="flex items-center gap-3 text-sm text-gray-500 mb-4">
+				<a href={`/category/${category}`} class="text-blue-600 font-medium no-underline hover:underline">
+					{CATEGORY_LABELS[category as Category]}
+				</a>
+				<span>|</span>
+				<FormattedDate date={pubDate} />
+				{updatedDate && (
+					<>
+						<span>|</span>
+						<span class="italic">Updated <FormattedDate date={updatedDate} /></span>
+					</>
+				)}
+				<span>|</span>
+				<span>By {author}</span>
+			</div>
+			<h1 class="text-3xl md:text-4xl font-bold text-gray-900 leading-tight mb-4">{title}</h1>
+			<p class="text-lg text-gray-600">{description}</p>
+			{tags && tags.length > 0 && (
+				<div class="flex flex-wrap gap-2 mt-4">
+					{tags.map((tag: string) => (
+						<a
+							href={`/tag/${tag}`}
+							class="text-xs bg-gray-100 text-gray-600 px-3 py-1 rounded-full no-underline hover:bg-blue-50 hover:text-blue-600"
+						>
+							#{tag}
+						</a>
+					))}
+				</div>
+			)}
+		</header>
+
+		<AdSense slot="header" format="horizontal" />
+
+		<div class="prose">
+			<slot />
+		</div>
+
+		<AdSense slot="footer" />
+	</article>
+</BaseLayout>

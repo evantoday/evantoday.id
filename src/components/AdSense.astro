@@ -1,0 +1,31 @@
+---
+interface Props {
+	slot: 'header' | 'in-article' | 'sidebar' | 'footer';
+	format?: 'auto' | 'rectangle' | 'horizontal' | 'vertical';
+}
+
+const { slot, format = 'auto' } = Astro.props;
+const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
+
+// Map slot names to ad slot IDs — replace with real values after AdSense approval
+const adSlots: Record<string, string> = {
+	'header': 'XXXXXXXXXX',
+	'in-article': 'XXXXXXXXXX',
+	'sidebar': 'XXXXXXXXXX',
+	'footer': 'XXXXXXXXXX',
+};
+---
+
+{adsenseClient && (
+	<div class="ad-container my-6 text-center">
+		<ins
+			class="adsbygoogle"
+			style="display:block"
+			data-ad-client={adsenseClient}
+			data-ad-slot={adSlots[slot]}
+			data-ad-format={format}
+			data-full-width-responsive="true"
+		></ins>
+		<script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+	</div>
+)}
