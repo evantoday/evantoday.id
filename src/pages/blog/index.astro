@@ -4,15 +4,24 @@ import BlogCard from '../../components/BlogCard.astro';
 import { SITE_TITLE } from '../../consts';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
-const posts = (await getCollection('blog'))
+const POSTS_PER_PAGE = 12;
+const currentPage = 1;
+
+const allPosts = (await getCollection('blog'))
 	.filter((post) => !post.data.draft)
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
+const posts = allPosts.slice(0, POSTS_PER_PAGE);
 ---
 
 <BaseLayout title={`Blog | ${SITE_TITLE}`} description="All articles about personal finance, fintech, and money management.">
 	<section class="max-w-5xl mx-auto px-4 py-12">
-		<h1 class="text-3xl font-bold text-gray-900 mb-8">All Articles</h1>
-		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+		<div class="flex items-center justify-between mb-8">
+			<h1 class="text-3xl font-bold text-gray-900">All Articles</h1>
+			<span class="text-sm text-gray-500">{allPosts.length} articles</span>
+		</div>
+		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 			{posts.map((post) => (
 				<BlogCard
 					title={post.data.title}
@@ -24,5 +33,23 @@ const posts = (await getCollection('blog'))
 				/>
 			))}
 		</div>
+
+		{totalPages > 1 && (
+			<nav class="flex justify-center items-center gap-2 mt-12" aria-label="Pagination">
+				{Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
+					<a
+						href={page === 1 ? '/blog' : `/blog/${page}`}
+						class:list={[
+							'px-4 py-2 rounded-lg text-sm font-medium no-underline',
+							page === currentPage
+								? 'bg-blue-600 text-white'
+								: 'bg-gray-100 text-gray-700 hover:bg-gray-200',
+						]}
+					>
+						{page}
+					</a>
+				))}
+			</nav>
+		)}
 	</section>
 </BaseLayout>

@@ -14,29 +14,48 @@ interface Props {
 }
 
 const { title, description, pubDate, category, slug, heroImage } = Astro.props;
+
+// Color map for category badges when no image
+const categoryColors: Record<string, string> = {
+	'personal-finance': 'from-blue-500 to-blue-700',
+	'fintech': 'from-purple-500 to-purple-700',
+	'cryptocurrency': 'from-orange-500 to-orange-700',
+	'insurance': 'from-green-500 to-green-700',
+	'investing': 'from-emerald-500 to-emerald-700',
+	'digital-banking': 'from-cyan-500 to-cyan-700',
+	'financial-tips': 'from-amber-500 to-amber-700',
+};
+const gradientClass = categoryColors[category] || 'from-gray-500 to-gray-700';
 ---
 
-<article class="group">
+<article class="group border border-gray-200 rounded-xl overflow-hidden hover:shadow-lg transition-shadow">
 	<a href={`/blog/${slug}/`} class="block no-underline">
-		{heroImage && (
+		{heroImage ? (
 			<Image
 				src={heroImage}
 				alt={title}
 				width={720}
 				height={360}
-				class="w-full h-48 object-cover rounded-lg mb-4 group-hover:shadow-lg transition-shadow"
+				class="w-full h-44 object-cover"
 			/>
-		)}
-		<div class="space-y-2">
-			<div class="flex items-center gap-3 text-sm">
-				<span class="text-blue-600 font-medium">{CATEGORY_LABELS[category]}</span>
-				<span class="text-gray-400">|</span>
-				<span class="text-gray-500"><FormattedDate date={pubDate} /></span>
+		) : (
+			<div class={`w-full h-44 bg-gradient-to-br ${gradientClass} flex items-center justify-center p-6`}>
+				<span class="text-white text-lg font-bold text-center leading-snug line-clamp-3">
+					{title}
+				</span>
 			</div>
-			<h3 class="text-lg font-bold text-gray-900 group-hover:text-blue-600 transition-colors leading-snug">
+		)}
+		<div class="p-4 space-y-2">
+			<div class="flex items-center gap-3 text-xs">
+				<span class="bg-blue-50 text-blue-700 px-2 py-0.5 rounded-full font-medium">
+					{CATEGORY_LABELS[category]}
+				</span>
+				<span class="text-gray-400"><FormattedDate date={pubDate} /></span>
+			</div>
+			<h3 class="text-base font-bold text-gray-900 group-hover:text-blue-600 transition-colors leading-snug line-clamp-2">
 				{title}
 			</h3>
-			<p class="text-gray-600 text-sm line-clamp-2">{description}</p>
+			<p class="text-gray-500 text-sm line-clamp-2">{description}</p>
 		</div>
 	</a>
 </article>
