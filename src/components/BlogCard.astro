@@ -16,20 +16,19 @@ interface Props {
 
 const { title, description, pubDate, category, slug, heroImage, readingTime } = Astro.props;
 
-// Color map for category badges when no image
 const categoryColors: Record<string, string> = {
 	'personal-finance': 'from-blue-500 to-blue-700',
-	'fintech': 'from-purple-500 to-purple-700',
-	'cryptocurrency': 'from-orange-500 to-orange-700',
-	'insurance': 'from-green-500 to-green-700',
-	'investing': 'from-emerald-500 to-emerald-700',
+	'fintech': 'from-violet-500 to-violet-700',
+	'cryptocurrency': 'from-orange-500 to-amber-600',
+	'insurance': 'from-emerald-500 to-emerald-700',
+	'investing': 'from-teal-500 to-teal-700',
 	'digital-banking': 'from-cyan-500 to-cyan-700',
 	'financial-tips': 'from-amber-500 to-amber-700',
 };
 const gradientClass = categoryColors[category] || 'from-gray-500 to-gray-700';
 ---
 
-<article class="group border border-gray-200 rounded-xl overflow-hidden hover:shadow-lg transition-shadow">
+<article class="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-xl hover:border-gray-300 transition-all duration-300">
 	<a href={`/blog/${slug}/`} class="block no-underline">
 		{heroImage ? (
 			<Image
@@ -37,27 +36,31 @@ const gradientClass = categoryColors[category] || 'from-gray-500 to-gray-700';
 				alt={title}
 				width={720}
 				height={360}
-				class="w-full h-44 object-cover"
+				class="w-full h-48 object-cover"
 			/>
 		) : (
-			<div class={`w-full h-44 bg-gradient-to-br ${gradientClass} flex items-center justify-center p-6`}>
-				<span class="text-white text-lg font-bold text-center leading-snug line-clamp-3">
-					{title}
+			<div class={`w-full h-48 bg-gradient-to-br ${gradientClass} flex items-end p-5`}>
+				<span class="text-white/90 text-sm font-semibold bg-black/20 backdrop-blur-sm px-3 py-1 rounded-lg">
+					{CATEGORY_LABELS[category]}
 				</span>
 			</div>
 		)}
-		<div class="p-4 space-y-2">
-			<div class="flex items-center gap-3 text-xs">
-				<span class="bg-blue-50 text-blue-700 px-2 py-0.5 rounded-full font-medium">
-					{CATEGORY_LABELS[category]}
-				</span>
-				<span class="text-gray-400"><FormattedDate date={pubDate} /></span>
-				{readingTime && <span class="text-gray-400">{readingTime} min</span>}
+		<div class="p-5 space-y-3">
+			<div class="flex items-center gap-2 text-xs text-gray-400">
+				<span class="text-blue-600 font-semibold">{CATEGORY_LABELS[category]}</span>
+				<span>&#183;</span>
+				<FormattedDate date={pubDate} />
+				{readingTime && (
+					<>
+						<span>&#183;</span>
+						<span>{readingTime} min read</span>
+					</>
+				)}
 			</div>
 			<h3 class="text-base font-bold text-gray-900 group-hover:text-blue-600 transition-colors leading-snug line-clamp-2">
 				{title}
 			</h3>
-			<p class="text-gray-500 text-sm line-clamp-2">{description}</p>
+			<p class="text-gray-500 text-sm leading-relaxed line-clamp-2">{description}</p>
 		</div>
 	</a>
 </article>
