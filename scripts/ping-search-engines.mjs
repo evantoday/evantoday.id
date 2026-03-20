@@ -1,19 +1,14 @@
-// Ping Google and Bing to re-crawl the sitemap after new content is published
+// Ping Bing to re-crawl the sitemap after new content is published
+// Note: Google deprecated sitemap ping in 2023 — they auto-discover via Search Console
 const SITEMAP_URL = 'https://evantoday.id/sitemap-index.xml';
 
-const engines = [
-  { name: 'Google', url: `https://www.google.com/ping?sitemap=${encodeURIComponent(SITEMAP_URL)}` },
-  { name: 'Bing', url: `https://www.bing.com/indexnow?url=${encodeURIComponent(SITEMAP_URL)}` },
-];
-
 async function ping() {
-  for (const engine of engines) {
-    try {
-      const res = await fetch(engine.url);
-      console.log(`${engine.name}: ${res.status} ${res.statusText}`);
-    } catch (err) {
-      console.error(`${engine.name}: Failed - ${err.message}`);
-    }
+  // Bing sitemap submission
+  try {
+    const res = await fetch(`https://www.bing.com/webmaster/ping.aspx?siteMap=${encodeURIComponent(SITEMAP_URL)}`);
+    console.log(`Bing sitemap ping: ${res.status} ${res.statusText}`);
+  } catch (err) {
+    console.error(`Bing ping failed: ${err.message}`);
   }
 }
 
