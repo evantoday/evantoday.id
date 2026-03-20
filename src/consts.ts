@@ -1,5 +1,5 @@
 export const SITE_TITLE = 'Evan Today';
-export const SITE_DESCRIPTION = 'Personal finance, fintech insights, and money management tips for Indonesia and Southeast Asia.';
+export const SITE_DESCRIPTION = 'Expert guides on personal finance, fintech reviews, investment strategies, and money management tips for Indonesia and Southeast Asia.';
 export const SITE_URL = 'https://evantoday.id';
 
 export const CATEGORIES = [

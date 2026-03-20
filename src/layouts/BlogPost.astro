@@ -5,14 +5,15 @@ import AdSense from '../components/AdSense.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
+import FaqSchema from '../components/FaqSchema.astro';
 import SchemaOrg from '../components/SchemaOrg.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import { CATEGORY_LABELS, type Category } from '../consts';
 import BaseLayout from './BaseLayout.astro';
 
-type Props = CollectionEntry<'blog'>['data'] & { slug?: string; readingTime?: number };
+type Props = CollectionEntry<'blog'>['data'] & { slug?: string; readingTime?: number; body?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, author, category, tags, slug, readingTime } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, author, category, tags, slug, readingTime, body } = Astro.props;
 const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
 const articleUrl = Astro.url.toString();
 const ogImageUrl = slug ? `/og/${slug}.png` : undefined;
@@ -37,6 +38,7 @@ const ogImageUrl = slug ? `/og/${slug}.png` : undefined;
 		modifiedDate={updatedDate}
 		author={author}
 	/>
+	{body && <FaqSchema body={body} />}
 
 	<article class="max-w-4xl mx-auto px-4 py-8">
 		<Breadcrumbs items={[

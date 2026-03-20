@@ -17,6 +17,6 @@ const { Content, remarkPluginFrontmatter } = await render(post);
 const readingTime = getReadingTime(post.body || '');
 ---
 
-<BlogPost {...post.data} slug={post.id} readingTime={readingTime}>
+<BlogPost {...post.data} slug={post.id} readingTime={readingTime} body={post.body || ''}>
 	<Content />
 </BlogPost>
