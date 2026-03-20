@@ -11,9 +11,10 @@ interface Props {
 	category: Category;
 	slug: string;
 	heroImage?: ImageMetadata;
+	readingTime?: number;
 }
 
-const { title, description, pubDate, category, slug, heroImage } = Astro.props;
+const { title, description, pubDate, category, slug, heroImage, readingTime } = Astro.props;
 
 // Color map for category badges when no image
 const categoryColors: Record<string, string> = {
@@ -51,6 +52,7 @@ const gradientClass = categoryColors[category] || 'from-gray-500 to-gray-700';
 					{CATEGORY_LABELS[category]}
 				</span>
 				<span class="text-gray-400"><FormattedDate date={pubDate} /></span>
+				{readingTime && <span class="text-gray-400">{readingTime} min</span>}
 			</div>
 			<h3 class="text-base font-bold text-gray-900 group-hover:text-blue-600 transition-colors leading-snug line-clamp-2">
 				{title}

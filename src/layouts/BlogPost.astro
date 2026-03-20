@@ -4,14 +4,17 @@ import type { CollectionEntry } from 'astro:content';
 import AdSense from '../components/AdSense.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import FormattedDate from '../components/FormattedDate.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
 import SchemaOrg from '../components/SchemaOrg.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 import { CATEGORY_LABELS, type Category } from '../consts';
 import BaseLayout from './BaseLayout.astro';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'blog'>['data'] & { slug?: string; readingTime?: number };
 
-const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, author, category, tags } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, author, category, tags, slug, readingTime } = Astro.props;
 const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
+const articleUrl = Astro.url.toString();
 ---
 
 <BaseLayout
@@ -26,7 +29,7 @@ const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
 		type="article"
 		title={title}
 		description={description}
-		url={Astro.url.toString()}
+		url={articleUrl}
 		image={heroImage ? new URL(heroImage.src, siteUrl).toString() : undefined}
 		publishedDate={pubDate}
 		modifiedDate={updatedDate}
@@ -53,7 +56,7 @@ const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
 		)}
 
 		<header class="mb-8">
-			<div class="flex items-center gap-3 text-sm text-gray-500 mb-4">
+			<div class="flex items-center flex-wrap gap-3 text-sm text-gray-500 mb-4">
 				<a href={`/category/${category}`} class="text-blue-600 font-medium no-underline hover:underline">
 					{CATEGORY_LABELS[category as Category]}
 				</a>
@@ -67,6 +70,12 @@ const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
 				)}
 				<span>|</span>
 				<span>By {author}</span>
+				{readingTime && (
+					<>
+						<span>|</span>
+						<span>{readingTime} min read</span>
+					</>
+				)}
 			</div>
 			<h1 class="text-3xl md:text-4xl font-bold text-gray-900 leading-tight mb-4">{title}</h1>
 			<p class="text-lg text-gray-600">{description}</p>
@@ -90,6 +99,14 @@ const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
 			<slot />
 		</div>
 
+		<ShareButtons title={title} url={articleUrl} />
+
 		<AdSense slot="footer" />
+
+		<RelatedPosts
+			currentSlug={slug || ''}
+			category={category as Category}
+			tags={tags || []}
+		/>
 	</article>
 </BaseLayout>

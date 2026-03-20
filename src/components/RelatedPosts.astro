@@ -1,0 +1,54 @@
+---
+import { getCollection } from 'astro:content';
+import type { Category } from '../consts';
+import { CATEGORY_LABELS } from '../consts';
+
+interface Props {
+	currentSlug: string;
+	category: Category;
+	tags: string[];
+}
+
+const { currentSlug, category, tags } = Astro.props;
+
+const allPosts = (await getCollection('blog'))
+	.filter((post) => !post.data.draft && post.id !== currentSlug);
+
+// Score posts by relevance: same category = 2 points, each matching tag = 1 point
+const scored = allPosts.map((post) => {
+	let score = 0;
+	if (post.data.category === category) score += 2;
+	for (const tag of tags) {
+		if ((post.data.tags || []).includes(tag)) score += 1;
+	}
+	return { post, score };
+});
+
+const related = scored
+	.filter((s) => s.score > 0)
+	.sort((a, b) => b.score - a.score || b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf())
+	.slice(0, 3)
+	.map((s) => s.post);
+---
+
+{related.length > 0 && (
+	<section class="mt-12 pt-8 border-t border-gray-200">
+		<h2 class="text-xl font-bold text-gray-900 mb-6">Related Articles</h2>
+		<div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+			{related.map((post) => (
+				<a
+					href={`/blog/${post.id}/`}
+					class="block p-4 border border-gray-200 rounded-lg no-underline hover:border-blue-300 hover:shadow-md transition-all"
+				>
+					<span class="text-xs text-blue-600 font-medium">
+						{CATEGORY_LABELS[post.data.category as Category]}
+					</span>
+					<h3 class="text-sm font-bold text-gray-900 mt-1 line-clamp-2 leading-snug">
+						{post.data.title}
+					</h3>
+					<p class="text-xs text-gray-500 mt-2 line-clamp-2">{post.data.description}</p>
+				</a>
+			))}
+		</div>
+	</section>
+)}
