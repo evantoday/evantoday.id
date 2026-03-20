@@ -1,8 +1,6 @@
 ---
-import { Image } from 'astro:assets';
 import FormattedDate from './FormattedDate.astro';
 import { CATEGORY_LABELS, type Category } from '../consts';
-import type { ImageMetadata } from 'astro';
 
 interface Props {
 	title: string;
@@ -10,57 +8,46 @@ interface Props {
 	pubDate: Date;
 	category: Category;
 	slug: string;
-	heroImage?: ImageMetadata;
+	heroImage?: any;
 	readingTime?: number;
 }
 
-const { title, description, pubDate, category, slug, heroImage, readingTime } = Astro.props;
+const { title, description, pubDate, category, slug, readingTime } = Astro.props;
 
-const categoryColors: Record<string, string> = {
-	'personal-finance': 'from-blue-500 to-blue-700',
-	'fintech': 'from-violet-500 to-violet-700',
-	'cryptocurrency': 'from-orange-500 to-amber-600',
-	'insurance': 'from-emerald-500 to-emerald-700',
-	'investing': 'from-teal-500 to-teal-700',
-	'digital-banking': 'from-cyan-500 to-cyan-700',
-	'financial-tips': 'from-amber-500 to-amber-700',
+const categoryStyles: Record<string, { gradient: string; badge: string }> = {
+	'personal-finance': { gradient: 'from-blue-600 to-indigo-700', badge: 'text-blue-700 bg-blue-50' },
+	'fintech': { gradient: 'from-violet-600 to-purple-700', badge: 'text-violet-700 bg-violet-50' },
+	'cryptocurrency': { gradient: 'from-orange-500 to-red-600', badge: 'text-orange-700 bg-orange-50' },
+	'insurance': { gradient: 'from-rose-500 to-pink-600', badge: 'text-rose-700 bg-rose-50' },
+	'investing': { gradient: 'from-emerald-500 to-teal-600', badge: 'text-emerald-700 bg-emerald-50' },
+	'digital-banking': { gradient: 'from-cyan-500 to-blue-600', badge: 'text-cyan-700 bg-cyan-50' },
+	'financial-tips': { gradient: 'from-amber-500 to-orange-600', badge: 'text-amber-700 bg-amber-50' },
 };
-const gradientClass = categoryColors[category] || 'from-gray-500 to-gray-700';
+const style = categoryStyles[category] || { gradient: 'from-gray-500 to-gray-700', badge: 'text-gray-700 bg-gray-50' };
 ---
 
 <article class="group bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-xl hover:border-gray-300 transition-all duration-300">
 	<a href={`/blog/${slug}/`} class="block no-underline">
-		{heroImage ? (
-			<Image
-				src={heroImage}
-				alt={title}
-				width={720}
-				height={360}
-				class="w-full h-48 object-cover"
-			/>
-		) : (
-			<div class={`w-full h-48 bg-gradient-to-br ${gradientClass} flex items-end p-5`}>
-				<span class="text-white/90 text-sm font-semibold bg-black/20 backdrop-blur-sm px-3 py-1 rounded-lg">
+		<div class={`w-full h-44 bg-gradient-to-br ${style.gradient} relative`}>
+			<div class="absolute inset-0 flex flex-col justify-between p-5">
+				<span class={`self-start text-xs font-semibold px-2.5 py-1 rounded-md bg-white/20 backdrop-blur-sm text-white`}>
 					{CATEGORY_LABELS[category]}
 				</span>
+				<h3 class="text-white font-bold leading-snug line-clamp-3 text-lg drop-shadow-sm">
+					{title}
+				</h3>
 			</div>
-		)}
-		<div class="p-5 space-y-3">
-			<div class="flex items-center gap-2 text-xs text-gray-400">
-				<span class="text-blue-600 font-semibold">{CATEGORY_LABELS[category]}</span>
-				<span>&#183;</span>
-				<FormattedDate date={pubDate} />
-				{readingTime && (
-					<>
-						<span>&#183;</span>
-						<span>{readingTime} min read</span>
-					</>
-				)}
-			</div>
-			<h3 class="text-base font-bold text-gray-900 group-hover:text-blue-600 transition-colors leading-snug line-clamp-2">
-				{title}
-			</h3>
+		</div>
+		<div class="p-5 space-y-2.5">
 			<p class="text-gray-500 text-sm leading-relaxed line-clamp-2">{description}</p>
+			<div class="flex items-center justify-between text-xs text-gray-400 pt-1">
+				<div class="flex items-center gap-2">
+					<span>By Evan</span>
+					<span>&#183;</span>
+					<FormattedDate date={pubDate} />
+				</div>
+				{readingTime && <span>{readingTime} min read</span>}
+			</div>
 		</div>
 	</a>
 </article>

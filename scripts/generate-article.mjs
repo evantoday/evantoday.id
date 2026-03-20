@@ -178,24 +178,39 @@ function getNextKeywords(count) {
   const publishedKeywords = new Set(publishedLog.map((entry) => entry.keyword));
 
   const priorityOrder = { high: 0, medium: 1, low: 2 };
-  const candidates = [];
 
+  // Group unpublished candidates by category
+  const byCategory = {};
   for (const [category, keywords] of Object.entries(keywordBank)) {
-    for (const entry of keywords) {
-      if (!publishedKeywords.has(entry.keyword)) {
-        candidates.push({ ...entry, category });
-      }
-    }
+    byCategory[category] = keywords
+      .filter((entry) => !publishedKeywords.has(entry.keyword))
+      .map((entry) => ({ ...entry, category }))
+      .sort((a, b) => (priorityOrder[a.priority] || 2) - (priorityOrder[b.priority] || 2));
   }
 
-  candidates.sort((a, b) => (priorityOrder[a.priority] || 2) - (priorityOrder[b.priority] || 2));
+  // Round-robin across categories for diversity
+  const selected = [];
+  const categories = Object.keys(byCategory).filter((c) => byCategory[c].length > 0);
+  let catIndex = 0;
 
-  if (candidates.length === 0) {
+  while (selected.length < count && categories.length > 0) {
+    const cat = categories[catIndex % categories.length];
+    if (byCategory[cat].length > 0) {
+      selected.push(byCategory[cat].shift());
+    } else {
+      categories.splice(catIndex % categories.length, 1);
+      if (categories.length === 0) break;
+      continue;
+    }
+    catIndex++;
+  }
+
+  if (selected.length === 0) {
     console.log('All keywords have been published. Add more to keyword-bank.json.');
     process.exit(0);
   }
 
-  return candidates.slice(0, count);
+  return selected;
 }
 
 async function main() {

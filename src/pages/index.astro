@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import BlogCard from '../components/BlogCard.astro';
 import SchemaOrg from '../components/SchemaOrg.astro';
-import { SITE_DESCRIPTION, SITE_TITLE, CATEGORY_LABELS, type Category } from '../consts';
+import { SITE_DESCRIPTION, SITE_TITLE, type Category } from '../consts';
 import { getReadingTime } from '../utils/readingTime';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
@@ -11,47 +11,59 @@ const allPosts = (await getCollection('blog'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const featuredPost = allPosts[0];
-const latestPosts = allPosts.slice(1, 7);
+
+// Pick latest posts but diversify categories
+const seen = new Set<string>();
+const diversePosts = allPosts.slice(1).filter((post) => {
+	if (seen.size >= 6) return false;
+	if (seen.has(post.data.category) && seen.size < 4) return false;
+	seen.add(post.data.category);
+	return true;
+}).slice(0, 6);
+// If we couldn't get 6 diverse, fill with the rest
+const latestPosts = diversePosts.length >= 6 ? diversePosts : allPosts.slice(1, 7);
+
 const totalArticles = allPosts.length;
 ---
 
-<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION} ogImage="/og/index.png">
+<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
 	<SchemaOrg type="website" description={SITE_DESCRIPTION} />
 
 	<!-- Hero Section -->
-	<section class="relative overflow-hidden bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 text-white">
+	<section class="relative overflow-hidden bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white">
 		<!-- Decorative elements -->
-		<div class="absolute inset-0 opacity-10">
-			<div class="absolute top-10 left-10 w-72 h-72 bg-white rounded-full blur-3xl"></div>
-			<div class="absolute bottom-10 right-10 w-96 h-96 bg-blue-300 rounded-full blur-3xl"></div>
+		<div class="absolute inset-0">
+			<div class="absolute top-0 left-1/4 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl"></div>
+			<div class="absolute bottom-0 right-1/4 w-72 h-72 bg-emerald-500/10 rounded-full blur-3xl"></div>
+			<div class="absolute top-1/2 right-10 w-48 h-48 bg-amber-500/10 rounded-full blur-3xl"></div>
 		</div>
 
 		<div class="relative max-w-6xl mx-auto px-4 sm:px-6 py-20 md:py-28">
 			<div class="max-w-3xl">
-				<div class="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-1.5 text-sm font-medium text-blue-100 mb-6">
-					<span class="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
-					{totalArticles}+ articles published
+				<div class="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-1.5 text-sm font-medium text-slate-300 mb-6 border border-white/10">
+					<span class="w-2 h-2 bg-emerald-400 rounded-full animate-pulse"></span>
+					{totalArticles}+ articles and growing
 				</div>
 				<h1 class="text-4xl md:text-6xl font-bold leading-tight mb-6">
 					Your Money,<br />
-					<span class="text-blue-200">Smarter Moves</span>
+					<span class="bg-gradient-to-r from-blue-400 via-emerald-400 to-amber-400 bg-clip-text text-transparent">Smarter Moves</span>
 				</h1>
-				<p class="text-lg md:text-xl text-blue-100 max-w-2xl mb-8 leading-relaxed">
-					Expert guides on personal finance, fintech reviews, and investment strategies for Indonesia and Southeast Asia.
+				<p class="text-lg md:text-xl text-slate-300 max-w-2xl mb-8 leading-relaxed">
+					Practical guides on personal finance, fintech, and investing — written for real people living in Indonesia.
 				</p>
 				<div class="flex flex-wrap gap-3">
 					<a
 						href="/blog"
-						class="inline-flex items-center gap-2 px-6 py-3 bg-white text-blue-700 rounded-xl font-semibold no-underline hover:bg-blue-50 transition-colors shadow-lg shadow-blue-900/30"
+						class="inline-flex items-center gap-2 px-6 py-3 bg-white text-slate-900 rounded-xl font-semibold no-underline hover:bg-slate-100 transition-colors shadow-lg"
 					>
 						Read Articles
 						<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
 					</a>
 					<a
 						href="/about"
-						class="inline-flex items-center px-6 py-3 bg-white/10 backdrop-blur-sm text-white border border-white/20 rounded-xl font-semibold no-underline hover:bg-white/20 transition-colors"
+						class="inline-flex items-center px-6 py-3 bg-white/5 backdrop-blur-sm text-white border border-white/15 rounded-xl font-semibold no-underline hover:bg-white/10 transition-colors"
 					>
-						About Us
+						About Me
 					</a>
 				</div>
 			</div>
@@ -64,10 +76,8 @@ const totalArticles = allPosts.length;
 			<a href={`/blog/${featuredPost.id}/`} class="block no-underline group">
 				<div class="bg-white rounded-2xl shadow-xl border border-gray-100 p-6 md:p-8 hover:shadow-2xl transition-shadow">
 					<div class="flex items-center gap-3 mb-3">
-						<span class="text-xs font-semibold text-blue-600 bg-blue-50 px-3 py-1 rounded-full">Featured</span>
-						<span class="text-xs font-medium text-blue-600 bg-blue-50 px-3 py-1 rounded-full">
-							{CATEGORY_LABELS[featuredPost.data.category as Category]}
-						</span>
+						<span class="text-xs font-semibold text-amber-700 bg-amber-50 px-3 py-1 rounded-full">Latest</span>
+						<span class="text-xs text-gray-400">{getReadingTime(featuredPost.body || '')} min read</span>
 					</div>
 					<h2 class="text-xl md:text-2xl font-bold text-gray-900 group-hover:text-blue-600 transition-colors mb-2">
 						{featuredPost.data.title}
@@ -82,7 +92,7 @@ const totalArticles = allPosts.length;
 	<section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
 		<div class="flex items-center justify-between mb-8">
 			<h2 class="text-2xl font-bold text-gray-900">Latest Articles</h2>
-			<a href="/blog" class="text-blue-600 text-sm font-semibold no-underline hover:underline flex items-center gap-1">
+			<a href="/blog" class="text-slate-600 text-sm font-semibold no-underline hover:text-slate-900 flex items-center gap-1">
 				View all
 				<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
 			</a>
@@ -103,7 +113,7 @@ const totalArticles = allPosts.length;
 	</section>
 
 	<!-- Categories Section -->
-	<section class="bg-gray-50 py-16">
+	<section class="py-16 border-t border-gray-100">
 		<div class="max-w-6xl mx-auto px-4 sm:px-6">
 			<div class="text-center mb-10">
 				<h2 class="text-2xl font-bold text-gray-900 mb-2">What do you want to learn?</h2>
@@ -111,22 +121,24 @@ const totalArticles = allPosts.length;
 			</div>
 			<div class="grid grid-cols-2 md:grid-cols-4 gap-4">
 				{([
-					{ slug: 'personal-finance', label: 'Personal Finance', desc: 'Budgeting, saving & debt', icon: 'M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z' },
-					{ slug: 'fintech', label: 'Fintech', desc: 'Apps, wallets & payments', icon: 'M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z' },
-					{ slug: 'investing', label: 'Investing', desc: 'Stocks, reksadana & bonds', icon: 'M13 7h8m0 0v8m0-8l-8 8-4-4-6 6' },
-					{ slug: 'cryptocurrency', label: 'Crypto', desc: 'Bitcoin, exchanges & DeFi', icon: 'M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4' },
-					{ slug: 'insurance', label: 'Insurance', desc: 'Health, life & BPJS', icon: 'M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z' },
-					{ slug: 'digital-banking', label: 'Digital Banking', desc: 'Neo banks & savings', icon: 'M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z' },
-					{ slug: 'financial-tips', label: 'Money Tips', desc: 'Side hustles & life hacks', icon: 'M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z' },
+					{ slug: 'personal-finance', label: 'Personal Finance', desc: 'Budgeting, saving & debt', color: 'text-blue-600 bg-blue-50', icon: 'M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z' },
+					{ slug: 'fintech', label: 'Fintech', desc: 'Apps, wallets & payments', color: 'text-violet-600 bg-violet-50', icon: 'M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z' },
+					{ slug: 'investing', label: 'Investing', desc: 'Stocks, reksadana & bonds', color: 'text-emerald-600 bg-emerald-50', icon: 'M13 7h8m0 0v8m0-8l-8 8-4-4-6 6' },
+					{ slug: 'cryptocurrency', label: 'Crypto', desc: 'Bitcoin, exchanges & DeFi', color: 'text-orange-600 bg-orange-50', icon: 'M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4' },
+					{ slug: 'insurance', label: 'Insurance', desc: 'Health, life & BPJS', color: 'text-rose-600 bg-rose-50', icon: 'M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z' },
+					{ slug: 'digital-banking', label: 'Digital Banking', desc: 'Neo banks & savings', color: 'text-cyan-600 bg-cyan-50', icon: 'M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z' },
+					{ slug: 'financial-tips', label: 'Money Tips', desc: 'Side hustles & life hacks', color: 'text-amber-600 bg-amber-50', icon: 'M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z' },
 				]).map((cat) => (
 					<a
 						href={`/category/${cat.slug}`}
-						class="group block p-5 bg-white rounded-xl border border-gray-200 no-underline hover:border-blue-300 hover:shadow-lg transition-all"
+						class="group block p-5 bg-white rounded-xl border border-gray-200 no-underline hover:shadow-lg hover:border-gray-300 transition-all"
 					>
-						<svg class="w-6 h-6 text-blue-500 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d={cat.icon} />
-						</svg>
-						<span class="block text-gray-900 font-semibold group-hover:text-blue-600 transition-colors">{cat.label}</span>
+						<div class={`w-10 h-10 rounded-lg flex items-center justify-center mb-3 ${cat.color}`}>
+							<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d={cat.icon} />
+							</svg>
+						</div>
+						<span class="block text-gray-900 font-semibold group-hover:text-gray-700 transition-colors">{cat.label}</span>
 						<p class="text-xs text-gray-400 mt-1">{cat.desc}</p>
 					</a>
 				))}
@@ -134,19 +146,18 @@ const totalArticles = allPosts.length;
 		</div>
 	</section>
 
-	<!-- Trust Banner -->
-	<section class="max-w-6xl mx-auto px-4 sm:px-6 py-16">
-		<div class="bg-gradient-to-r from-gray-900 to-gray-800 rounded-2xl p-8 md:p-12 text-center">
-			<h2 class="text-2xl md:text-3xl font-bold text-white mb-3">Stay Informed, Stay Ahead</h2>
-			<p class="text-gray-300 max-w-xl mx-auto mb-6">
-				New articles on personal finance, fintech, and investing published daily.
-				Bookmark us and never miss an update.
-			</p>
+	<!-- CTA Banner -->
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 py-8 mb-8">
+		<div class="bg-gradient-to-r from-slate-900 via-slate-800 to-slate-900 rounded-2xl p-8 md:p-12 flex flex-col md:flex-row items-center justify-between gap-6">
+			<div>
+				<h2 class="text-2xl font-bold text-white mb-2">New articles every day</h2>
+				<p class="text-slate-400">Fresh content on finance, investing, and fintech — bookmark us.</p>
+			</div>
 			<a
 				href="/blog"
-				class="inline-flex items-center gap-2 px-6 py-3 bg-blue-600 text-white rounded-xl font-semibold no-underline hover:bg-blue-500 transition-colors"
+				class="inline-flex items-center gap-2 px-6 py-3 bg-white text-slate-900 rounded-xl font-semibold no-underline hover:bg-slate-100 transition-colors flex-shrink-0"
 			>
-				Start Reading
+				Browse All
 				<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
 			</a>
 		</div>
