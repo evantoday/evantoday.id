@@ -45,8 +45,29 @@ function getNextKeyword() {
   return candidates[0];
 }
 
+function getExistingArticles() {
+  const log = JSON.parse(readFileSync(PUBLISHED_LOG_PATH, 'utf-8'));
+  return log.map((entry) => ({
+    title: entry.keyword,
+    slug: entry.slug,
+    category: entry.category,
+  }));
+}
+
 async function generateArticle(keyword) {
   const today = new Date().toISOString().split('T')[0];
+  const existingArticles = getExistingArticles();
+
+  // Build internal linking context
+  const relatedArticles = existingArticles
+    .filter((a) => a.slug)
+    .slice(-30)
+    .map((a) => `- [${a.title}](/blog/${a.slug}/)`)
+    .join('\n');
+
+  const internalLinkInstruction = relatedArticles.length > 0
+    ? `\n- IMPORTANT: Naturally include 2-4 internal links to these existing articles on our site where relevant. Use markdown links like [anchor text](/blog/slug/). Here are our existing articles:\n${relatedArticles}\n  Only link where it makes contextual sense. Do not force links.`
+    : '';
 
   const systemPrompt = `You are an expert personal finance and fintech content writer. Write a comprehensive, SEO-optimized article in English targeting an Indonesian and Southeast Asian audience.
 
@@ -60,7 +81,7 @@ Requirements:
 - Include specific examples relevant to Indonesia where applicable (mention local banks, apps, services by name)
 - Use local currency (Rupiah/Rp) for any monetary examples
 - Do NOT include any disclaimers in the article body
-- Do NOT use emojis
+- Do NOT use emojis${internalLinkInstruction}
 
 Output format: Raw Markdown starting with YAML frontmatter block. Do NOT wrap in code fences.
 

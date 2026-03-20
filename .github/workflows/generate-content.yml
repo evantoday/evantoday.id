@@ -34,3 +34,9 @@ jobs:
           git add src/content/blog/ scripts/published-log.json
           git diff --cached --quiet || git commit -m "feat(content): auto-generate daily articles"
           git push
+
+      - name: Submit to IndexNow (Bing, Yandex)
+        run: node scripts/indexnow-submit.mjs
+
+      - name: Ping search engines
+        run: node scripts/ping-search-engines.mjs
