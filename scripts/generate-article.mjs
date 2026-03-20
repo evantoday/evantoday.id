@@ -132,25 +132,70 @@ function updatePublishedLog(keyword, slug) {
   console.log('Published log updated.');
 }
 
+function getNextKeywords(count) {
+  const keywordBank = JSON.parse(readFileSync(KEYWORD_BANK_PATH, 'utf-8'));
+  const publishedLog = JSON.parse(readFileSync(PUBLISHED_LOG_PATH, 'utf-8'));
+  const publishedKeywords = new Set(publishedLog.map((entry) => entry.keyword));
+
+  const priorityOrder = { high: 0, medium: 1, low: 2 };
+  const candidates = [];
+
+  for (const [category, keywords] of Object.entries(keywordBank)) {
+    for (const entry of keywords) {
+      if (!publishedKeywords.has(entry.keyword)) {
+        candidates.push({ ...entry, category });
+      }
+    }
+  }
+
+  candidates.sort((a, b) => (priorityOrder[a.priority] || 2) - (priorityOrder[b.priority] || 2));
+
+  if (candidates.length === 0) {
+    console.log('All keywords have been published. Add more to keyword-bank.json.');
+    process.exit(0);
+  }
+
+  return candidates.slice(0, count);
+}
+
 async function main() {
   if (!process.env.OPENAI_API_KEY) {
     console.error('OPENAI_API_KEY environment variable is required.');
     process.exit(1);
   }
 
-  const keyword = getNextKeyword();
-  console.log(`Selected keyword: "${keyword.keyword}" [${keyword.priority}] (${keyword.category})`);
+  const count = parseInt(process.env.ARTICLE_COUNT || '1', 10);
+  const keywords = getNextKeywords(count);
+  console.log(`Generating ${keywords.length} article(s)...\n`);
 
-  const content = await generateArticle(keyword);
-  const result = saveArticle(content, keyword);
+  let generated = 0;
 
-  if (result) {
-    updatePublishedLog(keyword, result.slug);
-    console.log('Done! Article generated successfully.');
+  for (const keyword of keywords) {
+    try {
+      console.log(`[${generated + 1}/${keywords.length}] Selected: "${keyword.keyword}" [${keyword.priority}] (${keyword.category})`);
+      const content = await generateArticle(keyword);
+      const result = saveArticle(content, keyword);
+
+      if (result) {
+        updatePublishedLog(keyword, result.slug);
+        generated++;
+        console.log(`  Done!\n`);
+      }
+
+      // Small delay between API calls to avoid rate limits
+      if (generated < keywords.length) {
+        await new Promise((r) => setTimeout(r, 2000));
+      }
+    } catch (err) {
+      console.error(`  Failed for "${keyword.keyword}":`, err.message);
+      console.log('  Continuing with next keyword...\n');
+    }
   }
+
+  console.log(`\nFinished: ${generated}/${keywords.length} articles generated.`);
 }
 
 main().catch((err) => {
-  console.error('Error generating article:', err);
+  console.error('Error generating articles:', err);
   process.exit(1);
 });
