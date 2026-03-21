@@ -1,7 +1,7 @@
 ---
 title: "Zero Based Budgeting Method Explained: A Comprehensive Guide for Indonesians"
 description: "Learn how to implement zero based budgeting effectively in Indonesia and take control of your finances."
-pubDate: 2026-03-20
+pubDate: 2026-02-01
 category: "personal-finance"
 tags: ["budgeting", "financial planning", "zero based budgeting"]
 author: "Evan Today"

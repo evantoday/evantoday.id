@@ -1,7 +1,7 @@
 ---
 title: "Smart Money Habits of Wealthy Indonesians"
 description: "Discover smart money habits of wealthy Indonesians that can help you achieve financial success."
-pubDate: 2026-03-20
+pubDate: 2026-02-21
 category: "personal-finance"
 tags: ["wealth-building", "financial habits", "Indonesia"]
 author: "Evan Today"

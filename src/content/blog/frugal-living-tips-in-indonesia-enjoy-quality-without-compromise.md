@@ -1,7 +1,7 @@
 ---
 title: "Frugal Living Tips in Indonesia: Enjoy Quality Without Compromise"
 description: "Discover practical frugal living tips in Indonesia that maintain quality without breaking the bank."
-pubDate: 2026-03-20
+pubDate: 2026-01-15
 category: "personal-finance"
 tags: ["frugal living", "budgeting", "Indonesia"]
 author: "Evan Today"

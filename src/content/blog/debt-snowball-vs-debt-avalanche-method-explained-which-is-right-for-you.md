@@ -1,7 +1,7 @@
 ---
 title: "Debt Snowball vs Debt Avalanche Method Explained: Which Is Right for You?"
 description: "Explore the Debt Snowball and Debt Avalanche methods to choose the best approach for your financial situation in Indonesia."
-pubDate: 2026-03-20
+pubDate: 2026-02-28
 category: "personal-finance"
 tags: ["debt management", "financial literacy", "personal finance"]
 author: "Evan Today"

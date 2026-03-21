@@ -1,7 +1,7 @@
 ---
 title: "How to Teach Kids About Money in Indonesia: A Comprehensive Guide"
 description: "Learn effective ways to teach kids about money management in Indonesia and build their financial literacy."
-pubDate: 2026-03-20
+pubDate: 2026-01-27
 category: "personal-finance"
 tags: ["financial literacy", "money management", "education"]
 author: "Evan Today"

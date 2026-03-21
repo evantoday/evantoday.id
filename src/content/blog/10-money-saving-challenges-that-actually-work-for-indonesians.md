@@ -1,7 +1,7 @@
 ---
 title: "10 Money Saving Challenges That Actually Work for Indonesians"
 description: "Discover effective money saving challenges to boost your savings in Indonesia."
-pubDate: 2026-03-20
+pubDate: 2026-03-16
 category: "personal-finance"
 tags: ["money saving", "personal finance", "Indonesia", "financial tips"]
 author: "Evan Today"

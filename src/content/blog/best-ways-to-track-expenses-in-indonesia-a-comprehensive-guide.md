@@ -1,7 +1,7 @@
 ---
 title: "Best Ways to Track Expenses in Indonesia: A Comprehensive Guide"
 description: "Discover the best ways to track expenses in Indonesia to manage your finances effectively."
-pubDate: 2026-03-20
+pubDate: 2026-02-11
 category: "personal-finance"
 tags: ["expense tracking", "personal finance", "Indonesia"]
 author: "Evan Today"

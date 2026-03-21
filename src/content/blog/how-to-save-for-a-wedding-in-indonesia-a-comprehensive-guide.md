@@ -1,7 +1,7 @@
 ---
 title: "How to Save for a Wedding in Indonesia: A Comprehensive Guide"
 description: "Learn practical strategies to save for your wedding in Indonesia with our comprehensive guide."
-pubDate: 2026-03-20
+pubDate: 2026-02-16
 category: "personal-finance"
 tags: ["wedding savings", "personal finance", "Indonesia"]
 author: "Evan Today"

@@ -1,7 +1,7 @@
 ---
 title: "How Much Should You Spend on Rent in Indonesia: A Comprehensive Guide"
 description: "Discover how much to spend on rent in Indonesia based on income, location, and lifestyle."
-pubDate: 2026-03-20
+pubDate: 2026-03-06
 category: "personal-finance"
 tags: ["renting", "Indonesia", "personal finance"]
 author: "Evan Today"

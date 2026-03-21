@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide to Setting Financial Goals for Beginners in Indonesia"
 description: "Learn how to set financial goals effectively with our beginner's guide tailored for Indonesia."
-pubDate: 2026-03-20
+pubDate: 2026-03-10
 category: "personal-finance"
 tags: ["financial goals", "personal finance", "Indonesia"]
 author: "Evan Today"

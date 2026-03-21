@@ -1,7 +1,7 @@
 ---
 title: "The Envelope Budgeting Method for Beginners: A Practical Guide for Indonesians"
 description: "Discover the envelope budgeting method for beginners and how to effectively manage your finances in Indonesia."
-pubDate: 2026-03-20
+pubDate: 2026-03-16
 category: "personal-finance"
 tags: ["budgeting", "personal finance", "envelope method"]
 author: "Evan Today"

@@ -1,7 +1,7 @@
 ---
 title: "How to Deal with Financial Stress and Anxiety: A Practical Guide for Indonesians"
 description: "Learn effective strategies to manage financial stress and anxiety in Indonesia with this comprehensive guide."
-pubDate: 2026-03-20
+pubDate: 2026-03-16
 category: "personal-finance"
 tags: ["financial stress", "anxiety management", "Indonesia"]
 author: "Evan Today"

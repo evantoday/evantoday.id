@@ -1,7 +1,7 @@
 ---
 title: "How to Negotiate Salary in Indonesia: A Comprehensive Guide"
 description: "Master the art of salary negotiation in Indonesia with our practical tips and strategies."
-pubDate: 2026-03-20
+pubDate: 2026-01-18
 category: "personal-finance"
 tags: ["salary negotiation", "Indonesia", "career tips"]
 author: "Evan Today"

@@ -1,7 +1,7 @@
 ---
 title: "10 Effective Ways to Save Money on Transportation in Jakarta"
 description: "Discover practical tips to save money on transportation in Jakarta and make your commute more budget-friendly."
-pubDate: 2026-03-20
+pubDate: 2026-03-14
 category: "personal-finance"
 tags: ["transportation", "Jakarta", "saving money"]
 author: "Evan Today"

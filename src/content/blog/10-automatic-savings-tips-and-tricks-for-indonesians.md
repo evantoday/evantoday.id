@@ -1,7 +1,7 @@
 ---
 title: "10 Automatic Savings Tips and Tricks for Indonesians"
 description: "Discover effective automatic savings tips and tricks tailored for Indonesians to help you save effortlessly."
-pubDate: 2026-03-20
+pubDate: 2026-02-25
 category: "personal-finance"
 tags: ["savings", "personal finance", "Indonesia"]
 author: "Evan Today"

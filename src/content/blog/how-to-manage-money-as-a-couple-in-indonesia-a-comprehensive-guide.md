@@ -1,7 +1,7 @@
 ---
 title: "How to Manage Money as a Couple in Indonesia: A Comprehensive Guide"
 description: "Learn effective strategies for managing money as a couple in Indonesia to achieve financial harmony."
-pubDate: 2026-03-20
+pubDate: 2026-01-24
 category: "personal-finance"
 tags: ["money management", "couples finance", "Indonesia finance"]
 author: "Evan Today"

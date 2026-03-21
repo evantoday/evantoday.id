@@ -1,7 +1,7 @@
 ---
 title: "How to Save Money on Groceries in Indonesia: 10 Practical Tips"
 description: "Discover effective ways to save money on groceries in Indonesia with these 10 practical tips."
-pubDate: 2026-03-20
+pubDate: 2026-03-11
 category: "personal-finance"
 tags: ["groceries", "saving money", "budgeting"]
 author: "Evan Today"

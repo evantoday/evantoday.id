@@ -1,7 +1,7 @@
 ---
 title: "10 Effective Tips to Avoid Impulse Buying in Indonesia"
 description: "Learn practical tips to avoid impulse buying and save money in Indonesia."
-pubDate: 2026-03-20
+pubDate: 2026-03-01
 category: "personal-finance"
 tags: ["impulse buying", "saving money", "budgeting"]
 author: "Evan Today"
