@@ -1,0 +1,33 @@
+---
+interface Heading {
+	depth: number;
+	slug: string;
+	text: string;
+}
+
+interface Props {
+	headings: Heading[];
+}
+
+const { headings } = Astro.props;
+const filteredHeadings = headings.filter((h) => h.depth === 2 || h.depth === 3);
+const shouldRender = filteredHeadings.length >= 3;
+---
+
+{shouldRender && (
+	<nav class="my-8 p-5 bg-gray-50 border border-gray-200 rounded-lg">
+		<p class="text-sm font-semibold text-gray-700 uppercase tracking-wide mb-3">Contents</p>
+		<ul class="list-none m-0 p-0 space-y-1">
+			{filteredHeadings.map((heading) => (
+				<li class={heading.depth === 3 ? 'ml-4' : ''}>
+					<a
+						href={`#${heading.slug}`}
+						class="text-sm text-gray-600 no-underline hover:text-blue-600 hover:underline leading-relaxed"
+					>
+						{heading.text}
+					</a>
+				</li>
+			))}
+		</ul>
+	</nav>
+)}

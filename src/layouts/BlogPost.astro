@@ -9,12 +9,13 @@ import RelatedPosts from '../components/RelatedPosts.astro';
 import FaqSchema from '../components/FaqSchema.astro';
 import SchemaOrg from '../components/SchemaOrg.astro';
 import ShareButtons from '../components/ShareButtons.astro';
+import TableOfContents from '../components/TableOfContents.astro';
 import { CATEGORY_LABELS, type Category } from '../consts';
 import BaseLayout from './BaseLayout.astro';
 
-type Props = CollectionEntry<'blog'>['data'] & { slug?: string; readingTime?: number; body?: string };
+type Props = CollectionEntry<'blog'>['data'] & { slug?: string; readingTime?: number; body?: string; headings?: { depth: number; slug: string; text: string }[] };
 
-const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, author, category, tags, slug, readingTime, body } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, author, category, tags, slug, readingTime, body, headings = [] } = Astro.props;
 const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
 const articleUrl = Astro.url.toString();
 const ogImageUrl = slug ? `/og/${slug}.png` : undefined;
@@ -98,11 +99,15 @@ const ogImageUrl = slug ? `/og/${slug}.png` : undefined;
 			)}
 		</header>
 
+		<TableOfContents headings={headings} />
+
 		<AdSense slot="header" format="horizontal" />
 
 		<div class="prose">
 			<slot />
 		</div>
+
+		<AdSense slot="in-article" format="auto" />
 
 		<ShareButtons title={title} url={articleUrl} />
 
