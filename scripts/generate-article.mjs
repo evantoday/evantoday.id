@@ -126,7 +126,7 @@ Make it comprehensive, practical, and useful for someone in Indonesia seeking th
   console.log(`Generating article for: "${keyword.keyword}" (${keyword.category}/${keyword.type})`);
 
   const response = await openai.chat.completions.create({
-    model: 'gpt-4o-mini',
+    model: 'gpt-5.4-mini',
     messages: [
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userPrompt },

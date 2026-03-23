@@ -24,7 +24,7 @@ jobs:
       - name: Generate articles
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ARTICLE_COUNT: '10'
+          ARTICLE_COUNT: '5'
         run: node scripts/generate-article.mjs
 
       - name: Commit and push
