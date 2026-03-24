@@ -144,7 +144,7 @@ Make it the most useful article on this topic for an Indonesian reader.`;
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userPrompt },
     ],
-    max_tokens: 8000,
+    max_completion_tokens: 8000,
     temperature: 0.7,
   });
 
