@@ -1,6 +1,6 @@
 ---
-title: "Saving Money Tips for College Students Indonesia"
-description: "Practical saving money tips for college students in Indonesia. Cut costs, build habits, and save more every month—start today."
+title: "7 Smart Saving Money Tips for College Students [2026]"
+description: "Uang kuliah cepat habis? 7 tips hemat ini bantu mahasiswa Indonesia menekan jajan, biaya harian, dan tabungan bulanan. #5 paling terasa."
 pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "personal-finance"

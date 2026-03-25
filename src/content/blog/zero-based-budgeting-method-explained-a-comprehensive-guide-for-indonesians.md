@@ -1,6 +1,6 @@
 ---
-title: "Zero Based Budgeting Method Explained: A Comprehensive Guide for Indonesians"
-description: "Learn how to implement zero based budgeting effectively in Indonesia and take control of your finances."
+title: "Zero Based Budgeting Guide for Indonesians [2026]"
+description: "Take control of every rupiah with zero based budgeting in 5 simple steps. Practical for Indonesia and easy to start today."
 pubDate: 2026-02-01
 category: "personal-finance"
 tags: ["budgeting", "financial planning", "zero based budgeting"]

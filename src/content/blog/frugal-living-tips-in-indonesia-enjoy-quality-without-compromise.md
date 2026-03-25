@@ -1,6 +1,6 @@
 ---
-title: "Frugal Living Tips in Indonesia: Enjoy Quality Without Compromise"
-description: "Discover practical frugal living tips in Indonesia that maintain quality without breaking the bank."
+title: "Smart Frugal Living Tips in Indonesia [Guide]"
+description: "Save more in Indonesia without sacrificing quality. 7 practical frugal living tips fit urban and rural budgets—#3 is key."
 pubDate: 2026-01-15
 category: "personal-finance"
 tags: ["frugal living", "budgeting", "Indonesia"]

@@ -1,6 +1,6 @@
 ---
-title: "How P2P Lending Works in Indonesia: A Comprehensive Guide"
-description: "Discover how P2P lending operates in Indonesia, its benefits, risks, and tips for borrowers and investors."
+title: "P2P Lending Indonesia Explained: Complete Guide [2026]"
+description: "P2P lending in Indonesia is booming, but risks matter. See how it works, 3 key benefits, and what borrowers and investors should know."
 pubDate: 2026-03-15
 category: "fintech"
 tags: ["P2P Lending", "Fintech", "Investing"]

@@ -1,6 +1,6 @@
 ---
-title: "Home Insurance Indonesia Guide and Comparison"
-description: "Learn how home insurance works in Indonesia, what it covers, and how to compare policies. Protect your rumah before disaster strikes."
+title: "Home Insurance Indonesia: Complete Guide [2026]"
+description: "Water damage in Bekasi cost Rp18 juta in one storm. See what home insurance covers, how to compare policies, and what to check first."
 pubDate: 2026-03-25
 updatedDate: 2026-03-25
 category: "insurance"

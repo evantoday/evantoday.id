@@ -1,6 +1,6 @@
 ---
-title: "Achieving Financial Independence and Early Retirement: The FIRE Movement in Indonesia"
-description: "Explore the FIRE movement in Indonesia and learn how to achieve financial independence and retire early."
+title: "FIRE Movement in Indonesia: Complete Guide [2026]"
+description: "FIRE in Indonesia is gaining momentum. See the core ideas, local challenges, and 3 practical steps to retire early—here's how."
 pubDate: 2026-03-10
 category: "financial-tips"
 tags: ["FIRE", "financial independence", "early retirement"]

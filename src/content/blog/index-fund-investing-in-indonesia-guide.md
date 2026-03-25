@@ -1,6 +1,6 @@
 ---
-title: "Index Fund Investing in Indonesia Guide"
-description: "Learn how index fund investing works in Indonesia, how to start, and what to buy. Read my practical guide and begin today."
+title: "Index Fund Investing in Indonesia [Guide]"
+description: "Cut research time and avoid stock-picking stress with index fund investing in Indonesia. See how to start in 3 steps—#2 matters most."
 pubDate: 2026-03-25
 updatedDate: 2026-03-25
 category: "investing"

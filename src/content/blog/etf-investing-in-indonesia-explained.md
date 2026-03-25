@@ -1,6 +1,6 @@
 ---
-title: "ETF Investing in Indonesia Explained"
-description: "Learn everything about ETF investing in Indonesia, including types, how to invest, and tips for beginners."
+title: "ETF Investing in Indonesia: Essential Guide [2026]"
+description: "ETF investing in Indonesia made simple: what it is, types, and how beginners can start in 3 steps. Here's how."
 pubDate: 2026-03-13
 category: "investing"
 tags: ["ETF", "investing", "Indonesia"]

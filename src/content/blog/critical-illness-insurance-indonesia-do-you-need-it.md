@@ -1,6 +1,6 @@
 ---
-title: "Critical Illness Insurance Indonesia: Do You Need It?"
-description: "Find out if critical illness insurance is worth it in Indonesia. Learn costs, benefits, and when you actually need it."
+title: "Critical Illness Insurance Indonesia: Smart Guide [2026]"
+description: "Cancer bills and lost income can hit fast in Indonesia. See costs, benefits, and 3 times it matters most. Here's how."
 pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "insurance"

@@ -1,6 +1,6 @@
 ---
-title: "10 Effective Ways to Reduce Monthly Expenses in Indonesia"
-description: "Discover practical tips to cut your monthly expenses in Indonesia without sacrificing your lifestyle."
+title: "10 Smart Ways to Cut Monthly Expenses [Indonesia]"
+description: "Cut monthly expenses in Indonesia with 10 practical tips that protect your lifestyle. Rising costs? #7 saves the most."
 pubDate: 2026-03-21
 category: "personal-finance"
 tags: ["savings", "budgeting", "Indonesia"]

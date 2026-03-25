@@ -1,6 +1,6 @@
 ---
-title: "Financial Mistakes to Avoid in Your 20s"
-description: "Discover common financial mistakes to avoid in your 20s for a secure future in Indonesia."
+title: "10 Essential Financial Mistakes to Avoid in Your 20s"
+description: "Avoid 10 costly money traps in your 20s, from bad habits to weak planning in Indonesia. The last tip saves the most."
 pubDate: 2026-03-09
 category: "personal-finance"
 tags: ["financial mistakes", "personal finance", "money management"]

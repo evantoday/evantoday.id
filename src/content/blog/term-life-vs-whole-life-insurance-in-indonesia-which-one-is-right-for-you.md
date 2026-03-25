@@ -1,6 +1,6 @@
 ---
-title: "Term Life vs Whole Life Insurance in Indonesia: Which One is Right for You?"
-description: "Explore the differences between term life and whole life insurance in Indonesia to make an informed decision."
+title: "Term Life vs Whole Life Insurance [Guide]"
+description: "Compare term life vs whole life insurance in Indonesia in 3 key ways: cost, coverage, and cash value. Here's how."
 pubDate: 2026-03-16
 category: "insurance"
 tags: ["insurance", "term life", "whole life"]

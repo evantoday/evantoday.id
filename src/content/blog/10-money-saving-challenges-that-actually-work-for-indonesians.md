@@ -1,6 +1,6 @@
 ---
-title: "10 Money Saving Challenges That Actually Work for Indonesians"
-description: "Discover effective money saving challenges to boost your savings in Indonesia."
+title: "10 Smart Money Saving Challenges [Guide]"
+description: "Boost savings with 10 money-saving challenges built for Indonesians. Simple, fun, and effective—#3 is the easiest to start."
 pubDate: 2026-03-16
 category: "personal-finance"
 tags: ["money saving", "personal finance", "Indonesia", "financial tips"]

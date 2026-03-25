@@ -1,6 +1,6 @@
 ---
-title: "How to Stop Living Paycheck to Paycheck in Indonesia"
-description: "Learn practical steps to break the cycle of living paycheck to paycheck in Indonesia."
+title: "Stop Living Paycheck to Paycheck in Indonesia [Guide]"
+description: "Break the cycle with 5 practical steps for Indonesia: budgeting, saving, and debt control. The last tip changes everything."
 pubDate: 2026-03-09
 category: "personal-finance"
 tags: ["budgeting", "savings", "financial planning"]

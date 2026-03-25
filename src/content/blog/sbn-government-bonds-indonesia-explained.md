@@ -1,6 +1,6 @@
 ---
-title: "SBN Government Bonds Indonesia Explained"
-description: "Discover everything about SBN government bonds in Indonesia, from types to benefits and how to invest."
+title: "SBN Government Bonds Indonesia: Complete Guide [2026]"
+description: "SBN government bonds in Indonesia can suit cautious investors. See types, benefits, and how to invest in 3 steps. Here's how."
 pubDate: 2026-03-16
 category: "investing"
 tags: ["bonds", "SBN", "investing"]

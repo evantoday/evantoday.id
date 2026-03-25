@@ -1,6 +1,6 @@
 ---
-title: "DeFi Explained in Simple Terms for Beginners"
-description: "Learn DeFi in simple terms, how it works, risks, and how Indonesians can start safely. Read the guide now."
+title: "DeFi Explained: Complete Beginner Guide [2026]"
+description: "DeFi feels confusing at first, but the basics are simple. See how it works, the main risks, and how Indonesians can start safely."
 pubDate: 2026-03-25
 updatedDate: 2026-03-25
 category: "cryptocurrency"

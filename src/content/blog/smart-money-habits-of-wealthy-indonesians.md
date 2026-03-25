@@ -1,6 +1,6 @@
 ---
-title: "Smart Money Habits of Wealthy Indonesians"
-description: "Discover smart money habits of wealthy Indonesians that can help you achieve financial success."
+title: "Top Money Habits of Wealthy Indonesians [Guide]"
+description: "Wealthy Indonesians use 5 money habits to build and protect wealth. See the spending, saving, and investing moves that matter most."
 pubDate: 2026-02-21
 category: "personal-finance"
 tags: ["wealth-building", "financial habits", "Indonesia"]

@@ -1,6 +1,6 @@
 ---
-title: "Dollar Cost Averaging Strategy Explained: A Practical Guide for Indonesians"
-description: "Learn how to use the Dollar Cost Averaging strategy to invest wisely in Indonesia."
+title: "Dollar Cost Averaging Strategy [Guide] for Indonesians"
+description: "Cut investing stress with Dollar Cost Averaging in Indonesia. Use a simple DCA plan to invest through volatility—here's how."
 pubDate: 2026-03-20
 category: "investing"
 tags: ["investing", "dollar cost averaging", "finance tips"]

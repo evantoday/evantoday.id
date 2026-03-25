@@ -1,6 +1,6 @@
 ---
-title: "How Fintech is Changing Banking in Indonesia"
-description: "Explore how fintech revolutionizes banking in Indonesia with practical insights and examples."
+title: "Fintech Changing Banking in Indonesia [Guide]"
+description: "Indonesia’s banking shift is moving fast: digital apps, P2P lending, and mobile payments are reshaping money in 3 big ways. Here’s how."
 pubDate: 2026-03-12
 category: "fintech"
 tags: ["fintech", "banking", "Indonesia"]

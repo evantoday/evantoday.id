@@ -1,6 +1,6 @@
 ---
-title: "How to Save Money on Groceries in Indonesia: 10 Practical Tips"
-description: "Discover effective ways to save money on groceries in Indonesia with these 10 practical tips."
+title: "Smart Grocery Savings in Indonesia: 10 Practical Tips"
+description: "Cut your grocery bill in Indonesia with 10 practical tips that protect quality and nutrition. Regional savings vary—#7 matters most."
 pubDate: 2026-03-11
 category: "personal-finance"
 tags: ["groceries", "saving money", "budgeting"]

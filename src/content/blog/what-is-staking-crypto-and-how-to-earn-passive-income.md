@@ -1,6 +1,6 @@
 ---
-title: "What is Staking Crypto and How to Earn Passive Income"
-description: "Learn about crypto staking and discover how to earn passive income in Indonesia."
+title: "Crypto Staking Guide: Earn Passive Income [2026]"
+description: "Crypto staking can pay you for locking coins on PoS networks. See how it works, what you earn, and the key risks in 3 steps."
 pubDate: 2026-03-16
 category: "cryptocurrency"
 tags: ["staking", "crypto", "passive income"]

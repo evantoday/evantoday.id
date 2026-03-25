@@ -1,6 +1,6 @@
 ---
-title: "Do You Need Life Insurance in Indonesia? A Comprehensive Guide"
-description: "Discover the importance of life insurance in Indonesia and find out if it's right for you."
+title: "Life Insurance in Indonesia: Essential Guide [2026]"
+description: "Life insurance can protect your family in 3 key ways, especially in Indonesia. See who needs it and why it matters most."
 pubDate: 2026-03-10
 category: "insurance"
 tags: ["life insurance", "financial planning", "Indonesia"]

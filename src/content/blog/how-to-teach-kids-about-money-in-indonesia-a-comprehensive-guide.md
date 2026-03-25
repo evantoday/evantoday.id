@@ -1,6 +1,6 @@
 ---
-title: "How to Teach Kids About Money in Indonesia: A Comprehensive Guide"
-description: "Learn effective ways to teach kids about money management in Indonesia and build their financial literacy."
+title: "Essential Guide to Teaching Kids Money in Indonesia"
+description: "Build kids’ money skills with practical steps for Indonesian families. Use 5 simple lessons at home to grow financial literacy fast. Here's how."
 pubDate: 2026-01-27
 category: "personal-finance"
 tags: ["financial literacy", "money management", "education"]

@@ -1,6 +1,6 @@
 ---
-title: "Financial Planning for Newlyweds in Indonesia"
-description: "A comprehensive guide to financial planning for newlyweds in Indonesia."
+title: "Smart Financial Planning for Newlyweds in Indonesia"
+description: "Marriage changes your money fast—budget, savings, and goals matter from day 1. Use 7 practical steps for couples in Indonesia. Here's how."
 pubDate: 2026-03-14
 category: "financial-tips"
 tags: ["financial planning", "newlyweds", "Indonesia"]

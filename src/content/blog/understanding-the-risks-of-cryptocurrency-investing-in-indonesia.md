@@ -1,6 +1,6 @@
 ---
-title: "Understanding the Risks of Cryptocurrency Investing in Indonesia"
-description: "Explore the potential risks of investing in cryptocurrencies in Indonesia and how to navigate them."
+title: "Crypto Investing Risks in Indonesia [Guide]"
+description: "Crypto in Indonesia can bring 5 major risks, from volatility to regulation. Know what to watch before you invest—here's how."
 pubDate: 2026-03-08
 category: "cryptocurrency"
 tags: ["cryptocurrency", "investing", "risks"]

@@ -1,6 +1,6 @@
 ---
-title: "Debt-Free Journey Tips for Indonesians"
-description: "Practical tips to help Indonesians achieve a debt-free life and manage finances effectively."
+title: "Essential Debt-Free Journey Tips for Indonesians"
+description: "Debt can feel endless, but 3 practical moves can help Indonesians break the cycle and manage money better. Start with step one."
 pubDate: 2026-03-08
 category: "personal-finance"
 tags: ["debt management", "financial tips", "money management"]

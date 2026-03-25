@@ -1,6 +1,6 @@
 ---
-title: "Crypto Tax Rules in Indonesia Explained"
-description: "Understand the crypto tax rules in Indonesia with this comprehensive guide."
+title: "Crypto Tax Rules in Indonesia [Guide]"
+description: "Crypto taxes in Indonesia can get tricky fast. See the key rules, rates, and common mistakes in under 5 minutes—avoid penalties."
 pubDate: 2026-03-14
 category: "cryptocurrency"
 tags: ["crypto tax", "Indonesia", "cryptocurrency"]

@@ -1,6 +1,6 @@
 ---
-title: "Motorcycle Insurance Guide Indonesia"
-description: "A comprehensive guide to motorcycle insurance in Indonesia, covering types, providers, and tips for choosing the best policy."
+title: "Essential Motorcycle Insurance Indonesia [Guide]"
+description: "Motorcycle insurance in Indonesia can save you from costly repairs and theft. Compare types, providers, and 3 smart tips here."
 pubDate: 2026-03-17
 category: "insurance"
 tags: ["motorcycle insurance", "Indonesia", "financial advice"]

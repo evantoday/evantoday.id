@@ -1,6 +1,6 @@
 ---
-title: "Financial Planning for Single Mothers in Indonesia: A Comprehensive Guide"
-description: "Explore practical financial planning strategies for single mothers in Indonesia to achieve financial security and independence."
+title: "Essential Financial Planning for Single Mothers [Guide]"
+description: "Budget, save, and invest with 3 practical strategies for single mothers in Indonesia. Build security and independence—here's how."
 pubDate: 2026-02-06
 category: "personal-finance"
 tags: ["financial planning", "single mothers", "Indonesia"]

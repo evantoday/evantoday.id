@@ -1,6 +1,6 @@
 ---
-title: "How to Read Stock Charts for Beginners in Indonesia"
-description: "A beginner's guide to understanding stock charts and making informed investment decisions in Indonesia."
+title: "Stock Charts for Beginners: Essential Guide [Indonesia]"
+description: "Stock charts feel confusing at first, but the basics take just minutes to grasp. Learn candlesticks, trends, and key signals—here's how."
 pubDate: 2026-03-11
 category: "investing"
 tags: ["stock market", "investing", "Indonesia"]

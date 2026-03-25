@@ -1,6 +1,6 @@
 ---
-title: "Car Insurance Comparison Indonesia 2026"
-description: "Explore the best car insurance options in Indonesia for 2026 with a comprehensive comparison to find the right coverage for you."
+title: "Best Car Insurance Comparison Indonesia [2026]"
+description: "Compare Indonesia’s top car insurance options for 2026 and see what fits your budget in minutes. The right policy may save more than you think."
 pubDate: 2026-03-13
 category: "insurance"
 tags: ["car insurance", "comparison", "Indonesia"]

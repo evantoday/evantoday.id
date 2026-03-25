@@ -1,6 +1,6 @@
 ---
-title: "Best Deposito Rates in Indonesia 2026"
-description: "Discover the top deposito rates in Indonesia for 2026 and maximize your savings effectively."
+title: "Top Deposito Rates in Indonesia [2026]"
+description: "Top deposito rates in Indonesia for 2026 can boost low-risk savings. Compare yields, terms, and banks in minutes—#3 matters."
 pubDate: 2026-03-17
 category: "digital-banking"
 tags: ["deposito", "interest rates", "savings"]

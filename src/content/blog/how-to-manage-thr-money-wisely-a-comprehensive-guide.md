@@ -1,6 +1,6 @@
 ---
-title: "How to Manage THR Money Wisely: A Comprehensive Guide"
-description: "Learn how to make the most of your THR money with practical tips and strategies for smart financial management in Indonesia."
+title: "Smart THR Money Management [Guide]"
+description: "Make your THR last beyond the holiday rush with 5 practical money moves for Indonesia. Avoid the usual spending trap—here's how."
 pubDate: 2026-03-14
 category: "personal-finance"
 tags: ["THR", "personal finance", "money management"]

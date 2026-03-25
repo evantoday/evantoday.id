@@ -1,6 +1,6 @@
 ---
-title: "Neobank Review: Features and Interest Rates in Indonesia"
-description: "Explore the features and interest rates of popular neobanks in Indonesia to find the best fit for your financial needs."
+title: "Best Neobank Review [Indonesia]"
+description: "Compare Indonesia’s top neobanks on features and interest rates in minutes. See which app fits your money goals best—#3 matters most."
 pubDate: 2026-03-21
 category: "digital-banking"
 tags: ["neobanks", "digital banking", "finance"]

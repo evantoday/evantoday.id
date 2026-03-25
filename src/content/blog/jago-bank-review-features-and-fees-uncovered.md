@@ -1,6 +1,6 @@
 ---
-title: "Jago Bank Review: Features and Fees Uncovered"
-description: "A detailed review of Jago Bank's features and fees for Indonesian users."
+title: "Jago Bank Review: Smart Features and Fees [2026]"
+description: "Jago Bank's fees and features break down for Indonesian users in 2026. See what stands out before you sign up."
 pubDate: 2026-03-08
 category: "fintech"
 tags: ["Jago Bank", "digital banking", "Indonesia"]

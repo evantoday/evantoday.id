@@ -1,6 +1,6 @@
 ---
-title: "How to Save Money on a Low Salary in Indonesia"
-description: "Discover practical tips and strategies to save money effectively on a low salary in Indonesia."
+title: "Smart Ways to Save Money on a Low Salary [Guide]"
+description: "Living on a low salary in Indonesia? Try 7 practical ways to cut costs and build savings, even on a tight budget. Here's how."
 pubDate: 2026-03-17
 category: "personal-finance"
 tags: ["saving money", "low salary", "Indonesia"]

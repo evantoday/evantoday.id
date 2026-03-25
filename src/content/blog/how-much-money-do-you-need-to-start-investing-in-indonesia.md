@@ -1,6 +1,6 @@
 ---
-title: "How Much Money Do You Need to Start Investing in Indonesia?"
-description: "Discover the essential guide to starting your investment journey in Indonesia with the right amount of capital."
+title: "Smart Investing in Indonesia: How Much Money? [Guide]"
+description: "Start investing in Indonesia with less than you think—minimum capital, account options, and first steps explained in 5 minutes. Here's how."
 pubDate: 2026-03-14
 category: "investing"
 tags: ["investing", "Indonesia", "finance"]

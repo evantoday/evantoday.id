@@ -1,6 +1,6 @@
 ---
-title: "50-30-20 Budget Rule Explained for Indonesians"
-description: "Learn how to apply the 50-30-20 budget rule to manage your finances effectively in Indonesia."
+title: "50-30-20 Budget Rule [Guide] for Indonesians"
+description: "A simple budgeting framework that splits income into 50%, 30%, and 20% for better money control in Indonesia. Here's how."
 pubDate: 2026-03-11
 category: "personal-finance"
 tags: ["budgeting", "personal finance", "Indonesia"]

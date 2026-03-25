@@ -1,6 +1,6 @@
 ---
-title: "Seabank Review: Interest Rates and Features"
-description: "Explore Seabank's interest rates and features to see if it's the right digital bank for you in Indonesia."
+title: "Seabank Review: Smart Rates & Features [2026]"
+description: "Seabank offers sleek banking, competitive rates, and key features for Indonesians. See what stands out before you switch—here's how."
 pubDate: 2026-03-12
 category: "fintech"
 tags: ["Seabank", "digital banking", "Indonesia"]

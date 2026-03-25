@@ -1,6 +1,6 @@
 ---
-title: "How to Use QRIS for Payments in Indonesia"
-description: "A comprehensive guide to using QRIS for payments in Indonesia."
+title: "QRIS Payments in Indonesia: Essential Guide [2026]"
+description: "Paying with QRIS is fast and widely accepted across Indonesia. See how the standard works in minutes—the setup is simple."
 pubDate: 2026-03-07
 category: "fintech"
 tags: ["QRIS", "payments", "fintech"]

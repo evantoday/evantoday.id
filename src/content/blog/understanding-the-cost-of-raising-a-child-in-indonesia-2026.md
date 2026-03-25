@@ -1,6 +1,6 @@
 ---
-title: "Understanding the Cost of Raising a Child in Indonesia 2026"
-description: "Explore the comprehensive guide on the cost of raising a child in Indonesia in 2026."
+title: "Cost of Raising a Child in Indonesia [2026] Guide"
+description: "Child costs in Indonesia can vary widely by city, lifestyle, and school choice. See the 2026 breakdown, from basics to education, here."
 pubDate: 2026-03-14
 category: "personal-finance"
 tags: ["parenting", "cost of living", "financial planning"]

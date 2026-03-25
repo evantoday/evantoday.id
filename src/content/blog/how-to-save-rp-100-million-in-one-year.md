@@ -1,6 +1,6 @@
 ---
-title: "How to Save Rp 100 Million in One Year"
-description: "Learn a realistic plan to save Rp 100 million in 12 months. Use my step-by-step method and start building serious cash."
+title: "Smart Way to Save Rp 100 Million in a Year [Guide]"
+description: "A realistic 12-month plan to save Rp 100 million, with clear steps and a specific target. Start building serious cash today."
 pubDate: 2026-03-25
 updatedDate: 2026-03-25
 category: "personal-finance"

@@ -1,6 +1,6 @@
 ---
-title: "Cost of Living Comparison: Jakarta vs Surabaya vs Bandung"
-description: "Discover the cost of living differences between Jakarta, Surabaya, and Bandung."
+title: "Cost of Living Comparison: Jakarta vs Surabaya [Guide]"
+description: "Jakarta, Surabaya, and Bandung costs can differ a lot. See the real breakdown across housing, food, and transport—Jakarta may surprise you."
 pubDate: 2026-03-19
 category: "personal-finance"
 tags: ["cost of living", "Jakarta", "Surabaya", "Bandung"]

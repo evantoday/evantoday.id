@@ -1,6 +1,6 @@
 ---
-title: "Building an Emergency Fund in Indonesia: How Much Do You Need?"
-description: "A practical guide to building your emergency fund in Indonesia. Learn how much to save, where to keep it, and strategies to build it fast."
+title: "Emergency Fund in Indonesia: Essential Savings Guide [2026]"
+description: "Job loss or a medical bill can hit fast. See how much to save in Indonesia, where to keep it, and 3 ways to build it faster."
 pubDate: 2026-03-02
 author: "Evan"
 category: "personal-finance"

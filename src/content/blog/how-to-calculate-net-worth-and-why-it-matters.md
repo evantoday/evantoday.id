@@ -1,6 +1,6 @@
 ---
-title: "How to Calculate Net Worth and Why It Matters"
-description: "Learn how to calculate your net worth and understand its importance for financial health."
+title: "Net Worth: Smart Guide to Calculate It [2026]"
+description: "A clear net worth snapshot can guide better money decisions in minutes. See the simple formula and why it matters most."
 pubDate: 2026-03-08
 category: "financial-tips"
 tags: ["net worth", "personal finance", "financial planning"]

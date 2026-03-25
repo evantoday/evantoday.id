@@ -1,6 +1,6 @@
 ---
-title: "How to Create a Monthly Spending Plan in Indonesia"
-description: "Learn how to create an effective monthly spending plan tailored for your financial needs in Indonesia."
+title: "Complete Monthly Spending Plan [Indonesia Guide]"
+description: "Take control of your money with a monthly spending plan built for Indonesia. See 5 practical steps, common costs, and a simple template. "
 pubDate: 2026-03-15
 category: "personal-finance"
 tags: ["budgeting", "spending plan", "personal finance"]

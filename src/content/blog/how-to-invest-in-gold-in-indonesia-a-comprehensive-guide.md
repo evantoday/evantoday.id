@@ -1,6 +1,6 @@
 ---
-title: "How to Invest in Gold in Indonesia: A Comprehensive Guide"
-description: "Learn practical steps to invest in gold in Indonesia, from buying gold bars to gold savings accounts."
+title: "Gold Investing in Indonesia: Smart Guide [2026]"
+description: "Gold remains a top hedge in Indonesia, with 2 main ways to start: bars or savings accounts. Here's how."
 pubDate: 2026-03-13
 category: "investing"
 tags: ["gold investment", "financial planning", "Indonesian market"]

@@ -1,6 +1,6 @@
 ---
-title: "How to Financially Prepare for Retirement in Indonesia"
-description: "A comprehensive guide to preparing for retirement financially in Indonesia."
+title: "Smart Retirement Planning in Indonesia [Guide]"
+description: "Retirement in Indonesia takes more than saving cash. Plan early with 5 smart moves that protect your future income. Here's how."
 pubDate: 2026-03-08
 category: "financial-tips"
 tags: ["retirement", "financial planning", "Indonesia"]

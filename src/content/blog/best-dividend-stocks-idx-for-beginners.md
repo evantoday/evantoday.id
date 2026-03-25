@@ -1,6 +1,6 @@
 ---
-title: "Best Dividend Stocks IDX for Beginners"
-description: "Discover top dividend stocks on IDX perfect for beginner investors in Indonesia."
+title: "Best Dividend Stocks IDX [Guide] for Beginners"
+description: "Steady income and growth on IDX: 5 beginner-friendly dividend stocks in Indonesia, plus what to check before buying. Here's how."
 pubDate: 2026-03-14
 category: "investing"
 tags: ["dividend stocks", "IDX", "investing"]

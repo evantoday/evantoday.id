@@ -1,6 +1,6 @@
 ---
-title: "How to Manage Money as a Couple in Indonesia: A Comprehensive Guide"
-description: "Learn effective strategies for managing money as a couple in Indonesia to achieve financial harmony."
+title: "Smart Money Management for Couples in Indonesia [Guide]"
+description: "Stronger finances start with 5 clear money habits for couples in Indonesia. Split costs, plan goals, and avoid conflict—here's how."
 pubDate: 2026-01-24
 category: "personal-finance"
 tags: ["money management", "couples finance", "Indonesia finance"]

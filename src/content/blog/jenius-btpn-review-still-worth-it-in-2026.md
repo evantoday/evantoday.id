@@ -1,6 +1,6 @@
 ---
-title: "Jenius BTPN Review: Still Worth It in 2026?"
-description: "Is Jenius BTPN still a top choice for digital banking in 2026? Explore features, pros, cons, and more in this comprehensive review."
+title: "Jenius BTPN Review [2026]: Honest Digital Banking"
+description: "Still worth it in 2026? See Jenius BTPN features, pros, cons, and fees in one honest review. The verdict may surprise you."
 pubDate: 2026-03-20
 category: "digital-banking"
 tags: ["Jenius", "BTPN", "digital banking", "banking app", "fintech"]
