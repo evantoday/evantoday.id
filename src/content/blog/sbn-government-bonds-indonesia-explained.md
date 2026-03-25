@@ -1,118 +1,213 @@
 ---
-title: "SBN Government Bonds Indonesia: Complete Guide [2026]"
-description: "SBN government bonds in Indonesia can suit cautious investors. See types, benefits, and how to invest in 3 steps. Here's how."
+title: "Treasury Bonds & I Bonds: Safe 4-5% Returns [2026]"
+description: "US Treasury bonds and I Bonds pay 4-5% with zero default risk. See the types (T-Bills, TIPS, I Bonds), how to buy on TreasuryDirect, and minimum investments."
 pubDate: 2026-03-16
 category: "investing"
-tags: ["bonds", "SBN", "investing"]
+tags: ["Treasury bonds", "I Bonds", "TIPS", "government bonds", "safe investments"]
 author: "Evan"
 ---
 
-## Understanding SBN Government Bonds in Indonesia
+## Why I Keep 20% of My Portfolio in Government Bonds
 
-When it comes to investing in Indonesia, SBN government bonds are often a topic of interest. But what exactly are they? I remember when I first stumbled upon the concept of SBN bonds. I was curious yet confused about how they worked and whether they could be a good option for my investment portfolio. So, let’s dive into what SBN government bonds are all about, their benefits, and how you can invest in them.
+I will be honest, bonds used to bore me. When I started investing, I wanted growth, excitement, and the thrill of watching stock prices climb. But after living through a few market corrections and watching friends panic-sell their portfolios at the worst possible time, I developed a deep appreciation for US Treasury securities.
 
-## What are SBN Government Bonds?
+Here is the thing about Treasury bonds that makes them special: they are backed by the full faith and credit of the United States government. In the entire history of the US, the federal government has never defaulted on its debt. That makes Treasuries the closest thing to a risk-free investment that exists on the planet.
 
-SBN stands for Surat Berharga Negara, which translates to government securities. These are debt instruments issued by the Indonesian government to finance various development projects and cover the budget deficit. Essentially, when you buy SBN bonds, you’re lending money to the government in exchange for periodic interest payments and the return of your principal investment at the bond’s maturity date.
+And in 2026, they are actually paying decent returns. Gone are the days of near-zero yields. You can currently earn 4-5% on various Treasury products with essentially zero credit risk. That is a real return that beats inflation and lets you sleep at night.
 
-In Indonesia, SBN bonds can be categorized into two main types:
+Let me walk you through every type of Treasury security, how to buy them, and how I use them in my own portfolio.
 
-### 1. Conventional Bonds
+## Types of US Treasury Securities
 
-These are the standard bonds that pay a fixed interest rate over a specified period. You’ll receive interest payments (known as kupon) typically every six months. At the end of the bond's term, the government repays your initial investment.
+The US government issues several types of debt securities, each with different characteristics. Here is the complete breakdown:
 
-### 2. Sukuk
+### Treasury Bills (T-Bills)
 
-For those who prefer Sharia-compliant investments, Sukuk is the way to go. Instead of interest, Sukuk provides returns based on profit-sharing or rental income, aligning with Islamic finance principles. I’ve found Sukuk to be an interesting option, especially for those looking to invest ethically.
+T-Bills are short-term securities that mature in one year or less.
 
-## Benefits of Investing in SBN Government Bonds
+- **Maturities**: 4, 8, 13, 17, 26, and 52 weeks
+- **Minimum purchase**: $100
+- **How they work**: Sold at a discount to face value. You buy a $1,000 T-Bill for $960 and receive $1,000 at maturity. The $40 difference is your interest.
+- **Current yields**: Approximately 4.2-4.5% (as of early 2026)
 
-Investing in SBN bonds comes with several advantages:
+T-Bills are perfect for parking money you will need within the next year. I use them as an alternative to high-yield savings accounts because the yields are often slightly better and the interest is exempt from state and local taxes.
 
-### 1. Safe Investment
+### Treasury Notes (T-Notes)
 
-One of the main appeals of SBN bonds is that they are backed by the government. In my experience, this provides a level of security that’s hard to find in other investments. The risk of default is minimal, making it a safer option for conservative investors.
+T-Notes are medium-term securities with maturities between 2 and 10 years.
 
-### 2. Predictable Returns
+- **Maturities**: 2, 3, 5, 7, and 10 years
+- **Minimum purchase**: $100
+- **How they work**: Pay a fixed interest rate every six months (semiannual coupon payments)
+- **Current yields**: Approximately 4.0-4.5% depending on maturity
 
-With fixed-interest payments from conventional bonds and predictable returns from Sukuk, SBN bonds offer an attractive way to earn passive income. You know exactly how much you’ll earn and when, which can help with financial planning.
+The 10-year Treasury note is one of the most important securities in global finance. Its yield serves as a benchmark for mortgage rates, corporate bonds, and countless other financial products.
 
-### 3. Tax Benefits
+### Treasury Bonds (T-Bonds)
 
-Interest income from SBN bonds is subject to a lower tax rate compared to other investment income. This means you get to keep more of what you earn, which is always a plus in my book.
+T-Bonds are long-term securities that mature in 20 or 30 years.
 
-### 4. Accessible Investment
+- **Maturities**: 20 and 30 years
+- **Minimum purchase**: $100
+- **How they work**: Pay semiannual interest at a fixed rate
+- **Current yields**: Approximately 4.3-4.6%
 
-You don’t need a substantial amount of money to invest in SBN bonds. The minimum investment can start as low as IDR 1 million, making it accessible for many Indonesians. I remember starting with just IDR 2 million when I first invested, and it felt great to be part of the government’s development projects.
+T-Bonds lock in today's rates for decades. If you believe interest rates will fall in the future, long-term bonds can generate capital gains as their prices rise.
 
-### 5. Diversification
+### I Bonds (Series I Savings Bonds)
 
-Adding SBN bonds to your investment portfolio can help diversify your assets. They typically move differently than stocks, so they can act as a buffer during market volatility. I often recommend balancing your investments between stocks and bonds to manage risk effectively.
+I Bonds are my personal favorite Treasury product, and they deserve special attention.
 
-## How to Invest in SBN Government Bonds
+- **Maturity**: 30 years (but redeemable after 1 year)
+- **Maximum purchase**: $10,000 per person per year (electronic), plus $5,000 in paper bonds via tax refund
+- **How they work**: Interest rate combines a fixed rate plus an inflation adjustment that resets every 6 months
+- **Current composite rate**: Approximately 4.0-5.0% (varies with inflation data)
 
-You might be wondering how to get started with SBN bonds. Here’s a step-by-step guide based on my personal experience:
+What makes I Bonds incredible:
 
-### Step 1: Choose the Right Type of Bond
+- **Built-in inflation protection**: Your return automatically adjusts with the Consumer Price Index
+- **Tax advantages**: Interest is exempt from state and local taxes, and you can defer federal taxes until redemption
+- **Education tax exclusion**: If used for qualified education expenses, the interest may be completely tax-free
+- **Zero risk of losing principal**: The value never decreases
 
-Decide whether you want to invest in conventional bonds or Sukuk. Your choice might depend on your risk tolerance and whether you prefer conventional interest or Sharia-compliant returns.
+The main limitations are the $10,000 annual purchase limit and the 1-year lockup period (plus a 3-month interest penalty if redeemed before 5 years).
 
-### Step 2: Open an Account
+### Treasury Inflation-Protected Securities (TIPS)
 
-You’ll need to open an investment account with a financial institution or a bank that offers SBN bonds. I personally use Bank Mandiri for my investments, but many banks like BCA and BRI also provide this service. Make sure to check their terms and conditions.
+TIPS are like I Bonds' bigger, more tradeable sibling.
 
-### Step 3: Purchase the Bonds
+- **Maturities**: 5, 10, and 30 years
+- **Minimum purchase**: $100
+- **How they work**: The principal adjusts with inflation. Interest is paid on the adjusted principal, so both your principal and interest payments grow with the CPI.
+- **Current real yields**: Approximately 1.5-2.0% above inflation
 
-Once your account is set up, you can buy SBN bonds through an online platform. The government often holds bond auctions where you can participate. You can also buy them during specific offerings, which are announced regularly.
+TIPS are better than I Bonds if you want to invest more than $10,000 per year in inflation-protected securities, since there is no purchase limit.
 
-### Step 4: Monitor Your Investment
+## Comparison Table: All Treasury Securities
 
-After purchasing, keep an eye on your investment. You can check the performance of SBN bonds through your bank’s online platform or the official website of the Ministry of Finance. This is important to ensure you're making informed decisions about your portfolio.
+| Feature | T-Bills | T-Notes | T-Bonds | I Bonds | TIPS |
+|---------|---------|---------|---------|---------|------|
+| Maturity | 4-52 weeks | 2-10 years | 20-30 years | 30 years | 5-30 years |
+| Minimum | $100 | $100 | $100 | $25 | $100 |
+| Annual limit | None | None | None | $10,000 | None |
+| Inflation protection | No | No | No | Yes | Yes |
+| Tradeable | Yes | Yes | Yes | No | Yes |
+| State tax exempt | Yes | Yes | Yes | Yes | Yes |
+| Current yield range | 4.2-4.5% | 4.0-4.5% | 4.3-4.6% | 4.0-5.0% | 1.5-2.0% real |
 
-### Step 5: Enjoy the Benefits
+## How to Buy Treasury Securities
 
-Once your bonds mature, you’ll receive your principal back, along with any interest payments you earned along the way. I always reinvest my returns into new bonds to maximize my earnings.
+### TreasuryDirect.gov
 
-## Common Misconceptions About SBN Bonds
+TreasuryDirect is the US government's official platform for buying Treasury securities directly. Here is the process:
 
-Over the years, I’ve come across a few misconceptions about SBN bonds that I think are worth addressing.
+1. **Create an account** at TreasuryDirect.gov with your Social Security number, bank account, and email
+2. **Link your bank account** for funding purchases
+3. **Browse available securities** and place your order
+4. **Set up automatic purchases** if you want to buy regularly
 
-### 1. Bonds are Only for the Rich
+TreasuryDirect is the only way to buy I Bonds and the cheapest way to buy other Treasuries since there are no middleman fees.
 
-Many people believe that bonds are only for wealthy investors. However, as I mentioned earlier, you can start with as little as IDR 1 million. This makes SBN bonds accessible to a broader range of investors.
+### Through Your Brokerage
 
-### 2. Bonds are Risk-Free
+You can also buy T-Bills, T-Notes, T-Bonds, and TIPS through any major brokerage:
 
-While SBN bonds are safer than many other investments, they aren’t entirely risk-free. Interest rates can rise, which could lead to a decrease in the bond’s market value if you decide to sell before maturity. It’s crucial to understand these risks before diving in.
+- **Fidelity**: No commission on Treasury purchases at auction
+- **Charles Schwab**: No commission on new issues
+- **Vanguard**: No commission on new issues
 
-### 3. You Can't Lose Money
+Buying through a brokerage is more convenient if you already have an account there and want to manage everything in one place. The downside is that you cannot buy I Bonds through a brokerage.
 
-It’s possible to lose money if you sell your bonds at a lower price than what you paid, especially if you buy them in the secondary market. Always consider holding them until maturity to avoid this risk.
+### Treasury Auctions
+
+The Treasury Department holds regular auctions for each security type:
+
+- **T-Bills**: Weekly auctions for most maturities
+- **T-Notes and T-Bonds**: Monthly auctions
+- **TIPS**: Quarterly auctions
+
+You can submit competitive bids (specify the yield you want) or non-competitive bids (accept whatever yield the auction determines). For individual investors, non-competitive bids are the way to go since you are guaranteed to receive the securities at the auction-determined rate.
+
+## How I Use Treasuries in My Portfolio
+
+Here is my current allocation of Treasury securities and why:
+
+### Emergency Fund: T-Bills and I Bonds
+
+I keep my emergency fund split between:
+
+- **I Bonds**: About $40,000 accumulated over several years. These are my inflation-protected emergency reserve.
+- **4-week T-Bills on auto-roll**: An additional $10,000 that earns better than my savings account while remaining almost as liquid.
+
+### Portfolio Bond Allocation: T-Notes and TIPS
+
+For my retirement portfolio's bond allocation (about 20% of total), I use:
+
+- **Intermediate-term Treasury ETF (VGIT)**: Broad exposure to T-Notes
+- **TIPS ETF (VTIP)**: Short-term inflation protection
+
+### Tax-Advantaged Strategy
+
+Since Treasury interest is exempt from state and local taxes, Treasuries are especially valuable if you live in a high-tax state like California, New York, or New Jersey. A 4.5% Treasury yield is equivalent to about 5.0-5.5% from a fully taxable investment in those states.
+
+## Treasury Bonds vs. Other Safe Investments
+
+How do Treasuries compare to other "safe" options?
+
+| Investment | Current Yield | Risk Level | Liquidity | Tax Advantage |
+|-----------|--------------|-----------|-----------|--------------|
+| Treasury securities | 4.0-5.0% | Near zero | High | State tax exempt |
+| High-yield savings account | 4.0-4.5% | FDIC insured up to $250K | Immediate | None |
+| CDs (1 year) | 4.0-4.7% | FDIC insured up to $250K | Locked | None |
+| Corporate bonds (investment grade) | 5.0-5.5% | Low-moderate | Moderate | None |
+| Municipal bonds | 3.0-4.0% | Low | Moderate | Federal tax exempt |
+
+Treasuries win on the combination of safety, tax benefits, and competitive yields. The only real competitor for short-term cash is a high-yield savings account, which offers instant liquidity.
+
+## Common Mistakes to Avoid
+
+After years of investing in Treasuries, here are the pitfalls I see most often:
+
+1. **Ignoring the $10,000 I Bond limit**: Max this out every year. If you are married, your spouse can also buy $10,000.
+2. **Buying long-term bonds when rates are rising**: Bond prices fall when rates rise. If you think rates will increase, stick to shorter maturities.
+3. **Forgetting about state tax benefits**: Factor in the state tax exemption when comparing yields to other investments.
+4. **Redeeming I Bonds before 5 years**: You lose 3 months of interest. If possible, hold for at least 5 years.
+5. **Overcomplicating things**: A simple approach of maxing I Bonds plus holding a Treasury ETF in your portfolio covers most people's needs.
+
+## When Treasuries Make Sense (and When They Do Not)
+
+**Treasuries are great for:**
+
+- Emergency funds
+- Money you need within 1-5 years (down payment savings, upcoming expenses)
+- The bond allocation of your retirement portfolio
+- Retirees who need stable income
+- Anyone who wants to sleep well during market crashes
+
+**Treasuries are not ideal for:**
+
+- Long-term wealth building (stocks historically outperform over 20+ years)
+- Maximizing returns in a bull market
+- Tax-deferred accounts (the state tax benefit is wasted inside an IRA or 401(k))
 
 ## Frequently Asked Questions
 
-### 1. How can I check the current interest rates for SBN bonds?
+### Are US Treasury bonds completely safe?
 
-You can find the latest interest rates on the official website of the Indonesian Ministry of Finance or through your bank’s investment platform.
+Yes, in terms of credit risk. The US government has never defaulted on its debt, and Treasuries are considered the global benchmark for risk-free investments. However, if you sell before maturity, you could lose money if interest rates have risen since your purchase. Holding to maturity eliminates this risk.
 
-### 2. Can foreigners invest in SBN bonds?
+### How much should I invest in I Bonds?
 
-Yes, foreigners can invest in SBN bonds, subject to certain regulations. It’s best to consult with your bank or a financial advisor for specific requirements.
+I recommend maxing out the $10,000 annual limit if you can afford it. I Bonds are one of the best deals available to individual investors, combining inflation protection, tax advantages, and zero credit risk. It takes a few years to build a meaningful position, so start now.
 
-### 3. What happens if I need to sell my bonds before maturity?
+### Do I pay taxes on Treasury bond interest?
 
-You can sell your bonds in the secondary market, but keep in mind that market conditions can affect their price. You might get less than your original investment if interest rates have risen.
+Treasury interest is subject to federal income tax but exempt from state and local taxes. This makes Treasuries particularly attractive in high-tax states. I Bonds have an additional advantage: you can defer the federal tax until you redeem the bond.
 
-### 4. Are there any fees associated with buying SBN bonds?
+### What happens to bonds if the stock market crashes?
 
-Most banks or financial institutions may charge a small fee for purchasing SBN bonds. It’s wise to check with your chosen institution beforehand.
+Historically, Treasury bonds tend to rise in value when stocks fall, because investors flock to safety. This is why bonds are a critical part of a balanced portfolio since they provide stability and reduce overall volatility during market downturns.
 
-### 5. How often do I receive interest payments?
+### Should I buy individual Treasuries or a Treasury ETF?
 
-For conventional bonds, you typically receive interest payments every six months. Sukuk payments may vary based on the underlying structure, but they are usually made periodically as well.
-
-## Conclusion
-
-Investing in SBN government bonds can be a smart choice for anyone looking to grow their wealth in a stable and secure way. Whether you opt for conventional bonds or Sukuk, you’ll find that these instruments provide a reliable source of income while supporting the country’s development.
-
-If you're interested in learning more about financial planning and goals, I recommend checking out my [financial goals setting guide for beginners](https://evantoday.com/blog/a-comprehensive-guide-to-setting-financial-goals-for-beginners-in-indonesia/) or exploring how to [reduce monthly expenses in Indonesia](https://evantoday.com/blog/10-effective-ways-to-reduce-monthly-expenses-in-indonesia/). Happy investing!
+For most people, a Treasury ETF like VGIT (intermediate-term) or SHV (short-term) is simpler and more diversified. Buy individual Treasuries if you want to hold to maturity and eliminate interest rate risk, or if you are specifically buying I Bonds (which are only available as individual securities).

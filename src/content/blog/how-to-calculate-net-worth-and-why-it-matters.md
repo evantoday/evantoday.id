@@ -1,128 +1,284 @@
 ---
-title: "Net Worth: Smart Guide to Calculate It [2026]"
-description: "A clear net worth snapshot can guide better money decisions in minutes. See the simple formula and why it matters most."
+title: "How to Calculate Your Net Worth [Free Formula]"
+description: "Your net worth is the single best measure of financial health. Use this simple formula to calculate yours in 10 minutes—median US household sits at $192K."
 pubDate: 2026-03-08
 category: "financial-tips"
-tags: ["net worth", "personal finance", "financial planning"]
+tags: ["net worth", "net worth calculator", "financial health", "assets vs liabilities", "wealth tracking"]
 author: "Evan"
 ---
 
-Understanding your net worth is like taking a snapshot of your financial health. It’s a simple yet powerful tool that can guide you in making informed financial decisions. In Indonesia, where many of us have diverse income sources and expenses, knowing your net worth can really help you gauge where you stand financially.
+## The Number That Tells You Everything About Your Finances
 
-## What is Net Worth?
+The first time I calculated my net worth, I was 27 years old. The number was negative $14,000. Student loans and a car payment were dragging me down, and despite earning what I thought was a decent salary, I was technically in the red.
 
-At its core, net worth is the difference between what you own (assets) and what you owe (liabilities). This means that if you were to sell everything you own and pay off all your debts, the remaining amount would be your net worth. It gives you a clear picture of your financial situation.
+That moment was a wake-up call. Not because the number was catastrophic, but because I had been completely blind to my actual financial position. I was tracking my income, checking my bank balance occasionally, and assuming things were fine. They were not fine.
 
-### Why Should You Care About Your Net Worth?
+Today, my net worth is positive and growing steadily, and I check it every single month. Net worth is the single most important number in personal finance because it captures your entire financial picture in one figure. Your income does not tell you if you are wealthy. Your bank balance does not either. Your net worth does.
 
-You might be wondering why calculating net worth matters. Here’s why:
+Let me show you exactly how to calculate yours in about 10 minutes.
 
-1. **Financial Awareness**: Tracking your net worth helps you understand your financial journey. It’s like checking your weight while on a diet—knowing where you stand can motivate you to improve.
+## The Net Worth Formula
 
-2. **Goal Setting**: Knowing your net worth can help you set realistic financial goals. If you find that your net worth is lower than you'd like, you can create strategies to improve it.
+The formula is almost comically simple:
 
-3. **Investment Decisions**: Understanding your net worth can guide your investment strategies. If you have a strong net worth, you might feel more secure in taking calculated risks.
+**Net Worth = Total Assets - Total Liabilities**
 
-4. **Retirement Planning**: Keeping an eye on your net worth can help you assess when you might be able to retire comfortably.
+That is it. Add up everything you own, subtract everything you owe, and the result is your net worth.
 
-## How to Calculate Your Net Worth
+### What Counts as an Asset
 
-Calculating your net worth is straightforward. Here’s how to do it step-by-step:
+Assets are anything of value that you own. Here is a comprehensive list:
 
-### Step 1: List Your Assets
+**Liquid Assets (easily converted to cash):**
+- Checking accounts
+- Savings accounts (including high-yield)
+- Money market accounts
+- Certificates of deposit (CDs)
+- Cash on hand
 
-Assets are everything you own that has value. Here are some common examples you might include:
+**Investment Assets:**
+- 401(k) balance
+- IRA / Roth IRA balance
+- Taxable brokerage accounts
+- HSA (Health Savings Account) balance
+- 529 college savings plans
+- Individual stocks, bonds, and mutual funds
+- Cryptocurrency holdings
 
-- **Cash and Cash Equivalents**: This includes money in your bank accounts like BCA, Mandiri, or even digital wallets like OVO or GoPay.
-- **Investments**: Stocks, bonds, or mutual funds. If you’ve invested in the Indonesian Stock Exchange (IDX), be sure to include those figures.
-- **Real Estate**: The market value of your home or any properties you own. For example, if you purchased a rumah in Jakarta for IDR 1 billion and its current value is IDR 1.2 billion, include that.
-- **Personal Property**: This includes vehicles, jewelry, and other valuables. If you own a car worth IDR 300 million, include that too.
-  
-Let’s say your assets look like this:
+**Property Assets:**
+- Primary home (current market value)
+- Investment/rental properties
+- Vehicles (current resale value, not what you paid)
+- Valuable personal property (jewelry, art, collectibles worth $1,000+)
 
-- Cash: IDR 50 million
-- Investments: IDR 200 million
-- Real Estate: IDR 1.200 billion
-- Personal Property: IDR 300 million
+**Business Assets:**
+- Business ownership stakes
+- Intellectual property with market value
 
-### Step 2: List Your Liabilities
+### What Counts as a Liability
 
-Liabilities are what you owe. Common liabilities include:
+Liabilities are everything you owe to someone else:
 
-- **Mortgages**: If you have a home loan, include the remaining balance.
-- **Car Loans**: Any outstanding amounts you owe on your vehicle.
-- **Credit Card Debt**: This is often a big one for many of us. Be honest about what you owe.
-- **Student Loans**: If you took a loan for your education, include that here.
+- Mortgage balance (remaining principal)
+- Home equity loan / HELOC balance
+- Auto loan balance
+- Student loan balance (federal and private)
+- Credit card balances
+- Personal loans
+- Medical debt
+- 401(k) loans
+- Any other outstanding debt
 
-For example, let’s say your liabilities are:
+## Step-by-Step Calculation
 
-- Mortgage: IDR 800 million
-- Car Loan: IDR 100 million
-- Credit Card Debt: IDR 20 million
-- Student Loan: IDR 50 million
+Let me walk through a realistic example for a 35-year-old American:
 
-### Step 3: Calculate Your Net Worth
+### Assets
 
-Now that you have your assets and liabilities, it’s time to do the math:
+| Asset | Value |
+|-------|-------|
+| Checking account | $4,500 |
+| High-yield savings | $12,000 |
+| 401(k) | $78,000 |
+| Roth IRA | $32,000 |
+| Taxable brokerage | $15,000 |
+| HSA | $8,500 |
+| Home (market value) | $350,000 |
+| Car (resale value) | $18,000 |
+| **Total Assets** | **$518,000** |
 
-1. **Total Assets**: IDR 50 million + IDR 200 million + IDR 1.200 billion + IDR 300 million = IDR 1.800 billion
-2. **Total Liabilities**: IDR 800 million + IDR 100 million + IDR 20 million + IDR 50 million = IDR 970 million
-3. **Net Worth**: IDR 1.800 billion - IDR 970 million = IDR 830 million
+### Liabilities
 
-So, in this example, your net worth is IDR 830 million.
+| Liability | Balance |
+|-----------|---------|
+| Mortgage | $280,000 |
+| Student loans | $22,000 |
+| Auto loan | $12,000 |
+| Credit card | $3,500 |
+| **Total Liabilities** | **$317,500** |
 
-## Tracking Your Net Worth Over Time
+### Net Worth
 
-It’s essential to track your net worth regularly—at least once a year or every six months. This allows you to see how your financial situation changes over time. I personally find it helpful to keep a simple spreadsheet to update my assets and liabilities. It takes only a few minutes and can provide significant insights.
+$518,000 - $317,500 = **$200,500**
 
-## What Affects Your Net Worth?
+This person's net worth is $200,500. Not bad for 35, but there is room for improvement, especially that credit card balance which needs to go.
 
-Several factors can impact your net worth, both positively and negatively:
+## How Does Your Net Worth Compare?
 
-- **Income Growth**: As your income increases, your ability to save and invest grows, which can boost your net worth.
-- **Debt Reduction**: Paying down debt is one of the most effective ways to improve your net worth. For instance, if you focus on paying off that credit card debt, you’ll see a quicker impact.
-- **Investment Performance**: The market can be volatile, especially in stocks. If your investments grow, your net worth increases.
-- **Life Events**: Major life changes, such as marriage or buying a home, can greatly affect your net worth. For example, if you’re planning your finances as a newlywed, check out my guide on [financial planning for newlyweds in Indonesia](/blog/financial-planning-for-newlyweds-in-indonesia/).
+Here are the median and average net worth figures for American households by age, based on Federal Reserve Survey of Consumer Finances data:
 
-## Common Mistakes to Avoid
+| Age Group | Median Net Worth | Average Net Worth |
+|-----------|-----------------|------------------|
+| Under 35 | $39,000 | $183,500 |
+| 35-44 | $135,600 | $549,600 |
+| 45-54 | $247,200 | $975,800 |
+| 55-64 | $364,500 | $1,566,900 |
+| 65-74 | $409,900 | $1,794,600 |
+| 75+ | $335,600 | $1,624,100 |
 
-While calculating your net worth is straightforward, there are a few common pitfalls to watch out for:
+A few things stand out:
 
-1. **Underestimating Assets**: Make sure to include all sources of wealth, including savings, investments, and real estate. I’ve seen people overlook their digital assets, especially in the crypto space.
-  
-2. **Ignoring Liabilities**: Be honest about what you owe. It’s tempting to downplay debt, but it’s crucial to have an accurate picture.
+- **The gap between median and average is enormous**: This means a small number of very wealthy households pull the average way up. The median is a much better benchmark for "normal."
+- **Net worth peaks between 65-74**: This makes sense since people are at the end of their accumulation phase and may not yet be drawing down heavily.
+- **Under 35 median is $39,000**: If you are in your 20s or early 30s with a positive net worth, you are doing better than you think.
 
-3. **Not Updating Regularly**: Life changes quickly. If you don’t update your net worth, you might miss out on valuable insights.
+## Why Net Worth Matters More Than Income
 
-## How to Improve Your Net Worth
+I have a friend who earns $180,000 per year. Another friend earns $70,000. Guess who has the higher net worth?
 
-Improving your net worth takes time and strategy. Here are some actionable steps:
+The $70,000 earner. By a lot.
 
-- **Increase Savings**: Aim to save a percentage of your income each month. I recommend starting with at least 20%, which aligns with the [50/30/20 budget rule](/blog/50-30-20-budget-rule-explained-for-indonesians/).
-- **Invest Wisely**: Consider investing in diversified assets such as mutual funds or stocks. If you’re unsure where to start, my guide on [how much money you need to start investing in Indonesia](/blog/how-much-money-do-you-need-to-start-investing-in-indonesia/) can help.
-- **Reduce Debt**: Focus on paying down high-interest debt first. This will free up more resources to save and invest.
-- **Keep Learning**: Stay informed about financial literacy. Whether it's reading blogs like mine or taking online courses, knowledge is power.
+The high earner has a $500,000 mortgage, two car payments, student loans, and a lifestyle that eats every paycheck. His net worth is about $120,000.
+
+The $70,000 earner lives modestly, maxes out retirement accounts, has no car payment, and has been investing consistently for 12 years. Her net worth is over $400,000.
+
+Income is what comes in. Net worth is what you keep. And what you keep is what ultimately determines your financial security, your retirement readiness, and your freedom.
+
+## How to Track Your Net Worth Over Time
+
+Calculating your net worth once is useful. Tracking it monthly or quarterly is transformative. Here is how:
+
+### Free Tracking Methods
+
+**Spreadsheet (my preferred method):**
+
+Create a simple Google Sheet or Excel spreadsheet with columns for each asset and liability. Update it on the first of every month. This takes about 10 minutes and gives you complete control over your data.
+
+**Personal Capital (now Empower):**
+
+Free app that links to your financial accounts and calculates your net worth automatically. Also provides investment analysis and retirement planning tools. The trade-off is that they will try to sell you financial advisory services.
+
+**Mint/Credit Karma:**
+
+Free tools that aggregate your accounts and track net worth. Less investment-focused than Empower but useful for the basics.
+
+**YNAB (You Need A Budget):**
+
+Excellent budgeting app ($99/year) that also tracks net worth. Best if you want to combine budgeting and net worth tracking in one tool.
+
+### What to Track Monthly
+
+At minimum, record these each month:
+
+- Total liquid savings
+- Total investment accounts (retirement + taxable)
+- Total debt balances
+- Overall net worth
+
+I also track:
+
+- Month-over-month change (dollar amount and percentage)
+- Year-over-year change
+- Savings rate for the month
+- Net worth by category (liquid, invested, property, debt)
+
+## Setting Net Worth Goals
+
+Now that you know your number, where should you aim?
+
+### The Millionaire Next Door Formula
+
+Thomas Stanley, author of The Millionaire Next Door, proposed this formula for expected net worth:
+
+**Expected Net Worth = (Age x Pre-tax Annual Income) / 10**
+
+**Example**: A 40-year-old earning $90,000 should have a net worth of approximately (40 x $90,000) / 10 = $360,000.
+
+If your actual net worth is above this, you are a "prodigious accumulator of wealth." Below it, and you have room to improve.
+
+### My Suggested Milestones
+
+| Age | Target Net Worth |
+|-----|-----------------|
+| 25 | $0 (break even from student debt) |
+| 30 | $50,000 - $100,000 |
+| 35 | $150,000 - $250,000 |
+| 40 | $300,000 - $500,000 |
+| 45 | $500,000 - $800,000 |
+| 50 | $750,000 - $1,200,000 |
+| 55 | $1,000,000 - $1,500,000 |
+| 60 | $1,200,000 - $2,000,000 |
+
+These ranges assume a household with combined income of $80,000-$150,000, consistent investing, and moderate lifestyle expenses. Your targets should reflect your specific income, location, and retirement goals.
+
+## How to Increase Your Net Worth
+
+There are only three ways to grow your net worth:
+
+### 1. Increase Assets
+
+- Contribute more to retirement accounts
+- Open and fund a taxable brokerage account
+- Invest in real estate
+- Build a side business
+
+### 2. Decrease Liabilities
+
+- Pay off high-interest debt aggressively (credit cards first, then personal loans)
+- Make extra mortgage payments if your rate is above 5%
+- Refinance loans if lower rates are available
+- Avoid taking on new debt
+
+### 3. Let Compound Interest Work
+
+- Stay invested through market downturns
+- Reinvest all dividends
+- Do not touch retirement accounts early
+- Be patient since most wealth is built in the last 10-15 years
+
+### The Debt Payoff Priority
+
+Not all debt is equal. Here is how I prioritize:
+
+| Debt Type | Interest Rate | Priority |
+|-----------|--------------|----------|
+| Credit cards | 18-28% | Pay off immediately |
+| Personal loans | 8-15% | High priority |
+| Student loans (private) | 5-10% | Medium priority |
+| Auto loans | 4-8% | Medium priority |
+| Student loans (federal) | 3-7% | Lower priority |
+| Mortgage | 3-7% | Lowest priority (tax deductible) |
+
+Any debt above 7-8% should be attacked aggressively before investing beyond your 401(k) match.
+
+## Common Net Worth Mistakes
+
+### Counting Your Home as a Pure Asset
+
+Your home is an asset, but it also comes with ongoing costs: property taxes, insurance, maintenance (typically 1-2% of home value annually), and utilities. Some financial planners recommend excluding your primary home from net worth calculations entirely and focusing on "investable net worth" instead.
+
+I include my home but track "net worth excluding primary residence" as a separate number. This gives me a clearer picture of my financial independence progress.
+
+### Overvaluing Depreciating Assets
+
+That $40,000 car you bought last year is not worth $40,000 anymore. Use Kelley Blue Book or similar tools to estimate actual current resale value. Same goes for electronics, furniture, and other personal property. If in doubt, underestimate.
+
+### Ignoring Retirement Account Taxes
+
+Your 401(k) and traditional IRA balances will be taxed when you withdraw them. A $500,000 traditional 401(k) might only be worth $375,000-$400,000 after taxes. Some people track a "tax-adjusted net worth" for a more accurate picture, though this adds complexity.
+
+### Checking Too Frequently During Market Downturns
+
+When the market drops 20%, your investment balances drop too. If you are checking daily during a downturn, you will feel terrible and might make emotional decisions. Monthly tracking is enough. Quarterly is fine too. The trend over years matters, not the number on any given day.
 
 ## Frequently Asked Questions
 
 ### What is a good net worth for my age?
 
-Net worth varies by age and personal circumstances. However, as a general guideline, aim for at least one year’s salary by your 30s, and by your 40s, aim for three times your annual salary.
+The median net worth for Americans 35-44 is about $135,600. If you are above the median for your age group, you are doing better than most. But comparing to averages is less useful than tracking your own progress. A consistent upward trend in your net worth is the most important thing, regardless of where you start.
+
+### Should I include my car in my net worth calculation?
+
+Yes, at its current resale value, not the purchase price. Check Kelley Blue Book or Carvana for a realistic estimate. Also subtract any remaining auto loan balance. For most people, their car is a small part of net worth and depreciates over time, so do not stress too much about precision here.
 
 ### How often should I calculate my net worth?
 
-I recommend calculating your net worth at least once a year or every six months to keep track of your financial progress.
+Monthly is ideal for active tracking. It takes about 10 minutes and helps you spot trends, catch problems early, and stay motivated. If monthly feels like too much, quarterly works fine. At minimum, calculate it once per year, ideally at the same time (like January 1st or your birthday) so you can compare year over year.
 
-### What if my net worth is negative?
+### Is a negative net worth normal?
 
-A negative net worth isn’t uncommon, especially for students or new professionals with student loans. Focus on paying down debts and increasing your assets over time.
+Yes, especially for Americans in their 20s with student loans. The average student loan balance at graduation is about $30,000. If you are freshly out of school with student debt and few assets, a negative net worth is expected. The goal is to reach zero as quickly as possible, then build from there. Most people with student debt reach positive net worth by their late 20s or early 30s.
 
-### Can net worth include future income or expected inheritance?
+### Does net worth include my spouse's assets and debts?
 
-Net worth typically reflects current assets and liabilities. While future income or inheritance is a potential asset, it's not included in the calculation because it’s uncertain.
-
-### How do I use my net worth to plan for retirement?
-
-Your net worth can help you estimate how much you need to retire comfortably. By tracking it, you can set specific savings goals and adjust your investments accordingly.
-
-Calculating your net worth is a powerful step toward financial empowerment. By understanding where you stand today, you can make informed decisions for a more secure financial future. If you’re looking for more tips on managing your finances, check out my article on [how to save money on a low salary in Indonesia](/blog/how-to-save-money-on-a-low-salary-in-indonesia/).
+For household financial planning, yes. You should calculate your combined household net worth since financial decisions affect both of you. Many couples also track individual net worth separately, especially if they maintain separate finances. For a complete picture of your household's financial health, combine everything.

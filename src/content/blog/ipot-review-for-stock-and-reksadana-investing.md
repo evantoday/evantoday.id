@@ -1,255 +1,232 @@
 ---
-title: "Honest IPOT Review for Stock Investing [2026]"
-description: "Crowded at first, but IPOT still wins many Indonesian investors. See fees, features, pros, and cons in one honest review. Here's why."
+title: "Fidelity Review [2026]: Best Free Brokerage?"
+description: "Fidelity charges $0 for stock trades and $0 minimums for index funds. But is the platform right for you? Full review of features, tools, and limitations."
 pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "investing"
-tags: ["IPOT review", "saham", "reksadana", "investing", "Indonesia"]
+tags: ["Fidelity", "brokerage review", "stock trading", "index funds", "investing platform"]
 author: "Evan"
 ---
 
-I still remember the first time I opened IPOT. I was trying to buy my first saham, and honestly, I was more nervous about the app than the market. The interface looked a bit crowded at first, but after I got used to it, I realized why so many Indonesian investors keep recommending it.
+## Why Fidelity Is My Primary Brokerage
 
-If you’re Googling **IPOT review for stock and reksadana investing**, you probably want the real answer: is it actually good, what does it cost, and is it beginner-friendly enough to trust with your uang? That’s exactly what I’m going to break down here, based on my own experience and what I’d tell a friend over kopi.
+I have accounts at four different brokerages. Fidelity is the one I trust with the most money. That is not because they have the flashiest app or the most exciting features. It is because Fidelity consistently does the boring things right: low costs, strong execution, reliable technology, and customer service that actually picks up the phone.
 
-## Key Takeaways
+Fidelity manages over $14 trillion in assets and serves over 46 million individual investors. They are one of the largest financial services companies in the world, and they are still privately held, which means they do not have to answer to Wall Street's quarterly earnings pressure. That matters more than most people realize.
 
-- IPOT is one of the most complete platforms in Indonesia for both saham and reksadana investing.
-- I think it’s stronger for active investors and people who want one app for multiple asset types.
-- The fee structure is competitive, but you still need to understand trading costs before you start.
-- The app can feel busy for beginners, so it’s not my first pick for someone who wants the simplest interface.
-- If you’re serious about learning investing, IPOT is worth considering alongside apps like Stockbit, Bibit, and Ajaib.
+Here is my full breakdown of what makes Fidelity great, where it falls short, and who it is best suited for in 2026.
 
-## What Is IPOT and Why Do So Many Indonesians Use It?
+## Fidelity at a Glance
 
-IPOT is the investing platform from Indo Premier Sekuritas. It lets you buy and sell saham, reksadana, and even ETFs in one ecosystem. That alone makes it attractive, because a lot of people hate juggling multiple apps just to build a basic portfolio.
+| Feature | Details |
+|---------|---------|
+| Stock/ETF commissions | $0 |
+| Options | $0 + $0.65/contract |
+| Mutual fund minimums | $0 for Fidelity funds |
+| Account minimum | $0 |
+| Fractional shares | Yes (as low as $1) |
+| Cash yield (SPAXX) | ~2.7% (money market sweep) |
+| Robo-advisor (Fidelity Go) | 0.35% fee, free under $25K |
+| Research tools | Excellent |
+| Customer service | 24/7 phone support |
+| Mobile app | Good (not great) |
 
-What I like about IPOT is that it feels designed for people who want more control. You can screen stocks, place orders, track your portfolio, and move between different product types without feeling boxed in. For someone who wants to learn the market properly, that matters a lot.
+## Key Features Deep Dive
 
-I’ve found that IPOT tends to appeal to two types of users. First, beginners who want to start investing in saham and reksadana without opening separate accounts everywhere. Second, more active investors who care about order types, charting, and execution. If you’re the kind of person who wants to understand what you’re buying instead of just clicking “beli” and hoping for the best, IPOT makes sense.
+### Zero-Fee Index Funds
 
-That said, it’s not the prettiest app in the market. If you’ve used Bibit or even some newer fintech apps, IPOT can feel a little more serious and less friendly. I don’t think that’s a dealbreaker. In fact, for investing, I sometimes prefer an app that feels functional over one that feels too playful.
+This is Fidelity's killer feature. They offer four zero-expense-ratio index funds:
 
-If you’re still figuring out how much money you actually need to begin, I’d recommend reading [how much money do you need to start investing Indonesia](/blog/how-much-money-do-you-need-to-start-investing-in-indonesia/) first. A lot of people overthink the platform before they even know their starting budget.
+- **FZROX**: Fidelity ZERO Total Market Index Fund
+- **FZILX**: Fidelity ZERO International Index Fund
+- **FZIPX**: Fidelity ZERO Extended Market Index Fund
+- **FNILX**: Fidelity ZERO Large Cap Index Fund
 
-## How Does IPOT Work for Stock and Reksadana Investing?
+Let me be clear about what zero expense ratio means: you pay absolutely nothing in management fees. Not 0.03%, not 0.01%. Zero. On a $100,000 investment, you save $30-$100 per year compared to already-cheap Vanguard index funds. Over decades, that compounds.
 
-IPOT works as a brokerage and investment platform. For saham, you open a securities account, deposit funds, then place buy or sell orders through the app. For reksadana, you can browse funds, compare them, and invest through the same ecosystem.
+The catch is minor: these funds are only available at Fidelity, so you cannot transfer them to another brokerage without selling. But if you plan to stay at Fidelity long-term, that is not really a catch.
 
-### Stock investing on IPOT
+### Stock and ETF Trading
 
-For saham, IPOT gives you access to the Indonesia Stock Exchange. You can search by ticker, look at price movements, and place orders. I like that the platform gives you enough tools to make informed decisions without forcing you into a super basic “tap and pray” experience.
+Fidelity offers $0 commissions on all US stock and ETF trades. Their trade execution is excellent, often providing price improvement that saves you money on each trade.
 
-The order process is straightforward once you understand it. You choose the stock, enter the number of lots, set your price, and submit. If you’ve never traded before, the first few screens may feel dense. But after two or three transactions, it becomes routine.
+According to Fidelity's execution quality statistics, they saved customers an average of $19.30 per 1,000 shares traded through price improvement. Unlike Robinhood, Fidelity routes a significant portion of orders directly to exchanges rather than selling order flow to market makers, which generally results in better execution prices.
 
-### Reksadana investing on IPOT
+### Fractional Shares
 
-For reksadana, IPOT is useful because it gives you access to a range of funds in one place. You can compare return history, risk level, and fund type. I think this is especially helpful if you’re building a long-term portfolio and want to use reksadana as a more stable part of your strategy.
+Fidelity's Stocks by the Slice feature lets you buy fractional shares of any S&P 500 stock or eligible ETF for as little as $1. This is great for:
 
-If you’re still new to reksadana and want a broader foundation, I’d also suggest checking out [how to create a monthly spending plan Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/). Investing works much better when your cash flow is under control first.
+- Building a diversified portfolio with limited capital
+- Dollar-cost averaging into expensive stocks
+- Setting up recurring automatic investments
 
-### My honest take
+### Cash Management
 
-I think IPOT is best when you want one platform for both saham and reksadana. That convenience is real. But if your only goal is passive reksadana investing and you want the simplest experience possible, a more beginner-friendly app may feel easier.
+Fidelity's cash management account is one of the best checking account alternatives available:
 
-## What Are IPOT Fees, and Are They Competitive?
+- **No monthly fees**
+- **No minimum balance**
+- **Free ATM withdrawals worldwide** (Fidelity reimburses all ATM fees)
+- **Free checks**
+- **FDIC insured** up to $5 million through partner banks
+- **Bill pay and direct deposit**
 
-Fees matter. A lot. I’ve seen people obsess over stock picks while ignoring transaction costs, and that’s a mistake. Even small fees add up if you trade regularly.
+I use Fidelity as my primary bank, and the unlimited ATM fee reimbursement alone saves me $50+ per year.
 
-Here’s a simple comparison of the typical cost structure people care about most:
+### Retirement Accounts
 
-| Feature | IPOT | What it means for you |
-|---|---:|---|
-| Stock buy fee | around 0.19% | You pay this when buying saham |
-| Stock sell fee | around 0.29% | You pay this when selling saham |
-| Minimum deposit | often low / flexible depending on account setup | Good for beginners who don’t want to lock too much cash |
-| Reksadana transaction fee | usually 0% on many funds | Helpful if you’re starting with mutual funds |
-| Account opening | generally online | Easier than the old-school paperwork days |
+Fidelity is one of the largest 401(k) administrators in the country. Your employer might already use them. Beyond that, they offer:
 
-For stock investing, I think IPOT’s fees are fair. They’re not the absolute cheapest in the market, but they’re reasonable for what you get. If you’re a long-term investor who buys and holds, the difference between 0.19% and a slightly lower fee usually won’t make or break your returns.
+- **Traditional and Roth IRAs**: $0 minimums, full range of investments
+- **SEP IRAs**: For self-employed individuals
+- **401(k) rollovers**: Smooth process with dedicated rollover specialists
+- **Fidelity Go**: Robo-advisor for hands-off retirement investing (0.35% fee, free under $25K)
 
-For reksadana, the bigger question is product availability and convenience, not just fees. If you’re putting, say, Rp500.000 per month into a money market fund, the fee structure is usually less important than whether the platform makes it easy to stay consistent.
+### Research and Analysis Tools
 
-If you like systematic investing, I’d strongly recommend learning [dollar cost averaging strategy explained](/blog/dollar-cost-averaging-strategy-explained-a-practical-guide-for-indonesians/). That approach pairs well with both saham and reksadana on IPOT.
+This is where Fidelity truly separates itself from simpler platforms like Robinhood or Webull.
 
-## Is IPOT Good for Beginners?
+**What you get for free:**
 
-Yes, but with a caveat. I think IPOT is good for beginners who are serious about learning. It’s not the easiest app in the world, but it teaches you more than some ultra-simplified platforms.
+- Equity research reports from 20+ providers
+- Screeners for stocks, ETFs, mutual funds, and bonds
+- Advanced charting with 100+ technical indicators
+- Options analysis tools including profit/loss calculator
+- Portfolio analysis with sector breakdown and risk assessment
+- Retirement planning calculator (one of the best free tools available)
+- Tax reporting and cost basis tracking
 
-### What beginners usually like
+**Active Trader Pro (free desktop platform):**
 
-- One app for saham and reksadana
-- Enough features to grow into
-- Access to market data and research tools
-- A platform from an established securities company
+- Real-time streaming quotes and charts
+- Customizable dashboards
+- Advanced order types
+- Multi-leg options trading
+- Direct market access
+- Trade alerts and watchlists
 
-### What beginners usually struggle with
+Active Trader Pro is a serious trading platform that rivals tools you would pay hundreds of dollars per month for elsewhere. And Fidelity gives it away for free.
 
-- The interface can feel crowded
-- Too many menus at once
-- More “trader-like” than “casual saver-like”
-- You need to spend a little time learning order types and navigation
+### Customer Service
 
-When I first used IPOT, I didn’t love the interface. I’ll be honest about that. But I also didn’t want an app that hid everything from me. I wanted to understand how the market works, and IPOT pushed me to learn faster.
+Fidelity's customer service is consistently rated best-in-class among brokerages:
 
-If you’re a complete beginner and you mainly want to buy reksadana with the least friction possible, I’d probably say Bibit feels smoother. But if you want to start with reksadana and eventually move into saham without changing platforms, IPOT has a strong case.
+- **24/7 phone support**: Talk to a real person any time
+- **In-person branches**: Over 200 Investor Centers across the US
+- **Virtual assistant**: AI-powered chat for quick questions
+- **Dedicated specialists**: Financial planners available at no extra charge for guidance (not fiduciary advice, but helpful)
 
-For people in their 20s especially, I think the biggest mistake is choosing an app based on design instead of behavior. The app won’t build wealth for you. Your consistency will. That’s why I always tell readers to avoid the traps I covered in [financial mistakes to avoid in your 20s](/blog/financial-mistakes-to-avoid-in-your-20s/).
+I have called Fidelity probably 15 times over the years. Average wait time has been under 5 minutes, and the representatives have been knowledgeable every time. Compare that to Robinhood, where getting a human on the phone used to be nearly impossible.
 
-## IPOT Features I Actually Like
+## What Fidelity Does Not Do Well
 
-There are a few features that make IPOT stand out for me.
+### Mobile App Experience
 
-### 1. Multi-asset investing in one app
+Let me be honest: Fidelity's mobile app is functional but not beautiful. It gets the job done, but the interface feels cluttered compared to Robinhood or even Schwab's app. Navigation can be confusing, and some features are buried in menus.
 
-This is the biggest one. You can manage saham and reksadana without splitting your attention across multiple platforms. I personally like that because it makes portfolio tracking much less annoying.
+Fidelity recently launched a redesigned app that is better, but it is still not winning any design awards. If you primarily invest on your phone and the app experience matters a lot to you, this is a real consideration.
 
-### 2. Useful market tools
+### Cryptocurrency
 
-IPOT gives you charting, stock data, and screening tools. If you’re trying to learn how to read the market, that’s valuable. You don’t need to become a full-time trader, but having access to the data helps you make better decisions.
+Fidelity offers crypto trading for Bitcoin and Ethereum through Fidelity Crypto, but the selection is extremely limited compared to dedicated crypto platforms or even Robinhood. If crypto is important to your investment strategy, you will need a separate account elsewhere.
 
-If you’re new to analysis, I’d pair IPOT with [how to read stock charts for beginners Indonesia](/blog/how-to-read-stock-charts-for-beginners-in-indonesia/). That article will help you make more sense of what you’re seeing in the app.
+### International Stock Trading
 
-### 3. Good for disciplined investing
+Fidelity offers international stock trading, but the process is clunkier than domestic trading, and fees apply ($12.49 per online trade for international stocks). If you invest heavily in individual international stocks, Interactive Brokers is a better choice.
 
-I like platforms that support routine investing. IPOT works well if you want to add funds regularly, build positions slowly, and avoid emotional decision-making. That’s the kind of behavior that usually wins in the long run.
+### Options Pricing
 
-### 4. Access to more than just one product type
+At $0.65 per options contract, Fidelity is more expensive than Robinhood ($0) and Webull ($0) for options traders. If you trade options frequently, this adds up. However, Fidelity's options research and execution quality arguably justify the fee for serious options traders.
 
-A lot of investors start with reksadana, then later want saham, ETFs, or more active strategies. IPOT lets you grow without immediately switching platforms. That flexibility is underrated.
+## Fidelity vs. the Competition
 
-## What I Don’t Like About IPOT
+| Feature | Fidelity | Charles Schwab | Vanguard | Robinhood |
+|---------|----------|---------------|----------|-----------|
+| Stock commissions | $0 | $0 | $0 | $0 |
+| Options per contract | $0.65 | $0.65 | $1.00 | $0 |
+| Zero-fee index funds | Yes (4 funds) | No | No | No |
+| Fractional shares | Yes | Yes ($5 min) | No | Yes |
+| Cash APY | ~2.7% (SPAXX) | ~0.4% | ~4.3% (VMFXX) | 1.5% (4.5% Gold) |
+| Crypto trading | Limited | Limited | No | Yes |
+| Research tools | Excellent | Excellent | Basic | Basic |
+| Mobile app | Good | Good | Fair | Excellent |
+| Customer service | Excellent | Excellent | Good | Improving |
+| Physical branches | 200+ | 300+ | Limited | None |
+| ATM fee reimbursement | Unlimited | Some | No | Some |
 
-No review is honest if it only praises the platform. IPOT does have weaknesses.
+### Fidelity vs. Schwab
 
-### The app can feel cluttered
+Both are excellent full-service brokerages. Schwab has more physical branches and a slightly better mobile app. Fidelity has zero-fee index funds and better ATM fee reimbursement. I give Fidelity a slight edge for DIY investors and Schwab a slight edge for those who want in-person support.
 
-This is the biggest complaint I have. If you’re used to clean, modern fintech apps, IPOT may feel like there’s too much information on screen. I don’t think it’s broken, but it’s not elegant.
+### Fidelity vs. Vanguard
 
-### It’s not the most beginner-friendly UI
+Vanguard pioneered low-cost investing and remains excellent for buy-and-hold investors. However, Fidelity beats Vanguard on: zero-fee funds (vs. Vanguard's already-low 0.03-0.04%), fractional shares, mobile app quality, and customer service. Vanguard's main advantage is its unique ownership structure (owned by its fund shareholders), which creates a natural alignment of interests.
 
-Some apps are better at hand-holding. IPOT expects you to learn faster. That’s fine for some people, but if you get overwhelmed easily, you may feel stuck during your first few sessions.
+### Fidelity vs. Robinhood
 
-### It can feel better for active users than passive users
+These serve different audiences. Robinhood excels at simplicity, mobile experience, and getting beginners started. Fidelity excels at everything else: research, customer service, investment selection, trade execution, and depth. Start with Robinhood if you want, but grow into Fidelity as your portfolio and needs expand.
 
-If you only want to park money in one money market fund every month, IPOT may be more than you need. In that case, a simpler reksadana app might be a better fit.
+## How I Use Fidelity
 
-### You still need to understand investing basics
+Here is my current setup across Fidelity accounts:
 
-This isn’t really a flaw, but it matters. IPOT won’t protect you from bad decisions. If you don’t understand risk, diversification, or your own time horizon, the app won’t fix that for you.
+### Taxable Brokerage Account
 
-That’s why I always tell people to understand net worth, emergency funds, and goals first. If you haven’t done that yet, read [how to calculate net worth and why it matters](/blog/how-to-calculate-net-worth-and-why-it-matters/). It’s boring, but it’s the foundation.
+- Core holding: FZROX (US total market, 0% expense ratio)
+- Secondary: FZILX (international, 0% expense ratio)
+- Individual stocks: Small allocation for companies I believe in long-term
 
-## How Does IPOT Compare With Other Popular Platforms?
+### 401(k) Rollover IRA
 
-Here’s how I’d compare IPOT with a few common alternatives, based on practical use.
+- Rolled over from a previous employer's plan
+- 80% Fidelity 500 Index Fund (FXAIX, 0.015% expense ratio)
+- 20% Fidelity US Bond Index Fund (FXNAX, 0.025% expense ratio)
 
-| Platform | Best for | Strengths | Weaknesses |
-|---|---|---|---|
-| IPOT | Saham + reksadana together | Multi-asset, solid tools, established broker | Interface can feel busy |
-| Bibit | Reksadana beginners | Simple, automated, beginner-friendly | Not ideal if you want saham too |
-| Stockbit | Saham investors | Great community, charting, stock research | Less focused on reksadana |
-| Ajaib | New investors | Easy onboarding, simple entry point | Some users outgrow it quickly |
-| Jenius / bank apps | Casual investing | Convenience, familiar banking ecosystem | Usually limited investing depth |
+### Cash Management Account
 
-My opinion? If you want to invest in both saham and reksadana seriously, IPOT is one of the better all-in-one choices. If you only want reksadana and you care about simplicity above all else, Bibit is easier. If you’re mostly focused on saham research and community discussion, Stockbit is very strong.
+- My primary checking account
+- Direct deposit goes here
+- Bills paid from here
+- ATM withdrawals anywhere with no fees
 
-I’ve also found that many Indonesians end up using more than one app. That’s not a bad thing. For example, some people keep emergency money in a high-interest savings account like Seabank, then use IPOT for investing. If you’re comparing banking tools too, my [Seabank review interest rates and features](/blog/seabank-review-interest-rates-and-features/) may help.
+### 529 College Savings
 
-## Is IPOT Safe and Trustworthy?
+- Fidelity manages several state 529 plans
+- Age-based portfolio that automatically adjusts
 
-For me, trust is a huge part of choosing a broker. You’re not just buying an app. You’re trusting a platform with your money and your transaction history.
+## Tips for Getting the Most Out of Fidelity
 
-IPOT is operated by Indo Premier Sekuritas, which is a known player in the Indonesian market. That matters. I always feel better when I’m dealing with an established securities company rather than a random flashy startup with no real track record.
+1. **Switch your core position to SPAXX**: The default cash sweep may not be the highest-yielding option. SPAXX (Fidelity Government Money Market) typically offers better returns.
+2. **Use the ZERO funds for taxable accounts**: The zero expense ratio makes these ideal for taxable accounts where every basis point matters.
+3. **Set up automatic investments**: Schedule weekly or monthly auto-investments to enforce dollar-cost averaging.
+4. **Take advantage of Active Trader Pro**: Even if you are not an active trader, the charting and screening tools are valuable for research.
+5. **Use the retirement planning tool**: Fidelity's free retirement calculator is one of the most comprehensive available. Run your numbers at least once a year.
+6. **Open the cash management account**: Even if you keep your primary bank, having Fidelity's CMA for travel (unlimited ATM reimbursement) is worth it.
 
-That said, safety isn’t just about the company name. You should also protect your own account. I recommend using a strong password, enabling any available security features, and keeping your login details private. Don’t share your OTP with anyone. Ever.
+## The Bottom Line
 
-If you’re investing in saham through any platform, remember that your biggest risk is usually not the app itself. It’s poor decision-making, panic selling, and overconcentration in one stock. I’ve seen people blame the platform when the real issue was that they put too much money into a speculative name.
+Fidelity is not the most exciting brokerage. It will not send you confetti when you make a trade. The app will not make you feel like a Wall Street wizard. But it will charge you nothing for excellent index funds, execute your trades at great prices, answer the phone when you call, and provide research tools that help you make informed decisions.
 
-If you’re still deciding what kind of assets fit your personality, it’s worth understanding the difference between stocks, ETFs, and even crypto. My guide on [ETF investing in Indonesia explained](/blog/etf-investing-in-indonesia-explained/) is a good place to start if you want something a little more diversified than individual saham.
-
-## How Do You Start Investing on IPOT? 
-
-If you want a practical step-by-step, here’s how I’d do it.
-
-### Step 1: Open the account
-
-Download the app or register through IPOT’s onboarding process. You’ll usually need your KTP, NPWP if available, bank account details, and some personal information. Make sure the name on your bank account matches your identity details.
-
-### Step 2: Complete verification
-
-This part can take some time. Don’t rush it. I’ve found that people often get stuck because they upload blurry documents or enter inconsistent data.
-
-### Step 3: Fund your account
-
-Transfer money into the account according to the instructions in the app. Start small if you’re new. Even Rp500.000 is enough to learn the mechanics without taking unnecessary risk.
-
-### Step 4: Choose your first investment
-
-If you’re a beginner, I’d usually suggest starting with reksadana money market or a very simple blue-chip stock strategy rather than chasing hype. Don’t buy something just because it’s trending on social media.
-
-### Step 5: Set a routine
-
-The real magic is consistency. Decide whether you’ll invest weekly or monthly. For example, Rp1.000.000 per month split between reksadana and a few saham positions is much better than random emotional buying.
-
-### Step 6: Review and adjust
-
-Check your portfolio every month, not every ten minutes. If you’re investing for the long term, constant checking usually makes you worse, not better.
-
-If you want a more structured approach to building a portfolio, I recommend reading [how to financially prepare for retirement Indonesia](/blog/how-to-financially-prepare-for-retirement-in-indonesia/). It helps you think beyond short-term gains.
-
-## Who Should Use IPOT?
-
-I think IPOT is a good fit if you are:
-
-- An Indonesian investor who wants saham and reksadana in one place
-- Someone willing to learn a slightly more advanced interface
-- A long-term investor who values flexibility
-- A beginner who wants room to grow
-- An active investor who likes tools and data
-
-It may not be ideal if you are:
-
-- Someone who wants the simplest possible reksadana app
-- A person who gets overwhelmed by too many features
-- A casual user who only wants to invest once in a while
-- Someone who hates learning platform navigation
-
-In my experience, the best investing app is the one you’ll actually use consistently. Not the one with the fanciest marketing.
-
-## My Final Verdict on IPOT
-
-Here’s my honest IPOT review for stock and reksadana investing: I think it’s one of the most practical platforms in Indonesia if you want serious investing options in one place.
-
-It’s not the prettiest app. It’s not the easiest app for absolute beginners. But it is a solid, capable platform that gives you access to saham and reksadana without making you split everything across multiple services.
-
-If you’re just starting out and want pure simplicity, I’d probably lean toward a more beginner-friendly reksadana app. But if you want to learn, grow, and eventually take investing more seriously, IPOT is worth your attention.
-
-Personally, I see IPOT as a “grow with you” platform. That’s a big compliment. Too many apps are either too basic or too chaotic. IPOT sits in a useful middle ground.
+For the majority of American investors, from beginners with $100 to retirees with $1 million+, Fidelity is the best overall brokerage available in 2026. It is my top recommendation and where I keep the bulk of my own money.
 
 ## Frequently Asked Questions
 
-### Is IPOT good for beginners?
+### Is Fidelity good for beginners?
 
-Yes, but only if you’re willing to learn a bit. I think it’s beginner-friendly enough for someone serious about investing, but not the easiest app on the market. If you want the simplest experience, a dedicated reksadana app may feel smoother.
+Yes, though the interface has a steeper learning curve than Robinhood. Fidelity offsets this with $0 minimums, fractional shares from $1, excellent educational resources, and customer service that can walk you through anything. If you are willing to spend 30 minutes learning the platform, Fidelity is a better long-term choice than simpler apps.
 
-### Can I invest in both saham and reksadana on IPOT?
+### Are Fidelity's ZERO funds as good as Vanguard index funds?
 
-Yes, that’s one of IPOT’s biggest strengths. You can manage saham and reksadana in the same ecosystem, which makes tracking your portfolio easier. I personally like that because it reduces app fatigue.
+The performance is virtually identical. FZROX tracks the same broad US stock market as Vanguard's VTI or VTSAX. The main difference is the 0.00% expense ratio vs. Vanguard's 0.03%. Over 30 years on a $100,000 investment, that saves you roughly $2,000-$3,000. Not life-changing, but free is free.
 
-### How much money do I need to start on IPOT?
+### Does Fidelity sell my order flow?
 
-You can start with a relatively small amount, and I’d say Rp100.000 to Rp500.000 is enough to learn the platform without pressure. The exact amount depends on what you’re buying and your strategy. For many beginners, starting small is smarter than trying to be perfect.
+Fidelity routes a significant portion of orders directly to exchanges, which is different from Robinhood's approach of selling nearly all order flow to market makers. Fidelity does receive some payment for order flow, but their execution quality statistics suggest they prioritize price improvement for customers. In practice, Fidelity's trade execution is among the best in the industry.
 
-### Is IPOT cheaper than other investing apps?
+### Should I use Fidelity or my bank for checking?
 
-It depends on what you compare. For saham, the fees are competitive and reasonable. For reksadana, the bigger advantage is convenience and product access rather than ultra-low cost.
+Fidelity's cash management account beats most bank checking accounts: no fees, no minimums, unlimited ATM fee reimbursement worldwide, and FDIC insurance up to $5 million. The main thing you lose is the ability to deposit physical cash (you would need to deposit at a bank first, then transfer). If you rarely handle physical cash, Fidelity is the better option.
 
-### Is IPOT safe to use?
+### Can I transfer my accounts from another brokerage to Fidelity?
 
-I consider IPOT a trustworthy platform because it’s backed by an established securities company. But your own security habits matter too. Use strong passwords, keep your account details private, and never share OTP codes.
-
-### Should I use IPOT or Bibit?
-
-If you only want reksadana and want the easiest experience, I’d choose Bibit. If you want both saham and reksadana in one place, IPOT is stronger. That’s the simplest way I’d frame it.
-
+Yes. Fidelity makes account transfers straightforward through their ACATS (Automated Customer Account Transfer Service) process. Most transfers complete within 5-7 business days. If you are transferring from Robinhood, Schwab, or Vanguard, Fidelity has specific transfer guides for each. Note that Fidelity's ZERO funds cannot be transferred out to other brokerages, but standard index funds and ETFs transfer without issues.

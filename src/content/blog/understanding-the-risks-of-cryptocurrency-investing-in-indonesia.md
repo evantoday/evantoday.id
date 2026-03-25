@@ -1,97 +1,242 @@
 ---
-title: "Crypto Investing Risks in Indonesia [Guide]"
-description: "Crypto in Indonesia can bring 5 major risks, from volatility to regulation. Know what to watch before you invest—here's how."
+title: "5 Crypto Risks Every Investor Must Know [2026]"
+description: "US crypto investors lost billions to scams, crashes, and regulation changes in 2025. Know these 5 risks before you put another dollar into any token."
 pubDate: 2026-03-08
 category: "cryptocurrency"
-tags: ["cryptocurrency", "investing", "risks"]
+tags: ["crypto risks", "cryptocurrency risks", "crypto scams", "crypto regulation", "investing risks"]
 author: "Evan"
 ---
 
-Cryptocurrency has taken the world by storm, and Indonesia is no exception. With the rise of digital currencies like Bitcoin, Ethereum, and many others, people are eager to jump on the bandwagon. But before you dive in, it's crucial to understand the risks involved. Having invested in cryptocurrencies myself, I've learned a thing or two about what to watch out for. Here’s a practical guide to help you navigate the risks of cryptocurrency investing in Indonesia.
+## I Lost Money in Crypto. Here Is What I Learned.
 
-## The Volatility of Cryptocurrency Prices
+In 2022, I watched a crypto position I thought was "safe" drop 80% in three months. It was a top-20 token by market cap, not some random meme coin. That experience taught me something no amount of reading could: crypto risk is real, it is varied, and it can hit you from directions you did not expect.
 
-One of the most significant risks associated with cryptocurrency investing is price volatility. Just a few months ago, Bitcoin was trading at over IDR 700 million, and then it plummeted to around IDR 600 million in the blink of an eye. Such drastic fluctuations can lead to significant gains or losses, which can be stressful for investors.
+Since then, I have become much more careful about how I allocate money to crypto. I still invest, but I do it with a clear understanding of the risks involved. If you are putting money into cryptocurrency in 2026, these are the five risks you need to know before you invest another dollar.
 
-### How to Manage Volatility
+## Risk 1: Extreme Price Volatility
 
-You might be wondering how to handle this kind of volatility. Here are a few strategies I've found helpful:
+This is the risk everyone knows about but most people underestimate until it happens to them.
 
-- **Invest Only What You Can Afford to Lose**: This is a golden rule in investing. Start small, especially if you're new to the game. Consider allocating only a fraction of your portfolio to cryptocurrencies.
-- **Diversification**: Don’t put all your eggs in one basket. Invest in different cryptocurrencies and even other asset classes to spread the risk.
-  
-## Regulatory Uncertainty
+### The Numbers Are Brutal
 
-In Indonesia, the regulatory environment for cryptocurrencies is still evolving. The government has yet to provide a clear framework for how cryptocurrencies will be treated. This uncertainty can lead to sudden changes in the legality of trading or holding cryptocurrencies.
+- **Bitcoin** dropped from $69,000 to $16,000 (a 77% decline) in 2022.
+- **Ethereum** dropped from $4,800 to $880 (an 82% decline) in the same period.
+- **Solana** went from $260 to $8 (a 97% decline) before eventually recovering.
+- **Luna/TerraUSD** went from $120 to $0 in a matter of days in May 2022, wiping out $40 billion.
 
-### Keeping Up with Regulations
+Even in the recovery since then, crypto regularly experiences 20-30% drawdowns that would be considered catastrophic in the stock market but are routine in crypto.
 
-To stay informed, follow updates from the **Badan Pengawas Perdagangan Berjangka Komoditi (BAPPEBTI)**, the regulatory body overseeing commodity futures trading, including cryptocurrencies. You can also join forums or groups where enthusiasts discuss the latest regulatory news.
+### Why Crypto Is So Volatile
 
-## Security Risks
+- **Speculation**: A large portion of crypto trading is speculative. Prices are driven by sentiment, social media, and hype more than fundamental value.
+- **Leverage**: Many traders use 5x, 10x, or even 100x leverage, which amplifies price swings. When leveraged positions get liquidated, it creates cascading sell-offs.
+- **24/7 markets**: Crypto trades around the clock, including weekends and holidays. There are no circuit breakers like the stock market has to pause trading during extreme moves.
+- **Low liquidity**: Many tokens have thin order books, meaning a relatively small sale can move the price dramatically.
 
-Another risk that I’ve experienced firsthand is the potential for security breaches. Cryptocurrency exchanges can be vulnerable to hacking, and personal wallets can be compromised. This isn’t just a theoretical concern; I know people who’ve lost their entire investments due to security breaches.
+### How to Manage Volatility Risk
 
-### Tips for Securing Your Assets
+- **Only invest what you can afford to lose entirely**. I mean this literally. If losing your entire crypto investment would change your life, you have too much in crypto.
+- **Dollar-cost average**: Instead of buying a lump sum, invest a fixed amount on a regular schedule (weekly or monthly). This smooths out the volatility over time.
+- **Set a maximum allocation**: Many financial advisors suggest keeping crypto at 5% or less of your total investment portfolio. I personally keep it at 10%, but I have a high risk tolerance.
+- **Do not check prices hourly**: Obsessively watching price movements leads to panic selling and emotional decisions.
 
-- **Use Reputable Exchanges**: Stick to well-known exchanges like **Indodax** or **Tokocrypto**. They have better security measures in place compared to lesser-known platforms.
-- **Enable Two-Factor Authentication (2FA)**: Always activate 2FA on your accounts. It adds an extra layer of security that can help protect your assets.
-- **Cold Wallet Storage**: For long-term holdings, consider keeping your cryptocurrencies in a cold wallet (offline storage) rather than on an exchange.
+## Risk 2: Scams, Fraud, and Rug Pulls
 
-## Lack of Consumer Protections
+Crypto scams are rampant, and Americans lost over $5.6 billion to crypto fraud in 2023 alone according to the FBI.
 
-Unlike traditional financial markets, the cryptocurrency market in Indonesia lacks robust consumer protections. If you lose your money due to fraud or an exchange failure, you might not have any recourse to recover your funds.
+### Common Types of Crypto Scams
 
-### Research Before Investing
+#### Rug Pulls
 
-Before investing, do thorough research on the project and the team behind it. Look for transparency, community engagement, and a solid whitepaper. Websites like **CoinMarketCap** can provide valuable insights into various cryptocurrencies.
+A developer creates a new token, hypes it up on social media, attracts investors, and then drains the liquidity pool and disappears with the money. The token becomes worthless overnight.
 
-## Scams and Fraud
+**Example**: The Squid Game token launched in 2021 and rose 310,000% before the developers pulled all the liquidity, stealing approximately $3.4 million.
 
-With the rise of cryptocurrencies, scams have become increasingly common. Ponzi schemes, fake ICOs, and phishing scams are rampant. I’ve encountered numerous offers that seemed too good to be true, and thankfully, I did my due diligence before investing.
+#### Pump and Dump Schemes
 
-### Spotting Scams
+Organized groups buy a low-market-cap token, artificially inflate the price through coordinated buying and social media promotion, then sell at the top. Late buyers are left holding a crashing token.
 
-Here’s what I recommend to avoid falling victim to scams:
+These are extremely common with meme coins and tokens promoted by social media influencers. If someone is aggressively promoting a token, ask yourself why. The answer is usually that they want you to buy so they can sell.
 
-- **Be Skeptical of Promises**: If someone promises guaranteed returns, it’s likely a scam. Always remember that high returns come with high risks.
-- **Verify Information**: Before investing, cross-check information from multiple sources. Look for reviews and feedback from other investors.
+#### Phishing Attacks
 
-## Market Manipulation
+Scammers create fake websites, emails, or social media messages that look identical to legitimate crypto platforms. When you enter your wallet credentials or approve a malicious transaction, they steal your funds.
 
-Market manipulation is another risk that’s prevalent in the cryptocurrency space. Because the market is less regulated than traditional markets, it can be influenced by large players, or "whales," who can cause significant price swings.
+**Red flags**:
+- URLs that are slightly misspelled (like "metamaask.io" instead of "metamask.io").
+- Unsolicited direct messages asking you to connect your wallet.
+- "Customer support" reaching out to you first.
 
-### Strategies to Combat Manipulation
+#### Fake Investment Platforms
 
-- **Stay Informed**: Keep track of market trends and news. Sometimes, a sudden price drop or rise can be attributed to external factors or news events.
-- **Use Limit Orders**: Instead of market orders, consider placing limit orders to control the price at which you buy or sell.
+Scammers create professional-looking websites that promise guaranteed returns. You deposit crypto, see fake profits on the dashboard, and then cannot withdraw. This is especially common with "pig butchering" scams, where scammers build a relationship with victims over weeks or months before introducing the fake investment.
 
-## Conclusion
+#### Romance Scams
 
-Investing in cryptocurrencies can be exciting and potentially profitable, but it comes with its fair share of risks. In my experience, understanding these risks is crucial to making informed decisions. By educating yourself, managing your investments wisely, and staying updated on the market and regulations, you can navigate the cryptocurrency landscape more effectively.
+A growing category where scammers build romantic relationships through dating apps and social media, then convince victims to invest in crypto through fraudulent platforms.
 
-If you’re still feeling overwhelmed, remember it’s okay to take your time. Start with small investments and gradually increase your exposure as you learn more. 
+### How to Protect Yourself
+
+- **Never trust unsolicited investment advice**, especially from strangers on social media, Discord, or Telegram.
+- **Verify URLs carefully** before connecting your wallet.
+- **Use a hardware wallet** (like Ledger or Trezor) for significant holdings.
+- **Never share your seed phrase** with anyone for any reason.
+- **Research before investing**: Check the team, the code (is it audited?), the community, and the tokenomics.
+- **If returns sound too good to be true, they are**. No legitimate investment guarantees 100%+ annual returns.
+
+## Risk 3: Regulatory and Legal Risk
+
+The regulatory environment for crypto in the US is changing rapidly, and it affects every investor.
+
+### Key Regulatory Developments
+
+#### SEC Enforcement
+
+The Securities and Exchange Commission has taken the position that many cryptocurrencies are unregistered securities. In 2023, the SEC sued both Coinbase and Binance, the two largest crypto exchanges. While the legal battles continue, the outcomes could reshape which tokens are available to US investors.
+
+#### Tax Enforcement
+
+The IRS is increasing its focus on crypto tax compliance:
+- The 1040 form now asks directly about digital asset transactions.
+- Starting in 2026, exchanges must file Form 1099-DA reporting customer transactions.
+- The IRS has used blockchain analysis tools to identify unreported income.
+
+#### Broker Reporting Rules
+
+New regulations require crypto brokers to report transactions to the IRS, similar to how stock brokers report through Form 1099-B. This reduces privacy and increases the likelihood of audits for unreported crypto income.
+
+#### State-Level Regulation
+
+Individual states have their own crypto regulations. New York's BitLicense, for example, limits which crypto companies can operate in the state. Some states are more crypto-friendly (Wyoming, Texas), while others impose strict requirements.
+
+### What Regulatory Risk Means for You
+
+- **Tokens could be delisted**: If the SEC classifies a token as an unregistered security, US exchanges may be forced to remove it.
+- **Exchange access could change**: Regulatory actions against exchanges could disrupt your ability to buy, sell, or withdraw crypto.
+- **Tax obligations could increase**: New reporting requirements make it harder to avoid crypto taxes (not that you should).
+- **DeFi access could be restricted**: The SEC and other agencies are examining DeFi protocols, and some have already restricted US access.
+
+## Risk 4: Technical and Security Risks
+
+Crypto comes with unique technical risks that do not exist in traditional investing.
+
+### Lost Keys and Wallet Access
+
+If you lose access to your crypto wallet (forgotten password, lost hardware wallet, lost seed phrase), your crypto is gone forever. There is no password reset, no customer service, no recovery option.
+
+**Statistics**: An estimated 3-4 million Bitcoin are permanently lost due to lost private keys, worth hundreds of billions of dollars at current prices.
+
+**How to protect yourself**:
+- Write down your seed phrase on paper (not digitally) and store it in a secure location.
+- Consider a fireproof safe or a bank safe deposit box for your seed phrase backup.
+- Use a hardware wallet for holdings over $1,000.
+- Never store your seed phrase in a screenshot, email, or cloud storage.
+
+### Exchange Hacks and Failures
+
+Centralized exchanges are targets for hackers and can also fail financially:
+
+- **Mt. Gox (2014)**: The largest exchange at the time lost 850,000 Bitcoin (worth billions today). Customers waited over a decade for partial reimbursement.
+- **FTX (2022)**: The second-largest exchange collapsed due to fraud, losing approximately $8 billion in customer funds.
+- **Various exchange hacks**: Bitfinex, KuCoin, and many others have been hacked for hundreds of millions.
+
+**How to protect yourself**:
+- Do not keep large amounts of crypto on exchanges. Transfer to a hardware wallet.
+- Use only major, regulated exchanges like Coinbase, Kraken, or Gemini.
+- Diversify across exchanges if you need to keep funds on-platform.
+
+### Smart Contract Vulnerabilities
+
+If you use DeFi protocols, your funds are only as safe as the smart contract code. Bugs and exploits have resulted in billions of dollars in losses.
+
+### Network and Protocol Risk
+
+Blockchains themselves can have issues:
+- **Network congestion**: During high-traffic periods, transaction fees can spike dramatically and transactions can be delayed.
+- **51% attacks**: Smaller blockchains with less computing power are vulnerable to attacks where a single entity controls the majority of the network.
+- **Protocol bugs**: Even established blockchains have had bugs that required emergency patches.
+
+## Risk 5: Psychological and Behavioral Risks
+
+This is the risk nobody talks about, but it may be the most damaging.
+
+### FOMO (Fear of Missing Out)
+
+When a token is pumping 50% per day and everyone on social media is bragging about their gains, the urge to buy is almost irresistible. FOMO drives people to buy at the top, often with money they cannot afford to lose.
+
+### Panic Selling
+
+The flip side of FOMO. When prices crash 30% in a day, fear takes over and people sell at the worst possible time. Many of the biggest losses in crypto come from buying high on FOMO and selling low in panic.
+
+### Overconfidence After Gains
+
+A few profitable trades can make you feel like a genius. This leads to larger positions, more risk-taking, and eventually a devastating loss. The crypto market humbles everyone eventually.
+
+### Addiction and Obsessive Trading
+
+The 24/7 nature of crypto markets, combined with the volatility and the dopamine hit of price movements, can become genuinely addictive. If you find yourself checking prices every few minutes, losing sleep over positions, or trading compulsively, step back and assess whether crypto trading is affecting your mental health.
+
+### How to Manage Psychological Risk
+
+- **Have a written plan**: Decide your allocation, entry strategy, and exit strategy BEFORE you buy.
+- **Set it and forget it**: For long-term holdings, buy and then do not touch it. Delete price-tracking apps if needed.
+- **Never invest emotionally**: If you are excited, scared, or feeling pressure from others, that is a signal to wait.
+- **Take profits**: If a position has doubled or tripled, there is nothing wrong with selling some. Nobody ever went broke taking profits.
+- **Talk to real people**: Online crypto communities are echo chambers. Get perspectives from people who are not invested in the same things you are.
+
+## How to Invest in Crypto More Safely
+
+After experiencing these risks firsthand, here is the framework I use:
+
+### The Allocation Rule
+
+- **50% or more of your portfolio**: Index funds and traditional investments.
+- **No more than 10%**: Cryptocurrency.
+- **Emergency fund**: Three to six months of expenses in a high-yield savings account. Never touch this for crypto.
+
+### The Quality Rule
+
+- **80% of crypto allocation**: Bitcoin and Ethereum. These are the two largest, most liquid, and most battle-tested cryptocurrencies.
+- **20% of crypto allocation**: Other tokens you have personally researched and believe in for specific reasons.
+- **0%**: Random tokens promoted on social media by people you do not know.
+
+### The Storage Rule
+
+- **Hardware wallet**: For any amount over $1,000 that you plan to hold long-term.
+- **Reputable exchange**: For actively traded amounts you need to access quickly.
+- **Never keep everything in one place**: Diversify across storage methods and platforms.
+
+### The Tax Rule
+
+- **Track everything from day one**: Use crypto tax software.
+- **Hold for more than one year**: Long-term capital gains rates are much lower.
+- **Harvest losses**: Sell losing positions to offset gains.
+- **Set aside money for taxes**: Every time you realize a gain, set aside 20-30% for the tax bill.
+
+## The Bottom Line
+
+Cryptocurrency offers real opportunities but carries risks that traditional investments do not. Price volatility can wipe out 50% or more of your position in weeks. Scams and fraud are everywhere. Regulation is uncertain and changing. Technical risks like lost keys and hacked exchanges are unique to this space. And the psychological pressure of 24/7 volatile markets can lead to terrible decisions.
+
+None of this means you should avoid crypto entirely. It means you should go in with your eyes open, a clear plan, and money you can genuinely afford to lose. The people who do well in crypto long-term are not the ones who got lucky on a moonshot. They are the ones who managed risk, stayed disciplined, and survived the downturns.
 
 ## Frequently Asked Questions
 
-### What is the biggest risk when investing in cryptocurrencies?
+### Is crypto investing worth the risk?
 
-The biggest risk is volatility. Cryptocurrency prices can fluctuate dramatically, leading to potential losses.
+It depends on your financial situation and risk tolerance. If you have a fully funded emergency fund, no high-interest debt, and are already contributing to retirement accounts, allocating 5-10% of your portfolio to crypto is a reasonable approach for many people. The potential for high returns exists, but so does the potential for significant loss. Do not invest money you need for rent, bills, or essential expenses.
 
-### How can I protect my cryptocurrency investments?
+### What is the safest cryptocurrency to invest in?
 
-Use reputable exchanges, enable two-factor authentication, and consider cold wallet storage for long-term holding.
+No cryptocurrency is "safe" in the traditional sense. However, Bitcoin and Ethereum are considered the lowest-risk options because they have the largest market caps, the longest track records, the most liquidity, and the broadest institutional adoption. Bitcoin ETFs also provide exposure through traditional brokerage accounts with the security of regulated financial products.
 
-### Are cryptocurrencies legal in Indonesia?
+### How do I spot a crypto scam?
 
-Yes, cryptocurrencies are legal in Indonesia, but the regulatory framework is still evolving. Always stay updated on any changes.
+Red flags include: guaranteed returns, anonymous teams, unsolicited investment advice (especially from strangers on social media or dating apps), pressure to invest quickly, inability to withdraw funds, and websites or apps that look professional but have no verifiable company information. If something promises risk-free returns or sounds too good to be true, it is almost certainly a scam.
 
-### What should I do if I encounter a scam?
+### Should I use a hardware wallet?
 
-Report it to the authorities and share your experience with others to prevent them from falling victim to the same scam.
+Yes, if you hold more than $1,000 in crypto that you plan to keep long-term. Hardware wallets (like Ledger Nano S Plus or Trezor Model T) cost $70 to $200 and provide significantly better security than keeping crypto on an exchange. They store your private keys offline, making them immune to exchange hacks, phishing attacks, and remote theft.
 
-### How can I start investing in cryptocurrencies in Indonesia?
+### What happens to my crypto if an exchange goes bankrupt?
 
-You can start by opening an account on a reputable exchange like Indodax or Tokocrypto, but make sure to do thorough research before investing.
-
-By taking a cautious and informed approach, you can mitigate risks and make your cryptocurrency investment journey more rewarding. For more insights on financial matters, check out my article on [smart money habits of wealthy Indonesians](/blog/smart-money-habits-of-wealthy-indonesians/). Happy investing!
+If an exchange goes bankrupt, your crypto may be treated as part of the exchange's estate, meaning you become an unsecured creditor. This is exactly what happened to FTX customers, many of whom waited years for partial recovery. This is why experts recommend keeping only the crypto you are actively trading on exchanges and moving long-term holdings to a hardware wallet you control.

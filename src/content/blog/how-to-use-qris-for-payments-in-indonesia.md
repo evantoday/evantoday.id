@@ -1,108 +1,227 @@
 ---
-title: "QRIS Payments in Indonesia: Essential Guide [2026]"
-description: "Paying with QRIS is fast and widely accepted across Indonesia. See how the standard works in minutes—the setup is simple."
+title: "How to Set Up Apple Pay and Google Pay [2026]"
+description: "Tap to pay at 90% of US merchants. Set up Apple Pay or Google Pay in 2 minutes—step-by-step guide for iPhone and Android with tips on security and rewards."
 pubDate: 2026-03-07
 category: "fintech"
-tags: ["QRIS", "payments", "fintech"]
+tags: ["Apple Pay", "Google Pay", "contactless payment", "mobile wallet", "tap to pay"]
 author: "Evan"
 ---
 
-## Understanding QRIS in Indonesia
+## Why I Stopped Carrying My Wallet
 
-If you've been living in Indonesia for a while, you might have noticed how digital payments have taken over. One of the most popular methods right now is QRIS, or Quick Response Code Indonesian Standard. It’s a standardized QR code system that allows you to make payments easily and quickly, whether you're at a local warung or doing your shopping at a big mall.
+About a year ago, I left my wallet at home by accident and did not realize it until I was already at the grocery store. Normally that would mean turning around and driving back. Instead, I pulled out my phone, held it near the card reader, and paid with Apple Pay in two seconds. That was the moment I realized I barely need a physical wallet anymore.
 
-I remember when I first encountered QRIS. I was at a small coffee shop in Yogyakarta, and I saw a sign that said they accepted QRIS payments. I was a bit skeptical at first, but after trying it out, I was hooked. It made my life so much easier, especially when I didn't want to carry cash around.
+Contactless mobile payments through Apple Pay and Google Pay are now accepted at over 90% of US merchants. If you have not set these up yet, you are missing out on one of the easiest quality-of-life upgrades available. This guide walks you through setup on both iPhone and Android, plus tips on security and maximizing your rewards.
 
-## Setting Up QRIS on Your Device
+## Apple Pay vs Google Pay: Quick Comparison
 
-### Choosing a Payment App
+| Feature | Apple Pay | Google Pay |
+|---|---|---|
+| Devices | iPhone, Apple Watch, iPad, Mac | Android phones, Wear OS watches |
+| Supported cards | Credit, debit, prepaid, transit | Credit, debit, prepaid, transit |
+| Authentication | Face ID, Touch ID, passcode | Fingerprint, PIN, face unlock |
+| In-store payments | NFC tap | NFC tap |
+| Online payments | Safari, Apple Pay button | Chrome, Google Pay button |
+| P2P transfers | Yes (via Apple Cash) | Yes (via Google Wallet) |
+| Rewards passes | Yes (via Wallet app) | Yes (via Google Wallet) |
+| Transit cards | Select cities | Select cities |
+| Bank compatibility | 4,000+ US banks | 3,000+ US banks |
+| Cost | Free | Free |
 
-To start using QRIS, you'll need a digital wallet that supports it. Some popular options in Indonesia include:
+Both work essentially the same way for in-store payments. The main difference is which phone you have. iPhone users get Apple Pay. Android users get Google Pay (now part of Google Wallet).
 
-- **GoPay**: Popular app linked to Gojek services.
-- **DANA**: Offers various features beyond just payments.
-- **OVO**: Widely accepted in many retail outlets.
-- **LinkAja**: Integrates various services from different providers.
+## How to Set Up Apple Pay (iPhone)
 
-I've personally used DANA for most of my transactions. It's user-friendly, and I find it easy to track my spending.
+Setting up Apple Pay takes about two minutes.
 
-### Downloading and Registering
+### Step 1: Open the Wallet App
 
-1. **Download the App**: Head to the Google Play Store or Apple App Store to download your chosen app.
-2. **Register**: Follow the on-screen instructions to create your account. You’ll typically need to provide your phone number, email, and create a password.
-3. **Link Your Bank Account**: Most apps allow you to link your bank account or add funds using bank transfers. For instance, with DANA, you can easily transfer money from your BCA account.
+Every iPhone comes with the Wallet app pre-installed. Open it by tapping the Wallet icon on your home screen or searching for "Wallet" in Spotlight.
 
-### Activating QRIS
+### Step 2: Add a Card
 
-Once registered, look for the QRIS feature in your app. Each app has a slightly different interface, but you should find an option that says “Pay” or “QRIS.” 
+1. Tap the "+" button in the top right corner.
+2. Select "Debit or Credit Card."
+3. You have two options:
+   - **Scan your card**: Hold your card in front of the camera, and the app automatically reads the card number, expiration date, and name.
+   - **Enter manually**: Type in your card details if scanning does not work.
 
-## Making Payments with QRIS
+### Step 3: Verify Your Card
 
-### Scanning QR Codes
+Your bank needs to verify that you are the cardholder. Common verification methods:
 
-1. **Find the QR Code**: When you're ready to pay, look for the QRIS code at the merchant's location. It’s usually displayed prominently at the cash register.
-2. **Open Your Payment App**: Launch the app you’ve chosen and navigate to the QRIS payment feature.
-3. **Scan the QR Code**: Use the app’s scanner to capture the QR code displayed. Make sure you have good lighting for accurate scanning.
-4. **Enter the Amount**: Some apps automatically fill in the payment amount, but you might need to enter it manually in some cases.
-5. **Confirm Payment**: Review the details and confirm the transaction. You’ll usually receive a notification or receipt in the app once the payment is successful.
+- **Text message**: A verification code sent to your phone number on file.
+- **Email**: A code sent to your email address on file.
+- **Phone call**: A call from your bank with a verification code.
+- **Banking app**: Some banks let you verify through their own app.
 
-### Tip: Save Your Frequently Used Merchants
+This step usually takes 30 seconds to 2 minutes.
 
-Many apps allow you to save merchants you frequently visit. This can save you time in the future when you want to make quick payments.
+### Step 4: Start Using Apple Pay
 
-## Benefits of Using QRIS
+Once verified, your card is ready to use.
 
-### Convenience
+- **In stores**: Hold your iPhone near the contactless payment terminal. Authenticate with Face ID (look at your phone) or Touch ID (press your fingerprint). Done.
+- **On Apple Watch**: Double-click the side button, hold your watch near the terminal. No authentication needed beyond the watch being unlocked.
+- **Online**: When you see the "Apple Pay" button on a website or in an app, tap it and authenticate.
 
-One of the best parts about using QRIS is convenience. You don’t need to carry cash, and transactions are completed in seconds. I remember when I had to dig through my wallet to find the right bills. Now, I just whip out my phone and scan.
+### Adding Multiple Cards
 
-### Security
+You can add up to 12 cards to Apple Pay (varies by device). Your first card becomes the default, but you can change it in Settings > Wallet & Apple Pay > Default Card. You can also choose a different card at the time of purchase by opening Wallet and selecting the card before holding your phone to the terminal.
 
-Payments via QRIS are generally secure. When you scan a QR code, you reduce the risk of handling cash, which can be a breeding ground for germs. Plus, your payment information is encrypted, reducing the risk of fraud.
+## How to Set Up Google Pay (Android)
 
-### Wider Acceptance
+The setup process on Android is equally simple.
 
-QRIS is rapidly being adopted across Indonesia. From street vendors to major retailers, you can use it almost anywhere. I was pleasantly surprised when I found out even my favorite local nasi goreng stall accepted QRIS payments!
+### Step 1: Download Google Wallet
+
+Most Android phones come with Google Wallet pre-installed. If not, download it from the Google Play Store. (Note: Google Wallet replaced the old Google Pay app in 2022.)
+
+### Step 2: Add a Card
+
+1. Open Google Wallet.
+2. Tap "Add to Wallet" then "Payment card."
+3. Options:
+   - **Scan your card**: Use your camera to capture card details.
+   - **Enter manually**: Type in the card number, expiration, and CVV.
+
+### Step 3: Verify Your Card
+
+Same as Apple Pay, your bank will verify your identity through SMS, email, phone call, or their banking app.
+
+### Step 4: Start Using Google Pay
+
+- **In stores**: Unlock your phone and hold it near the contactless terminal. Google Pay uses NFC to complete the transaction. On most Android phones, you do not even need to open the app first.
+- **Online**: Tap the "Google Pay" button on websites and in apps to pay quickly.
+
+### Default Card
+
+Your first card is the default. To change it, open Google Wallet, tap the card you want as default, and select "Set as default for in-store payments."
+
+## Where Can You Use Mobile Payments?
+
+Contactless payments are accepted at the vast majority of US merchants, including:
+
+- **Grocery stores**: Whole Foods, Trader Joe's, Kroger, Safeway, Publix, Aldi, Costco.
+- **Restaurants**: McDonald's, Starbucks, Subway, Chipotle, Panera, most sit-down restaurants.
+- **Retail**: Target, Walgreens, CVS, Best Buy, Nike, Home Depot, Macy's.
+- **Gas stations**: Many pumps now have contactless readers, though coverage varies.
+- **Transit**: Apple Pay and Google Pay work on transit systems in New York City, Chicago, Los Angeles, San Francisco, Portland, and other cities.
+- **Online**: Thousands of websites and apps accept Apple Pay and Google Pay for checkout.
+- **Vending machines**: Many modern vending machines have contactless readers.
+
+### Where It Does Not Work
+
+- **Walmart**: As of 2026, Walmart still does not accept Apple Pay or Google Pay in stores. They push their own Walmart Pay app.
+- **Some small businesses**: Older card terminals without NFC capability cannot process contactless payments.
+- **ATMs**: Most ATMs do not accept phone-based withdrawals, though a few banks are adding this feature.
+
+## How Mobile Payments Actually Work
+
+When you tap your phone to pay, here is what happens behind the scenes:
+
+1. **Tokenization**: Your actual card number is never transmitted to the merchant. Instead, Apple Pay or Google Pay creates a unique "token" (a substitute number) for each transaction.
+2. **NFC communication**: Your phone communicates with the payment terminal using Near Field Communication (NFC), a short-range wireless technology.
+3. **Authentication**: You verify the payment with Face ID, fingerprint, or passcode.
+4. **Authorization**: The token is sent to the card network (Visa, Mastercard, etc.), which contacts your bank to authorize the transaction.
+5. **Confirmation**: You see a checkmark on your screen and hear a confirmation tone. The entire process takes about two seconds.
+
+## Security: Why Mobile Payments Are Safer Than Cards
+
+Mobile payments are actually more secure than swiping or inserting a physical card.
+
+### Tokenization
+
+Your real card number is never shared with the merchant. Even if a store's payment system is breached, hackers get a useless token, not your actual card details. This is a significant security upgrade over magnetic stripe transactions, where your full card number is exposed.
+
+### Biometric Authentication
+
+Every mobile payment requires authentication. A thief who steals your phone cannot make purchases without your face, fingerprint, or passcode. Compare this to a physical card, which can be used by anyone who has it (especially for contactless transactions under $100).
+
+### No Physical Card to Lose
+
+You cannot leave your phone-based card at a restaurant or drop it in a parking lot. If you lose your phone, you can remotely lock or wipe it, disabling all payment cards instantly.
+
+### Transaction Notifications
+
+Both Apple Pay and Google Pay send instant notifications for every transaction, so you will know immediately if an unauthorized payment is attempted.
+
+## Maximizing Rewards With Mobile Payments
+
+Here is something many people do not realize: you earn the same credit card rewards when paying with Apple Pay or Google Pay as you do with a physical card. Your 2% cash back card still earns 2%. Your 3x points on dining card still earns 3x.
+
+### Tips for Maximizing Rewards
+
+- **Use the right card for each category**: Add multiple credit cards to your mobile wallet and select the one with the best rewards for each purchase. Use your dining card at restaurants, your grocery card at supermarkets, and your flat-rate card everywhere else.
+- **Stack with merchant apps**: At Starbucks, load your Starbucks card through Apple Pay, earn Starbucks stars AND credit card points. Same concept at Target with the Target Circle app.
+- **Watch for mobile-specific promotions**: Some banks offer bonus rewards for mobile wallet transactions. Check your card issuer's app for current promotions.
+- **Use Apple Cash or Google Pay balance strategically**: For P2P transfers, use the cash balance instead of a credit card to avoid cash advance fees.
+
+## Setting Up Transit Cards
+
+If you live in or visit a city with contactless transit, you can add your transit card to your phone.
+
+### Cities With Mobile Transit Support
+
+- **New York City (OMNY)**: Tap your phone at the turnstile. Works on all subway stations and buses.
+- **Chicago (Ventra)**: Add your Ventra card to Apple Pay or Google Pay.
+- **San Francisco (Clipper)**: Clipper card can be added to Apple Wallet.
+- **Los Angeles (TAP)**: TAP card support for Apple Pay.
+- **Portland (Hop Fastpass)**: Works with both Apple Pay and Google Pay.
+- **Washington DC (SmarTrip)**: Apple Wallet support.
+
+### How Transit Cards Work
+
+Once added to your phone, hold it near the reader when boarding or entering a station. The fare is deducted automatically. On Apple Watch, double-click the side button and hold your wrist near the reader.
+
+The advantage over a physical transit card: you cannot forget or lose it separately from your phone, and you can reload it instantly from the app.
 
 ## Troubleshooting Common Issues
 
-### Payment Fails
+### Payment Declined
 
-If your payment fails, make sure:
-- You have a stable internet connection.
-- Your app is updated to the latest version.
-- You have sufficient balance in your e-wallet.
+- Make sure NFC is enabled on your phone (Settings > NFC on Android).
+- Ensure you are holding your phone close enough to the terminal (within 1-2 inches).
+- Check that the card has not expired or been reported lost.
+- Verify you have an internet connection (needed for some transactions).
+- Try removing and re-adding the card to your wallet.
 
-If everything seems fine but it still doesn’t work, try restarting the app or your phone. If issues persist, contact customer service for your payment app.
+### Card Will Not Add
 
-### Merchant Doesn’t Accept QRIS
+- Confirm your bank supports Apple Pay or Google Pay. Check your bank's website.
+- Make sure your phone software is up to date.
+- Contact your bank's customer service, as some cards require manual activation for mobile wallets.
 
-While QRIS is widely accepted, not every merchant may have adopted it yet. If you find yourself at a place that doesn’t accept QRIS, don’t hesitate to ask if they plan to implement it soon. This helps push the digital payment trend forward.
+### Terminal Does Not Recognize Your Phone
+
+- Look for the contactless symbol (four curved lines) on the terminal.
+- Ask the cashier to select "credit" or "contactless" on their end.
+- Hold your phone flat against the terminal rather than at an angle.
+
+## The Bottom Line
+
+Setting up Apple Pay or Google Pay takes two minutes and makes every in-store purchase faster, more secure, and more convenient. I rarely use my physical cards anymore, and when I do, it feels slow and outdated by comparison.
+
+If you have a smartphone made in the last five years, you almost certainly have NFC capability. Add your cards today. The next time you forget your wallet, you will not even notice.
 
 ## Frequently Asked Questions
 
-### What is QRIS?
+### Is Apple Pay or Google Pay free to use?
 
-QRIS stands for Quick Response Code Indonesian Standard, a standardized system for making digital payments through QR codes in Indonesia.
+Yes, both are completely free for consumers. There are no setup fees, monthly fees, or per-transaction fees. Merchants pay the same processing fees they would for a regular card transaction. The only cost to you is whatever your credit or debit card normally charges, which is the same whether you use your physical card or a mobile wallet.
 
-### Which apps support QRIS?
+### Can someone steal my card information through Apple Pay or Google Pay?
 
-Popular apps that support QRIS include GoPay, DANA, OVO, and LinkAja.
+It is extremely unlikely. Mobile payments use tokenization, which means your real card number is never transmitted during a transaction. Even if someone intercepted the payment data, they would get a one-time token that cannot be reused. Additionally, every payment requires biometric authentication (face, fingerprint) or a passcode, so a stolen phone cannot be used to make payments.
 
-### Is there a fee for using QRIS?
+### Do I still earn credit card rewards with mobile payments?
 
-Most transactions using QRIS are free for consumers, but merchants may incur a small fee based on their payment processor.
+Yes. You earn the same points, cash back, and miles when paying with Apple Pay or Google Pay as you would with a physical card. Some credit card issuers occasionally offer bonus rewards for mobile wallet transactions, so check your card's app for promotions. Your rewards category bonuses (like 3x on dining or 5x on groceries) also apply normally.
 
-### Can I use QRIS for online payments?
+### What if my phone battery dies while I am shopping?
 
-Currently, QRIS is primarily designed for in-store payments. However, some online merchants are beginning to integrate QRIS as a payment option.
+If your phone dies, you cannot make payments through Apple Pay or Google Pay. However, on iPhone, Apple Pay works in "Express Mode" for transit cards even when your battery is critically low (reserve power lasts about five hours after shutdown). For regular purchases, you will need your physical card or cash as a backup. This is why I still carry one physical card in my phone case.
 
-### What if I lose my phone?
+### Can I use Apple Pay on an Android phone or Google Pay on an iPhone?
 
-If you lose your phone, contact your payment app’s customer service immediately to secure your account. Most apps have features to temporarily freeze your account or block access.
-
-## Conclusion
-
-Using QRIS for payments in Indonesia has been a game-changer for me. It’s convenient, secure, and widely accepted. With the right app, you can streamline your transactions and even help support local businesses that are adopting digital payments.
-
-If you’re new to QRIS, don’t hesitate to try it out the next time you’re at a merchant that accepts it. You might find that it’s a fantastic way to simplify your finances. And if you're looking for more ways to manage your money, check out my guide on [how to reduce monthly expenses in Indonesia](/blog/10-effective-ways-to-reduce-monthly-expenses-in-indonesia/) or [how to track your expenses effectively](/blog/best-ways-to-track-expenses-in-indonesia-a-comprehensive-guide/). Happy spending!
+No. Apple Pay only works on Apple devices (iPhone, Apple Watch, iPad, Mac). Google Pay only works on Android devices and Wear OS watches. If you switch phone platforms, you will need to set up the corresponding mobile wallet for your new device. Your cards will need to be re-added and re-verified.

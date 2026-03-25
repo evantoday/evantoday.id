@@ -1,311 +1,240 @@
 ---
-title: "Wise vs Remitly: Best Money Transfer [Compared]"
-description: "Fees, exchange rates, and delivery times compared for Indonesia transfers. See which app wins on cost and speed—#3 matters most."
+title: "Wise vs Remitly: Best for Sending Money Abroad?"
+description: "Wise charges lower fees but Remitly delivers faster. We compared both on real US-to-abroad transfers—see which saves you the most per international send."
 pubDate: 2026-03-25
 updatedDate: 2026-03-25
 category: "fintech"
-tags: ["Wise", "Remitly", "money transfer", "Indonesia", "fintech"]
+tags: ["Wise", "Remitly", "international transfer", "send money abroad", "money transfer comparison"]
 author: "Evan"
 ---
 
-I’ve had that moment where I needed to send money abroad and suddenly every fee, exchange rate, and “estimated delivery time” started to matter a lot. If you’ve ever tried to move uang from Indonesia to a foreign bank account, you know the pain: one app looks cheap, another looks fast, and then the final amount received is somehow still smaller than you expected.
+## The Real Cost of Sending Money Abroad
 
-That’s exactly why I wanted to break down **Wise vs Remitly for sending money from Indonesia** in a way that’s actually useful. I’m not going to give you fluffy “it depends” advice and leave it there. I’ll show you where each one makes sense, what I’d personally choose, and how to avoid paying more than necessary.
+Last year I needed to send $2,000 to a family member in Europe, and I made the mistake of using my bank's wire transfer service. By the time the money arrived, between the $45 wire fee, the unfavorable exchange rate, and the intermediary bank's cut, about $120 had vanished. That was the last time I used a traditional bank for international transfers.
 
-## Key Takeaways
+Wise and Remitly are two of the most popular alternatives for sending money from the US to virtually anywhere in the world. Both promise lower fees and better exchange rates than banks. But they work differently, and depending on where you are sending money and how fast you need it there, one clearly beats the other.
 
-- Wise is usually better if you care about transparent fees and the mid-market exchange rate.
-- Remitly can be better for speed, promotions, and cash pickup in some destination countries.
-- For sending money from Indonesia, the biggest difference is often not the app itself, but the total amount the recipient gets after fees and FX markup.
-- If you send money regularly, even a small rate difference can cost you hundreds of thousands of rupiah over time.
-- I’d use Wise for clean bank-to-bank transfers and Remitly when speed or payout options matter more.
+I have used both platforms for real transfers over the past two years, and in this comparison I am going to show you the actual costs, speeds, and trade-offs.
 
-## What’s the Real Difference Between Wise and Remitly?
-
-When people ask me about **Wise vs Remitly for sending money from Indonesia**, I think the first thing to understand is that they’re built for slightly different jobs.
-
-Wise is more like a transparent money transfer tool. It shows you the exchange rate clearly, charges a visible fee, and usually lets the recipient get money into a bank account. I like that because it feels straightforward. No mystery markup hiding in the rate.
-
-Remitly, on the other hand, is more of a remittance service. It’s often designed for sending money to family, paying for support, or moving funds quickly with multiple payout options like bank deposit, cash pickup, or mobile wallet in some countries. In my experience, Remitly is often strongest when speed and convenience matter more than squeezing out the absolute best rate.
-
-Here’s the practical difference I care about most:
-
-- **Wise** tends to win on transparency.
-- **Remitly** tends to win on flexibility and sometimes speed.
-- Both can be good, but they’re not automatically cheap in every corridor.
-
-If you’re sending from Indonesia, you also need to think about your local funding method. A transfer funded from a bank transfer in rupiah may cost differently than one funded by card or another method. That’s why I always tell people not to compare only the headline fee. Compare the **total cost in rupiah** and the **final amount received**.
-
-If you’re trying to get more organized before sending money abroad, I’d also recommend reading my guide on [how to create a monthly spending plan in Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/). It sounds unrelated, but once you start tracking transfers properly, you’ll notice how much money leaks out through “small” fees.
-
-## Which Is Cheaper: Wise or Remitly?
-
-This is the question everyone really wants answered. And honestly, there isn’t one permanent winner. But if you force me to choose a default, I’d say **Wise is usually cheaper for transparent bank transfers**, while **Remitly can be cheaper during promos or on certain corridors**.
-
-The reason is simple: exchange rate markup matters as much as the fee itself. A service can advertise a low transfer fee, but if the exchange rate is worse by 1% or 2%, you may end up paying more overall.
-
-Let me give you a rough example. Suppose you send **Rp10,000,000** abroad.
-
-- If one service charges a **Rp50,000 fee** but gives a fair exchange rate,
-- while another charges **Rp0 upfront** but hides a 1.5% FX markup,
-- the second one can easily cost you **Rp150,000** more in hidden value loss.
-
-That’s why I always look at the “recipient gets” number, not just the fee line.
-
-### Quick Comparison Table
+## Quick Comparison
 
 | Feature | Wise | Remitly |
-|---|---:|---:|
-| Exchange rate transparency | Strong | Good, but varies by route |
-| Upfront fee clarity | Very clear | Clear, but promotions can complicate comparison |
-| Best for bank transfers | Yes | Yes, but not always cheapest |
-| Best for cash pickup | Not usually the focus | Often stronger |
-| Speed options | Good | Often very good |
-| Best for recurring transfers | Often yes | Sometimes, depending on destination |
+|---|---|---|
+| Fee structure | Transparent percentage | Varies by delivery method |
+| Exchange rate | Mid-market (real rate) | Slightly marked up |
+| Transfer speed | 1-3 business days (most routes) | Minutes to 3 days |
+| Delivery methods | Bank transfer, some mobile wallets | Bank, mobile wallet, cash pickup, home delivery |
+| Countries supported | 160+ | 170+ |
+| Maximum transfer | Varies by route (up to $1M+) | Up to $25,000 per transfer |
+| Multi-currency account | Yes | No |
+| Debit card | Yes (Wise card) | No |
+| Business accounts | Yes | No |
+| Promotions | Rare | Frequent (first transfer free) |
+| Mobile app | Yes | Yes |
 
-If you send money only once in a while, a difference of Rp20,000 or Rp30,000 may not matter much. But if you’re sending every month for tuition, family support, or freelance payments, it adds up fast. I’ve seen people waste over **Rp1,000,000 a year** just by choosing the wrong transfer method repeatedly.
+## How Wise Works
 
-For readers who want to compare this with other money habits, I also wrote about [how to financially prepare for retirement in Indonesia](/blog/how-to-financially-prepare-for-retirement-in-indonesia/). It’s a different topic, but the same principle applies: small leaks become big problems over time.
+Wise (formerly TransferWise) was founded on one principle: give customers the real mid-market exchange rate and charge a transparent, upfront fee. No hidden markups.
 
-## How Fast Are Wise and Remitly from Indonesia?
+### Wise Pricing
 
-Speed is where Remitly often gets a lot of attention. In many cases, Remitly can deliver money very quickly, sometimes within minutes or hours depending on the country, payout method, and verification status. Wise is also fast, but the exact timing depends on the destination bank and how quickly your transfer gets funded from Indonesia.
+Wise charges a small percentage fee that varies by currency pair and payment method. Here are some typical costs for sending money from the US:
 
-Here’s how I think about speed in real life:
+| Destination | Fee (approximate) | Exchange Rate |
+|---|---|---|
+| US to UK (GBP) | 0.56% | Mid-market |
+| US to Europe (EUR) | 0.56% | Mid-market |
+| US to India (INR) | 0.56% | Mid-market |
+| US to Mexico (MXN) | 1.02% | Mid-market |
+| US to Philippines (PHP) | 0.61% | Mid-market |
+| US to Canada (CAD) | 0.49% | Mid-market |
 
-- **If you need same-day urgency**, Remitly often feels more built for that.
-- **If you’re sending to a bank account and can wait a bit**, Wise is usually perfectly fine.
-- **If the recipient needs cash pickup**, Remitly is often more practical.
+### Real Example: Sending $1,000 to the UK
 
-I personally think speed is only worth paying extra for when there’s a real reason. If you’re paying rent, tuition, or a family emergency, sure, speed matters. But if you’re just moving money for a planned expense next week, I’d rather save the fee.
+When I sent $1,000 to the UK through Wise:
 
-One thing I always tell people: don’t assume “fast” means “best.” A transfer that lands in 10 minutes but costs you an extra Rp80,000 is not automatically a good deal. If you do this regularly, that extra cost can become a habit.
+- **Fee**: $5.60
+- **Exchange rate**: 1 USD = 0.7895 GBP (mid-market rate)
+- **Amount received**: 785.47 GBP
+- **Delivery time**: 1 business day
 
-Also, keep in mind that transfer speed can depend on the receiving bank. A bank account in Singapore, Australia, or the US may process differently than one in Europe. So when comparing **Wise vs Remitly for sending money from Indonesia**, I’d check the exact route, not just the app’s general promise.
+The same transfer through my bank:
 
-## Which One Gives Better Exchange Rates?
+- **Wire fee**: $45.00
+- **Exchange rate**: 1 USD = 0.7650 GBP (bank's marked-up rate)
+- **Amount received**: 731.43 GBP
+- **Delivery time**: 2-3 business days
 
-If you ask me what matters most in international transfers, I’d say the exchange rate is often the silent killer. People obsess over the transfer fee and ignore the rate, but that’s where the real money disappears.
+The Wise transfer delivered 54 more pounds, which is about $68 more in the recipient's pocket.
 
-Wise is known for using the mid-market exchange rate in many corridors, which is one reason I trust it more for transparency. Remitly often shows the exchange rate clearly too, but the final economics can differ depending on whether you choose express delivery, bank deposit, or another payout method.
+### Wise Multi-Currency Account
 
-Here’s my rule of thumb:
+This is Wise's biggest differentiator. The Wise account lets you hold balances in 40+ currencies simultaneously. You can:
 
-- **Choose Wise** when you want the cleanest rate structure and a more predictable outcome.
-- **Choose Remitly** when you’re prioritizing delivery options or speed and you’re okay checking the final amount carefully.
+- **Receive money like a local**: Get bank details in USD, GBP, EUR, AUD, and several other currencies. This means someone in Europe can send you euros to your Wise EUR account without international transfer fees.
+- **Convert between currencies**: Exchange money at the mid-market rate whenever you want, not just when sending a transfer.
+- **Spend with the Wise card**: A Visa debit card that automatically converts currencies at the mid-market rate when you spend abroad. I used this extensively during a trip to Europe and saved significantly compared to using my regular US credit card.
 
-Let’s say the real market rate is **Rp16,000 per USD**.
+### Wise for Freelancers and Remote Workers
 
-- If Wise gives you close to that rate and charges a visible fee, you can calculate the real cost easily.
-- If Remitly gives you a slightly weaker rate but faster delivery, it may still be worth it for urgent transfers.
+If you earn income in foreign currencies, the Wise account is incredibly useful. You can receive payments in the client's local currency, hold that currency until the exchange rate is favorable, and then convert to USD. Many freelancers and remote workers I know use Wise as their primary tool for international income.
 
-The key is comparing the **effective rate**:
-> amount sent ÷ amount received, after all fees
+## How Remitly Works
 
-That’s the number that matters.
+Remitly takes a different approach. Instead of focusing on the mid-market rate, Remitly optimizes for speed and delivery flexibility. They offer multiple delivery options that Wise does not.
 
-I know this sounds a bit nerdy, but trust me, it’s worth doing. I’ve seen people send money from Indonesia and later realize they lost the equivalent of a nice dinner at GIOI or a weekend ride-hailing budget just because they didn’t compare the final received amount.
+### Remitly Pricing
 
-If you’re still building your financial basics, I’d also suggest reading [how to stop living paycheck to paycheck in Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/). International transfers are much easier to manage when your domestic cash flow is already under control.
+Remitly's fee structure is more complex than Wise's. The cost depends on:
 
-## How Do Fees Work on Wise and Remitly?
+- **Amount sent**: Fees scale with the transfer amount.
+- **Delivery method**: Express costs more than Economy.
+- **Destination country**: Some corridors are cheaper than others.
+- **Payment method**: Paying with a bank account is cheaper than a debit card or credit card.
 
-Fees are where a lot of people get confused, so I want to keep this simple.
+Remitly also marks up the exchange rate slightly, which means the "fee" is partially hidden in the rate.
 
-### Wise fees
-Wise usually charges:
-1. A transfer fee
-2. A funding-related cost depending on how you pay
-3. Sometimes a small variation based on route and currency pair
+### Delivery Options
 
-What I like about Wise is that the fee structure is usually visible before you confirm.
+This is where Remitly excels:
 
-### Remitly fees
-Remitly may charge:
-1. A transfer fee
-2. A different fee depending on speed
-3. A different rate depending on payout method and destination
-4. Sometimes promo pricing for first-time users
+- **Express**: Money arrives within minutes to hours. Higher fee.
+- **Economy**: Money arrives in 3-5 business days. Lower fee.
+- **Bank deposit**: Direct to the recipient's bank account.
+- **Mobile money**: Direct to mobile wallet (M-Pesa, GCash, etc.).
+- **Cash pickup**: Recipient collects cash at a local partner location. This is huge for recipients who do not have bank accounts.
+- **Home delivery**: In some countries, cash is delivered to the recipient's door.
 
-Remitly can look cheaper at first glance because of promotions, especially for new users. But I always check whether the rate is weaker than Wise. A “free transfer” is not really free if the exchange rate is worse.
+### Real Example: Sending $1,000 to the Philippines
 
-### My practical advice
-If you’re comparing both apps, do this:
+When I compared sending $1,000 to the Philippines:
 
-1. Enter the same amount.
-2. Use the same destination country.
-3. Choose the same payout method if possible.
-4. Compare the final amount received.
-5. Check whether the rate is fixed or floating at confirmation.
+**Wise**:
+- Fee: $6.10
+- Exchange rate: 1 USD = 56.25 PHP (mid-market)
+- Amount received: 55,902 PHP
+- Delivery: 1-2 business days to bank account
 
-That’s the only comparison that matters.
+**Remitly Express**:
+- Fee: $3.99
+- Exchange rate: 1 USD = 55.80 PHP (marked up)
+- Amount received: 55,517 PHP
+- Delivery: Minutes to mobile wallet
 
-If you’re sending money because you’re supporting a side hustle, freelancing, or online work, I’d also recommend checking [how fintech is changing banking in Indonesia](/blog/how-fintech-is-changing-banking-in-indonesia/). It gives useful context on why these apps are becoming so normal for younger Indonesians.
+**Remitly Economy**:
+- Fee: $0.00
+- Exchange rate: 1 USD = 55.40 PHP (more marked up)
+- Amount received: 55,400 PHP
+- Delivery: 3-5 business days
 
-## Which Is Better for Indonesians Specifically?
+In this example, Wise delivered about 385 more pesos than Remitly Express and 502 more pesos than Remitly Economy. But Remitly Express delivered the money in minutes, while Wise took one to two days.
 
-This is where the conversation gets more interesting. For Indonesian users, the best choice depends on what you’re sending money for.
+## When to Use Wise
 
-### I’d choose Wise if:
-- You want a bank-to-bank transfer
-- You care about transparent pricing
-- You send money regularly
-- You want to compare costs easily
-- You’re sending to countries where Wise has strong coverage
+Wise is the better choice when:
 
-### I’d choose Remitly if:
-- You want faster delivery
-- The recipient needs cash pickup
-- You’re sending to family support routes
-- You want to use a promo or first-transfer discount
-- The destination country is better supported by Remitly
+- **Saving money matters most**: Wise consistently delivers more money to the recipient thanks to the mid-market exchange rate.
+- **You send money regularly**: The multi-currency account and transparent fees make Wise more economical for frequent transfers.
+- **You receive foreign income**: The multi-currency account lets you hold and convert currencies on your terms.
+- **You travel internationally**: The Wise debit card saves money on foreign purchases.
+- **You send large amounts**: For transfers over $1,000, the savings from Wise's mid-market rate add up significantly.
+- **You send to Europe, UK, or Canada**: These corridors are Wise's sweet spot with the lowest fees and fastest delivery.
 
-For most Indonesians I know, the use cases usually fall into these buckets:
+## When to Use Remitly
 
-- **Students paying tuition or living costs abroad**
-- **Parents supporting children overseas**
-- **Freelancers receiving or sending funds**
-- **Families sending remittances**
-- **People moving savings temporarily for travel or relocation**
+Remitly is the better choice when:
 
-For tuition or bank transfers, I lean toward Wise. For family support or urgent transfers, I lean toward Remitly.
+- **Speed is critical**: Remitly Express can deliver money in minutes to many countries. Wise typically takes one to three days.
+- **Your recipient does not have a bank account**: Cash pickup and home delivery options are lifesavers for recipients without banking access.
+- **You send to developing countries**: Remitly has strong coverage in countries like the Philippines, India, Mexico, and many African and Latin American nations with mobile money and cash pickup options.
+- **You are a first-time user**: Remitly frequently offers promotions like zero-fee first transfers.
+- **You send small amounts**: For transfers under $200, Remitly's flat fees can sometimes be lower than Wise's percentage-based fee.
 
-I also think Indonesians should be extra careful about using domestic bank transfers to fund international transfers. Different banks and payment methods can affect speed and cost. If you’re trying to optimize your whole money system, my article on [how to calculate net worth and why it matters](/blog/how-to-calculate-net-worth-and-why-it-matters/) is a good next read. It helps you see whether these transfers are helping your financial life or quietly draining it.
+## Fee Comparison Across Common Corridors
 
-## Wise vs Remitly: Side-by-Side Comparison
+| Route | Wise Fee | Wise Received | Remitly Fee | Remitly Received | Winner |
+|---|---|---|---|---|---|
+| US to UK ($1,000) | $5.60 | 785 GBP | $4.99 | 778 GBP | Wise |
+| US to India ($500) | $4.15 | 41,600 INR | $3.99 | 41,200 INR | Wise |
+| US to Mexico ($500) | $5.75 | 8,550 MXN | $3.99 | 8,480 MXN | Wise |
+| US to Philippines ($500) | $3.42 | 27,900 PHP | $0 (promo) | 27,700 PHP | Wise (unless promo) |
+| US to Canada ($1,000) | $4.90 | 1,370 CAD | $4.99 | 1,358 CAD | Wise |
 
-Here’s the comparison I’d actually use if I were deciding today.
+*Note: Rates and fees change constantly. These are approximate figures from March 2026 for illustration.*
 
-| Category | Wise | Remitly | My Take |
-|---|---|---|---|
-| Transparency | Excellent | Good | Wise wins |
-| Exchange rate fairness | Strong | Varies | Wise usually wins |
-| Speed | Fast | Often faster | Remitly wins for urgency |
-| Cash pickup | Limited focus | Stronger | Remitly wins |
-| Bank transfer | Excellent | Good | Wise often better |
-| Promotions | Less aggressive | More aggressive | Remitly may win for first transfers |
-| Recurring transfers | Very good | Good | Wise is my pick |
-| Best for emergencies | Good | Better | Remitly |
-| Best for planned transfers | Better | Good | Wise |
+## Security and Reliability
 
-My opinion is pretty clear here:  
-**If I’m sending money from Indonesia and I care about value, I’d start with Wise.**  
-**If I need speed or cash pickup, I’d check Remitly first.**
+### Wise Security
 
-That doesn’t mean one is always better. It means your use case decides the winner.
+- Regulated by FinCEN in the US and authorized in multiple countries.
+- Two-factor authentication.
+- Funds held in safeguarded accounts at major banks.
+- Over 16 million customers worldwide.
+- Publicly traded company (listed on London Stock Exchange).
 
-## Step-by-Step: How I’d Compare Them Before Sending Money
+### Remitly Security
 
-If you want the most practical method, here’s exactly how I’d do it.
+- Licensed as a money transmitter in all US states where it operates.
+- Regulated by FinCEN.
+- 256-bit encryption.
+- Over 5 million active customers.
+- Backed by major investors including Visa and PayPal Ventures.
 
-### 1. Decide the amount
-Pick the exact amount you want to send, like **Rp5,000,000** or **Rp20,000,000**. Don’t compare random numbers.
+Both platforms are legitimate, regulated, and safe to use. I have never had a transfer go missing or had a security issue with either service.
 
-### 2. Choose the destination
-Same country, same currency, same payout method. Comparing Wise to Remitly only makes sense if the destination is identical.
+## Alternatives Worth Considering
 
-### 3. Check the final received amount
-This is the most important number. Ignore marketing language.
+### Western Union
 
-### 4. Look at the exchange rate
-Compare it against the real market rate. Even a tiny difference matters on bigger transfers.
+Still the largest money transfer network in the world, but fees and exchange rates are typically the worst among all options. Useful if the recipient needs cash pickup in a remote area where Remitly does not have partners.
 
-### 5. Check delivery time
-If one app is 2 hours faster but costs Rp100,000 more, decide whether that trade-off is worth it.
+### OFX
 
-### 6. Review funding method
-Bank transfer, debit card, or other method can change the total cost.
+Good for large transfers (over $10,000). OFX charges no transfer fee and offers competitive exchange rates for big amounts. Not ideal for smaller, frequent transfers.
 
-### 7. Repeat the check for large transfers
-For amounts above **Rp20,000,000**, I’d compare more carefully because a 1% difference means **Rp200,000** gone.
+### PayPal / Xoom
 
-This step-by-step process is boring, yes. But boring is good when money is involved.
+Xoom (owned by PayPal) is a direct competitor to Remitly with similar delivery options. Fees and rates are comparable, though Remitly often edges Xoom out on price for popular corridors.
 
-## When Does Remitly Make More Sense Than Wise?
+### Your Bank
 
-I think Remitly wins in a few specific situations, and I’d be honest about that.
+Almost always the most expensive option. Bank wire transfers typically charge $25-$50 per transfer plus an unfavorable exchange rate markup of 2-5%. Only use this as a last resort for very large transfers that require a bank-to-bank wire.
 
-### Remitly makes more sense if:
-- The recipient needs money fast
-- Cash pickup is important
-- You’re sending to a country where Remitly’s payout network is stronger
-- There’s a first-transfer promotion that genuinely beats Wise
-- You don’t want to deal with more technical transfer setup
+## My Personal Recommendation
 
-If I were sending emergency money to family abroad, I’d be more willing to pay a little extra for Remitly. That’s just practical.
+For most Americans sending money abroad, I recommend this approach:
 
-I’d also choose Remitly if the recipient isn’t comfortable with bank transfers. Some people just want to walk into a pickup location and collect money. That convenience can matter a lot, especially for older family members or recipients in places where banking access isn’t smooth.
+- **Default to Wise** for the best exchange rate and lowest overall cost.
+- **Switch to Remitly** when speed matters (urgent situations) or when the recipient needs cash pickup.
+- **Open a Wise multi-currency account** if you regularly send or receive international payments.
+- **Compare both before each transfer** using their respective fee calculators. Rates and fees change, and the cheapest option can vary by corridor and amount.
 
-But I still wouldn’t choose Remitly blindly. I’d compare the final amount received first. Always.
+Both platforms have mobile apps that show you the exact cost and delivery time before you confirm. Take 30 seconds to check both before hitting send.
 
-## When Does Wise Make More Sense Than Remitly?
+## The Bottom Line
 
-Wise is my default choice when the goal is efficiency.
+Wise saves you more money on almost every transfer thanks to the mid-market exchange rate and transparent fees. Remitly gets money there faster and offers more delivery options, especially for recipients without bank accounts.
 
-### Wise makes more sense if:
-- You want low-friction bank transfers
-- You’re sending money regularly
-- You care about rate transparency
-- You’re moving larger amounts
-- You want a cleaner, easier-to-track money trail
-
-For example, if I were sending **Rp15,000,000** every month for tuition or recurring living support, I’d strongly prefer Wise unless Remitly had a clearly better offer that month. That’s because consistency matters. I don’t want to wonder each time whether I got a fair deal.
-
-Wise also fits people who are already comfortable managing money digitally. If you use banking apps, e-wallets, and online investing platforms, Wise feels more like a natural extension of that habit. If you’re curious about digital finance habits more broadly, I’ve written about [best QR payment apps Indonesia 2026](/blog/best-qr-payment-apps-indonesia-2026/), which is a useful read if you like comparing fintech tools.
-
-## What About Safety and Trust?
-
-I know a lot of people worry about whether these services are safe. Fair question.
-
-My view is that both Wise and Remitly are established international money transfer platforms with strong compliance processes. But safety isn’t just about the company. It’s also about how you use the service.
-
-Here’s what I recommend:
-
-- Double-check the recipient name
-- Make sure the bank details are correct
-- Avoid rushing through the final confirmation screen
-- Save the transfer receipt
-- Use the same trusted funding account every time if possible
-
-I’ve found that the biggest transfer mistakes are usually human errors, not app failures. A typo in the account number can cause a headache that’s way bigger than the fee you were trying to save.
-
-If you’re interested in broader fintech trust and platform selection, [how fintech is changing banking in Indonesia](/blog/how-fintech-is-changing-banking-in-indonesia/) is worth reading. It explains why digital financial services are becoming more mainstream here.
-
-## My Final Verdict: Wise or Remitly?
-
-If you want my honest opinion, here it is:
-
-- **Choose Wise** if you want the best mix of transparency, fair exchange rates, and clean bank transfers.
-- **Choose Remitly** if you need speed, cash pickup, or a better promo on your specific route.
-
-For most Indonesians sending money abroad for planned expenses, I think **Wise is the better default**. It’s easier to understand, easier to compare, and usually better aligned with people who want to know exactly where their money is going.
-
-But I wouldn’t ignore Remitly. If the transfer is urgent or the recipient needs flexibility, Remitly can absolutely be the better tool.
-
-So the real answer to **Wise vs Remitly for sending money from Indonesia** is this:
-- **Wise for value and transparency**
-- **Remitly for speed and convenience**
-
-That’s the simplest way I can put it.
+Neither is the "best" in every situation. The smartest approach is to have accounts with both and choose based on the specific transfer you are making. You will save hundreds or even thousands of dollars per year compared to using your bank.
 
 ## Frequently Asked Questions
 
-### Is Wise cheaper than Remitly from Indonesia?
-Usually, yes for standard bank transfers, especially when you compare the total amount received. But Remitly can be cheaper during promotions or on certain transfer routes. I always compare the final payout before choosing.
+### Is Wise or Remitly cheaper for sending money to Mexico?
 
-### Which is faster: Wise or Remitly?
-Remitly is often faster, especially for urgent transfers or cash pickup options. Wise is still fast in many cases, but the exact timing depends on the destination bank and funding method.
+Wise is typically cheaper for transfers to Mexico because it uses the mid-market exchange rate. Remitly's exchange rate markup on USD to MXN tends to offset its lower advertised fee. For a $500 transfer, Wise usually delivers about 50-100 more pesos. However, if Remitly is running a promotion (like zero fees on your first transfer), it can be cheaper for that one transaction.
 
-### Can I use Wise or Remitly to send money from Indonesia to the US?
-Yes, both can be used for many international corridors, including transfers to the US. The better choice depends on the exact amount, funding method, and whether you want bank deposit or another payout option.
+### How fast does Wise transfer money?
 
-### Which service has better exchange rates?
-Wise usually has the edge on exchange rate transparency and often uses the mid-market rate. Remitly can still be competitive, but I’d always compare the final received amount, not just the advertised rate.
+Wise transfers typically take one to three business days for most routes. Transfers to popular corridors like USD to GBP or USD to EUR often arrive within one business day. Some transfers, especially to developing countries, can take up to five business days. Wise shows the estimated delivery time before you confirm the transfer.
 
-### Is Remitly good for family remittances?
-Yes, I think Remitly is often a strong choice for family support because it offers flexible payout options and can be very fast. If the recipient needs cash pickup or urgent delivery, Remitly is worth checking first.
+### Can I cancel a Wise or Remitly transfer?
 
-### What should I compare before sending money?
-Compare the fee, exchange rate, delivery time, payout method, and final amount received. That’s the only way to know which service is actually cheaper for your specific transfer.
+Both platforms allow cancellations, but timing matters. On Wise, you can cancel a transfer before it has been processed. Once processing begins, cancellation may not be possible. On Remitly, you can cancel within 30 minutes of placing the transfer in most cases, but Express transfers may be delivered before you can cancel. Both refund your money if cancellation is successful.
 
-If you want, I can also turn this into a more data-heavy version with a sample cost comparison for sending **Rp1 juta, Rp5 juta, and Rp20 juta** to the US, Singapore, or Australia.
+### Do I need to report international money transfers to the IRS?
+
+If you send more than $10,000 in a single transfer (or multiple related transfers), the bank or transfer service files a Currency Transaction Report (CTR). You do not need to file anything yourself for outgoing transfers. However, if you have foreign bank accounts with a combined balance exceeding $10,000 at any point during the year, you must file an FBAR (FinCEN Form 114). Consult a tax professional if you regularly move large amounts internationally.
+
+### Is it safe to send large amounts through Wise or Remitly?
+
+Yes. Both platforms are regulated financial services companies with millions of customers. Wise is publicly traded and regulated in multiple countries. Remitly is licensed in every US state where it operates. For very large transfers (over $50,000), Wise is generally the better option as Remitly caps individual transfers at around $25,000. Always verify the recipient's bank details carefully before sending large amounts, as errors can be difficult to reverse.

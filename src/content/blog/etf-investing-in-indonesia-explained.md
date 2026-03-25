@@ -1,112 +1,235 @@
 ---
-title: "ETF Investing in Indonesia: Essential Guide [2026]"
-description: "ETF investing in Indonesia made simple: what it is, types, and how beginners can start in 3 steps. Here's how."
+title: "ETF Investing for Beginners: Start With $100 [2026]"
+description: "ETFs let you invest in 500+ stocks at once starting from $100. Learn the 3 main types, lowest-fee options, and how to buy your first ETF on any brokerage."
 pubDate: 2026-03-13
 category: "investing"
-tags: ["ETF", "investing", "Indonesia"]
+tags: ["ETF investing", "index ETF", "Vanguard", "Fidelity", "beginner investing"]
 author: "Evan"
 ---
 
-## Understanding ETFs: A Simple Overview
+When I first started investing, I made the classic beginner mistake: I tried to pick individual stocks. I bought a little Apple, some Tesla, threw money at a random biotech company someone on Reddit mentioned. My portfolio looked like a jigsaw puzzle with half the pieces missing.
 
-If you’re dipping your toes into investing, you might’ve come across the term "ETF" or Exchange-Traded Fund. It sounds fancy, but let me break it down for you in the simplest terms. An ETF is essentially a collection of assets—like stocks, bonds, or commodities—that you can buy or sell on an exchange just like individual stocks.
+Then someone told me about ETFs, and everything clicked. Instead of agonizing over which individual stocks to buy, I could own a piece of 500 companies with a single purchase. My stress dropped, my returns improved, and I actually started enjoying investing.
 
-In Indonesia, the popularity of ETFs is on the rise. They offer investors an easy way to diversify their portfolios without needing to buy each asset individually. I personally think that for new investors or those who prefer a hands-off approach, ETFs are a fantastic option.
+If you're new to the market and have even $100 to spare, ETFs are hands-down the best place to start. Here's everything I wish I'd known from day one.
 
-## Why Invest in ETFs?
+## Key Takeaways
 
-### Diversification Made Easy
+- An ETF (Exchange-Traded Fund) lets you invest in hundreds of stocks with one purchase
+- The average S&P 500 ETF returned about 10% annually over the past 30 years
+- You can start with as little as $1 using fractional shares
+- Total expense ratios below 0.10% are considered excellent
+- ETFs are more tax-efficient than mutual funds for taxable accounts
 
-One of the biggest perks of investing in ETFs is diversification. For example, instead of putting all your money into one stock, you can invest in an ETF that holds shares from various companies. This way, if one company underperforms, your entire portfolio isn't at risk. 
+## What Is an ETF?
 
-### Lower Costs
+An ETF — Exchange-Traded Fund — is a basket of investments bundled into a single product that trades on a stock exchange, just like a regular stock.
 
-Typically, ETFs have lower fees compared to mutual funds. Since they're passively managed, you won’t have to worry about high management fees eating into your returns. For instance, some Indonesian ETFs like the **IDX30 ETF** have relatively low expense ratios.
+Think of it like buying a variety pack instead of individual items. When you buy one share of an S&P 500 ETF, you instantly own a tiny piece of all 500 companies in the index — Apple, Microsoft, Amazon, Google, JPMorgan, and 495 others.
 
-### Flexibility and Liquidity
+Here's what makes ETFs special:
 
-ETFs can be traded throughout the day on the stock exchange, just like stocks. This means you can buy or sell whenever you want during trading hours, giving you more control over your investment.
+- **Instant diversification** — One purchase spreads your money across dozens or hundreds of investments
+- **Low fees** — Many ETFs charge less than 0.10% annually (that's $1 per year on a $1,000 investment)
+- **Trade like stocks** — Buy and sell throughout the day at market prices
+- **Tax efficient** — ETFs generate fewer taxable events than mutual funds
+- **Transparent** — Holdings are disclosed daily so you always know what you own
 
-## Types of ETFs in Indonesia
+## The 3 Main Types of ETFs
 
-In Indonesia, you can find a variety of ETFs catering to different investment strategies. Let’s dive into some of the popular types:
+### 1. Index ETFs (Broad Market)
 
-### Equity ETFs
+These track a market index like the S&P 500 or the total US stock market. They're the foundation of most investment portfolios.
 
-These ETFs primarily invest in stocks. For example, the **LQ45 ETF** tracks the performance of the 45 most liquid stocks on the IDX. This is a great option if you're looking to invest in the Indonesian stock market without picking individual stocks.
+**Examples:**
+- **VOO** (Vanguard S&P 500 ETF) — Expense ratio: 0.03%
+- **VTI** (Vanguard Total Stock Market ETF) — Expense ratio: 0.03%
+- **SPY** (SPDR S&P 500 ETF) — Expense ratio: 0.09%
+- **IVV** (iShares Core S&P 500 ETF) — Expense ratio: 0.03%
 
-### Bond ETFs
+**Best for:** The core of any portfolio. If you only buy one ETF, make it a broad market index ETF.
 
-If you're more conservative or want to balance your portfolio, bond ETFs might be the way to go. The **Fixed Income ETF**, for example, invests in government and corporate bonds, providing a steady income stream with lower risk compared to stocks.
+### 2. Bond ETFs
 
-### Sector and Thematic ETFs
+These hold government and corporate bonds, providing income and stability during stock market downturns.
 
-These ETFs focus on specific sectors or investment themes. For instance, if you believe in the future of renewable energy, you might look for an ETF that focuses on green technologies.
+**Examples:**
+- **BND** (Vanguard Total Bond Market ETF) — Expense ratio: 0.03%
+- **AGG** (iShares Core US Aggregate Bond ETF) — Expense ratio: 0.03%
+- **TLT** (iShares 20+ Year Treasury Bond ETF) — Expense ratio: 0.15%
 
-### International ETFs
+**Best for:** Reducing portfolio volatility, especially as you get closer to retirement.
 
-Want to invest beyond Indonesia? There are ETFs that allow you to invest in international markets too. The **Global ETF** lets you gain exposure to various international stocks without having to deal with multiple foreign brokers.
+### 3. Sector and Thematic ETFs
 
-## How to Invest in ETFs in Indonesia
+These focus on specific industries or investment themes — technology, healthcare, clean energy, real estate, etc.
 
-### Step 1: Choose a Brokerage
+**Examples:**
+- **QQQ** (Invesco Nasdaq-100 ETF) — Tech-heavy, expense ratio: 0.20%
+- **VNQ** (Vanguard Real Estate ETF) — REITs, expense ratio: 0.12%
+- **XLF** (Financial Select Sector SPDR) — Financials, expense ratio: 0.09%
+- **ICLN** (iShares Global Clean Energy ETF) — Clean energy, expense ratio: 0.40%
 
-First things first, you need a brokerage account. There are plenty of options out there. I personally use **Mandiri Sekuritas** because of their user-friendly platform, but other brokers like **BCA Sekuritas** and **IndoPremier** also offer great services.
+**Best for:** Adding exposure to sectors you believe will outperform, after you've established a core index position.
 
-### Step 2: Research ETFs
+## The 5 Best ETFs for Beginners in 2026
 
-Before jumping in, do your homework. Look for ETFs that align with your investment goals. For example, if you’re interested in sustainable investments, see if there are any thematic ETFs out there.
+### 1. VTI — Vanguard Total Stock Market ETF
 
-### Step 3: Fund Your Account
+**Expense Ratio:** 0.03%
+**Holdings:** 3,600+ US stocks
+**Why it's #1:** VTI gives you the entire US stock market in one fund — large caps, mid caps, small caps, everything. It's the ultimate "set it and forget it" ETF.
 
-Once you’ve chosen a brokerage and ETF, fund your account. This usually involves transferring money from your bank account to your brokerage account. In Indonesia, you can easily do this via online banking.
+### 2. VOO — Vanguard S&P 500 ETF
+
+**Expense Ratio:** 0.03%
+**Holdings:** 500 large-cap US stocks
+**Why beginners love it:** The S&P 500 is the most widely followed stock market index in the world. VOO tracks it almost perfectly for an incredibly low fee.
+
+### 3. VXUS — Vanguard Total International Stock ETF
+
+**Expense Ratio:** 0.07%
+**Holdings:** 8,500+ international stocks
+**Why it matters:** Diversification beyond the US. When American stocks underperform, international stocks sometimes pick up the slack.
+
+### 4. BND — Vanguard Total Bond Market ETF
+
+**Expense Ratio:** 0.03%
+**Holdings:** 10,000+ US bonds
+**Why include bonds:** Bonds cushion your portfolio during stock market crashes. Even a 10-20% bond allocation can significantly reduce volatility.
+
+### 5. SCHD — Schwab US Dividend Equity ETF
+
+**Expense Ratio:** 0.06%
+**Holdings:** 100+ dividend-paying US stocks
+**Why it's popular:** SCHD focuses on high-quality dividend stocks with strong fundamentals. Great for investors who want income alongside growth.
+
+## How to Buy Your First ETF
+
+### Step 1: Open a Brokerage Account
+
+Choose a commission-free brokerage. My top recommendations for beginners:
+
+| Brokerage | Account Minimum | Fractional Shares | Commission |
+|-----------|----------------|-------------------|------------|
+| **Fidelity** | $0 | Yes | $0 |
+| **Charles Schwab** | $0 | Yes | $0 |
+| **Vanguard** | $0 | Yes (select ETFs) | $0 |
+| **Robinhood** | $0 | Yes | $0 |
+
+I personally use Fidelity for its research tools and Schwab for its customer service. Both are excellent.
+
+### Step 2: Fund Your Account
+
+Link your bank account and transfer money. Most brokerages process transfers in 1-3 business days. Some offer instant access to a portion of your deposit.
+
+### Step 3: Search for the ETF
+
+Use the ticker symbol (like VOO, VTI, or SCHD) to find the ETF in your brokerage's search bar.
 
 ### Step 4: Place Your Order
 
-Now, you can place your order. You can choose between a market order (buying at the current market price) or a limit order (setting a specific price you’re willing to pay). 
+- **Market order** — Buys at the current price. Simple and fast.
+- **Limit order** — Buys only if the price drops to your specified level. More control.
 
-### Step 5: Monitor Your Investment
+For beginners buying broad index ETFs, a market order is perfectly fine. The bid-ask spread on popular ETFs like VOO is pennies.
 
-After you’ve invested, keep an eye on your ETF’s performance. You don’t need to check it every day, but regular monitoring will help you understand market trends and make informed decisions.
+### Step 5: Set Up Automatic Investments
 
-## Tips for Successful ETF Investing
+Most brokerages let you schedule recurring purchases — $100 every two weeks, $500 on the 1st of each month, etc. Automation removes emotion from investing and ensures consistency.
 
-### Start Small
+## Understanding ETF Fees
 
-If you’re new to investing, it’s wise to start small. Consider allocating a portion of your budget to ETFs and gradually increase your investment as you gain confidence.
+The expense ratio is the annual fee you pay for holding an ETF. It's expressed as a percentage and deducted automatically from the fund's returns.
 
-### Understand the Risks
+Here's what different expense ratios actually cost you:
 
-Like any investment, ETFs come with risks. Market fluctuations can impact your returns, and certain sectors or asset classes may perform poorly. I always recommend diversifying your investments to mitigate risk.
+| Expense Ratio | Annual Cost on $10,000 | 30-Year Cost on $10,000* |
+|---------------|----------------------|------------------------|
+| 0.03% | $3 | $182 |
+| 0.10% | $10 | $601 |
+| 0.50% | $50 | $2,914 |
+| 1.00% | $100 | $5,624 |
 
-### Use Dollar-Cost Averaging
+*Assuming 7% annual return before fees
 
-This strategy involves regularly investing a fixed amount of money, regardless of the ETF's price. It helps to smooth out the effects of market volatility. For example, you might invest IDR 500,000 each month into an ETF, which allows you to buy more shares when prices are low and fewer when they’re high.
+The difference between a 0.03% and 1.00% expense ratio is **over $5,400** on a single $10,000 investment over 30 years. This is why low fees matter so much.
 
-### Stay Informed
+## ETF vs. Mutual Fund: What's the Difference?
 
-Keep yourself updated with market news and trends. Following financial news outlets, subscribing to investment newsletters, or even joining local investment communities can help you stay informed.
+| Feature | ETF | Mutual Fund |
+|---------|-----|-------------|
+| **Trading** | Throughout the day | Once per day (after market close) |
+| **Minimum Investment** | 1 share (or $1 fractional) | Often $1,000-$3,000 |
+| **Expense Ratios** | Generally lower | Generally higher |
+| **Tax Efficiency** | More efficient | Less efficient |
+| **Automatic Investing** | Depends on broker | Easy to automate |
+| **Pricing** | Real-time market price | Net Asset Value (NAV) |
+
+For most beginners, ETFs are the better choice due to lower minimums, lower fees, and greater flexibility. The main exception: if you want to invest in Vanguard's Admiral Shares mutual funds (0.04% expense ratio with $3,000 minimum), the cost difference is negligible.
+
+## Building a Simple ETF Portfolio
+
+Here are three model portfolios based on age and risk tolerance:
+
+### Aggressive (Ages 20-35)
+
+- 70% VTI (US Total Market)
+- 20% VXUS (International)
+- 10% BND (Bonds)
+
+### Moderate (Ages 35-50)
+
+- 50% VTI (US Total Market)
+- 20% VXUS (International)
+- 30% BND (Bonds)
+
+### Conservative (Ages 50+)
+
+- 30% VTI (US Total Market)
+- 10% VXUS (International)
+- 60% BND (Bonds)
+
+These are simplified examples. Your actual allocation should reflect your personal risk tolerance, financial goals, and timeline.
+
+## Common ETF Mistakes to Avoid
+
+1. **Over-diversifying** — Owning 15 ETFs that overlap significantly. Three to five well-chosen ETFs cover most investors' needs.
+2. **Chasing performance** — Buying the ETF that returned 40% last year. Past returns don't predict future results.
+3. **Ignoring expense ratios** — A 0.50% difference compounds into thousands over decades.
+4. **Trading too frequently** — ETFs are designed for buy-and-hold investing. Day-trading ETFs defeats the purpose.
+5. **Skipping international exposure** — US stocks won't always outperform. Global diversification reduces risk.
+6. **Timing the market** — Nobody consistently beats the market by jumping in and out. Invest regularly and stay invested.
+
+## Tax Considerations for ETF Investors
+
+ETFs have a structural advantage over mutual funds when it comes to taxes:
+
+- **In-kind creation/redemption** — ETFs can exchange securities without triggering capital gains, which means fewer tax events for you
+- **Qualified dividends** — Most ETF dividends from US stocks are qualified and taxed at the lower 0-20% rate
+- **Capital gains** — Only triggered when you sell. If you hold, you don't pay.
+- **Tax-loss harvesting** — You can sell an ETF at a loss and buy a similar (but not identical) ETF to claim the tax deduction while staying invested
+
+**Pro tip:** Hold your ETFs in a Roth IRA if possible. All growth and dividends are completely tax-free.
 
 ## Frequently Asked Questions
 
-### What is the minimum investment for ETFs in Indonesia?
+### Can I lose all my money in an ETF?
 
-The minimum investment can vary by ETF, but it’s often as low as one lot or around IDR 1 million, depending on the ETF's price.
+Theoretically, an ETF could go to zero if every single company in it went bankrupt simultaneously — but for a broad market ETF like VOO or VTI, that would mean the entire US economy collapsed. It has never happened. ETFs can and do lose value during market downturns (20-40% drops have occurred historically), but broad market ETFs have always recovered and reached new highs over time.
 
-### Are there taxes on ETF investments in Indonesia?
+### What's the difference between VOO and SPY?
 
-Yes, capital gains from ETF investments are subject to tax. You might want to check the [crypto tax rules in Indonesia explained](/blog/crypto-tax-rules-in-indonesia-explained/) for more detailed information on taxation.
+Both track the S&P 500 and will give you nearly identical returns. The main differences: VOO has a lower expense ratio (0.03% vs 0.09%), while SPY has higher trading volume and tighter bid-ask spreads. For long-term investors, VOO's lower fee makes it the better choice. For active traders, SPY's liquidity is advantageous.
 
-### Can I invest in ETFs through my bank?
+### How much should I invest in ETFs each month?
 
-Yes, many banks in Indonesia offer brokerage services where you can invest in ETFs. You can also explore options like [how to open a bank account online in Indonesia](/blog/how-to-open-a-bank-account-online-in-indonesia/) if you prefer a more digital approach.
+A common guideline is to invest 15-20% of your gross income for retirement. But any amount is better than nothing. If you can only afford $50/month, start there. The most important factor is consistency, not the dollar amount. Someone who invests $200/month for 30 years will almost certainly outperform someone who waits until they can invest $1,000/month.
 
-### Is it better to invest in ETFs or individual stocks?
+### Should I invest a lump sum or dollar cost average into ETFs?
 
-It really depends on your investment strategy and risk tolerance. I think ETFs are great for beginners due to their diversification and lower costs, while individual stocks might be better for those who have more experience and are willing to take on higher risks.
+Research shows that lump-sum investing outperforms dollar cost averaging about two-thirds of the time because markets tend to go up. However, DCA reduces the risk of buying at a peak and is psychologically easier. If you have a large sum and are nervous, a reasonable compromise is to invest it over 3-6 months in equal installments.
 
-### How often should I review my ETF investments?
+### Do ETFs pay dividends?
 
-It’s good practice to review your investments at least quarterly. This will help you stay on top of market trends and make adjustments if needed.
-
-Investing in ETFs can be a smart move for your financial future. With the right knowledge and strategy, you can build a solid investment portfolio that helps you achieve your financial goals. So, what are you waiting for? Start researching and find the ETF that’s right for you!
+Yes, most stock ETFs pay dividends, typically quarterly. The dividends come from the underlying stocks in the ETF. For example, VOO distributes the dividends paid by all 500 companies in the S&P 500. You can choose to receive these as cash or reinvest them automatically to buy more shares. Reinvesting is recommended for long-term growth.
