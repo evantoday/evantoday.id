@@ -85,11 +85,11 @@ Effective financial planning is key to managing the costs associated with raisin
 
 #### 1. **Set Clear Financial Goals**
 
-Establishing financial goals can help prioritize spending and saving. Consider reviewing the [financial goals setting guide for beginners](https://example.com/blog/a-comprehensive-guide-to-setting-financial-goals-for-beginners-in-indonesia/) for more insights.
+Establishing financial goals can help prioritize spending and saving. Consider reviewing the [financial goals setting guide for beginners](/blog/a-comprehensive-guide-to-setting-financial-goals-for-beginners-in-indonesia/) for more insights.
 
 #### 2. **Create a Budget**
 
-Implement budgeting methods such as the [zero-based budgeting method](https://example.com/blog/zero-based-budgeting-method-explained-a-comprehensive-guide-for-indonesians/) to ensure every Rupiah has a purpose.
+Implement budgeting methods such as the [zero-based budgeting method](/blog/zero-based-budgeting-method-explained-a-comprehensive-guide-for-indonesians/) to ensure every Rupiah has a purpose.
 
 #### 3. **Emergency Fund**
 
@@ -111,7 +111,7 @@ The estimated cost ranges from Rp 235,000,000 to Rp 570,000,000 from birth to 18
 
 #### 2. How can I reduce costs associated with raising a child?
 
-Consider budgeting techniques such as the [envelope budgeting method](https://example.com/blog/the-envelope-budgeting-method-for-beginners-a-practical-guide-for-indonesians/) and cutting unnecessary expenses.
+Consider budgeting techniques such as the [envelope budgeting method](/blog/the-envelope-budgeting-method-for-beginners-a-practical-guide-for-indonesians/) and cutting unnecessary expenses.
 
 #### 3. What are some ways to save for my child's education?
 
@@ -123,7 +123,7 @@ Yes, various government and private programs offer financial assistance, scholar
 
 #### 5. How can I effectively teach my children about money?
 
-Teaching your children about money management is essential. Refer to our guide on [how to teach kids about money in Indonesia](https://example.com/blog/how-to-teach-kids-about-money-in-indonesia-a-comprehensive-guide/) for practical tips.
+Teaching your children about money management is essential. Refer to our guide on [how to teach kids about money in Indonesia](/blog/how-to-teach-kids-about-money-in-indonesia-a-comprehensive-guide/) for practical tips.
 
 ### Conclusion
 

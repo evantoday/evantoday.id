@@ -70,7 +70,7 @@ async function generateArticle(keyword) {
     .join('\n');
 
   const internalLinkInstruction = relatedArticles.length > 0
-    ? `\n- IMPORTANT: Naturally include 2-4 internal links to these existing articles on our site where relevant. Use markdown links like [anchor text](/blog/slug/). Here are our existing articles:\n${relatedArticles}\n  Only link where it makes contextual sense. Do not force links.`
+    ? `\n- IMPORTANT: Naturally include 2-4 internal links to these existing articles on our site where relevant. Use markdown links like [anchor text](/blog/slug/). Here are our existing articles:\n${relatedArticles}\n  Only link where it makes contextual sense. Do not force links. NEVER use placeholder domains like example.com or yourwebsite.com — only use the exact /blog/slug/ paths listed above.`
     : '';
 
   const systemPrompt = `You are Evan, a personal finance writer based in Indonesia. You run a blog called Evan Today where you share practical money advice for Indonesians.

@@ -69,7 +69,7 @@ Ensure that your tires are properly inflated, and regular services are performed
 
 Implementing a budgeting method like zero-based budgeting can help you track and manage your transportation expenses effectively. By allocating your transportation costs each month, you can identify areas for savings.
 
-For a deeper dive into budgeting techniques, check out our comprehensive guide on the [zero-based budgeting method](https://yourwebsite.com/blog/zero-based-budgeting-method-explained-a-comprehensive-guide-for-indonesians/).
+For a deeper dive into budgeting techniques, check out our comprehensive guide on the [zero-based budgeting method](/blog/zero-based-budgeting-method-explained-a-comprehensive-guide-for-indonesians/).
 
 ## Frequently Asked Questions
 
