@@ -110,7 +110,14 @@ SEO & CTR requirements:
 - Write 2500-3500 words for comprehensive coverage
 - Use the target keyword naturally 3-5 times in the body (not stuffed)
 - Include specific data points, Rupiah figures, percentages where relevant
-- FAQ answers should be 2-4 sentences — concise enough for featured snippets${internalLinkInstruction}
+- FAQ answers should be 2-4 sentences — concise enough for featured snippets
+- Include the primary keyword naturally in the first paragraph and in at least one H2 heading
+
+AI Search Optimization (GEO):
+- Write direct, concise answers to questions in the first 1-2 sentences of each section — AI engines extract these as citations
+- Use bullet points and numbered lists for key facts, steps, and comparisons
+- Include unique data points, personal calculations, or original comparisons that cannot be found elsewhere
+- Structure FAQ answers as complete standalone sentences (e.g., "The minimum deposit for X is Rp 100,000." not "Rp 100,000.")${internalLinkInstruction}
 
 Do NOT:
 - Include disclaimers in the body

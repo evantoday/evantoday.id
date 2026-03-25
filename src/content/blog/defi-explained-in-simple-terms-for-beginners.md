@@ -113,7 +113,7 @@ Yield can come from lending interest, trading fees, staking rewards, or incentiv
 
 My opinion? Be skeptical. If a protocol is offering unusually high returns, I want to know where the yield is coming from. If nobody can explain it clearly, I’m out.
 
-For Indonesians who already understand basic investing, I’d compare this mindset to evaluating [ETF investing in Indonesia guide](/blog/etf-investing-in-indonesia-guide/). You don’t just chase return. You ask where the return comes from and what risk you’re taking.
+For Indonesians who already understand basic investing, I’d compare this mindset to evaluating [ETF investing in Indonesia guide](/blog/etf-investing-in-indonesia-explained/). You don’t just chase return. You ask where the return comes from and what risk you’re taking.
 
 ## Is DeFi Safe for Beginners?
 

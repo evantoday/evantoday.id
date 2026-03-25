@@ -57,6 +57,8 @@ const ogImageUrl = slug ? `/og/${slug}.png` : undefined;
 					width={1020}
 					height={510}
 					class="w-full rounded-xl shadow-md"
+					loading="eager"
+					fetchpriority="high"
 				/>
 			</div>
 		)}
@@ -68,10 +70,10 @@ const ogImageUrl = slug ? `/og/${slug}.png` : undefined;
 				</a>
 				<span>|</span>
 				<FormattedDate date={pubDate} />
-				{updatedDate && (
+				{updatedDate && updatedDate.getTime() !== pubDate.getTime() && (
 					<>
 						<span>|</span>
-						<span class="italic">Updated <FormattedDate date={updatedDate} /></span>
+						<span class="italic text-green-600">Updated <FormattedDate date={updatedDate} /></span>
 					</>
 				)}
 				<span>|</span>
