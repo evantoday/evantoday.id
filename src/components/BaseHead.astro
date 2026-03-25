@@ -26,7 +26,9 @@ const {
 	noindex = false,
 } = Astro.props;
 
-const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
+// Keep full title under ~60 chars to avoid SERP truncation
+const fullTitle = title === SITE_TITLE ? title :
+	(title.length + SITE_TITLE.length + 3 > 60) ? title : `${title} | ${SITE_TITLE}`;
 const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
 
 // Use generated OG image if available, otherwise fall back to hero image or default OG

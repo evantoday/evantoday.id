@@ -10,7 +10,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "generate": "node scripts/generate-article.mjs"
+    "generate": "node scripts/generate-article.mjs",
+    "refresh-meta": "node scripts/refresh-meta.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.2",

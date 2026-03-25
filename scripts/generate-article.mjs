@@ -95,9 +95,17 @@ Article structure (follow this order):
 5. Include at least one comparison table or numbered step-by-step where appropriate
 6. **Frequently Asked Questions** section with 4-6 Q&As using ### for each question
 
-SEO requirements:
-- Title: include the target keyword naturally, under 60 characters if possible
-- Meta description: compelling, under 155 characters, include a call-to-action
+SEO & CTR requirements:
+- Title: include the target keyword naturally, 50-60 characters max
+  - Use ONE power word or emotional trigger (e.g., "Proven", "Essential", "Complete", "Honest", "Ultimate", "Smart", "Real")
+  - Include a number when relevant (e.g., "7 Proven Ways...", "Top 5...")
+  - Use brackets for context when it fits naturally (e.g., "[2026 Guide]", "[Compared]", "[Step-by-Step]")
+  - Front-load the most important/clickable words — don't bury the value proposition
+  - Do NOT use clickbait or ALL CAPS words. Keep it honest and specific
+- Meta description: 120-155 characters, must create a curiosity gap or promise a specific outcome
+  - Start with a hook or bold claim, not "Learn how to..." or "Discover..."
+  - Include a specific number, Rupiah amount, or timeframe when possible (e.g., "Save Rp 2 juta/month", "in under 10 minutes")
+  - End with a micro call-to-action or open loop (e.g., "Here's exactly how.", "The last one surprised me.", "#3 is a game-changer.")
 - Headings: use question-based H2s where possible (e.g., "How Much Should You Save?")
 - Write 2500-3500 words for comprehensive coverage
 - Use the target keyword naturally 3-5 times in the body (not stuffed)
