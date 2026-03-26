@@ -23,6 +23,9 @@ jobs:
         run: npm ci
 
       - name: Build site
+        env:
+          PUBLIC_ADSENSE_CLIENT: ${{ secrets.PUBLIC_ADSENSE_CLIENT }}
+          PUBLIC_GA_ID: ${{ secrets.PUBLIC_GA_ID }}
         run: npm run build
 
       - name: Verify build output

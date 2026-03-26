@@ -45,6 +45,7 @@ jobs:
         if: steps.commit.outputs.has_changes == 'true'
         env:
           PUBLIC_ADSENSE_CLIENT: ${{ secrets.PUBLIC_ADSENSE_CLIENT }}
+          PUBLIC_GA_ID: ${{ secrets.PUBLIC_GA_ID }}
         run: npm run build
 
       - name: Deploy to Cloudflare Pages
