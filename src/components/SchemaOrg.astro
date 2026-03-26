@@ -14,19 +14,39 @@ interface Props {
 const { type, title, description, url, image, publishedDate, modifiedDate, author, breadcrumbs } = Astro.props;
 const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
 
-function getSchema() {
+const authorSchema = {
+	'@type': 'Person',
+	name: author || 'Evan',
+	url: `${siteUrl}/about`,
+};
+
+const publisherSchema = {
+	'@type': 'Organization',
+	name: 'Evan Today',
+	url: siteUrl,
+	logo: {
+		'@type': 'ImageObject',
+		url: `${siteUrl}/favicon.svg`,
+	},
+};
+
+function getSchemas() {
+	const schemas: object[] = [];
+
 	if (type === 'website') {
-		return {
+		schemas.push({
 			'@context': 'https://schema.org',
 			'@type': 'WebSite',
 			name: 'Evan Today',
 			description: description,
 			url: siteUrl,
-		};
+			publisher: publisherSchema,
+			inLanguage: 'en-US',
+		});
 	}
 
 	if (type === 'article') {
-		return {
+		schemas.push({
 			'@context': 'https://schema.org',
 			'@type': 'BlogPosting',
 			mainEntityOfPage: {
@@ -39,25 +59,14 @@ function getSchema() {
 			image: image,
 			datePublished: publishedDate?.toISOString(),
 			dateModified: (modifiedDate || publishedDate)?.toISOString(),
-			author: {
-				'@type': 'Person',
-				name: author || 'Evan Today',
-				url: siteUrl,
-			},
-			publisher: {
-				'@type': 'Organization',
-				name: 'Evan Today',
-				url: siteUrl,
-				logo: {
-					'@type': 'ImageObject',
-					url: `${siteUrl}/favicon.svg`,
-				},
-			},
-		};
+			author: authorSchema,
+			publisher: publisherSchema,
+			inLanguage: 'en-US',
+		});
 	}
 
 	if (type === 'breadcrumb' && breadcrumbs) {
-		return {
+		schemas.push({
 			'@context': 'https://schema.org',
 			'@type': 'BreadcrumbList',
 			itemListElement: breadcrumbs.map((item, index) => ({
@@ -66,15 +75,15 @@ function getSchema() {
 				name: item.name,
 				item: item.url,
 			})),
-		};
+		});
 	}
 
-	return null;
+	return schemas;
 }
 
-const schema = getSchema();
+const schemas = getSchemas();
 ---
 
-{schema && (
+{schemas.map((schema) => (
 	<script type="application/ld+json" set:html={JSON.stringify(schema)} />
-)}
+))}

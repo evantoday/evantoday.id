@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /tag/
+Disallow: /blog/page/
 
 Sitemap: https://evantoday.id/sitemap-index.xml

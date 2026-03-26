@@ -43,7 +43,6 @@ export default defineConfig({
 					item.changefreq = 'monthly';
 					item.priority = 0.5;
 				}
-				item.lastmod = new Date();
 				return item;
 			},
 			filter(page) {
