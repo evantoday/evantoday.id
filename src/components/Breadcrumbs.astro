@@ -6,10 +6,14 @@ interface Props {
 }
 
 const { items } = Astro.props;
-const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
-const breadcrumbData = items.map((item) => ({
+const siteUrl = (Astro.site?.toString() || 'https://evantoday.id').replace(/\/$/, '');
+const breadcrumbData = items.map((item, index) => ({
 	name: item.label,
-	url: item.href ? new URL(item.href, siteUrl).toString() : '',
+	url: item.href
+		? new URL(item.href, siteUrl).toString()
+		: index === items.length - 1
+			? Astro.url.toString()
+			: '',
 }));
 ---
 

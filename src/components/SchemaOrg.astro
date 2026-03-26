@@ -12,7 +12,7 @@ interface Props {
 }
 
 const { type, title, description, url, image, publishedDate, modifiedDate, author, breadcrumbs } = Astro.props;
-const siteUrl = Astro.site?.toString() || 'https://evantoday.id';
+const siteUrl = (Astro.site?.toString() || 'https://evantoday.id').replace(/\/$/, '');
 
 const authorSchema = {
 	'@type': 'Person',
