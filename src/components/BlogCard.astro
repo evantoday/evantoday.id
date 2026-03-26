@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 import FormattedDate from './FormattedDate.astro';
 import { CATEGORY_LABELS, type Category } from '../consts';
 
@@ -12,11 +13,23 @@ interface Props {
 	readingTime?: number;
 }
 
-const { title, description, pubDate, category, slug, readingTime } = Astro.props;
+const { title, description, pubDate, category, slug, heroImage, readingTime } = Astro.props;
 ---
 
 <article class="group">
 	<a href={`/blog/${slug}/`} class="block no-underline">
+		{heroImage && (
+			<div class="mb-3 overflow-hidden rounded-lg">
+				<Image
+					src={heroImage}
+					alt={title}
+					width={400}
+					height={200}
+					class="w-full h-[180px] object-cover group-hover:scale-105 transition-transform duration-300"
+					loading="lazy"
+				/>
+			</div>
+		)}
 		<div class="space-y-2">
 			<div class="flex items-center gap-2 text-xs text-gray-400">
 				<span class="font-medium text-gray-500">{CATEGORY_LABELS[category]}</span>
