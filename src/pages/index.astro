@@ -45,6 +45,7 @@ const totalArticles = allPosts.length;
 					pubDate={post.data.pubDate}
 					category={post.data.category}
 					slug={post.id}
+					heroImage={post.data.heroImage}
 					readingTime={getReadingTime(post.body || '')}
 				/>
 			))}
