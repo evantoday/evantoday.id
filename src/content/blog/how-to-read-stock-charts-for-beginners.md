@@ -5,6 +5,9 @@ pubDate: 2026-03-11
 category: "investing"
 tags: ["stock charts", "technical analysis", "candlestick charts", "stock trading", "beginner investing"]
 author: "Evan"
+heroImage: './images/investing-2.jpg'
+heroImageAlt: 'How to Read Stock Charts: Beginner Guide [2026]'
+
 ---
 
 The first time I opened a stock chart, I thought I was looking at an abstract painting. Red and green rectangles floating over a grid, wavy lines crossing each other, bars at the bottom that seemed to have no pattern. I almost closed the tab and went back to just buying whatever someone on Reddit recommended.

@@ -5,6 +5,9 @@ pubDate: 2026-03-06
 category: "personal-finance"
 tags: ["rent budget", "30 percent rule", "housing costs", "rent to income ratio", "affordable rent"]
 author: "Evan Today"
+heroImage: './images/personal-finance-3.jpg'
+heroImageAlt: 'How Much Should You Spend on Rent? (30% Rule)'
+
 ---
 
 ## The Number One Financial Mistake Americans Make

@@ -5,6 +5,9 @@ pubDate: 2026-03-19
 category: "personal-finance"
 tags: ["cost of living", "NYC vs LA", "Austin cost of living", "city comparison", "relocation"]
 author: "Evan"
+heroImage: './images/personal-finance-1.jpg'
+heroImageAlt: 'NYC vs LA vs Austin: Cost of Living Compared [2026]'
+
 ---
 
 ## Three Cities, Three Very Different Price Tags

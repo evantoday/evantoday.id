@@ -5,6 +5,9 @@ pubDate: 2026-03-16
 category: "insurance"
 tags: ["term life insurance", "whole life insurance", "life insurance comparison", "insurance"]
 author: "Evan"
+heroImage: './images/insurance-1.jpg'
+heroImageAlt: 'Term Life vs Whole Life Insurance [2026 Comparison]'
+
 ---
 
 The term life vs whole life debate is one of the most heated topics in personal finance. Financial advisors argue about it constantly, and both sides have valid points. But in my experience, the right answer for most American families is pretty clear—and I'll explain exactly why.

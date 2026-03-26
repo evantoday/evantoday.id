@@ -6,6 +6,9 @@ updatedDate: 2026-03-26
 category: "personal-finance"
 tags: ["job loss", "emergency fund", "unemployment", "budgeting", "personal finance"]
 author: "Evan"
+heroImage: './images/personal-finance-1.jpg'
+heroImageAlt: '7 Smart Ways to Survive a Job Loss'
+
 ---
 
 I still remember the first time a close friend called me after being laid off. His voice was calm, but I could hear the panic underneath. The first question he asked wasn't about job hunting. It was, "How long can I survive with the money I have?" That's exactly why I wanted to write this guide on how to financially survive a job loss — because the money problem hits before the emotional one even settles.

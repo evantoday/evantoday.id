@@ -5,6 +5,9 @@ pubDate: 2026-03-13
 category: "investing"
 tags: ["gold investing", "gold ETF", "precious metals", "GLD", "gold IRA"]
 author: "Evan"
+heroImage: './images/investing-1.jpg'
+heroImageAlt: 'How to Invest in Gold in 2026 (5 Best Ways)'
+
 ---
 
 Gold has been money for 5,000 years. Empires have risen and fallen. Currencies have come and gone. The US dollar has lost over 96% of its purchasing power since 1913. Through all of it, gold has held its value.

@@ -5,6 +5,9 @@ pubDate: 2026-03-14
 category: "cryptocurrency"
 tags: ["crypto tax", "IRS crypto", "capital gains crypto", "Form 8949", "crypto taxes"]
 author: "Evan"
+heroImage: './images/cryptocurrency-2.jpg'
+heroImageAlt: 'Crypto Tax Rules [2026]: IRS Guide to Avoid Fines'
+
 ---
 
 ## Why I Almost Got Burned on Crypto Taxes

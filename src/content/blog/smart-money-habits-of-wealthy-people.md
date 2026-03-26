@@ -5,6 +5,9 @@ pubDate: 2026-02-21
 category: "financial-tips"
 tags: ["money habits", "wealthy habits", "millionaire mindset", "wealth building", "financial success"]
 author: "Evan Today"
+heroImage: './images/financial-tips-1.jpg'
+heroImageAlt: '5 Money Habits of Wealthy Americans (Exposed)'
+
 ---
 
 ## What I Learned Studying How Rich People Handle Money

@@ -5,6 +5,9 @@ pubDate: 2026-03-14
 category: "investing"
 tags: ["dividend stocks", "passive income", "S&P 500", "dividend investing", "beginner investing"]
 author: "Evan"
+heroImage: './images/investing-2.jpg'
+heroImageAlt: '7 Best Dividend Stocks for Beginners [2026]'
+
 ---
 
 The first dividend payment I ever received was $3.42. I know that sounds laughable, but I still remember the feeling of seeing money appear in my brokerage account that I didn't have to work for. It was passive income in its purest form — a company paying me just for owning a tiny piece of it.

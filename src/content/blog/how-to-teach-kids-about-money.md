@@ -5,6 +5,9 @@ pubDate: 2026-01-27
 category: "personal-finance"
 tags: ["teach kids money", "financial literacy kids", "allowance", "kids and money", "parenting finance"]
 author: "Evan Today"
+heroImage: './images/personal-finance-2.jpg'
+heroImageAlt: 'How to Teach Kids About Money (5 Age-Based Lessons)'
+
 ---
 
 ## Why Most American Kids Graduate Without Basic Money Skills

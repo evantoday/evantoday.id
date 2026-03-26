@@ -5,6 +5,9 @@ pubDate: 2026-02-11
 category: "personal-finance"
 tags: ["expense tracking", "budget apps", "Mint", "YNAB", "Copilot", "money management"]
 author: "Evan Today"
+heroImage: './images/personal-finance-2.jpg'
+heroImageAlt: '5 Best Expense Tracking Apps in 2026 (Free & Paid)'
+
 ---
 
 I used to think I was pretty good with money. Then I actually started tracking every dollar I spent for a month. Turns out I was blowing $340 on subscriptions I barely used, $200 on impulse DoorDash orders, and another $150 on random Amazon purchases I couldn't even remember making.

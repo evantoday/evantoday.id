@@ -5,6 +5,9 @@ pubDate: 2026-03-20
 category: "investing"
 tags: ["dollar cost averaging", "DCA", "investing strategy", "market volatility", "automatic investing"]
 author: "Evan"
+heroImage: './images/investing-1.jpg'
+heroImageAlt: 'Dollar Cost Averaging: Beat Market Volatility [2026]'
+
 ---
 
 I used to check the stock market every morning before brushing my teeth. If the market was up, I'd tell myself I should have invested more yesterday. If the market was down, I'd convince myself to wait for a bigger dip. Either way, I was paralyzed.

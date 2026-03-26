@@ -3,6 +3,9 @@ title: "How to Budget Money (Beginner Guide for 2026)"
 description: "No budgeting experience? Start here. Build a working budget in 3 steps using the 50-30-20 rule, free apps, and real American salary examples."
 pubDate: 2026-02-14
 author: "Evan"
+heroImage: './images/personal-finance-1.jpg'
+heroImageAlt: 'How to Budget Money (Beginner Guide for 2026)'
+
 category: "personal-finance"
 tags: ["budgeting", "budget for beginners", "50-30-20 rule", "money management", "personal finance"]
 ---

@@ -5,6 +5,9 @@ pubDate: 2026-03-16
 category: "investing"
 tags: ["Treasury bonds", "I Bonds", "TIPS", "government bonds", "safe investments"]
 author: "Evan"
+heroImage: './images/investing-1.jpg'
+heroImageAlt: 'Treasury Bonds & I Bonds: Safe 4-5% Returns [2026]'
+
 ---
 
 ## Why I Keep 20% of My Portfolio in Government Bonds

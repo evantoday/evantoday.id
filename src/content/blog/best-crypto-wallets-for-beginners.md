@@ -6,6 +6,9 @@ updatedDate: 2026-03-24
 category: "cryptocurrency"
 tags: ["crypto wallet", "hardware wallet", "Ledger", "Trezor", "MetaMask", "crypto security"]
 author: "Evan"
+heroImage: './images/cryptocurrency-2.jpg'
+heroImageAlt: '7 Best Crypto Wallets in 2026 (Ranked by Security)'
+
 ---
 
 A friend of mine lost $12,000 in crypto overnight. Not because the market crashed — because the exchange he was using got hacked. His Bitcoin, his Ethereum, his Solana — all gone. No recovery. No insurance. No recourse.

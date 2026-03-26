@@ -6,6 +6,9 @@ updatedDate: 2026-03-24
 category: "insurance"
 tags: ["critical illness insurance", "health insurance", "cancer insurance", "supplemental insurance"]
 author: "Evan"
+heroImage: './images/insurance-1.jpg'
+heroImageAlt: 'Critical Illness Insurance: Do You Really Need It?'
+
 ---
 
 A coworker of mine was diagnosed with stage 2 colon cancer at 38. His health insurance covered the hospital bills—mostly. But what blindsided him was everything else: three months of unpaid leave, a $6,000 deductible, parking at the cancer center, meal delivery because he was too exhausted to cook, and the mortgage that didn't care about his diagnosis.

@@ -5,6 +5,9 @@ pubDate: 2026-03-17
 category: "digital-banking"
 tags: ["high-yield savings", "CD rates", "savings accounts", "Ally Bank", "Marcus"]
 author: "Evan"
+heroImage: './images/digital-banking-2.jpg'
+heroImageAlt: 'Best High-Yield Savings Accounts [2026] Ranked'
+
 ---
 
 If your savings are sitting in a big bank checking or savings account earning 0.01% APY, you're essentially giving the bank free money. On a $10,000 balance, that's $1 per year. The same $10,000 in a high-yield savings account earning 4.50% APY would generate $450 per year.

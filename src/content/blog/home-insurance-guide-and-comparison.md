@@ -6,6 +6,9 @@ updatedDate: 2026-03-25
 category: "insurance"
 tags: ["homeowners insurance", "home insurance", "property insurance", "insurance comparison"]
 author: "Evan"
+heroImage: './images/insurance-1.jpg'
+heroImageAlt: 'Homeowners Insurance Guide [2026]: Save author: "Evan",000+'
+
 ---
 
 A neighbor of mine had a kitchen fire last year that caused $45,000 in damage. His homeowners insurance covered every dollar above his $1,000 deductible. Another friend skipped coverage on his paid-off condo and ate a $12,000 water damage bill out of pocket. The difference between those two outcomes is what I want to help you navigate.

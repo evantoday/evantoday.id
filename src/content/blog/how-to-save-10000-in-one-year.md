@@ -6,6 +6,9 @@ updatedDate: 2026-03-25
 category: "personal-finance"
 tags: ["save $10,000", "savings plan", "money challenge", "annual savings", "save money fast"]
 author: "Evan"
+heroImage: './images/personal-finance-2.jpg'
+heroImageAlt: 'How to Save author: "Evan"0,000 in 1 Year (Month-by-Month Plan)'
+
 ---
 
 ## Why $10,000 Is the Magic Number

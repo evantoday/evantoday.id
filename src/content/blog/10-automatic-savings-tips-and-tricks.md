@@ -5,6 +5,9 @@ pubDate: 2026-02-25
 category: "personal-finance"
 tags: ["automatic savings", "save money", "round-up savings", "paycheck splitting", "wealth building"]
 author: "Evan Today"
+heroImage: './images/personal-finance-1.jpg'
+heroImageAlt: '10 Automatic Savings Tricks That Build Wealth'
+
 ---
 
 ## Why Automatic Savings Beat Willpower Every Time

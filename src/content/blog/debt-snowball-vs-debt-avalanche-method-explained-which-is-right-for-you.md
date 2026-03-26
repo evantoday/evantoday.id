@@ -5,6 +5,9 @@ pubDate: 2026-02-28
 category: "personal-finance"
 tags: ["debt snowball", "debt avalanche", "debt payoff strategy", "Dave Ramsey", "debt repayment"]
 author: "Evan Today"
+heroImage: './images/personal-finance-1.jpg'
+heroImageAlt: 'Debt Snowball vs Avalanche: Which Pays Off Faster?'
+
 ---
 
 ## Two Methods, One Goal: Zero Debt

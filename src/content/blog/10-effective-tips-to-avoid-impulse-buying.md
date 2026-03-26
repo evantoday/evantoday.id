@@ -5,6 +5,9 @@ pubDate: 2026-03-01
 category: "personal-finance"
 tags: ["impulse buying", "stop impulse spending", "save money", "shopping addiction", "spending habits"]
 author: "Evan Today"
+heroImage: './images/personal-finance-2.jpg'
+heroImageAlt: '10 Ways to Stop Impulse Buying (Save $5,000/Year)'
+
 ---
 
 ## The True Cost of Impulse Buying in America

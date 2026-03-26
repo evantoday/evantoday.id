@@ -5,6 +5,9 @@ pubDate: 2026-03-15
 category: "fintech"
 tags: ["Affirm", "buy now pay later", "BNPL", "Affirm review", "installment payments"]
 author: "Evan"
+heroImage: './images/fintech-2.jpg'
+heroImageAlt: 'Affirm Review [2026]: Hidden Fees and Interest Rates'
+
 ---
 
 You're about to check out on Amazon, Walmart, or Shopify, and there it is: "Pay with Affirm." Four easy payments. No hidden fees. Sounds great, right?

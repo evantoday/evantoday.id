@@ -5,6 +5,9 @@ pubDate: 2026-03-16
 category: "cryptocurrency"
 tags: ["crypto staking", "passive income crypto", "staking rewards", "PoS", "Ethereum staking"]
 author: "Evan"
+heroImage: './images/cryptocurrency-1.jpg'
+heroImageAlt: 'Crypto Staking: Earn 5-15% Passive Income [2026]'
+
 ---
 
 ## My First Staking Reward Was $0.03

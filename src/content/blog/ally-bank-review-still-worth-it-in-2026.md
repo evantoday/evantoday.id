@@ -5,6 +5,9 @@ pubDate: 2026-03-20
 category: "digital-banking"
 tags: ["Ally Bank", "online bank review", "high-yield savings", "Ally Bank review", "best online bank"]
 author: "Evan"
+heroImage: './images/digital-banking-1.jpg'
+heroImageAlt: 'Ally Bank Review [2026]: Best Online Bank?'
+
 ---
 
 ## Why I Switched to Ally Bank

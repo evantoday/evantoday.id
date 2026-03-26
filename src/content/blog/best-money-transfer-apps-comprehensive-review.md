@@ -5,6 +5,9 @@ pubDate: 2026-03-08
 category: "fintech"
 tags: ["money transfer", "Wise", "Remitly", "international transfer", "send money"]
 author: "Evan"
+heroImage: './images/fintech-2.jpg'
+heroImageAlt: 'Best Money Transfer Apps in 2026 (Fees Compared)'
+
 ---
 
 Last year I sent $2,000 to a contractor in the UK through my bank. The wire transfer fee was $45, and the exchange rate markup cost me another $38. That's $83 gone on a single transfer. When I ran the same amount through Wise, the total fee was $11.40. I've been obsessed with finding the cheapest transfer methods ever since.

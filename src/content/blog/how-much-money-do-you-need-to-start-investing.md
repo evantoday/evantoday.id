@@ -5,6 +5,9 @@ pubDate: 2026-03-14
 category: "investing"
 tags: ["start investing", "minimum investment", "Fidelity", "Charles Schwab", "beginner investing"]
 author: "Evan"
+heroImage: './images/investing-2.jpg'
+heroImageAlt: 'How Much Money to Start Investing? [2026 Guide]'
+
 ---
 
 "I'll start investing when I have more money."

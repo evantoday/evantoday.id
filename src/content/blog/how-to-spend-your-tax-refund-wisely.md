@@ -5,6 +5,9 @@ pubDate: 2026-03-14
 category: "personal-finance"
 tags: ["tax refund", "IRS refund", "tax season", "tax refund tips", "smart spending"]
 author: "Evan"
+heroImage: './images/personal-finance-3.jpg'
+heroImageAlt: 'How to Spend Your Tax Refund Wisely [2026 Guide]'
+
 ---
 
 ## The Average American Wastes Their Tax Refund in 14 Days

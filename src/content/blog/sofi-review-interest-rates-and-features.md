@@ -5,6 +5,9 @@ pubDate: 2026-03-12
 category: "digital-banking"
 tags: ["SoFi", "SoFi review", "high-yield savings", "SoFi checking", "online bank"]
 author: "Evan"
+heroImage: './images/digital-banking-2.jpg'
+heroImageAlt: 'SoFi Bank Review [2026]: 4%+ APY Worth It?'
+
 ---
 
 ## Why SoFi Caught My Attention

@@ -5,6 +5,9 @@ pubDate: 2026-03-08
 category: "personal-finance"
 tags: ["debt free", "pay off debt", "debt payoff", "credit card debt", "student loans"]
 author: "Evan"
+heroImage: './images/personal-finance-3.jpg'
+heroImageAlt: 'How to Get Debt-Free: 3-Step Plan That Works'
+
 ---
 
 ## The Harsh Reality of American Debt

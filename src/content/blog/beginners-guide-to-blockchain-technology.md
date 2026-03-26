@@ -5,6 +5,9 @@ pubDate: 2026-03-09
 category: "cryptocurrency"
 tags: ["blockchain", "blockchain explained", "cryptocurrency basics", "distributed ledger", "Web3"]
 author: "Evan"
+heroImage: './images/cryptocurrency-1.jpg'
+heroImageAlt: 'Blockchain Explained Simply (5-Minute Guide)'
+
 ---
 
 ## The Moment Blockchain Clicked for Me

@@ -6,6 +6,9 @@ updatedDate: 2026-03-26
 category: "investing"
 tags: ["diversification", "portfolio", "investing", "asset allocation"]
 author: "Evan"
+heroImage: './images/investing-1.jpg'
+heroImageAlt: '7 Smart Ways to Diversify Your Investment Portfolio'
+
 ---
 
 I still remember the first time I thought I was "diversified." I had one stock, one crypto coin, and a savings account that barely earned anything. It felt smart at the time. Then one market dip wiped out a chunk of my gains, and I realized I wasn't diversified at all — I was just spread out in different places.

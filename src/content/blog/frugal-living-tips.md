@@ -5,6 +5,9 @@ pubDate: 2026-01-15
 category: "personal-finance"
 tags: ["frugal living", "frugal tips", "save money", "minimalist living", "spend less"]
 author: "Evan Today"
+heroImage: './images/personal-finance-2.jpg'
+heroImageAlt: '7 Frugal Living Tips (Without Sacrificing Quality)'
+
 ---
 
 ## Frugal Living Is Not What You Think

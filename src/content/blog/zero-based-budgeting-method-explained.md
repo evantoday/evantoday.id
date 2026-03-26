@@ -5,6 +5,9 @@ pubDate: 2026-02-01
 category: "personal-finance"
 tags: ["zero-based budgeting", "budgeting method", "Dave Ramsey", "EveryDollar", "money management"]
 author: "Evan Today"
+heroImage: './images/personal-finance-2.jpg'
+heroImageAlt: 'Zero-Based Budgeting: Give Every Dollar a Job'
+
 ---
 
 ## What Is Zero-Based Budgeting?

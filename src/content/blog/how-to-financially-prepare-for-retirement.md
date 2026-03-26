@@ -5,6 +5,9 @@ pubDate: 2026-03-08
 category: "investing"
 tags: ["retirement planning", "401k", "IRA", "Roth IRA", "retirement savings"]
 author: "Evan"
+heroImage: './images/investing-2.jpg'
+heroImageAlt: 'Retirement Planning: 401(k), IRA, and Beyond [2026]'
+
 ---
 
 ## Why Most Americans Are Behind on Retirement

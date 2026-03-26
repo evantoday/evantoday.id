@@ -5,6 +5,9 @@ pubDate: 2026-03-14
 category: "personal-finance"
 tags: ["save on transport", "car expenses", "commute savings", "gas savings", "transportation costs"]
 author: "Evan Today"
+heroImage: './images/personal-finance-1.jpg'
+heroImageAlt: '10 Ways to Save $300/Month on Transportation'
+
 ---
 
 ## Why Transportation Costs Are Silently Wrecking Your Budget

@@ -5,6 +5,9 @@ pubDate: 2026-03-15
 category: "investing"
 tags: ["P2P lending", "Prosper", "LendingClub", "peer to peer", "alternative investments"]
 author: "Evan"
+heroImage: './images/investing-1.jpg'
+heroImageAlt: 'P2P Lending: Earn 5-10% Returns in 2026 (Risks)'
+
 ---
 
 ## What Peer-to-Peer Lending Actually Is

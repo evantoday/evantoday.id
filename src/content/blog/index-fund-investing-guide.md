@@ -6,6 +6,9 @@ updatedDate: 2026-03-25
 category: "investing"
 tags: ["index funds", "passive investing", "Vanguard", "S&P 500", "VTSAX"]
 author: "Evan"
+heroImage: './images/investing-1.jpg'
+heroImageAlt: 'Index Fund Investing: Beat 80% of Fund Managers'
+
 ---
 
 Here's a fact that still blows my mind: over any 15-year period, roughly 80% of professional fund managers — people with MBAs from Wharton, teams of analysts, and Bloomberg terminals — fail to beat a simple index fund.

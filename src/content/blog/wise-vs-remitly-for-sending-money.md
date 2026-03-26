@@ -6,6 +6,9 @@ updatedDate: 2026-03-25
 category: "fintech"
 tags: ["Wise", "Remitly", "international transfer", "send money abroad", "money transfer comparison"]
 author: "Evan"
+heroImage: './images/fintech-1.jpg'
+heroImageAlt: 'Wise vs Remitly: Best for Sending Money Abroad?'
+
 ---
 
 ## The Real Cost of Sending Money Abroad

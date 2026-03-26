@@ -5,6 +5,9 @@ pubDate: 2026-03-18
 category: "fintech"
 tags: ["Cash App", "Cash App review", "P2P payment", "mobile payment", "send money"]
 author: "Evan"
+heroImage: './images/fintech-2.jpg'
+heroImageAlt: 'Cash App Review [2026]: Features, Fees, Safety'
+
 ---
 
 ## How I Actually Use Cash App

@@ -5,6 +5,9 @@ pubDate: 2026-03-10
 category: "investing"
 tags: ["Robinhood", "stock trading", "investing app", "commission-free", "brokerage review"]
 author: "Evan"
+heroImage: './images/investing-2.jpg'
+heroImageAlt: 'Robinhood Review [2026]: Still Worth It?'
+
 ---
 
 ## My Honest Take After 4 Years on Robinhood

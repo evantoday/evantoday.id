@@ -6,6 +6,9 @@ updatedDate: 2026-03-24
 category: "investing"
 tags: ["Fidelity", "brokerage review", "stock trading", "index funds", "investing platform"]
 author: "Evan"
+heroImage: './images/investing-1.jpg'
+heroImageAlt: 'Fidelity Review [2026]: Best Free Brokerage?'
+
 ---
 
 ## Why Fidelity Is My Primary Brokerage

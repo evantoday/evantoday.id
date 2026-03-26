@@ -5,6 +5,9 @@ pubDate: 2026-03-21
 category: "digital-banking"
 tags: ["neobank", "best neobanks", "Chime vs SoFi", "online banks", "digital banking"]
 author: "Evan"
+heroImage: './images/digital-banking-1.jpg'
+heroImageAlt: 'Best Neobanks in 2026: Chime, SoFi, Ally Compared'
+
 ---
 
 ## Why I Tested Six Neobanks

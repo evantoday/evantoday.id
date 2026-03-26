@@ -5,6 +5,9 @@ pubDate: 2026-03-09
 category: "personal-finance"
 tags: ["money mistakes", "20s finance", "financial mistakes", "young adults", "money tips"]
 author: "Evan"
+heroImage: './images/personal-finance-3.jpg'
+heroImageAlt: '10 Money Mistakes in Your 20s That Cost Thousands'
+
 ---
 
 ## Your 20s Set the Financial Tone for Everything

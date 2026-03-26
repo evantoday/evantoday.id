@@ -5,6 +5,9 @@ pubDate: 2026-03-13
 category: "investing"
 tags: ["ETF investing", "index ETF", "Vanguard", "Fidelity", "beginner investing"]
 author: "Evan"
+heroImage: './images/investing-2.jpg'
+heroImageAlt: 'ETF Investing for Beginners: Start With author: "Evan"00 [2026]'
+
 ---
 
 When I first started investing, I made the classic beginner mistake: I tried to pick individual stocks. I bought a little Apple, some Tesla, threw money at a random biotech company someone on Reddit mentioned. My portfolio looked like a jigsaw puzzle with half the pieces missing.

@@ -5,6 +5,9 @@ pubDate: 2026-03-17
 category: "insurance"
 tags: ["motorcycle insurance", "bike insurance", "rider insurance", "insurance rates"]
 author: "Evan"
+heroImage: './images/insurance-2.jpg'
+heroImageAlt: 'Motorcycle Insurance: Best Coverage Options [2026]'
+
 ---
 
 I've been riding motorcycles for over 10 years, and the one thing I tell every new rider is this: your bike isn't the most expensive part of an accident—your body is. The average motorcycle accident results in $30,000+ in medical bills, and riders are 29 times more likely to die in a crash than car occupants per mile traveled.

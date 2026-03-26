@@ -5,6 +5,9 @@ pubDate: 2026-03-10
 category: "personal-finance"
 tags: ["financial goals", "money goals", "SMART goals", "beginner finance", "financial planning"]
 author: "Evan Today"
+heroImage: './images/personal-finance-3.jpg'
+heroImageAlt: '5 Financial Goals Every Beginner Needs to Set'
+
 ---
 
 ## Why Most People Fail With Money

@@ -5,6 +5,9 @@ pubDate: 2026-03-10
 category: "insurance"
 tags: ["life insurance", "term life", "whole life", "life insurance quotes"]
 author: "Evan"
+heroImage: './images/insurance-2.jpg'
+heroImageAlt: 'Life Insurance in 2026: Who Actually Needs It?'
+
 ---
 
 I used to think life insurance was something older people bought. Then a close friend passed away at 34 in a car accident, leaving behind a wife and two kids under five. He had no life insurance. His wife had to sell their house within six months.

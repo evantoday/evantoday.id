@@ -5,6 +5,9 @@ pubDate: 2026-02-06
 category: "personal-finance"
 tags: ["single mom finances", "single parent budget", "financial planning", "women and money"]
 author: "Evan Today"
+heroImage: './images/personal-finance-1.jpg'
+heroImageAlt: 'Financial Planning for Single Moms (3 Key Steps)'
+
 ---
 
 ## Why Financial Planning Matters More for Single Moms

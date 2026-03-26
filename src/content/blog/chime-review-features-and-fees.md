@@ -5,6 +5,9 @@ pubDate: 2026-03-08
 category: "digital-banking"
 tags: ["Chime", "Chime review", "free checking", "neobank", "online banking"]
 author: "Evan"
+heroImage: './images/digital-banking-2.jpg'
+heroImageAlt: 'Chime Review [2026]: Free Banking Worth It?'
+
 ---
 
 ## My Experience With Chime

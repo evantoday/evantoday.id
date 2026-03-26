@@ -5,6 +5,9 @@ pubDate: 2026-03-14
 category: "financial-tips"
 tags: ["newlywed finances", "couple money management", "joint accounts", "marriage finances", "financial planning"]
 author: "Evan"
+heroImage: './images/financial-tips-2.jpg'
+heroImageAlt: 'Financial Planning for Newlyweds (7 Key Steps)'
+
 ---
 
 ## The Money Conversation Most Couples Avoid

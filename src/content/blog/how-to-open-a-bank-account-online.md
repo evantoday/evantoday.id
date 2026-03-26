@@ -5,6 +5,9 @@ pubDate: 2026-03-11
 category: "digital-banking"
 tags: ["open bank account", "online banking", "bank account online", "checking account", "savings account"]
 author: "Evan"
+heroImage: './images/digital-banking-1.jpg'
+heroImageAlt: 'How to Open a Bank Account Online (10 Minutes)'
+
 ---
 
 ## Why I Stopped Going to Bank Branches
