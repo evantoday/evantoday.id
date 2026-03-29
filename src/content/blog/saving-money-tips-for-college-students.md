@@ -1,6 +1,6 @@
 ---
-title: "7 Money Saving Tips for College Students [2026]"
-description: "Broke before finals? These 7 tips help college students cut daily expenses and start saving—from meal prep to student discounts you're probably missing."
+title: "7 Tips Hemat Uang untuk Mahasiswa [2026]"
+description: "Dompet tipis sebelum ujian? 7 tips ini bantu mahasiswa memangkas biaya harian dan mulai menabung."
 pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "personal-finance"
@@ -11,210 +11,208 @@ heroImageAlt: '7 Money Saving Tips for College Students [2026]'
 
 ---
 
-## College Is Expensive, But Being Broke Does Not Have to Be Your Identity
+## Kuliah Itu Mahal, Tapi Hidup Bokek Bukan Harus Jadi Identitasmu
 
-Let me guess: your financial aid refund hits in August, feels like a fortune for about two weeks, and then slowly (or quickly) evaporates. By October you are eating ramen and checking your bank app with one eye closed.
+Saya tebak: uang bantuan kuliah atau refund biaya pendidikanmu masuk di bulan Agustus, rasanya seperti punya harta karun selama dua minggu, lalu pelan-pelan (atau cepat) habis. Bulan Oktober kamu sudah makan mi instan dan buka aplikasi bank dengan mata setengah terpejam.
 
-I lived this cycle for four years of college. It was not until my junior year that I figured out a few simple strategies that completely changed my financial situation. I went from constantly overdrafting to graduating with $2,800 in savings. Not a fortune, but enough to cover my security deposit and first month's rent without borrowing from my parents.
+Saya mengalami siklus ini selama empat tahun kuliah. Baru di tahun ketiga saya menemukan beberapa strategi sederhana yang benar-benar mengubah kondisi keuangan saya. Dari yang sering minus di rekening, saya lulus dengan tabungan Rp 42 juta. Bukan jumlah fantastis, tapi cukup untuk bayar deposit sewa dan cicilan bulan pertama tanpa harus pinjam orang tua.
 
-Here are seven practical tips that work for college students in 2026, whether you are working part-time, living on financial aid, or getting help from family.
+Berikut tujuh tips praktis yang cocok untuk mahasiswa di 2026, entah kamu kerja part-time, hidup dari bantuan keluarga, atau mengandalkan dana pendidikan.
 
-## Key Takeaways
+## Poin Penting
 
-- **The average college student** spends $2,000-$4,000 per semester on non-tuition expenses that are largely controllable.
-- **Meal prepping and cooking** saves $200-$400 per month compared to dining out and delivery apps.
-- **Student discounts** exist for almost everything, but most students do not use them.
-- **A simple budget** takes 15 minutes to set up and prevents the mid-semester money panic.
-- **Even saving $50-$100 per month** during college builds habits that pay off for decades.
+- **Rata-rata mahasiswa** menghabiskan Rp 30 juta–Rp 60 juta per semester untuk biaya non-SPP yang sebenarnya masih bisa dikendalikan.
+- **Meal prep dan masak sendiri** bisa menghemat Rp 3 juta–Rp 6 juta per bulan dibanding sering pesan makan.
+- **Diskon mahasiswa** ada untuk hampir semua hal, tapi banyak yang tidak dimanfaatkan.
+- **Budget sederhana** cuma butuh 15 menit untuk dibuat dan bisa mencegah panik kehabisan uang di tengah semester.
+- **Bahkan menabung Rp 750 ribu–Rp 1,5 juta per bulan** selama kuliah sudah membangun kebiasaan yang manfaatnya terasa puluhan tahun.
 
-## Tip 1: Create a Dead-Simple Budget
+## Tip 1: Buat Budget yang Super Sederhana
 
-I know. Budgeting sounds boring. But you do not need a spreadsheet with 30 categories. You need three numbers.
+Saya tahu. Mengatur budget terdengar membosankan. Tapi kamu tidak butuh spreadsheet dengan 30 kategori. Kamu cuma butuh tiga angka.
 
-### The Three-Number Budget
+### Budget Tiga Angka
 
-1. **Monthly income:** Financial aid refund divided by months in the semester, plus any job income, plus family contributions.
-2. **Fixed costs:** Rent, phone, insurance, subscriptions, any recurring bills.
-3. **Spending money:** Income minus fixed costs. This is what you have for food, gas, entertainment, and everything else.
+1. **Penghasilan bulanan:** Refund bantuan kuliah dibagi jumlah bulan dalam semester, ditambah gaji kerja, ditambah bantuan keluarga.
+2. **Biaya tetap:** Sewa, pulsa/paket data, asuransi, langganan, tagihan rutin apa pun.
+3. **Uang belanja:** Penghasilan dikurangi biaya tetap. Inilah uang untuk makan, bensin, hiburan, dan semuanya.
 
-### Example: Typical College Student Budget
+### Contoh: Budget Mahasiswa Biasa
 
-| Item | Monthly Amount |
+| Item | Jumlah per Bulan |
 |------|---------------|
-| Financial aid refund (per month) | $800 |
-| Part-time job (15 hrs/week at $14/hr) | $840 |
-| **Total monthly income** | **$1,640** |
+| Refund bantuan kuliah (per bulan) | Rp 12 juta |
+| Kerja part-time (15 jam/minggu x Rp 100 ribu/jam) | Rp 14 juta |
+| **Total penghasilan bulanan** | **Rp 26 juta** |
 | | |
-| Rent (split 4 ways) | -$550 |
-| Phone (on family plan, your share) | -$35 |
-| Car insurance | -$110 |
-| Spotify/streaming | -$6 (student plan) |
-| **Total fixed costs** | **-$701** |
+| Sewa (patungan 4 orang) | -Rp 9 juta |
+| Ponsel (paket keluarga, bagianmu) | -Rp 500 ribu |
+| Asuransi mobil/motor | -Rp 1,8 juta |
+| Spotify/streaming | -Rp 100 ribu (paket mahasiswa) |
+| **Total biaya tetap** | **-Rp 11,4 juta** |
 | | |
-| **Monthly spending money** | **$939** |
+| **Uang belanja bulanan** | **Rp 14,6 juta** |
 
-That $939 needs to cover groceries, gas, eating out, entertainment, textbooks, toiletries, and any other spending. Knowing this number is powerful because it turns vague financial anxiety into a specific weekly spending limit: about $235 per week or $33 per day.
+Rp 14,6 juta itu harus cukup untuk belanja bulanan, bensin, makan di luar, hiburan, buku kuliah, perlengkapan mandi, dan pengeluaran lain. Mengetahui angka ini itu kuat banget, karena bikin kecemasan finansial yang samar jadi batas belanja mingguan yang jelas: sekitar Rp 3,6 juta per minggu atau Rp 520 ribu per hari.
 
-### Use a Free App
+### Pakai Aplikasi Gratis
 
-- **Mint** or **Goodbudget:** Free, basic tracking.
-- **YNAB:** $14.99 per month but offers a free 12-month student subscription. Hands down the best budgeting app.
-- **Google Sheets:** A simple template with income, expenses, and a running balance works great.
+- **Money Lover** atau **Spendee:** Gratis, untuk pelacakan dasar.
+- **YNAB:** Sekitar Rp 240 ribu per bulan, tapi biasanya ada promo gratis untuk mahasiswa. Jujur, ini salah satu aplikasi budget terbaik.
+- **Google Sheets:** Template sederhana dengan pemasukan, pengeluaran, dan saldo berjalan juga sudah sangat cukup.
 
-## Tip 2: Master Cheap Eating
+## Tip 2: Kuasai Cara Makan Hemat
 
-Food is the biggest controllable expense for college students. The difference between eating smart and eating mindlessly is $200-$400 per month.
+Makanan adalah pengeluaran terbesar yang masih bisa kamu kendalikan sebagai mahasiswa. Bedanya makan cerdas dan makan asal-asalan bisa mencapai Rp 3 juta–Rp 6 juta per bulan.
 
-### The Meal Prep Strategy
+### Strategi Meal Prep
 
-Spend 1-2 hours on Sunday prepping meals for the week. This saves money and time during the week when you are tempted to order delivery because you are "too busy."
+Luangkan 1-2 jam setiap Minggu untuk menyiapkan makanan selama seminggu. Ini hemat uang dan waktu, terutama saat kamu tergoda pesan antar karena merasa “sibuk banget.”
 
-**Weekly meal prep for under $35:**
+**Meal prep mingguan di bawah Rp 500 ribu:**
 
-- **Breakfast (7 days):** Overnight oats with banana and peanut butter. Cost: $5 total.
-- **Lunch (5 days):** Chicken, rice, and frozen vegetable bowls. Cost: $12 total.
-- **Dinner (5 days):** Pasta with marinara and a side salad, bean and cheese burritos, stir-fry. Cost: $15 total.
-- **Weekend meals:** Eggs, sandwiches, leftovers. Cost: $3 total.
+- **Sarapan (7 hari):** Oat semalaman dengan pisang dan selai kacang. Biaya: Rp 75 ribu total.
+- **Makan siang (5 hari):** Ayam, nasi, dan sayuran beku. Biaya: Rp 180 ribu total.
+- **Makan malam (5 hari):** Pasta saus marinara dengan salad, burrito kacang dan keju, tumis sayur. Biaya: Rp 225 ribu total.
+- **Makanan akhir pekan:** Telur, sandwich, sisa makanan. Biaya: Rp 45 ribu total.
 
-That is $35 per week or about $140-$150 per month. Compare that to the $400-$600 most students spend on a combination of groceries, dining halls, and delivery apps.
+Totalnya sekitar Rp 525 ribu per minggu atau sekitar Rp 2,1 juta–Rp 2,3 juta per bulan. Bandingkan dengan Rp 6 juta–Rp 9 juta yang sering dihabiskan mahasiswa untuk gabungan belanja, makan di kantin, dan aplikasi pesan antar.
 
-### Cheap Grocery Shopping Tips
+### Tips Belanja Hemat
 
-- **Shop at Aldi, Walmart, or Lidl.** Avoid Whole Foods and Trader Joe's for staples (Trader Joe's is fine for snacks and specialty items).
-- **Buy store brands.** Always.
-- **Stock up on staples:** Rice, pasta, beans, oats, eggs, frozen vegetables, chicken thighs, bread, peanut butter, bananas. These form the backbone of cheap, nutritious eating.
-- **Use the Flashfood app** to get discounted groceries near their sell-by date (50-70 percent off).
-- **Never grocery shop hungry.** You will spend 20-40 percent more on impulse buys.
+- **Belanja di supermarket yang murah.** Cari yang harganya ramah kantong, bukan yang paling mahal untuk kebutuhan pokok.
+- **Beli merek toko.** Selalu.
+- **Stok bahan pokok:** Beras, pasta, kacang-kacangan, oat, telur, sayuran beku, paha ayam, roti, selai kacang, pisang. Ini fondasi makan hemat tapi tetap bergizi.
+- **Pakai aplikasi promo makanan** untuk cari diskon makanan yang mendekati tanggal kedaluwarsa.
+- **Jangan belanja saat lapar.** Kamu bisa habis 20-40 persen lebih banyak karena beli impulsif.
 
-### Skip the Dining Hall (Maybe)
+### Skip Kantin? Tergantung
 
-If your meal plan is already included in tuition and you cannot opt out, use it. But if you are paying extra for a meal plan ($2,000-$4,000 per semester), doing the math often reveals that cooking is cheaper. A $3,500 per semester meal plan comes out to about $875 per month, far more than the $150-$200 per month you would spend cooking.
+Kalau meal plan sudah termasuk di biaya kuliah dan kamu tidak bisa keluar dari paket itu, pakai saja. Tapi kalau kamu bayar ekstra untuk meal plan (Rp 30 juta–Rp 60 juta per semester), hitung-hitungannya sering menunjukkan masak sendiri jauh lebih murah. Meal plan Rp 52,5 juta per semester berarti sekitar Rp 13 juta per bulan, jauh lebih mahal daripada Rp 2,3 juta–Rp 3 juta per bulan kalau masak sendiri.
 
-## Tip 3: Use Every Student Discount Available
+## Tip 3: Manfaatkan Semua Diskon Mahasiswa
 
-Your .edu email and student ID are worth hundreds of dollars per year in discounts that most students never claim.
+Email .edu dan kartu mahasiswa itu bisa bernilai jutaan rupiah per tahun dalam bentuk diskon yang sayangnya jarang dipakai.
 
-### Technology Discounts
+### Diskon Teknologi
 
-- **Apple:** Education pricing saves $100-$300 on MacBooks and iPads.
-- **Microsoft Office 365:** Free with your .edu email.
-- **Adobe Creative Cloud:** $19.99 per month (normally $59.99).
-- **GitHub Student Developer Pack:** Hundreds of dollars in free developer tools.
-- **Notion:** Free Pro plan for students.
-- **Canva:** Free Pro plan for students.
+- **Apple:** Harga pendidikan bisa menghemat Rp 1,5 juta–Rp 4,5 juta untuk MacBook dan iPad.
+- **Microsoft Office 365:** Gratis dengan email kampus.
+- **Adobe Creative Cloud:** Sekitar Rp 300 ribu per bulan (normalnya jauh lebih mahal).
+- **GitHub Student Developer Pack:** Banyak tools developer gratis senilai jutaan rupiah.
+- **Notion:** Paket Pro gratis untuk mahasiswa.
+- **Canva:** Paket Pro gratis untuk mahasiswa.
 
-### Entertainment Discounts
+### Diskon Hiburan
 
-- **Spotify + Hulu:** $5.99 per month for both (normally $25+).
-- **Apple Music:** $5.99 per month (normally $10.99).
-- **Amazon Prime Student:** $7.49 per month (normally $14.99), plus a 6-month free trial.
-- **Movie theaters:** Most offer $3-$5 off with a student ID.
-- **Museums:** Many offer free or half-price admission for students.
+- **Spotify + Hulu:** Di Indonesia, cari paket mahasiswa atau bundling promo yang jauh lebih murah dari harga normal.
+- **Apple Music:** Paket mahasiswa biasanya lebih murah.
+- **Amazon Prime Student:** Tidak relevan di sini, tapi cek promo serupa dari layanan lokal.
+- **Bioskop:** Banyak yang kasih potongan harga dengan kartu mahasiswa.
+- **Museum:** Banyak museum memberi tiket gratis atau setengah harga untuk mahasiswa.
 
-### Other Discounts
+### Diskon Lainnya
 
-- **Amtrak:** 15 percent off with a student advantage card.
-- **Samsung:** Up to 30 percent off devices with student verification.
-- **The New York Times:** $4 per year (normally $17 per month).
-- **UNiDAYS and Student Beans:** Aggregate sites that list hundreds of student discounts from major brands.
-- **Cell phone plans:** T-Mobile, AT&T, and Verizon all have student-specific promotions.
+- **Transportasi:** Beberapa layanan transportasi dan kereta punya promo khusus mahasiswa.
+- **Samsung:** Bisa ada diskon besar untuk verifikasi mahasiswa.
+- **Media berita:** Banyak media digital menawarkan harga khusus mahasiswa.
+- **UNiDAYS dan Student Beans:** Situs agregator yang menampilkan ratusan diskon mahasiswa dari berbagai brand besar.
+- **Paket internet/ponsel:** Banyak operator punya promo khusus pelajar dan mahasiswa.
 
-### How to Find More
+### Cara Menemukan Lebih Banyak
 
-Before buying anything, search "[brand name] student discount" or check UNiDAYS.com. You would be surprised how many companies offer 10-30 percent off for students.
+Sebelum beli apa pun, cari “[nama brand] diskon mahasiswa” atau cek situs promo mahasiswa. Kamu bakal kaget betapa banyak perusahaan yang kasih potongan 10-30 persen untuk mahasiswa.
 
-## Tip 4: Earn Money Without Destroying Your GPA
+## Tip 4: Cari Penghasilan Tanpa Menghancurkan IPK
 
-Working during college is smart, but working 40 hours a week while taking a full course load is a recipe for burnout. Find income sources that are flexible and ideally build skills.
+Kerja sambil kuliah itu pintar, tapi kerja 40 jam seminggu sambil ambil beban kuliah penuh itu resep burnout. Cari sumber penghasilan yang fleksibel dan idealnya juga nambah skill.
 
-### Best Part-Time Jobs for College Students
+### Pekerjaan Part-Time Terbaik untuk Mahasiswa
 
-- **On-campus jobs:** Library, rec center, administrative assistant, tutoring center. These employers understand your schedule and usually work around exams. Pay: $12-$18 per hour.
-- **Freelancing:** Writing, graphic design, social media management, web development. Work on your own schedule. Pay: $15-$50+ per hour depending on skill.
-- **Tutoring:** Through your university or independently on Wyzant. Pay: $15-$40 per hour.
-- **Food delivery (DoorDash, Uber Eats):** Flexible, earn during dinner rush hours between classes. Pay: $15-$25 per hour.
-- **Paid internships:** The holy grail. Earn money while building your resume. Pay: $15-$30 per hour for most fields.
+- **Kerja di kampus:** Perpustakaan, pusat olahraga, staf administrasi, tutor center. Biasanya jadwalnya lebih fleksibel dan paham masa ujian. Bayaran: Rp 75 ribu–Rp 270 ribu per jam.
+- **Freelance:** Menulis, desain grafis, social media management, web development. Bisa dikerjakan sesuai jadwalmu sendiri. Bayaran: Rp 100 ribu–Rp 750 ribu+ per jam tergantung skill.
+- **Les/tutor:** Lewat kampus atau mandiri. Bayaran: Rp 100 ribu–Rp 600 ribu per jam.
+- **Kurir makanan:** Fleksibel, bisa ambil order saat jam makan di sela kelas. Bayaran: Rp 100 ribu–Rp 375 ribu per jam.
+- **Magang berbayar:** Ini yang paling ideal. Kamu dapat uang sambil bangun CV. Bayaran: Rp 100 ribu–Rp 450 ribu per jam untuk banyak bidang.
 
-### How Many Hours Should You Work?
+### Berapa Jam Sebaiknya Kerja?
 
-Research consistently shows that working 10-15 hours per week does not negatively impact academic performance for most students. Above 20 hours, GPA starts to decline. Find the balance that works for your course load.
+Riset secara konsisten menunjukkan bahwa kerja 10-15 jam per minggu biasanya tidak berdampak buruk pada performa akademik bagi sebagian besar mahasiswa. Di atas 20 jam, IPK mulai lebih mudah turun. Cari keseimbangan yang cocok dengan beban kuliahmu.
 
-### Passive and Semi-Passive Income
+### Penghasilan Pasif dan Semi-Pasif
 
-- **Sell class notes** on platforms like Stuvia or OneClass. If you are taking good notes anyway, why not get paid?
-- **Participate in research studies.** University psych and marketing departments pay $10-$50 per study.
-- **Donate plasma.** $50-$75 per session, twice per week. That is up to $600 per month.
-- **Rent out your parking spot** if you do not have a car but your apartment includes a space.
+- **Jual catatan kuliah** di platform seperti Stuvia atau OneClass. Kalau kamu memang sudah rajin bikin catatan, kenapa tidak dibayar?
+- **Ikut studi penelitian.** Departemen psikologi dan marketing kampus sering bayar Rp 150 ribu–Rp 750 ribu per studi.
+- **Donor plasma.** Bisa dapat bayaran sekitar Rp 750 ribu–Rp 1,1 juta per sesi, dua kali seminggu.
+- **Sewakan tempat parkir** kalau kamu tidak punya mobil/motor tapi apartemenmu punya slot parkir.
 
-## Tip 5: Slash Your Textbook Costs
+## Tip 5: Pangkas Biaya Buku Kuliah
 
-The average American college student spends $1,200 per year on textbooks. That number is insane, and it is almost entirely avoidable.
+Rata-rata mahasiswa menghabiskan Rp 18 juta per tahun untuk buku kuliah. Angka itu gila, dan hampir semuanya sebenarnya bisa dihindari.
 
-### How to Get Textbooks for Free or Cheap
+### Cara Dapat Buku Kuliah Gratis atau Murah
 
-- **Library reserves.** Your campus library likely has a copy of required textbooks on reserve. You cannot take them home, but you can use them for study sessions.
-- **Libgen and Z-Library.** I will just say these exist and leave it at that.
-- **Rent instead of buy.** Amazon textbook rental, Chegg, and Textbooks.com offer rentals at 50-80 percent off purchase price.
-- **Buy used.** Check Amazon, AbeBooks, ThriftBooks, and Facebook Marketplace before buying new.
-- **Older editions.** Ask your professor if the previous edition is acceptable. Often the differences are minimal (rearranged chapters, updated problem numbers). Previous editions cost 80-90 percent less.
-- **Share with a classmate.** Split the cost and share access.
-- **Open Educational Resources (OER).** More professors are switching to free, open-source textbooks. Check OpenStax for college-level textbooks at zero cost.
+- **Perpustakaan kampus.** Biasanya ada salinan buku wajib yang bisa dipakai di tempat.
+- **Sewa, bukan beli.** Banyak layanan sewa buku menawarkan harga jauh lebih murah daripada beli baru.
+- **Beli bekas.** Cek marketplace, grup jual-beli kampus, dan toko buku bekas sebelum beli baru.
+- **Edisi lama.** Tanya dosen apakah edisi sebelumnya masih bisa dipakai. Sering kali perbedaannya kecil saja. Edisi lama bisa jauh lebih murah.
+- **Patungan dengan teman kelas.** Bagi biaya dan aksesnya.
+- **Sumber belajar terbuka (OER).** Semakin banyak dosen yang beralih ke buku ajar gratis dan terbuka. Cek OpenStax untuk buku tingkat kuliah dengan biaya nol.
 
-### My Personal Rule
+### Aturan Pribadi Saya
 
-I never bought a textbook in the first two weeks of class. Many professors list books as "required" but barely reference them. Wait to see if you actually need it before spending the money.
+Saya tidak pernah langsung beli buku di dua minggu pertama kuliah. Banyak dosen menulis buku sebagai “wajib” tapi nyaris tidak pernah memakainya. Tunggu dulu sampai kamu benar-benar tahu perlu atau tidak sebelum keluar uang.
 
-## Tip 6: Be Smart About Housing
+## Tip 6: Pintar soal Tempat Tinggal
 
-Housing is typically your biggest expense. Small decisions here save hundreds per month.
+Tempat tinggal biasanya jadi pengeluaran terbesar. Keputusan kecil di sini bisa menghemat jutaan rupiah per bulan.
 
-### Finding Affordable Housing
+### Mencari Hunian yang Terjangkau
 
-- **More roommates = less rent.** A 4-bedroom house split four ways is almost always cheaper per person than a 1-bedroom apartment.
-- **Live slightly further from campus.** Apartments within walking distance of campus charge a premium. Living 10-15 minutes away by bike or bus can save $100-$300 per month.
-- **Negotiate at renewal.** If you have been a good tenant, ask for a rent reduction or at least no increase.
-- **Consider being an RA.** Resident Advisors typically get free room and sometimes free board. That is $5,000-$12,000 per year in savings.
+- **Lebih banyak teman sekamar = sewa lebih murah.** Rumah 4 kamar yang dibagi empat hampir selalu lebih murah per orang daripada apartemen 1 kamar.
+- **Tinggal sedikit lebih jauh dari kampus.** Apartemen yang dekat kampus biasanya lebih mahal. Tinggal 10-15 menit naik sepeda atau bus bisa menghemat Rp 1,5 juta–Rp 4,5 juta per bulan.
+- **Negosiasi saat perpanjangan kontrak.** Kalau kamu penyewa yang baik, minta penurunan harga atau setidaknya jangan naik.
+- **Pertimbangkan jadi asisten asrama.** Biasanya dapat kamar gratis dan kadang makan gratis juga. Itu bisa menghemat Rp 75 juta–Rp 180 juta per tahun.
 
-### Reducing Utility Costs
+### Mengurangi Biaya Utilitas
 
-- **LED bulbs.** Replace any remaining incandescent bulbs.
-- **Smart thermostat or programmable settings.** Keep the apartment at 68 degrees in winter and 76 in summer.
-- **Unplug devices** when not in use (or use a smart power strip).
-- **Split internet** with roommates instead of each getting their own plan.
+- **Lampu LED.** Ganti lampu lama yang boros listrik.
+- **Termostat pintar atau pengaturan otomatis.** Jaga suhu ruangan tetap nyaman.
+- **Cabut perangkat** saat tidak dipakai, atau pakai power strip pintar.
+- **Patungan internet** dengan teman sekamar daripada masing-masing pasang sendiri.
 
-## Tip 7: Avoid These Common Money Traps
+## Tip 7: Hindari Jebakan Uang yang Sering Terjadi
 
-College is full of financial pitfalls designed to separate students from their money. Watch out for these:
+Kampus penuh jebakan finansial yang dirancang untuk menguras uang mahasiswa. Waspadai ini:
 
-### Credit Card Sign-Up Booths
+### Booth Kartu Kredit
 
-Companies set up on campus offering free t-shirts or pizza for signing up. That free shirt could cost you thousands if you carry a balance at 25 percent interest. If you get a credit card, use it only for small recurring charges and pay the full balance every month.
+Perusahaan sering buka stan di kampus dan menawarkan kaus gratis atau pizza kalau kamu daftar. Kaus gratis itu bisa jadi mahal banget kalau kamu menumpuk saldo dan kena bunga 25 persen. Kalau kamu punya kartu kredit, pakai hanya untuk tagihan kecil yang rutin dan lunasi penuh setiap bulan.
 
-### "Treating Yourself" Culture
+### Budaya “Ngeluarin Duit buat Memanjakan Diri”
 
-One spontaneous dinner out is fine. But when "treating yourself" becomes a weekly habit that costs $50-$100 each time, it adds up to $200-$400 per month. Budget a specific amount for fun and stick to it.
+Makan enak sekali-sekali itu wajar. Tapi kalau “self-reward” jadi kebiasaan mingguan yang habis Rp 750 ribu–Rp 1,5 juta setiap kali, totalnya bisa Rp 3 juta–Rp 6 juta per bulan. Tetapkan anggaran khusus untuk senang-senang dan patuhi.
 
-### Subscription Creep
+### Langganan yang Diam-Diam Menumpuk
 
-Free trials that auto-convert to paid subscriptions. Go through your bank statement and cancel anything you signed up for and forgot about.
+Free trial yang otomatis berubah jadi langganan berbayar. Cek mutasi rekeningmu dan batalkan semua yang kamu daftar lalu lupa.
 
-### Buying New Everything for Your Dorm or Apartment
+### Beli Semua Barang Baru untuk Kamar Kos atau Apartemen
 
-Facebook Marketplace, Craigslist, and campus buy/sell groups are full of perfectly good furniture, kitchen items, and decor from students who just graduated. Buy used for everything except mattresses.
+Marketplace, grup jual-beli kampus, dan forum lokal penuh barang bekas bagus dari mahasiswa yang baru lulus. Beli bekas untuk semuanya kecuali kasur.
 
-### FOMO Spending
+### Pengeluaran Karena FOMO
 
-Saying no to expensive activities is hard in college. But remember: going into debt to keep up with friends who may also be going into debt is a losing strategy. Suggest cheaper alternatives. Movie night at home instead of the theater. Potluck instead of a restaurant. Hiking instead of an expensive day trip.
+Sulit bilang tidak ke aktivitas mahal saat kuliah. Tapi ingat: berutang demi mengikuti gaya hidup teman yang mungkin juga berutang adalah strategi yang kalah. Usulkan alternatif yang lebih murah. Nonton film di rumah вместо ke bioskop. Potluck вместо makan di restoran. Jalan santai atau hiking вместо trip mahal.
 
-## Building Long-Term Financial Habits in College
+## Membangun Kebiasaan Finansial Jangka Panjang di Kuliah
 
-The money you save in college matters, but the habits you build matter more. Students who graduate with even basic [financial literacy](/blog/how-to-teach-kids-about-money/) and habits are dramatically better off at 30 than those who figure it out later.
+Uang yang kamu hemat saat kuliah memang penting, tapi kebiasaan yang kamu bangun jauh lebih penting. Mahasiswa yang lulus dengan literasi keuangan dasar dan kebiasaan yang baik biasanya jauh lebih siap secara finansial di usia 30-an dibanding yang baru belajar belakangan.
 
-### Habits to Start Now
+### Kebiasaan yang Bisa Dimulai Sekarang
 
-- **Check your bank balance every morning.** Takes 10 seconds. Keeps you aware.
-- **Automate a small savings transfer.** Even $10 per week trains the saving muscle.
-- **[Use a budget](/blog/how-to-budget-money/).** Any budget. Just have one.
-- **Start a [Roth IRA](/blog/how-to-financially-prepare-for-retirement/)** if you have earned income. Even $25 per month invested at 20 starts compounding immediately.
-- **Build your credit score** with one responsibly used credit card.
-
+- **Cek saldo rekening setiap pagi.** Cuma 10 detik. Bikin kamu lebih sadar.
+- **Otomatis transfer ke tabungan.** Bahkan Rp 150 ribu per minggu sudah melatih kebiasaan menabung.
+- **[Pakai budget](/blog/how-to-budget-money/).** Budget apa pun. Yang penting ada.
+- **Mulai investasi/dana pensiun** kalau kamu punya penghasilan. Bahkan Rp 375 ribu per bulan yang diinvestasikan sejak usia 20-an bisa mulai berkembang dengan efek compounding.
+- **Bangun skor kredit** dengan satu kartu kredit yang dipakai secara bertanggung jawab.

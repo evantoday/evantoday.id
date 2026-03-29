@@ -1,6 +1,6 @@
 ---
-title: "Robinhood Review [2026]: Still Worth It?"
-description: "Robinhood offers $0 commission trades and a slick app—but payment for order flow and limited tools raise concerns. Honest review plus better alternatives."
+title: "Review Robinhood [2026]: Masih Layak?"
+description: "Robinhood menawarkan trading komisi Rp 0 dan aplikasi yang mulus, tapi PFOF dan fitur terbatas jadi catatan. Ulasan jujur plus alternatif."
 pubDate: 2026-03-10
 category: "investing"
 tags: ["Robinhood", "stock trading", "investing app", "commission-free", "brokerage review"]
@@ -10,211 +10,211 @@ heroImageAlt: 'Robinhood Review [2026]: Still Worth It?'
 
 ---
 
-## My Honest Take After 4 Years on Robinhood
+## Pendapat Jujur Saya Setelah 4 Tahun Pakai Robinhood
 
-I opened my Robinhood account in 2022 because everyone I knew was talking about it. Free trades, a clean app, fractional shares starting at $1. It felt like investing had finally been democratized.
+Saya membuka akun Robinhood pada 2022 karena semua orang yang saya kenal membicarakannya. Trading gratis, aplikasinya bersih, saham pecahan mulai dari $1. Rasanya seperti investasi akhirnya benar-benar jadi lebih mudah diakses.
 
-Four years later, I still have the app on my phone, but my relationship with Robinhood is complicated. There are things it does brilliantly and things that genuinely concern me. This is not going to be a puff piece or a hit job. I am going to walk you through everything, the good, the bad, and whether Robinhood deserves a place in your financial life in 2026.
+Empat tahun kemudian, aplikasi itu masih ada di ponsel saya, tapi hubungan saya dengan Robinhood cukup rumit. Ada hal-hal yang mereka lakukan dengan sangat baik, dan ada juga hal-hal yang benar-benar bikin saya khawatir. Ini bukan tulisan promosi, juga bukan serangan. Saya akan bahas semuanya: yang bagus, yang buruk, dan apakah Robinhood masih layak jadi bagian dari kehidupan finansial kamu di 2026.
 
-## What Is Robinhood?
+## Apa Itu Robinhood?
 
-Robinhood is a financial services company that offers commission-free trading of stocks, ETFs, options, and cryptocurrency through its mobile app and web platform. Founded in 2013 by Vlad Tenev and Baiju Bhatt, Robinhood launched with a simple promise: make investing accessible to everyone by eliminating trading fees.
+Robinhood adalah perusahaan layanan keuangan yang menawarkan trading saham, ETF, opsi, dan kripto tanpa komisi lewat aplikasi mobile dan platform web. Didirikan pada 2013 oleh Vlad Tenev dan Baiju Bhatt, Robinhood hadir dengan janji sederhana: membuat investasi lebih mudah diakses semua orang dengan menghapus biaya trading.
 
-The company went public in 2021 (ticker: HOOD) and has since expanded its product lineup to include:
+Perusahaan ini melantai di bursa pada 2021 (kode saham: HOOD) dan sejak itu memperluas produknya menjadi:
 
-- Stock and ETF trading
-- Options trading
-- Cryptocurrency trading
-- Robinhood Gold (premium subscription)
-- Cash management with debit card
-- Retirement accounts (Roth and Traditional IRA)
-- 24-hour market trading on select stocks
+- Trading saham dan ETF
+- Trading opsi
+- Trading cryptocurrency
+- Robinhood Gold (langganan premium)
+- Pengelolaan kas dengan kartu debit
+- Rekening pensiun (dana pensiun/reksadana investasi)
+- Trading pasar 24 jam untuk saham tertentu
 
-## Robinhood Features Breakdown
+## Rincian Fitur Robinhood
 
-### Commission-Free Trading
+### Trading Tanpa Komisi
 
-The headline feature is still the $0 commission on stock, ETF, and options trades. While other brokerages like [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/) and Schwab have since matched this pricing, Robinhood was the one that forced the entire industry to go fee-free.
+Fitur utamanya masih sama: komisi Rp 0 untuk trading saham, ETF, dan opsi. Walaupun sekuritas lain seperti [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/) dan Schwab sekarang sudah menyaingi harga ini, Robinhood adalah pihak yang memaksa industri bergerak ke model tanpa biaya.
 
-What you actually pay nothing for:
+Yang benar-benar tidak kamu bayar:
 
-- Stock and ETF trades
-- Options contracts (no per-contract fee)
-- Cryptocurrency trades (spread markup applies)
+- Trading saham dan ETF
+- Kontrak opsi (tanpa biaya per kontrak)
+- Trading kripto (tetap ada markup spread)
 
-### Fractional Shares
+### Saham Pecahan
 
-This is one of Robinhood's best features. You can buy as little as $1 worth of any stock or ETF. Want to own Amazon but cannot afford a full share? Buy $50 worth. This makes it possible to build a diversified portfolio even with a small amount of money.
+Ini salah satu fitur terbaik Robinhood. Kamu bisa beli saham atau ETF senilai mulai dari Rp 15 ribu. Mau punya Amazon tapi belum sanggup beli satu lembar penuh? Beli saja senilai Rp 750 ribu. Ini bikin kamu bisa membangun portofolio yang terdiversifikasi meski modal masih kecil.
 
 ### Robinhood Gold
 
-For $5/month, Robinhood Gold gives you:
+Dengan biaya Rp 75 ribu/bulan, Robinhood Gold memberi kamu:
 
-- **4.5% APY on uninvested cash** (as of early 2026)
-- **3% IRA match** on eligible contributions
-- **Morningstar research reports**
-- **Level II market data** (Nasdaq)
-- **Larger instant deposits** ($50,000 vs $1,000)
-- **Margin investing** at competitive rates
+- **4,5% APY untuk kas yang belum diinvestasikan** (per awal 2026)
+- **Match 3% untuk IRA/dana pensiun** pada kontribusi yang memenuhi syarat
+- **Laporan riset Morningstar**
+- **Data pasar Level II** (Nasdaq)
+- **Deposit instan lebih besar** (Rp 750 juta vs Rp 15 juta)
+- **Investasi margin** dengan tarif yang kompetitif
 
-The 4.5% APY on cash alone makes Gold worth it if you keep more than about $1,300 in uninvested cash, since the extra interest exceeds the $5 monthly fee.
+APY 4,5% untuk kas saja sudah membuat Gold layak dipertimbangkan kalau kamu menyimpan lebih dari sekitar Rp 20 juta dalam bentuk kas yang belum diinvestasikan, karena bunga tambahannya bisa menutup biaya bulanan Rp 75 ribu.
 
 ### Robinhood IRA
 
-Robinhood launched retirement accounts with a compelling hook: a 1% match on all IRA contributions (3% with Gold). That means if you contribute $7,000 to your [Roth IRA](/blog/how-to-financially-prepare-for-retirement/), Robinhood adds $70 (or $210 with Gold) in matching funds.
+Robinhood meluncurkan akun pensiun dengan daya tarik yang kuat: match 1% untuk semua kontribusi IRA (3% dengan Gold). Artinya, kalau kamu menyetor Rp 105 juta ke [Roth IRA](/blog/how-to-financially-prepare-for-retirement/), Robinhood menambahkan Rp 1,05 juta (atau Rp 3,15 juta dengan Gold) sebagai dana padanan.
 
-No other major brokerage offers an IRA match, so this is a genuine competitive advantage. However, the match vests over a period and there are conditions to be aware of.
+Tidak ada broker besar lain yang menawarkan match untuk IRA, jadi ini memang keunggulan kompetitif yang nyata. Tapi, match ini punya masa vesting dan ada syarat yang perlu kamu perhatikan.
 
-### Cryptocurrency Trading
+### Trading Cryptocurrency
 
-Robinhood supports trading in major cryptocurrencies including Bitcoin, Ethereum, Solana, and dozens of other tokens. The experience is seamless since you can trade crypto and stocks from the same account.
+Robinhood mendukung trading kripto besar seperti Bitcoin, Ethereum, Solana, dan puluhan token lainnya. Pengalamannya mulus karena kamu bisa trading kripto dan saham dari akun yang sama.
 
-The downside: Robinhood makes money on crypto through spread markups rather than explicit fees. This means you might pay slightly more per trade than on a dedicated crypto exchange, but you avoid the complexity of managing separate accounts and wallets.
+Kekurangannya: Robinhood menghasilkan uang dari kripto lewat markup spread, bukan biaya yang terlihat jelas. Artinya, kamu mungkin membayar sedikit lebih mahal per transaksi dibanding di exchange kripto khusus, tapi kamu juga tidak perlu repot mengelola akun dan wallet terpisah.
 
-### 24-Hour Market Trading
+### Trading Pasar 24 Jam
 
-Robinhood offers 24/5 trading on hundreds of popular stocks and ETFs. This means you can trade before the market opens and after it closes, which is useful for reacting to overnight news or earnings reports.
+Robinhood menawarkan trading 24/5 untuk ratusan saham dan ETF populer. Ini berarti kamu bisa trading sebelum pasar buka dan setelah pasar tutup, berguna kalau ingin bereaksi terhadap berita semalam atau laporan laba.
 
-## What Robinhood Does Well
+## Apa yang Dilakukan Robinhood dengan Baik
 
-### The User Interface
+### Antarmuka Pengguna
 
-Let me give credit where it is due. Robinhood has the best mobile investing experience on the market. The app is beautiful, intuitive, and makes complex actions feel simple. Setting up recurring investments, checking your portfolio, and placing trades all take seconds.
+Saya harus memberi kredit di sini. Robinhood punya pengalaman investasi mobile terbaik di pasar. Aplikasinya cantik, intuitif, dan membuat tindakan yang rumit terasa sederhana. Menyiapkan investasi rutin, mengecek portofolio, dan memasang order semuanya cuma butuh beberapa detik.
 
-When I compare the Robinhood app to Fidelity or Schwab's mobile apps, it is not even close. Robinhood feels like it was designed in 2026. The others feel like they were designed in 2012 and updated reluctantly.
+Kalau saya bandingkan aplikasi Robinhood dengan aplikasi mobile Fidelity atau Schwab, bedanya jauh sekali. Robinhood terasa seperti dirancang di 2026. Yang lain terasa seperti dirancang di 2012 lalu diperbarui dengan setengah hati.
 
-### Recurring Investments
+### Investasi Rutin
 
-You can set up automatic recurring investments on a daily, weekly, or monthly basis. I have a $100 weekly purchase of VTI set up on Robinhood that runs on autopilot. This is [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) at its simplest.
+Kamu bisa mengatur investasi otomatis harian, mingguan, atau bulanan. Saya punya pembelian VTI senilai Rp 1,5 juta per minggu yang berjalan otomatis di Robinhood. Ini adalah [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) dalam bentuk paling sederhana.
 
-### Cash Management
+### Pengelolaan Kas
 
-The Robinhood debit card and cash management features have improved significantly:
+Kartu debit Robinhood dan fitur pengelolaan kasnya sudah jauh lebih baik:
 
-- **4.5% APY** with Gold on uninvested cash
-- **Free ATM withdrawals** at 90,000+ ATMs
-- **FDIC insured** up to $2.5 million through partner banks
-- **Round-ups**: Automatically invest spare change from debit card purchases
+- **APY 4,5%** dengan Gold untuk kas yang belum diinvestasikan
+- **Tarik tunai gratis di ATM** di lebih dari 90.000 ATM
+- **Diasuransikan LPS** hingga Rp 37,5 miliar melalui bank mitra
+- **Round-up**: otomatis menginvestasikan uang kembalian dari pembelian kartu debit
 
-### Low Barrier to Entry
+### Hambatan Masuk Rendah
 
-No minimum deposit, fractional shares from $1, and a simple sign-up process. Robinhood is genuinely the easiest way for a complete beginner to [start investing](/blog/how-much-money-do-you-need-to-start-investing/). I have recommended it to friends who were intimidated by traditional brokerages and every single one was able to start investing within 15 minutes.
+Tidak ada setoran minimum, saham pecahan mulai dari Rp 15 ribu, dan proses pendaftaran yang sederhana. Robinhood memang salah satu cara termudah untuk pemula total yang ingin [mulai investasi](/blog/how-much-money-do-you-need-to-start-investing/). Saya pernah merekomendasikannya ke teman-teman yang awalnya takut dengan sekuritas tradisional, dan semuanya bisa mulai investasi dalam 15 menit.
 
-## What Concerns Me About Robinhood
+## Apa yang Bikin Saya Khawatir dari Robinhood
 
 ### Payment for Order Flow (PFOF)
 
-This is Robinhood's most controversial practice. Instead of routing your trades directly to the stock exchange, Robinhood sells your order flow to market makers like Citadel Securities. These market makers pay Robinhood for the right to execute your trades.
+Ini adalah praktik paling kontroversial Robinhood. Alih-alih mengarahkan order kamu langsung ke bursa saham, Robinhood menjual aliran order ke market maker seperti Citadel Securities. Market maker ini membayar Robinhood untuk hak mengeksekusi order kamu.
 
-Why this matters:
+Kenapa ini penting:
 
-- You might not get the absolute best price on your trades
-- The SEC has scrutinized this practice extensively
-- The conflict of interest is real: Robinhood profits more when you trade more
+- Kamu mungkin tidak mendapatkan harga terbaik secara absolut
+- OJK dan regulator pasar sudah mengawasi praktik ini dengan ketat
+- Ada konflik kepentingan yang nyata: Robinhood untung lebih besar kalau kamu lebih sering trading
 
-In practice, for small investors buying and holding [index funds](/blog/index-fund-investing-guide/), the price improvement difference is negligible, maybe a fraction of a cent per share. But for active traders dealing in large volumes, it can add up.
+Dalam praktiknya, untuk investor kecil yang membeli dan menahan [reksadana indeks](/blog/index-fund-investing-guide/), perbedaan price improvement ini nyaris tidak terasa, mungkin cuma sebagian kecil sen per saham. Tapi untuk trader aktif dengan volume besar, dampaknya bisa terasa.
 
-### Limited Research and Analysis Tools
+### Alat Riset dan Analisis yang Terbatas
 
-Compared to Fidelity, Schwab, or TD Ameritrade (now part of Schwab), Robinhood's research tools are bare bones. You get basic charts, some analyst ratings, and Morningstar reports if you pay for Gold. That is about it.
+Dibanding Fidelity, Schwab, atau TD Ameritrade (sekarang bagian dari Schwab), alat riset Robinhood sangat dasar. Kamu cuma dapat grafik sederhana, beberapa rating analis, dan laporan Morningstar kalau bayar Gold. Itu saja.
 
-If you are a serious investor who wants:
+Kalau kamu investor serius yang butuh:
 
-- Advanced charting with technical indicators
-- Detailed fundamental analysis screens
-- Portfolio analysis and tax optimization tools
-- Fixed income research
+- Charting lanjutan dengan indikator teknikal
+- Screener analisis fundamental yang detail
+- Alat analisis portofolio dan optimasi pajak
+- Riset fixed income
 
-You will need to look elsewhere or supplement Robinhood with other tools.
+Kamu perlu cari tempat lain atau melengkapi Robinhood dengan alat lain.
 
-### Gamification Concerns
+### Kekhawatiran Soal Gamifikasi
 
-Robinhood has been criticized for making investing feel like a game. Confetti animations on trades (since removed), push notifications about price movements, and the overall app design can encourage frequent trading, which is usually harmful to returns.
+Robinhood pernah dikritik karena membuat investasi terasa seperti game. Animasi konfeti saat transaksi (sekarang sudah dihapus), notifikasi dorongan soal pergerakan harga, dan desain aplikasi secara keseluruhan bisa mendorong trading terlalu sering, yang biasanya merugikan hasil investasi.
 
-The average investor who trades frequently underperforms the market significantly. To Robinhood's credit, they have dialed back some of the most egregious gamification elements, but the app's design still encourages engagement over patience.
+Investor rata-rata yang terlalu sering trading biasanya kalah jauh dari pasar. Kredit untuk Robinhood, mereka sudah mengurangi beberapa elemen gamifikasi yang paling berlebihan, tapi desain aplikasinya masih lebih mendorong keterlibatan daripada kesabaran.
 
-### Customer Service
+### Layanan Pelanggan
 
-This has historically been Robinhood's weakest area. During the 2021 GameStop controversy, many users could not reach support when they desperately needed help. Robinhood has since added 24/7 phone support and improved response times, but it still lags behind Fidelity and Schwab in service quality.
+Secara historis ini adalah titik terlemah Robinhood. Saat kontroversi GameStop pada 2021, banyak pengguna tidak bisa menghubungi support ketika sangat butuh bantuan. Sejak itu Robinhood menambah dukungan telepon 24/7 dan memperbaiki waktu respons, tapi kualitas layanannya masih tertinggal dari Fidelity dan Schwab.
 
-### Past Controversies
+### Kontroversi di Masa Lalu
 
-It would be dishonest not to mention these:
+Tidak jujur kalau saya tidak menyebut ini:
 
-- **January 2021 trading restrictions**: Robinhood restricted buying of GameStop and other meme stocks during a historic short squeeze, sparking outrage and congressional hearings
-- **FINRA fines**: Robinhood has paid multiple fines for various regulatory issues including misleading customers and system outages
-- **2020 outages**: The platform went down during several volatile trading days, preventing users from accessing their accounts
+- **Pembatasan trading Januari 2021**: Robinhood membatasi pembelian GameStop dan saham meme lain saat terjadi short squeeze besar, memicu kemarahan publik dan sidang kongres
+- **Denda FINRA**: Robinhood sudah beberapa kali didenda karena berbagai masalah regulasi, termasuk informasi yang menyesatkan dan gangguan sistem
+- **Gangguan sistem 2020**: Platform sempat down di beberapa hari trading yang sangat volatil, sehingga pengguna tidak bisa mengakses akun mereka
 
-## Robinhood vs. the Competition
+## Robinhood vs. Kompetitor
 
-| Feature | Robinhood | Fidelity | Charles Schwab | Webull |
+| Fitur | Robinhood | Fidelity | Charles Schwab | Webull |
 |---------|-----------|----------|---------------|--------|
-| Stock/ETF commissions | $0 | $0 | $0 | $0 |
-| Options (per contract) | $0 | $0.65 | $0.65 | $0 |
-| Fractional shares | Yes ($1 min) | Yes ($1 min) | Yes ($5 min) | Yes ($5 min) |
-| Cash APY (no subscription) | 1.5% | 2.7% (SPAXX) | 0.4% | 4.5% |
-| Cash APY (premium) | 4.5% (Gold) | N/A | N/A | N/A |
-| IRA match | 1-3% | None | None | None |
-| Research tools | Basic | Excellent | Excellent | Moderate |
-| Crypto trading | Yes | Yes (limited) | Yes (limited) | Yes |
-| Customer service | Improving | Excellent | Excellent | Basic |
-| Account minimum | $0 | $0 | $0 | $0 |
+| Komisi saham/ETF | Rp 0 | Rp 0 | Rp 0 | Rp 0 |
+| Opsi (per kontrak) | Rp 0 | Rp 9.750 | Rp 9.750 | Rp 0 |
+| Saham pecahan | Ya (min. Rp 15 ribu) | Ya (min. Rp 15 ribu) | Ya (min. Rp 75 ribu) | Ya (min. Rp 75 ribu) |
+| APY kas (tanpa langganan) | 1,5% | 2,7% (SPAXX) | 0,4% | 4,5% |
+| APY kas (premium) | 4,5% (Gold) | N/A | N/A | N/A |
+| Match IRA | 1-3% | Tidak ada | Tidak ada | Tidak ada |
+| Alat riset | Dasar | Sangat bagus | Sangat bagus | Menengah |
+| Trading kripto | Ya | Ya (terbatas) | Ya (terbatas) | Ya |
+| Layanan pelanggan | Membaik | Sangat bagus | Sangat bagus | Dasar |
+| Minimum akun | Rp 0 | Rp 0 | Rp 0 | Rp 0 |
 
-## Who Robinhood Is Best For
+## Siapa yang Paling Cocok Pakai Robinhood
 
-After four years of use, here is my honest assessment of who benefits most from Robinhood:
+Setelah empat tahun memakai, ini penilaian jujur saya tentang siapa yang paling diuntungkan dari Robinhood:
 
-**Robinhood is great for:**
+**Robinhood cocok untuk:**
 
-- Beginners who want a simple, clean interface to start investing
-- Young investors building small portfolios with fractional shares
-- People who want automatic recurring investments with minimal friction
-- Anyone who values the IRA match (it is free money)
-- Crypto-curious investors who want everything in one place
+- Pemula yang ingin antarmuka sederhana dan bersih untuk mulai investasi
+- Investor muda yang membangun portofolio kecil dengan saham pecahan
+- Orang yang ingin investasi rutin otomatis tanpa ribet
+- Siapa pun yang menghargai match IRA/dana pensiun karena itu uang gratis
+- Investor yang penasaran dengan kripto dan ingin semuanya ada di satu tempat
 
-**Robinhood is not ideal for:**
+**Robinhood kurang ideal untuk:**
 
-- Active traders who need advanced charting and analysis tools
-- Investors with large portfolios who want comprehensive wealth management
-- People who prioritize customer service above all else
-- Options traders who want sophisticated strategy builders
-- Anyone uncomfortable with payment for order flow
+- Trader aktif yang butuh charting dan alat analisis lanjutan
+- Investor dengan portofolio besar yang ingin pengelolaan kekayaan komprehensif
+- Orang yang memprioritaskan layanan pelanggan di atas segalanya
+- Trader opsi yang butuh pembuat strategi canggih
+- Siapa pun yang tidak nyaman dengan payment for order flow
 
-## My Current Setup
+## Setup Saya Saat Ini
 
-I use Robinhood alongside Fidelity, and I think that combination works well:
+Saya memakai Robinhood bersama Fidelity, dan menurut saya kombinasi itu bekerja dengan baik:
 
-- **Robinhood**: Weekly recurring investments in VTI and VXUS, crypto holdings, and my Roth IRA (for the 3% Gold match)
-- **Fidelity**: My 401(k) rollover, taxable brokerage with individual stock positions, and any research I want to do
+- **Robinhood**: Investasi rutin mingguan di VTI dan VXUS, kepemilikan kripto, dan Roth IRA/dana pensiun saya (untuk match 3% Gold)
+- **Fidelity**: Rollover DPLK/dana pensiun saya, akun brokerage kena pajak dengan posisi saham individu, dan semua riset yang ingin saya lakukan
 
-This gives me the best of both worlds: Robinhood's superior app experience and IRA match for simple investing, and Fidelity's research tools and customer service for everything else.
+Ini memberi saya yang terbaik dari dua dunia: pengalaman aplikasi Robinhood yang unggul dan match IRA untuk investasi sederhana, plus alat riset dan layanan pelanggan Fidelity untuk sisanya.
 
-## The Bottom Line
+## Kesimpulan
 
-Robinhood in 2026 is a significantly better product than Robinhood in 2021. The company has added retirement accounts, improved customer service, and built a competitive cash management product. The IRA match is a genuine differentiator that no other major brokerage offers.
+Robinhood di 2026 adalah produk yang jauh lebih baik dibanding Robinhood di 2021. Perusahaan ini sudah menambahkan akun pensiun, memperbaiki layanan pelanggan, dan membangun produk pengelolaan kas yang kompetitif. Match IRA adalah pembeda nyata yang tidak ditawarkan broker besar lain.
 
-But the core tension remains. Robinhood makes money primarily through payment for order flow and by encouraging engagement, which is not perfectly aligned with your goal of long-term wealth building through patient investing.
+Tapi, ketegangan utamanya masih ada. Robinhood menghasilkan uang terutama lewat payment for order flow dan dengan mendorong keterlibatan pengguna, yang tidak sepenuhnya selaras dengan tujuan kamu membangun kekayaan jangka panjang lewat investasi yang sabar.
 
-My advice: use Robinhood for what it is good at (simple recurring investments, IRA with match, cash management) and do not let the sleek app trick you into overtrading. If you can do that, Robinhood is a solid tool in your financial toolkit.
+Saran saya: pakai Robinhood untuk hal-hal yang memang jadi keunggulannya, seperti investasi rutin sederhana, IRA/dana pensiun dengan match, dan pengelolaan kas. Jangan biarkan aplikasinya yang mulus membuat kamu terlalu sering trading. Kalau kamu bisa disiplin, Robinhood adalah alat yang solid dalam kotak alat keuangan kamu.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is Robinhood safe for my money?
+### Apakah Robinhood aman untuk uang saya?
 
-Robinhood is a member of FINRA and SIPC, which means your securities are protected up to $500,000 (including $250,000 for cash) if Robinhood goes bankrupt. Cash in the spending account is FDIC insured up to $2.5 million through partner banks. Your money is as safe as at any other regulated brokerage.
+Robinhood adalah anggota FINRA dan SIPC, yang berarti efek kamu dilindungi hingga $500.000 (termasuk $250.000 untuk kas) jika Robinhood bangkrut. Uang tunai di rekening spending diasuransikan LPS hingga Rp 37,5 miliar melalui bank mitra. Uang kamu sama amannya seperti di sekuritas teregulasi lain.
 
-### Does Robinhood charge hidden fees?
+### Apakah Robinhood mengenakan biaya tersembunyi?
 
-There are no hidden trading fees, but Robinhood earns revenue through payment for order flow, which may result in slightly less favorable trade execution. Crypto trades include a spread markup. Robinhood Gold costs $5/month. Margin interest applies if you borrow. There are no account maintenance or inactivity fees.
+Tidak ada biaya trading tersembunyi, tapi Robinhood menghasilkan pendapatan lewat payment for order flow, yang bisa membuat eksekusi transaksi sedikit kurang menguntungkan. Trading kripto termasuk markup spread. Robinhood Gold biayanya Rp 75 ribu/bulan. Ada bunga margin kalau kamu meminjam. Tidak ada biaya pemeliharaan akun atau biaya inaktivitas.
 
-### Should I move my IRA to Robinhood for the match?
+### Haruskah saya memindahkan IRA saya ke Robinhood demi match?
 
-The 1% match (3% with Gold) is appealing, but consider the full picture. Robinhood offers fewer investment options than Fidelity or Vanguard, and the match has vesting requirements. If you are contributing the max $7,000 per year, the 3% match is $210 annually. That is meaningful but not life-changing. I moved my IRA for the match, but I understand why some people prefer the broader capabilities of Fidelity.
+Match 1% (3% dengan Gold) memang menarik, tapi pertimbangkan gambaran lengkapnya. Robinhood menawarkan lebih sedikit pilihan investasi dibanding Fidelity atau Vanguard, dan match-nya punya syarat vesting. Kalau kamu menyetor maksimal Rp 105 juta per tahun, match 3% berarti Rp 3,15 juta per tahun. Itu lumayan, tapi bukan sesuatu yang mengubah hidup. Saya memindahkan IRA saya demi match itu, tapi saya paham kenapa sebagian orang lebih suka kemampuan Fidelity yang lebih luas.
 
-### Is Robinhood good for day trading?
+### Apakah Robinhood bagus untuk day trading?
 
-No. Robinhood lacks the advanced tools, real-time data, and execution speed that serious day traders need. The pattern day trader rule also applies (you need $25,000 in your account to make more than 3 day trades per week). For day trading, look at Interactive Brokers or thinkorswim (Schwab).
+Tidak. Robinhood tidak punya alat lanjutan, data real-time, dan kecepatan eksekusi yang dibutuhkan trader harian serius. Aturan pattern day trader juga berlaku (kamu perlu Rp 375 juta di akun untuk melakukan lebih dari 3 day trade per minggu). Untuk day trading, lihat Interactive Brokers atau thinkorswim (Schwab).
 
-### What happened with GameStop and should I be worried?
+### Apa yang terjadi dengan GameStop dan apakah saya perlu khawatir?
 
-In January 2021, Robinhood restricted buying of GameStop and other volatile stocks, citing clearinghouse deposit requirements. This was a legitimate operational issue, but the communication was poor and it damaged trust significantly. Since then, Robinhood has increased its capital reserves and improved its clearing infrastructure. A repeat is less likely but not impossible during extreme market conditions.
+Pada Januari 2021, Robinhood membatasi pembelian GameStop dan saham volatil lain dengan alasan kebutuhan deposit dari clearinghouse. Ini memang masalah operasional yang valid, tapi komunikasinya buruk dan sangat merusak kepercayaan. Sejak itu, Robinhood menambah cadangan modal dan memperbaiki infrastruktur clearing mereka. Kejadian serupa lebih kecil kemungkinannya, tapi tetap tidak mustahil saat kondisi pasar ekstrem.

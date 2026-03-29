@@ -1,6 +1,6 @@
 ---
-title: "5 Money Habits of Wealthy Americans (Exposed)"
-description: "What do millionaires do differently with money? These 5 wealth-building habits separate high earners from everyone else."
+title: "5 Kebiasaan Keuangan Orang Kaya Amerika"
+description: "Apa yang dilakukan para jutawan dengan uang? 5 kebiasaan ini membedakan mereka dari kebanyakan orang."
 pubDate: 2026-02-21
 category: "financial-tips"
 tags: ["money habits", "wealthy habits", "millionaire mindset", "wealth building", "financial success"]
@@ -10,210 +10,209 @@ heroImageAlt: '5 Money Habits of Wealthy Americans (Exposed)'
 
 ---
 
-## What I Learned Studying How Rich People Handle Money
+## Apa yang Saya Pelajari Saat Mempelajari Cara Orang Kaya Mengelola Uang
 
-A few years ago, I started paying attention to what wealthy people actually do with their money, not what they post on Instagram, but the boring, behind-the-scenes decisions that quietly build seven-figure net worths.
+Beberapa tahun lalu, saya mulai memperhatikan apa yang benar-benar dilakukan orang kaya dengan uang mereka — bukan yang mereka pamerkan di Instagram, tapi keputusan-keputusan membosankan di balik layar yang diam-diam membangun kekayaan miliaran rupiah.
 
-I read Thomas Stanley's "The Millionaire Next Door," studied the annual Fidelity Millionaire Outlook surveys, and talked to a handful of high-net-worth individuals in my own network. The patterns were so consistent it was almost eerie.
+Saya membaca *The Millionaire Next Door* karya Thomas Stanley, mempelajari survei tahunan Fidelity Millionaire Outlook, dan berbicara dengan beberapa orang berpenghasilan tinggi di jaringan saya sendiri. Polanya begitu konsisten sampai rasanya hampir aneh.
 
-The surprising part? Most of these habits have nothing to do with earning a massive income. According to Ramsey Solutions' largest study of millionaires, 79% of US millionaires did not receive any inheritance, and the top three professions were engineer, accountant, and teacher. Not hedge fund managers. Not tech founders.
+Bagian yang mengejutkan? Sebagian besar kebiasaan ini sama sekali tidak ada hubungannya dengan penghasilan besar. Menurut studi terbesar Ramsey Solutions tentang jutawan, 79% jutawan di AS tidak menerima warisan apa pun, dan tiga profesi teratas adalah insinyur, akuntan, dan guru. Bukan manajer hedge fund. Bukan pendiri startup teknologi.
 
-Here are the five money habits that separate people who build real wealth from everyone else.
+Berikut lima kebiasaan keuangan yang membedakan orang yang membangun kekayaan nyata dari orang lain.
 
-## Habit 1: They Automate Everything
+## Kebiasaan 1: Mereka Mengotomatiskan Semuanya
 
-Wealthy Americans do not rely on willpower to save money. They build systems that remove the need for discipline entirely.
+Orang kaya Amerika tidak mengandalkan kemauan untuk menabung. Mereka membangun sistem yang menghilangkan kebutuhan akan disiplin sepenuhnya.
 
-### What Automation Looks Like
+### Seperti Apa Otomatisasi Itu
 
-- **401(k) contributions** come straight out of their paycheck before they see the money
-- **Roth IRA contributions** are scheduled as automatic transfers on payday
-- **Bill payments** are on autopay so nothing is ever late
-- **Investment purchases** happen weekly or monthly without any manual action
-- **Savings transfers** move to separate accounts automatically
+- **Iuran DPLK/dana pensiun** langsung dipotong dari gaji sebelum mereka melihat uangnya
+- **Setoran reksadana/investasi** dijadwalkan sebagai transfer otomatis saat gajian
+- **Pembayaran tagihan** memakai autopay supaya tidak pernah telat
+- **Pembelian investasi** terjadi mingguan atau bulanan tanpa tindakan manual
+- **Transfer tabungan** pindah ke rekening terpisah secara otomatis
 
-The psychology here is powerful. When saving and investing happen before you see the money, your lifestyle naturally adjusts to what remains. You never feel the pinch because you never had the money in the first place.
+Psikologinya kuat sekali. Saat menabung dan berinvestasi terjadi sebelum kamu melihat uangnya, gaya hidupmu otomatis menyesuaikan dengan sisa yang ada. Kamu tidak merasa “kehilangan” apa pun karena uang itu seolah tidak pernah ada di tanganmu sejak awal.
 
-### How to Implement This
+### Cara Menerapkannya
 
-1. Set your 401(k) contribution to at least your employer match percentage
-2. Schedule automatic weekly transfers from checking to your Roth IRA
-3. Set up recurring purchases of index funds in your brokerage account
-4. Put every recurring bill on autopay
-5. Create a separate [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account for your [emergency fund](/blog/emergency-fund-guide/) with automatic monthly deposits
+1. Atur iuran DPLK/dana pensiun minimal sebesar kontribusi yang disamakan perusahaan
+2. Jadwalkan transfer otomatis mingguan dari rekening utama ke reksadana/investasi
+3. Aktifkan pembelian rutin reksadana indeks di akun investasi kamu
+4. Pasang semua tagihan rutin ke autopay
+5. Buat rekening terpisah untuk [dana darurat](/blog/emergency-fund-guide/) dengan setoran otomatis bulanan
 
-I did this two years ago and my savings rate jumped from 12% to 28% without any noticeable lifestyle change. The money just vanished into the right places before I could spend it.
+Saya melakukan ini dua tahun lalu dan tingkat tabungan saya naik dari 12% ke 28% tanpa perubahan gaya hidup yang terasa. Uangnya saja yang menghilang ke tempat yang benar sebelum sempat saya habiskan.
 
-## Habit 2: They Live Below Their Means (Way Below)
+## Kebiasaan 2: Mereka Hidup di Bawah Kemampuan Mereka (Jauh di Bawah)
 
-This is the habit that separates true wealth builders from high earners who are secretly broke. And in America, there are a lot of high earners who are secretly broke.
+Inilah kebiasaan yang membedakan pembangun kekayaan sejati dari orang berpenghasilan tinggi yang diam-diam bangkrut. Dan di Amerika, ada banyak orang berpenghasilan tinggi yang diam-diam bangkrut.
 
-A 2024 survey found that 33% of Americans earning over $200,000 per year live [paycheck to paycheck](/blog/how-to-stop-living-paycheck-to-paycheck/). Think about that. A third of people in the top 10% of earners cannot handle a financial emergency.
+Sebuah survei 2024 menemukan bahwa 33% orang Amerika yang berpenghasilan di atas Rp 3 miliar per tahun hidup [dari gaji ke gaji](/blog/how-to-stop-living-paycheck-to-paycheck/). Bayangkan itu. Sepertiga orang di 10% teratas penghasilan tidak mampu menghadapi keadaan darurat keuangan.
 
-### The Wealth Formula
+### Rumus Kekayaan
 
-Wealthy Americans understand that wealth is not about income. It is about the gap between what you earn and what you spend.
+Orang kaya Amerika paham bahwa kekayaan bukan soal pendapatan. Kekayaan adalah soal selisih antara apa yang kamu hasilkan dan apa yang kamu belanjakan.
 
-**Person A**: Earns $250,000, spends $240,000, saves $10,000/year
-**Person B**: Earns $80,000, spends $50,000, saves $30,000/year
+**Orang A**: Penghasilan Rp 3,8 miliar, belanja Rp 3,6 miliar, tabung Rp 150 juta/tahun  
+**Orang B**: Penghasilan Rp 1,2 miliar, belanja Rp 750 juta, tabung Rp 450 juta/tahun
 
-Person B will be wealthier than Person A in 15-20 years, assuming similar investment returns. It is math, not magic.
+Dalam 15-20 tahun, Orang B akan lebih kaya daripada Orang A, dengan asumsi hasil investasinya mirip. Ini soal matematika, bukan sihir.
 
-### Where Wealthy Americans Save
+### Di Mana Orang Kaya Berhemat
 
-The biggest areas where millionaires spend less than you would expect:
+Area terbesar di mana jutawan menghabiskan lebih sedikit dari yang kamu kira:
 
-- **Housing**: Many millionaires live in homes worth 2-3x their annual income, not 5-6x
-- **Cars**: The most popular car brand among millionaires is Toyota, not Mercedes or BMW
-- **Clothing**: Most millionaires have never spent more than $400 on a suit
-- **Dining**: Cooking at home is overwhelmingly the norm
+- **Hunian**: Banyak jutawan tinggal di rumah senilai 2-3x penghasilan tahunan mereka, bukan 5-6x
+- **Mobil**: Merek mobil paling populer di kalangan jutawan adalah Toyota, bukan Mercedes atau BMW
+- **Pakaian**: Kebanyakan jutawan tidak pernah menghabiskan lebih dari Rp 6 juta untuk satu setelan jas
+- **Makan**: Masak di rumah jauh lebih umum daripada makan di luar
 
-This does not mean living miserably. It means being intentional about which spending actually brings you joy and cutting ruthlessly everywhere else.
+Ini bukan berarti hidup sengsara. Artinya, mereka sengaja memilih pengeluaran mana yang benar-benar memberi kebahagiaan, lalu memangkas habis sisanya.
 
-### The Lifestyle Inflation Trap
+### Jebakan Inflasi Gaya Hidup
 
-The biggest threat to building wealth is lifestyle inflation: increasing your spending every time your income increases. You get a $10,000 raise and immediately upgrade your car, apartment, or vacation habits.
+Ancaman terbesar dalam membangun kekayaan adalah inflasi gaya hidup: pengeluaran naik setiap kali penghasilan naik. Kamu dapat kenaikan gaji Rp 150 juta, lalu langsung upgrade mobil, apartemen, atau kebiasaan liburan.
 
-Wealthy Americans have a different response to raises:
+Orang kaya Amerika merespons kenaikan gaji dengan cara berbeda:
 
-- **50% of any raise** goes to increased savings/investing
-- **50% of any raise** can go to lifestyle improvements
+- **50% dari setiap kenaikan** masuk ke tabungan/investasi
+- **50% dari setiap kenaikan** boleh dipakai untuk meningkatkan gaya hidup
 
-This way you still enjoy the fruits of your success while accelerating your wealth-building trajectory.
+Dengan begitu, kamu tetap menikmati hasil kerja kerasmu sambil mempercepat laju pembangunan kekayaan.
 
-## Habit 3: They Invest Consistently, Not Cleverly
+## Kebiasaan 3: Mereka Investasi Secara Konsisten, Bukan Sok Pintar
 
-Here is what surprised me most: wealthy Americans are boring investors. They are not day trading, picking hot stocks, or timing the market. They are buying index funds every month like clockwork and ignoring the noise.
+Ini yang paling mengejutkan saya: orang kaya Amerika adalah investor yang membosankan. Mereka tidak day trading, tidak berburu saham panas, dan tidak mencoba menebak pasar. Mereka membeli reksadana indeks setiap bulan seperti jam, lalu mengabaikan kebisingan.
 
-### The Data Is Overwhelming
+### Datanya Sangat Jelas
 
-- 90% of actively managed funds underperform the S&P 500 over 15 years (SPIVA Scorecard)
-- The average stock market investor earns 2-3% less than the market return due to emotional buying and selling (Dalbar studies)
-- Warren Buffett's recommendation for 90% of investors: a low-cost S&P 500 index fund
+- 90% reksadana aktif kalah dari S&P 500 dalam 15 tahun (SPIVA Scorecard)
+- Investor saham rata-rata menghasilkan 2-3% lebih rendah dari return pasar karena jual-beli emosional (studi Dalbar)
+- Rekomendasi Warren Buffett untuk 90% investor: reksadana indeks S&P 500 berbiaya rendah
 
-### What Wealthy Investors Actually Own
+### Apa yang Sebenarnya Dimiliki Investor Kaya
 
-Based on various surveys and studies, the typical millionaire portfolio looks like this:
+Berdasarkan berbagai survei dan studi, portofolio tipikal jutawan terlihat seperti ini:
 
-| Asset Class | Allocation |
+| Kelas Aset | Alokasi |
 |------------|-----------|
-| US stock index funds | 40-50% |
-| International stock funds | 10-15% |
-| Real estate (primary + investment) | 20-30% |
-| Bonds/fixed income | 10-15% |
-| Cash/alternatives | 5-10% |
+| Reksadana indeks saham AS | 40-50% |
+| Reksadana saham internasional | 10-15% |
+| Properti (hunian utama + investasi) | 20-30% |
+| Obligasi/instrumen pendapatan tetap | 10-15% |
+| Kas/alternatif | 5-10% |
 
-Notice what is missing: no crypto moonshots, no options gambling, no meme stocks. The foundation is always broad market index funds plus real estate.
+Perhatikan apa yang tidak ada: tidak ada taruhan kripto “ke bulan”, tidak ada judi opsi, tidak ada saham meme. Fondasinya hampir selalu reksadana indeks pasar luas ditambah properti.
 
-### The Power of Consistency
+### Kekuatan Konsistensi
 
-Let me show you what consistent investing looks like over time:
+Coba lihat seperti apa investasi konsisten dalam jangka panjang:
 
-| Monthly Investment | 10 Years (7% avg) | 20 Years | 30 Years |
-|-------------------|-------------------|----------|----------|
-| $500 | $86,000 | $260,000 | $567,000 |
-| $1,000 | $173,000 | $520,000 | $1,134,000 |
-| $1,500 | $259,000 | $780,000 | $1,700,000 |
-| $2,000 | $345,000 | $1,040,000 | $2,268,000 |
+| Investasi Bulanan | 10 Tahun (rata-rata 7%) | 20 Tahun | 30 Tahun |
+|-------------------|-------------------------|----------|----------|
+| Rp 7,5 juta | Rp 1,29 miliar | Rp 3,9 miliar | Rp 8,5 miliar |
+| Rp 15 juta | Rp 2,6 miliar | Rp 7,8 miliar | Rp 17 miliar |
+| Rp 22,5 juta | Rp 3,9 miliar | Rp 11,7 miliar | Rp 25,5 miliar |
+| Rp 30 juta | Rp 5,2 miliar | Rp 15,6 miliar | Rp 34 miliar |
 
-A person who invests $1,000 per month for 30 years becomes a millionaire. No stock picking required. No market timing. Just consistency.
+Seseorang yang berinvestasi Rp 15 juta per bulan selama 30 tahun bisa menjadi jutawan. Tidak perlu pilih-pilih saham. Tidak perlu menebak pasar. Cukup konsisten.
 
-## Habit 4: They Protect Their Downside
+## Kebiasaan 4: Mereka Melindungi Sisi Rugi Mereka
 
-Wealthy Americans are not risk-takers in the way most people imagine. They are actually obsessive about protecting themselves from financial catastrophe. It is the protection that allows them to take calculated risks elsewhere.
+Orang kaya Amerika bukan tipe pengambil risiko seperti yang dibayangkan kebanyakan orang. Justru mereka sangat obsesif dalam melindungi diri dari bencana keuangan. Perlindungan itulah yang memungkinkan mereka mengambil risiko terukur di area lain.
 
-### The Insurance Strategy
+### Strategi Asuransi
 
-Millionaires typically carry:
+Jutawan biasanya punya:
 
-- **Term life insurance**: 10-12x annual income during working years, not expensive whole life policies
-- **Umbrella liability insurance**: $1-5 million in additional liability coverage (costs only $200-$500/year)
-- **Adequate health insurance**: They never skip this, even when self-employed
-- **Disability insurance**: Protects their earning power, which is their most valuable asset
-- **Property insurance**: Full replacement cost, not actual cash value
+- **Asuransi jiwa berjangka**: 10-12x penghasilan tahunan selama masa kerja, bukan polis whole life yang mahal
+- **Asuransi tanggung gugat tambahan**: perlindungan tambahan senilai Rp 15-75 miliar
+- **Asuransi kesehatan yang memadai**: mereka tidak pernah melewatkan ini, bahkan saat wiraswasta
+- **Asuransi disabilitas**: melindungi daya penghasilan, yang merupakan aset paling berharga
+- **Asuransi properti**: biaya penggantian penuh, bukan nilai tunai aktual
 
-### The Emergency Fund
+### Dana Darurat
 
-Most millionaires maintain 6-12 months of expenses in liquid savings. This seems conservative until you realize what it enables: when the market crashes 30%, they do not panic-sell because they know their daily life is funded regardless. They might even buy more while prices are low.
+Kebanyakan jutawan menyimpan 6-12 bulan pengeluaran dalam tabungan yang likuid. Ini terdengar terlalu konservatif sampai kamu sadar apa manfaatnya: saat pasar jatuh 30%, mereka tidak panik jual karena tahu kehidupan sehari-hari mereka tetap aman. Bahkan, mereka mungkin justru membeli lebih banyak saat harga turun.
 
-### Estate Planning
+### Perencanaan Waris
 
-This is the habit that separates the wealthy from the merely high-income. Wealthy Americans have:
+Ini kebiasaan yang membedakan orang kaya dari sekadar orang berpenghasilan tinggi. Orang kaya Amerika punya:
 
-- A will (only 33% of Americans have one)
-- Named beneficiaries on all accounts
-- A trust, if appropriate for their situation
-- Power of attorney documents
-- Health care directives
+- Surat wasiat (hanya 33% orang Amerika yang memilikinya)
+- Penerima manfaat yang tercantum di semua rekening
+- Trust, jika sesuai dengan situasi mereka
+- Dokumen kuasa hukum
+- Arahan perawatan kesehatan
 
-These are not expensive to set up, maybe $1,000-$3,000 with an attorney, but the failure to do so can cost a family tens of thousands of dollars in probate and legal fees.
+Ini bukan mahal untuk dibuat, mungkin Rp 15-45 juta dengan bantuan pengacara, tapi kalau tidak dibuat, keluarga bisa kehilangan puluhan juta rupiah untuk biaya pengadilan waris dan biaya hukum.
 
-## Habit 5: They Continuously Increase Their Earning Power
+## Kebiasaan 5: Mereka Terus Meningkatkan Daya Penghasilan Mereka
 
-While frugality and investing are crucial, wealthy Americans do not ignore the income side of the equation. They invest in their ability to earn more.
+Meski hidup hemat dan berinvestasi itu penting, orang kaya Amerika tidak mengabaikan sisi pendapatan. Mereka berinvestasi pada kemampuan mereka untuk menghasilkan lebih banyak.
 
-### How They Increase Income
+### Cara Mereka Menaikkan Penghasilan
 
-- **Negotiating salary**: Wealthy Americans negotiate every job offer and raise opportunity. The average successful salary negotiation yields $5,000-$15,000 more per year.
-- **Skill development**: They spend time and money on courses, certifications, and skills that directly increase their market value
-- **Side income**: Many millionaires have multiple income streams including rental properties, consulting, or small businesses
-- **Network building**: They intentionally build relationships with people who can open doors to opportunities
+- **Negosiasi gaji**: Orang kaya Amerika menegosiasikan setiap tawaran kerja dan setiap peluang kenaikan. Negosiasi gaji yang berhasil rata-rata menambah Rp 75-225 juta per tahun.
+- **Pengembangan skill**: Mereka menghabiskan waktu dan uang untuk kursus, sertifikasi, dan keterampilan yang langsung menaikkan nilai pasar mereka
+- **Penghasilan sampingan**: Banyak jutawan punya beberapa sumber penghasilan, termasuk properti sewa, konsultasi, atau bisnis kecil
+- **Membangun jaringan**: Mereka sengaja menjalin hubungan dengan orang-orang yang bisa membuka peluang
 
-### The Income Growth Mindset
+### Pola Pikir Pertumbuhan Penghasilan
 
-There is a ceiling to how much you can save, but there is no ceiling to how much you can earn. A person earning $50,000 who cuts expenses to the bone might save $15,000 per year. That same person who develops new skills and changes roles might earn $80,000 within two years, saving $30,000 while actually enjoying a better lifestyle.
+Ada batas seberapa banyak kamu bisa berhemat, tapi tidak ada batas seberapa banyak kamu bisa menghasilkan. Seseorang yang berpenghasilan Rp 750 juta lalu memangkas pengeluaran habis-habisan mungkin bisa menabung Rp 225 juta per tahun. Orang yang sama, kalau mengembangkan skill baru dan pindah peran, mungkin bisa menghasilkan Rp 1,2 miliar dalam dua tahun, menabung Rp 450 juta sambil menikmati gaya hidup yang lebih baik.
 
-### Most Common Side Income Sources for Millionaires
+### Sumber Penghasilan Sampingan Paling Umum untuk Jutawan
 
-| Source | Typical Annual Income |
-|--------|---------------------|
-| Rental property | $12,000-$50,000 |
-| Consulting/freelancing | $10,000-$100,000+ |
-| Investment dividends | $10,000-$50,000 |
-| Small business ownership | Varies widely |
-| Royalties/licensing | $5,000-$50,000 |
+| Sumber | Penghasilan Tahunan Tipikal |
+|--------|-----------------------------|
+| Properti sewa | Rp 180 juta-Rp 750 juta |
+| Konsultasi/freelance | Rp 150 juta-Rp 1,5 miliar+ |
+| Dividen investasi | Rp 150 juta-Rp 750 juta |
+| Kepemilikan bisnis kecil | Sangat bervariasi |
+| Royalti/lisensi | Rp 75 juta-Rp 750 juta |
 
-The key insight is that wealthy Americans treat their career and earning power as an investment, not just something that happens to them.
+Inti pentingnya adalah orang kaya Amerika memperlakukan karier dan daya penghasilan mereka sebagai investasi, bukan sekadar sesuatu yang terjadi pada mereka.
 
-## How to Start Building These Habits Today
+## Cara Mulai Membangun Kebiasaan Ini Hari Ini
 
-You do not need to adopt all five habits overnight. Here is a practical sequence:
+Kamu tidak perlu menerapkan semua lima kebiasaan sekaligus. Berikut urutan yang praktis:
 
-### Month 1: Automate
+### Bulan 1: Otomatiskan
 
-- Set up automatic 401(k) contributions (at least employer match)
-- Open a high-yield savings account and automate $100/month transfers
-- Put all bills on autopay
+- Atur kontribusi otomatis ke DPLK/dana pensiun (minimal sebesar kontribusi perusahaan)
+- Buka rekening tabungan berbunga tinggi dan otomatis transfer Rp 1,5 juta/bulan
+- Pasang semua tagihan ke autopay
 
-### Month 2: Track and Cut
+### Bulan 2: Lacak dan Pangkas
 
-- Track every dollar you spend for 30 days
-- Identify your three largest unnecessary expenses
-- Redirect that money to investments
+- Catat setiap rupiah yang kamu belanjakan selama 30 hari
+- Identifikasi tiga pengeluaran terbesar yang sebenarnya tidak perlu
+- Alihkan uang itu ke investasi
 
-### Month 3: Invest
+### Bulan 3: Investasi
 
-- Open a Roth IRA at Fidelity or Vanguard
-- Set up automatic monthly investments into a total market index fund
-- Start with whatever you can afford, even $50/month
+- Buka akun reksadana/investasi
+- Atur investasi bulanan otomatis ke reksadana indeks pasar total
+- Mulai dari nominal yang kamu mampu, bahkan Rp 750 ribu/bulan
 
-### Month 4: Protect
+### Bulan 4: Lindungi
 
-- Get term [life insurance](/blog/do-you-need-life-insurance/) if anyone depends on your income
-- Build your emergency fund to at least 1 month of expenses (then keep growing it)
-- Create or update your will (online services like Trust & Will cost under $200)
+- Ambil [asuransi jiwa](/blog/do-you-need-life-insurance/) berjangka jika ada orang yang bergantung pada penghasilanmu
+- Bangun dana darurat minimal 1 bulan pengeluaran dulu (lalu terus tambah)
+- Buat atau perbarui surat wasiatmu (layanan online seperti Trust & Will biayanya di bawah Rp 3 juta)
 
-### Month 5: Earn More
+### Bulan 5: Hasilkan Lebih Banyak
 
-- Research market rates for your role on Glassdoor and Levels.fyi
-- Identify one skill that would increase your earning potential
-- Start building that skill (free resources: Coursera, YouTube, company-sponsored training)
+- Cari tahu kisaran gaji pasar untuk peranmu di Glassdoor dan Levels.fyi
+- Identifikasi satu skill yang bisa meningkatkan penghasilanmu
+- Mulai bangun skill itu (sumber gratis: Coursera, YouTube, pelatihan dari perusahaan)
 
-## The Uncomfortable Truth
+## Kebenaran yang Tidak Nyaman
 
-Here is what nobody wants to hear: building wealth is simple but not easy. The five habits I have described are not secrets. They are common sense that is uncommonly practiced.
+Ini yang tidak ingin didengar siapa pun: membangun kekayaan itu sederhana, tapi tidak mudah. Lima kebiasaan yang saya jelaskan ini bukan rahasia. Ini akal sehat yang jarang benar-benar dipraktikkan.
 
-The reason most Americans are not wealthy is not a lack of knowledge. It is a lack of execution. We know we should invest consistently, live below our means, and protect our downside. We just do not do it because the short-term dopamine hit of spending feels better than the delayed gratification of investing.
+Alasan kebanyakan orang Amerika tidak kaya bukan karena kurang pengetahuan. Tapi karena kurang eksekusi. Kita tahu kita seharusnya berinvestasi secara konsisten, hidup di bawah kemampuan, dan melindungi sisi rugi. Kita hanya tidak melakukannya karena kepuasan instan dari belanja terasa lebih enak daripada kepuasan tertunda dari investasi.
 
-The wealthy Americans I have studied are not smarter or luckier than everyone else. They have simply decided that financial freedom is more important than keeping up appearances. And they have built systems that make good financial behavior the default, not the exception.
-
+Orang kaya Amerika yang saya pelajari tidak lebih pintar atau lebih beruntung dari yang lain. Mereka hanya sudah memutuskan bahwa kebebasan finansial lebih penting daripada menjaga penampilan. Dan mereka membangun sistem yang membuat perilaku keuangan yang baik menjadi default, bukan pengecualian.

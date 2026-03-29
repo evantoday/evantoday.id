@@ -1,6 +1,6 @@
 ---
-title: "5 Crypto Risks Every Investor Must Know [2026]"
-description: "US crypto investors lost billions to scams, crashes, and regulation changes in 2025. Know these 5 risks before you put another dollar into any token."
+title: "5 Risiko Crypto yang Wajib Kamu Tahu [2026]"
+description: "Investor crypto di AS rugi besar karena scam, crash, dan perubahan regulasi. Kenali 5 risikonya sebelum beli token lagi."
 pubDate: 2026-03-08
 category: "cryptocurrency"
 tags: ["crypto risks", "cryptocurrency risks", "crypto scams", "crypto regulation", "investing risks"]
@@ -10,236 +10,236 @@ heroImageAlt: '5 Crypto Risks Every Investor Must Know [2026]'
 
 ---
 
-## I Lost Money in Crypto. Here Is What I Learned.
+## Saya Rugi di Crypto. Ini yang Saya Pelajari.
 
-In 2022, I watched a crypto position I thought was "safe" drop 80% in three months. It was a top-20 token by market cap, not some random meme coin. That experience taught me something no amount of reading could: crypto risk is real, it is varied, and it can hit you from directions you did not expect.
+Pada 2022, saya melihat posisi crypto yang saya kira “aman” anjlok 80% dalam tiga bulan. Itu token top 20 berdasarkan market cap, bukan meme coin sembarangan. Pengalaman itu mengajarkan saya sesuatu yang tidak bisa saya dapat hanya dari membaca: risiko crypto itu nyata, beragam, dan bisa menghantam dari arah yang tidak kamu duga.
 
-Since then, I have become much more careful about how I allocate money to crypto. I still invest, but I do it with a clear understanding of the risks involved. If you are putting money into cryptocurrency in 2026, these are the five risks you need to know before you invest another dollar.
+Sejak itu, saya jauh lebih hati-hati dalam mengalokasikan uang ke crypto. Saya masih investasi, tapi dengan pemahaman yang jelas soal risikonya. Kalau kamu mau masuk ke cryptocurrency di 2026, ini lima risiko yang perlu kamu tahu sebelum menaruh uang lagi.
 
-## Risk 1: Extreme Price Volatility
+## Risiko 1: Volatilitas Harga yang Ekstrem
 
-This is the risk everyone knows about but most people underestimate until it happens to them.
+Ini risiko yang semua orang tahu, tapi kebanyakan orang meremehkannya sampai mereka mengalaminya sendiri.
 
-### The Numbers Are Brutal
+### Angkanya Brutal
 
-- **Bitcoin** dropped from $69,000 to $16,000 (a 77% decline) in 2022.
-- **Ethereum** dropped from $4,800 to $880 (an 82% decline) in the same period.
-- **Solana** went from $260 to $8 (a 97% decline) before eventually recovering.
-- **Luna/TerraUSD** went from $120 to $0 in a matter of days in May 2022, wiping out $40 billion.
+- **Bitcoin** turun dari sekitar Rp 1 miliar ke Rp 240 juta (turun 77%) pada 2022.
+- **Ethereum** turun dari sekitar Rp 70 juta ke Rp 13 juta (turun 82%) pada periode yang sama.
+- **Solana** sempat turun dari sekitar Rp 3,9 juta ke Rp 120 ribu (turun 97%) sebelum akhirnya pulih.
+- **Luna/TerraUSD** turun dari sekitar Rp 1,8 juta ke Rp 0 hanya dalam hitungan hari pada Mei 2022, menghapus nilai sekitar Rp 600 triliun.
 
-Even in the recovery since then, crypto regularly experiences 20-30% drawdowns that would be considered catastrophic in the stock market but are routine in crypto.
+Bahkan dalam fase pemulihan setelah itu, crypto masih sering mengalami penurunan 20-30% yang di pasar saham akan dianggap bencana, tapi di crypto justru biasa terjadi.
 
-### Why Crypto Is So Volatile
+### Kenapa Crypto Sangat Volatil
 
-- **Speculation**: A large portion of crypto trading is speculative. Prices are driven by sentiment, social media, and hype more than fundamental value.
-- **Leverage**: Many traders use 5x, 10x, or even 100x leverage, which amplifies price swings. When leveraged positions get liquidated, it creates cascading sell-offs.
-- **24/7 markets**: Crypto trades around the clock, including weekends and holidays. There are no circuit breakers like the stock market has to pause trading during extreme moves.
-- **Low liquidity**: Many tokens have thin order books, meaning a relatively small sale can move the price dramatically.
+- **Spekulasi**: Sebagian besar trading crypto sifatnya spekulatif. Harga lebih banyak digerakkan sentimen, media sosial, dan hype daripada nilai fundamental.
+- **Leverage**: Banyak trader memakai leverage 5x, 10x, bahkan 100x, yang memperbesar pergerakan harga. Saat posisi leverage dilikuidasi, efeknya bisa memicu aksi jual berantai.
+- **Pasar 24/7**: Crypto diperdagangkan nonstop, termasuk akhir pekan dan hari libur. Tidak ada circuit breaker seperti di pasar saham yang menghentikan perdagangan saat pergerakan ekstrem.
+- **Likuiditas rendah**: Banyak token punya order book tipis, jadi penjualan yang relatif kecil saja bisa menggerakkan harga secara drastis.
 
-### How to Manage Volatility Risk
+### Cara Mengelola Risiko Volatilitas
 
-- **Only invest what you can afford to lose entirely**. I mean this literally. If losing your entire crypto investment would change your life, you have too much in crypto.
-- **Dollar-cost average**: Instead of buying a lump sum, invest a fixed amount on a regular schedule (weekly or monthly). This smooths out the volatility over time.
-- **Set a maximum allocation**: Many financial advisors suggest keeping crypto at 5% or less of your total investment portfolio. I personally keep it at 10%, but I have a high risk tolerance.
-- **Do not check prices hourly**: Obsessively watching price movements leads to panic selling and emotional decisions.
+- **Hanya investasikan uang yang kamu sanggup kehilangan sepenuhnya**. Saya serius. Kalau kehilangan seluruh investasi crypto akan mengubah hidupmu, berarti porsi crypto kamu terlalu besar.
+- **Dollar-cost averaging**: Daripada beli sekaligus, investasikan jumlah tetap secara rutin, misalnya mingguan atau bulanan. Ini membantu meratakan dampak volatilitas dari waktu ke waktu.
+- **Tetapkan batas alokasi**: Banyak penasihat keuangan menyarankan crypto tidak lebih dari 5% portofolio investasi. Saya pribadi menyimpannya di 10%, tapi saya memang punya toleransi risiko tinggi.
+- **Jangan cek harga tiap jam**: Terlalu sering memantau pergerakan harga biasanya berujung panik jual dan keputusan emosional.
 
-## Risk 2: Scams, Fraud, and Rug Pulls
+## Risiko 2: Scam, Penipuan, dan Rug Pull
 
-Crypto scams are rampant, and Americans lost over $5.6 billion to crypto fraud in 2023 alone according to the FBI.
+Penipuan crypto sangat marak, dan menurut FBI, warga AS kehilangan lebih dari Rp 85 triliun akibat fraud crypto hanya pada 2023.
 
-### Common Types of Crypto Scams
+### Jenis Scam Crypto yang Umum
 
-#### Rug Pulls
+#### Rug Pull
 
-A developer creates a new token, hypes it up on social media, attracts investors, and then drains the liquidity pool and disappears with the money. The token becomes worthless overnight.
+Seorang developer membuat token baru, mempromosikannya besar-besaran di media sosial, menarik investor, lalu menguras liquidity pool dan kabur membawa uangnya. Token itu pun jadi tidak bernilai dalam semalam.
 
-**Example**: The Squid Game token launched in 2021 and rose 310,000% before the developers pulled all the liquidity, stealing approximately $3.4 million.
+**Contoh**: Token Squid Game yang diluncurkan pada 2021 sempat naik 310.000% sebelum developernya menarik semua likuiditas dan mencuri sekitar Rp 51 miliar.
 
-#### Pump and Dump Schemes
+#### Skema Pump and Dump
 
-Organized groups buy a low-market-cap token, artificially inflate the price through coordinated buying and social media promotion, then sell at the top. Late buyers are left holding a crashing token.
+Kelompok terorganisir membeli token bermarket cap kecil, lalu menaikkan harga secara artifisial lewat pembelian terkoordinasi dan promosi di media sosial, kemudian menjual di puncak. Pembeli yang terlambat akhirnya memegang token yang harganya jatuh.
 
-These are extremely common with meme coins and tokens promoted by social media influencers. If someone is aggressively promoting a token, ask yourself why. The answer is usually that they want you to buy so they can sell.
+Ini sangat umum pada meme coin dan token yang dipromosikan influencer media sosial. Kalau seseorang sangat agresif mempromosikan token, tanya dulu: kenapa? Biasanya jawabannya karena mereka ingin kamu beli supaya mereka bisa jual.
 
-#### Phishing Attacks
+#### Serangan Phishing
 
-Scammers create fake websites, emails, or social media messages that look identical to legitimate crypto platforms. When you enter your wallet credentials or approve a malicious transaction, they steal your funds.
+Penipu membuat website, email, atau pesan media sosial palsu yang terlihat identik dengan platform crypto resmi. Saat kamu memasukkan kredensial wallet atau menyetujui transaksi berbahaya, dana kamu dicuri.
 
-**Red flags**:
-- URLs that are slightly misspelled (like "metamaask.io" instead of "metamask.io").
-- Unsolicited direct messages asking you to connect your wallet.
-- "Customer support" reaching out to you first.
+**Tanda bahaya**:
+- URL yang salah eja sedikit saja, misalnya “metamaask.io” вместо “metamask.io”.
+- DM tak diminta yang meminta kamu menghubungkan wallet.
+- “Customer support” yang menghubungi kamu lebih dulu.
 
-#### Fake Investment Platforms
+#### Platform Investasi Palsu
 
-Scammers create professional-looking websites that promise guaranteed returns. You deposit crypto, see fake profits on the dashboard, and then cannot withdraw. This is especially common with "pig butchering" scams, where scammers build a relationship with victims over weeks or months before introducing the fake investment.
+Penipu membuat website yang terlihat profesional dan menjanjikan imbal hasil pasti. Kamu deposit crypto, melihat profit palsu di dashboard, lalu tidak bisa menarik dana. Ini sering terjadi dalam scam “pig butchering”, di mana penipu membangun hubungan dengan korban selama berminggu-minggu atau berbulan-bulan sebelum menawarkan investasi palsu.
 
-#### Romance Scams
+#### Scam Romansa
 
-A growing category where scammers build romantic relationships through dating apps and social media, then convince victims to invest in crypto through fraudulent platforms.
+Kategori yang makin sering terjadi: penipu membangun hubungan romantis lewat aplikasi kencan dan media sosial, lalu meyakinkan korban untuk investasi crypto lewat platform palsu.
 
-### How to Protect Yourself
+### Cara Melindungi Diri
 
-- **Never trust unsolicited investment advice**, especially from strangers on social media, Discord, or Telegram.
-- **Verify URLs carefully** before connecting your wallet.
-- **Use a hardware wallet** (like Ledger or Trezor) for significant holdings.
-- **Never share your seed phrase** with anyone for any reason.
-- **Research before investing**: Check the team, the code (is it audited?), the community, and the tokenomics.
-- **If returns sound too good to be true, they are**. No legitimate investment guarantees 100%+ annual returns.
+- **Jangan pernah percaya saran investasi yang tidak kamu minta**, terutama dari orang asing di media sosial, Discord, atau Telegram.
+- **Periksa URL dengan teliti** sebelum menghubungkan wallet.
+- **Gunakan hardware wallet** untuk simpanan yang signifikan.
+- **Jangan pernah membagikan seed phrase** kepada siapa pun, dalam kondisi apa pun.
+- **Riset sebelum investasi**: cek timnya, kodenya (sudah diaudit atau belum?), komunitasnya, dan tokenomics-nya.
+- **Kalau imbal hasil terdengar terlalu bagus untuk jadi nyata, memang biasanya begitu**. Tidak ada investasi legal yang menjamin return tahunan 100%+.
 
-## Risk 3: Regulatory and Legal Risk
+## Risiko 3: Risiko Regulasi dan Hukum
 
-The regulatory environment for crypto in the US is changing rapidly, and it affects every investor.
+Lingkungan regulasi crypto di AS berubah cepat, dan itu berdampak ke semua investor.
 
-### Key Regulatory Developments
+### Perkembangan Regulasi Utama
 
-#### SEC Enforcement
+#### Penegakan SEC
 
-The Securities and Exchange Commission has taken the position that many cryptocurrencies are unregistered securities. In 2023, the SEC sued both [Coinbase](/blog/coinbase-review-fees-and-features-2026/) and Binance, the two largest crypto exchanges. While the legal battles continue, the outcomes could reshape which tokens are available to US investors.
+Securities and Exchange Commission mengambil posisi bahwa banyak cryptocurrency adalah sekuritas yang belum terdaftar. Pada 2023, SEC menggugat [Coinbase](/blog/coinbase-review-fees-and-features-2026/) dan Binance, dua bursa crypto terbesar. Walaupun proses hukumnya masih berjalan, hasil akhirnya bisa mengubah token apa saja yang tersedia untuk investor AS.
 
-#### Tax Enforcement
+#### Penegakan Pajak
 
-The IRS is increasing its focus on [crypto tax](/blog/crypto-tax-rules-explained/) compliance:
-- The 1040 form now asks directly about digital asset transactions.
-- Starting in 2026, exchanges must file Form 1099-DA reporting customer transactions.
-- The IRS has used [blockchain](/blog/beginners-guide-to-blockchain-technology/) analysis tools to identify unreported income.
+Dirjen Pajak AS semakin fokus pada kepatuhan [pajak crypto](/blog/crypto-tax-rules-explained/):
+- Formulir 1040 kini menanyakan langsung soal transaksi aset digital.
+- Mulai 2026, exchange wajib melaporkan transaksi pelanggan lewat Form 1099-DA.
+- Dirjen Pajak menggunakan alat analisis [blockchain](/blog/beginners-guide-to-blockchain-technology/) untuk mengidentifikasi penghasilan yang tidak dilaporkan.
 
-#### Broker Reporting Rules
+#### Aturan Pelaporan Broker
 
-New regulations require crypto brokers to report transactions to the IRS, similar to how stock brokers report through Form 1099-B. This reduces privacy and increases the likelihood of audits for unreported crypto income.
+Regulasi baru mewajibkan broker crypto melaporkan transaksi ke otoritas pajak, mirip seperti broker saham melaporkan lewat Form 1099-B. Ini mengurangi privasi dan meningkatkan kemungkinan audit untuk penghasilan crypto yang tidak dilaporkan.
 
-#### State-Level Regulation
+#### Regulasi Tingkat Negara Bagian
 
-Individual states have their own crypto regulations. New York's BitLicense, for example, limits which crypto companies can operate in the state. Some states are more crypto-friendly (Wyoming, Texas), while others impose strict requirements.
+Masing-masing negara bagian punya aturan crypto sendiri. Misalnya, BitLicense di New York membatasi perusahaan crypto mana yang boleh beroperasi di sana. Ada negara bagian yang lebih ramah crypto, seperti Wyoming dan Texas, sementara yang lain memberlakukan syarat ketat.
 
-### What Regulatory Risk Means for You
+### Apa Artinya Risiko Regulasi untuk Kamu
 
-- **Tokens could be delisted**: If the SEC classifies a token as an unregistered security, US exchanges may be forced to remove it.
-- **Exchange access could change**: Regulatory actions against exchanges could disrupt your ability to buy, sell, or withdraw crypto.
-- **Tax obligations could increase**: New reporting requirements make it harder to avoid crypto taxes (not that you should).
-- **DeFi access could be restricted**: The SEC and other agencies are examining DeFi protocols, and some have already restricted US access.
+- **Token bisa di-delist**: Kalau SEC mengklasifikasikan token sebagai sekuritas tak terdaftar, exchange AS mungkin terpaksa menghapusnya.
+- **Akses ke exchange bisa berubah**: Tindakan regulator terhadap exchange bisa mengganggu kemampuan kamu untuk beli, jual, atau tarik crypto.
+- **Kewajiban pajak bisa meningkat**: Aturan pelaporan baru membuat penghindaran pajak crypto makin sulit.
+- **Akses ke DeFi bisa dibatasi**: SEC dan lembaga lain sedang meninjau protokol DeFi, dan beberapa sudah membatasi akses dari AS.
 
-## Risk 4: Technical and Security Risks
+## Risiko 4: Risiko Teknis dan Keamanan
 
-Crypto comes with unique technical risks that do not exist in traditional investing.
+Crypto punya risiko teknis unik yang tidak ada dalam investasi tradisional.
 
-### Lost Keys and Wallet Access
+### Kehilangan Kunci dan Akses Wallet
 
-If you lose access to your crypto wallet (forgotten password, lost [hardware wallet](/blog/best-crypto-wallets-for-beginners/), lost seed phrase), your crypto is gone forever. There is no password reset, no customer service, no recovery option.
+Kalau kamu kehilangan akses ke wallet crypto-mu — entah karena lupa password, kehilangan [hardware wallet](/blog/best-crypto-wallets-for-beginners/), atau seed phrase hilang — crypto kamu hilang selamanya. Tidak ada reset password, tidak ada customer service, tidak ada opsi pemulihan.
 
-**Statistics**: An estimated 3-4 million Bitcoin are permanently lost due to lost private keys, worth hundreds of billions of dollars at current prices.
+**Statistik**: Diperkirakan 3-4 juta Bitcoin hilang permanen karena private key yang hilang, nilainya setara ratusan triliun rupiah pada harga saat ini.
 
-**How to protect yourself**:
-- Write down your seed phrase on paper (not digitally) and store it in a secure location.
-- Consider a fireproof safe or a bank safe deposit box for your seed phrase backup.
-- Use a hardware wallet for holdings over $1,000.
-- Never store your seed phrase in a screenshot, email, or cloud storage.
+**Cara melindungi diri**:
+- Tulis seed phrase di kertas, bukan secara digital, lalu simpan di tempat aman.
+- Pertimbangkan brankas tahan api atau safe deposit box bank untuk cadangan seed phrase.
+- Gunakan hardware wallet untuk aset di atas Rp 15 juta.
+- Jangan pernah menyimpan seed phrase di screenshot, email, atau cloud storage.
 
-### Exchange Hacks and Failures
+### Peretasan dan Kegagalan Exchange
 
-Centralized exchanges are targets for hackers and can also fail financially:
+Exchange terpusat jadi target hacker dan juga bisa gagal secara finansial:
 
-- **Mt. Gox (2014)**: The largest exchange at the time lost 850,000 Bitcoin (worth billions today). Customers waited over a decade for partial reimbursement.
-- **FTX (2022)**: The second-largest exchange collapsed due to fraud, losing approximately $8 billion in customer funds.
-- **Various exchange hacks**: Bitfinex, KuCoin, and many others have been hacked for hundreds of millions.
+- **Mt. Gox (2014)**: Exchange terbesar saat itu kehilangan 850.000 Bitcoin, nilainya miliaran dolar hari ini. Nasabah menunggu lebih dari satu dekade untuk penggantian sebagian.
+- **FTX (2022)**: Exchange terbesar kedua runtuh karena fraud, menghilangkan sekitar Rp 120 triliun dana nasabah.
+- **Berbagai peretasan exchange**: Bitfinex, KuCoin, dan banyak lainnya pernah diretas hingga ratusan juta dolar.
 
-**How to protect yourself**:
-- Do not keep large amounts of crypto on exchanges. Transfer to a hardware wallet.
-- Use only major, regulated exchanges like Coinbase, Kraken, or Gemini.
-- Diversify across exchanges if you need to keep funds on-platform.
+**Cara melindungi diri**:
+- Jangan simpan crypto dalam jumlah besar di exchange. Pindahkan ke hardware wallet.
+- Gunakan hanya exchange besar dan teregulasi seperti BCA Digital, Jago, atau Seabank untuk analogi platform yang aman; untuk crypto, pilih exchange yang bereputasi dan diawasi dengan baik.
+- Diversifikasi antar platform kalau kamu memang perlu menyimpan dana di exchange.
 
-### Smart Contract Vulnerabilities
+### Kerentanan Smart Contract
 
-If you use DeFi protocols, your funds are only as safe as the smart contract code. Bugs and exploits have resulted in billions of dollars in losses.
+Kalau kamu memakai protokol DeFi, keamanan dana kamu hanya sekuat kode smart contract-nya. Bug dan exploit sudah menyebabkan kerugian miliaran dolar.
 
-### Network and Protocol Risk
+### Risiko Jaringan dan Protokol
 
-Blockchains themselves can have issues:
-- **Network congestion**: During high-traffic periods, transaction fees can spike dramatically and transactions can be delayed.
-- **51% attacks**: Smaller blockchains with less computing power are vulnerable to attacks where a single entity controls the majority of the network.
-- **Protocol bugs**: Even established blockchains have had bugs that required emergency patches.
+Blockchain itu sendiri juga bisa punya masalah:
+- **Kemacetan jaringan**: Saat trafik tinggi, biaya transaksi bisa melonjak tajam dan transaksi tertunda.
+- **Serangan 51%**: Blockchain yang lebih kecil dengan daya komputasi rendah rentan diserang ketika satu entitas menguasai mayoritas jaringan.
+- **Bug protokol**: Bahkan blockchain yang sudah mapan pun pernah punya bug yang butuh patch darurat.
 
-## Risk 5: Psychological and Behavioral Risks
+## Risiko 5: Risiko Psikologis dan Perilaku
 
-This is the risk nobody talks about, but it may be the most damaging.
+Ini risiko yang jarang dibicarakan, padahal mungkin paling merusak.
 
 ### FOMO (Fear of Missing Out)
 
-When a token is pumping 50% per day and everyone on social media is bragging about their gains, the urge to buy is almost irresistible. FOMO drives people to buy at the top, often with money they cannot afford to lose.
+Saat sebuah token naik 50% per hari dan semua orang di media sosial pamer profit, dorongan untuk ikut beli hampir tidak tertahankan. FOMO membuat orang beli di puncak, sering kali dengan uang yang sebenarnya tidak sanggup mereka kehilangan.
 
 ### Panic Selling
 
-The flip side of FOMO. When prices crash 30% in a day, fear takes over and people sell at the worst possible time. Many of the biggest losses in crypto come from buying high on FOMO and selling low in panic.
+Kebalikan dari FOMO. Saat harga jatuh 30% dalam sehari, rasa takut mengambil alih dan orang menjual di waktu terburuk. Banyak kerugian terbesar di crypto berasal dari beli mahal karena FOMO lalu jual murah karena panik.
 
-### Overconfidence After Gains
+### Terlalu Percaya Diri Setelah Untung
 
-A few profitable trades can make you feel like a genius. This leads to larger positions, more risk-taking, and eventually a devastating loss. The crypto market humbles everyone eventually.
+Beberapa transaksi yang untung bisa membuat kamu merasa seperti jenius. Akibatnya, kamu ambil posisi lebih besar, lebih berani ambil risiko, lalu akhirnya kena kerugian besar. Pasar crypto pada akhirnya akan merendahkan semua orang.
 
-### Addiction and Obsessive Trading
+### Kecanduan dan Trading Obsesif
 
-The 24/7 nature of crypto markets, combined with the volatility and the dopamine hit of price movements, can become genuinely addictive. If you find yourself checking prices every few minutes, losing sleep over positions, or trading compulsively, step back and assess whether crypto trading is affecting your mental health.
+Sifat pasar crypto yang 24/7, ditambah volatilitas dan efek dopamin dari pergerakan harga, bisa benar-benar membuat ketagihan. Kalau kamu mulai cek harga tiap beberapa menit, kehilangan tidur karena posisi, atau trading secara kompulsif, mundur sejenak dan evaluasi apakah trading crypto sudah memengaruhi kesehatan mentalmu.
 
-### How to Manage Psychological Risk
+### Cara Mengelola Risiko Psikologis
 
-- **Have a written plan**: Decide your allocation, entry strategy, and exit strategy BEFORE you buy.
-- **Set it and forget it**: For long-term holdings, buy and then do not touch it. Delete price-tracking apps if needed.
-- **Never invest emotionally**: If you are excited, scared, or feeling pressure from others, that is a signal to wait.
-- **Take profits**: If a position has doubled or tripled, there is nothing wrong with selling some. Nobody ever went broke taking profits.
-- **Talk to real people**: Online crypto communities are echo chambers. Get perspectives from people who are not invested in the same things you are.
+- **Punya rencana tertulis**: Tentukan alokasi, strategi masuk, dan strategi keluar SEBELUM membeli.
+- **Set and forget**: Untuk simpanan jangka panjang, beli lalu jangan disentuh lagi. Hapus aplikasi pelacak harga kalau perlu.
+- **Jangan investasi dengan emosi**: Kalau kamu sedang terlalu semangat, takut, atau tertekan oleh orang lain, itu tanda untuk menunggu.
+- **Ambil profit**: Kalau posisi sudah naik 2x atau 3x, tidak ada salahnya menjual sebagian. Tidak ada orang yang bangkrut karena ambil untung.
+- **Ngobrol dengan orang nyata**: Komunitas crypto online sering jadi echo chamber. Cari perspektif dari orang yang tidak punya kepentingan di aset yang sama.
 
-## How to Invest in Crypto More Safely
+## Cara Investasi Crypto dengan Lebih Aman
 
-After experiencing these risks firsthand, here is the framework I use:
+Setelah mengalami semua risiko ini sendiri, berikut kerangka yang saya pakai:
 
-### The Allocation Rule
+### Aturan Alokasi
 
-- **50% or more of your portfolio**: Index funds and traditional investments.
-- **No more than 10%**: Cryptocurrency.
-- **Emergency fund**: Three to six months of expenses in a high-yield savings account. Never touch this for crypto.
+- **50% atau lebih dari portofolio**: Reksa dana indeks dan investasi tradisional.
+- **Maksimal 10%**: Cryptocurrency.
+- **Dana darurat**: Tiga sampai enam bulan biaya hidup di tabungan berbunga tinggi. Jangan pernah dipakai untuk crypto.
 
-### The Quality Rule
+### Aturan Kualitas
 
-- **80% of crypto allocation**: Bitcoin and Ethereum. These are the two largest, most liquid, and most battle-tested cryptocurrencies.
-- **20% of crypto allocation**: Other tokens you have personally researched and believe in for specific reasons.
-- **0%**: Random tokens promoted on social media by people you do not know.
+- **80% dari alokasi crypto**: Bitcoin dan Ethereum. Ini dua aset crypto terbesar, paling likuid, dan paling teruji.
+- **20% dari alokasi crypto**: Token lain yang sudah kamu riset sendiri dan punya alasan spesifik untuk dipercaya.
+- **0%**: Token acak yang dipromosikan di media sosial oleh orang yang tidak kamu kenal.
 
-### The Storage Rule
+### Aturan Penyimpanan
 
-- **Hardware wallet**: For any amount over $1,000 that you plan to hold long-term.
-- **Reputable exchange**: For actively traded amounts you need to access quickly.
-- **Never keep everything in one place**: Diversify across storage methods and platforms.
+- **Hardware wallet**: Untuk dana di atas Rp 15 juta yang ingin kamu simpan jangka panjang.
+- **Exchange bereputasi**: Untuk dana yang aktif diperdagangkan dan perlu diakses cepat.
+- **Jangan simpan semuanya di satu tempat**: Diversifikasi metode penyimpanan dan platform.
 
-### The Tax Rule
+### Aturan Pajak
 
-- **Track everything from day one**: Use crypto tax software.
-- **Hold for more than one year**: Long-term capital gains rates are much lower.
-- **Harvest losses**: Sell losing positions to offset gains.
-- **Set aside money for taxes**: Every time you realize a gain, set aside 20-30% for the tax bill.
+- **Catat semuanya sejak hari pertama**: Gunakan software pajak crypto.
+- **Tahan lebih dari satu tahun**: Tarif capital gain jangka panjang biasanya jauh lebih rendah.
+- **Manfaatkan kerugian**: Jual posisi rugi untuk mengimbangi keuntungan.
+- **Sisihkan uang untuk pajak**: Setiap kali kamu merealisasikan keuntungan, sisihkan 20-30% untuk tagihan pajak.
 
-## The Bottom Line
+## Intinya
 
-Cryptocurrency offers real opportunities but carries risks that traditional investments do not. Price volatility can wipe out 50% or more of your position in weeks. Scams and fraud are everywhere. Regulation is uncertain and changing. Technical risks like lost keys and hacked exchanges are unique to this space. And the psychological pressure of 24/7 volatile markets can lead to terrible decisions.
+Cryptocurrency menawarkan peluang nyata, tapi juga membawa risiko yang tidak ada dalam investasi tradisional. Volatilitas harga bisa menghapus 50% atau lebih dari posisi kamu dalam hitungan minggu. Scam dan fraud ada di mana-mana. Regulasi masih belum pasti dan terus berubah. Risiko teknis seperti kunci yang hilang dan exchange yang diretas memang khas di ruang ini. Dan tekanan psikologis dari pasar volatil 24/7 bisa membuat kamu mengambil keputusan yang buruk.
 
-None of this means you should avoid crypto entirely. It means you should go in with your eyes open, a clear plan, and money you can genuinely afford to lose. The people who do well in crypto long-term are not the ones who got lucky on a moonshot. They are the ones who managed risk, stayed disciplined, and survived the downturns.
+Semua ini bukan berarti kamu harus menghindari crypto sepenuhnya. Artinya, kamu harus masuk dengan mata terbuka, rencana yang jelas, dan uang yang benar-benar sanggup kamu relakan kalau hilang. Orang yang sukses di crypto dalam jangka panjang bukan yang kebetulan dapat cuan besar. Mereka adalah orang yang mengelola risiko, disiplin, dan bertahan melewati fase turun.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is crypto investing worth the risk?
+### Apakah investasi crypto sepadan dengan risikonya?
 
-It depends on your financial situation and risk tolerance. If you have a fully funded [emergency fund](/blog/emergency-fund-guide/), no high-interest debt, and are already contributing to retirement accounts, allocating 5-10% of your portfolio to crypto is a reasonable approach for many people. The potential for high returns exists, but so does the potential for significant loss. Do not invest money you need for rent, bills, or essential expenses.
+Tergantung kondisi keuangan dan toleransi risiko kamu. Kalau kamu sudah punya [dana darurat](/blog/emergency-fund-guide/) yang cukup, tidak punya utang berbunga tinggi, dan sudah rutin berkontribusi ke dana pensiun atau investasi, mengalokasikan 5-10% portofolio ke crypto bisa jadi pendekatan yang masuk akal bagi banyak orang. Potensi return tinggi memang ada, tapi potensi rugi besar juga ada. Jangan investasikan uang yang kamu butuhkan untuk sewa, tagihan, atau kebutuhan pokok.
 
-### What is the safest cryptocurrency to invest in?
+### Cryptocurrency apa yang paling aman untuk diinvestasikan?
 
-No cryptocurrency is "safe" in the traditional sense. However, Bitcoin and Ethereum are considered the lowest-risk options because they have the largest market caps, the longest track records, the most liquidity, and the broadest institutional adoption. Bitcoin ETFs also provide exposure through traditional brokerage accounts with the security of regulated financial products.
+Tidak ada cryptocurrency yang benar-benar “aman” dalam arti tradisional. Namun, Bitcoin dan Ethereum dianggap paling rendah risikonya karena market cap terbesar, rekam jejak paling panjang, likuiditas paling tinggi, dan adopsi institusional paling luas. ETF Bitcoin juga memberi eksposur lewat akun sekuritas tradisional dengan keamanan produk keuangan yang teregulasi.
 
-### How do I spot a crypto scam?
+### Bagaimana cara mengenali scam crypto?
 
-Red flags include: guaranteed returns, anonymous teams, unsolicited investment advice (especially from strangers on social media or dating apps), pressure to invest quickly, inability to withdraw funds, and websites or apps that look professional but have no verifiable company information. If something promises risk-free returns or sounds too good to be true, it is almost certainly a scam.
+Tanda bahaya termasuk: imbal hasil yang dijamin, tim anonim, saran investasi yang tidak diminta, tekanan untuk cepat investasi, tidak bisa menarik dana, dan website atau aplikasi yang terlihat profesional tapi tidak punya informasi perusahaan yang bisa diverifikasi. Kalau sesuatu menjanjikan return bebas risiko atau terdengar terlalu bagus untuk jadi nyata, hampir pasti itu scam.
 
-### Should I use a hardware wallet?
+### Apakah saya perlu memakai hardware wallet?
 
-Yes, if you hold more than $1,000 in crypto that you plan to keep long-term. Hardware wallets (like Ledger Nano S Plus or Trezor Model T) cost $70 to $200 and provide significantly better security than keeping crypto on an exchange. They store your private keys offline, making them immune to exchange hacks, phishing attacks, and remote theft.
+Ya, kalau kamu memegang crypto lebih dari Rp 15 juta yang ingin disimpan jangka panjang. Hardware wallet seperti Ledger Nano S Plus atau Trezor Model T harganya sekitar Rp 1 juta sampai Rp 3 juta dan memberi keamanan jauh lebih baik dibanding menyimpan crypto di exchange. Perangkat ini menyimpan private key secara offline, sehingga terlindungi dari peretasan exchange, phishing, dan pencurian jarak jauh.
 
-### What happens to my crypto if an exchange goes bankrupt?
+### Apa yang terjadi pada crypto saya kalau exchange bangkrut?
 
-If an exchange goes bankrupt, your crypto may be treated as part of the exchange's estate, meaning you become an unsecured creditor. This is exactly what happened to FTX customers, many of whom waited years for partial recovery. This is why experts recommend keeping only the crypto you are actively trading on exchanges and moving long-term holdings to a hardware wallet you control.
+Kalau exchange bangkrut, crypto kamu bisa dianggap bagian dari aset pailit exchange, artinya kamu menjadi kreditor tanpa jaminan. Ini persis seperti yang terjadi pada pelanggan FTX, banyak di antaranya menunggu bertahun-tahun untuk pemulihan sebagian. Karena itu para ahli menyarankan hanya menyimpan crypto yang sedang aktif diperdagangkan di exchange, dan memindahkan aset jangka panjang ke hardware wallet yang kamu kendalikan sendiri.
