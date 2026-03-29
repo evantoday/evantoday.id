@@ -312,26 +312,3 @@ This is better if you're protecting capital or saving for a near-term goal.
 
 I'd rather you start with one of these simple models than build a complicated portfolio you don't understand.
 
-## Frequently Asked Questions
-
-### What is the easiest way to diversify an investment portfolio?
-The easiest way is to split your money across cash, bond funds, equity funds, and one defensive asset like gold. If you want a simple starting point, I'd use monthly investing and a target allocation instead of trying to pick perfect entry points. A target-date fund inside your 401(k) or IRA can also do the diversification work for you automatically.
-
-### How many different investments should I have?
-For most people, 4 to 6 well-chosen assets is enough. More than that can become hard to track and may not improve diversification much if the assets move together.
-
-### Is crypto a good diversification tool?
-Crypto can add diversification only if you keep the allocation small and understand the risk. I would not make it a core holding because its volatility is much higher than most traditional assets.
-
-### Should I diversify across US and global assets?
-Yes, if you can. I think having some international exposure is smart because it reduces dependence on one economy and one market cycle. International ETFs make this easy.
-
-### How often should I review my portfolio?
-I recommend reviewing it every 6 to 12 months. You should also review it after major life changes like a new job, marriage, or a big expense.
-
-### Can I diversify with small capital?
-Yes, absolutely. You can start with $500 or $1,000 and still build a diversified portfolio using mutual funds, ETFs, gold, and savings. The key is consistency, not starting size.
-
-The truth is, **how to diversify your investment portfolio** comes down to one thing: building a portfolio that can survive real life. Not just bull markets. Not just hype cycles. Real life.
-
-If you want, I can also turn this into a more tactical version with a **sample $1,000, $5,000, and $10,000 portfolio allocation for US investors**.

@@ -294,24 +294,3 @@ The smartest plan is staged. Don't think in one giant emergency. Think in 30-day
 ### My opinion
 A lot of people wait too long to adapt. If your job search is dragging, I think you should adjust earlier, not later. Maybe your next job won't be the perfect upgrade. Fine. Survival first, optimization later.
 
-## Frequently Asked Questions
-
-### How much emergency fund do I need to survive a job loss?
-I recommend at least 3 to 6 months of essential expenses. If your monthly survival budget is $2,500, that means $7,500 to $15,000 is a realistic target. If you support family or have debt, aim higher.
-
-### Should I use my credit card to survive after losing my job?
-I don't recommend relying on credit cards for survival unless it's a very short bridge and you have a clear repayment plan. Credit card interest can become painful fast, and debt can snowball when you're unemployed.
-
-### What if my severance pay is delayed?
-Treat delayed severance as uncertain money until it actually lands in your account. Keep cutting spending, talk to your landlord or lenders early, and use only the cash you already control.
-
-### Is it okay to stop investing during unemployment?
-Yes, if your cash flow is tight, pausing investing is usually the right move. I'd rather see you preserve liquidity than force investments while you're struggling to cover essentials. You can restart later.
-
-### Should I cash out all my investments?
-Not automatically. I'd only sell investments if you need the money for essentials or debt payments and you don't have enough liquid cash. If you do sell, prioritize assets that are easiest to liquidate and least damaging to your long-term plan.
-
-### What's the biggest mistake people make after a job loss?
-The biggest mistake is pretending life can continue exactly the same. Once income stops, the budget has to change immediately. The faster you accept that, the longer your runway lasts.
-
-If you're reading this because your income just disappeared, I'm sorry. It's a rough moment. But I've seen people come back from it stronger because they moved quickly, cut hard, and stayed disciplined. That's the real game: protect cash, reduce burn, and buy yourself enough time to land the next opportunity.

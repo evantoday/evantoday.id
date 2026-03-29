@@ -242,7 +242,7 @@ Not all debt is equal. Here is how I prioritize:
 | Student loans (federal) | 3-7% | Lower priority |
 | Mortgage | 3-7% | Lowest priority (tax deductible) |
 
-Any debt above 7-8% should be attacked aggressively before investing beyond your 401(k) match.
+Any debt above 7-8% should be attacked aggressively before investing beyond your 401(k) match. If you are deciding between the [debt snowball vs debt avalanche](/blog/debt-snowball-vs-debt-avalanche-method-explained-which-is-right-for-you/) method, either works as long as you stay consistent.
 
 ## Common Net Worth Mistakes
 
@@ -264,24 +264,3 @@ Your 401(k) and traditional IRA balances will be taxed when you withdraw them. A
 
 When the market drops 20%, your investment balances drop too. If you are checking daily during a downturn, you will feel terrible and might make emotional decisions. Monthly tracking is enough. Quarterly is fine too. The trend over years matters, not the number on any given day.
 
-## Frequently Asked Questions
-
-### What is a good net worth for my age?
-
-The median net worth for Americans 35-44 is about $135,600. If you are above the median for your age group, you are doing better than most. But comparing to averages is less useful than tracking your own progress. A consistent upward trend in your net worth is the most important thing, regardless of where you start.
-
-### Should I include my car in my net worth calculation?
-
-Yes, at its current resale value, not the purchase price. Check Kelley Blue Book or Carvana for a realistic estimate. Also subtract any remaining auto loan balance. For most people, their car is a small part of net worth and depreciates over time, so do not stress too much about precision here.
-
-### How often should I calculate my net worth?
-
-Monthly is ideal for active tracking. It takes about 10 minutes and helps you spot trends, catch problems early, and stay motivated. If monthly feels like too much, quarterly works fine. At minimum, calculate it once per year, ideally at the same time (like January 1st or your birthday) so you can compare year over year.
-
-### Is a negative net worth normal?
-
-Yes, especially for Americans in their 20s with student loans. The average student loan balance at graduation is about $30,000. If you are freshly out of school with student debt and few assets, a negative net worth is expected. The goal is to reach zero as quickly as possible, then build from there. Most people with student debt reach positive net worth by their late 20s or early 30s.
-
-### Does net worth include my spouse's assets and debts?
-
-For household financial planning, yes. You should calculate your combined household net worth since financial decisions affect both of you. Many couples also track individual net worth separately, especially if they maintain separate finances. For a complete picture of your household's financial health, combine everything.

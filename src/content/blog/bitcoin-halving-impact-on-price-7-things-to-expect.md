@@ -214,23 +214,3 @@ I’d use small, consistent buys. I’d keep my position size modest. I’d secu
 
 That’s the part most people skip. They want the upside without the discomfort. Unfortunately, Bitcoin doesn’t work like that.
 
-## Frequently Asked Questions
-
-### Does Bitcoin always go up after halving?
-No, Bitcoin does not always go up immediately after halving. Historically, price has often performed well in the months after the event, but the timing and size of the move have varied a lot.
-
-### How long after halving does Bitcoin price usually rise?
-Bitcoin price often reacts over months, not days. In past cycles, the strongest moves tended to appear later as the market adjusted to reduced supply and improving demand.
-
-### Is halving already priced in before it happens?
-Sometimes, yes. Markets are forward-looking, so traders often buy in advance of the halving. That’s why the biggest move may happen before or after the event rather than on the exact day.
-
-### Should Indonesians buy Bitcoin before or after halving?
-I think gradual buying is better than trying to guess the perfect timing. If you want exposure, use rupiah-cost averaging and only invest money you won’t need soon.
-
-### How much Bitcoin should I own?
-That depends on your risk tolerance, income, and existing assets. For many people, a small allocation of 3% to 10% of investable assets is enough to get exposure without blowing up the portfolio.
-
-### Is Bitcoin halving important for long-term investors?
-Yes, it’s important because it changes Bitcoin’s issuance schedule and supports the scarcity narrative. But long-term investors should still watch macro conditions, demand, and portfolio balance.
-

@@ -216,24 +216,3 @@ Pick the snowball or avalanche method and start making progress. Watching debt b
 
 Spend 30 minutes on the first of every month reviewing your finances. When you stay aware, problems stay small.
 
-## Frequently Asked Questions
-
-### Is financial stress a mental health condition?
-
-Financial stress itself is not a clinical diagnosis, but it can trigger or worsen clinical anxiety and depression. If money worries are affecting your ability to sleep, work, or maintain relationships for more than two weeks, consider talking to a mental health professional. Many therapists specialize in the intersection of money and mental health.
-
-### How do I talk to my partner about financial stress?
-
-Start with vulnerability, not blame. Say "I am feeling stressed about our finances and I need us to talk about it" rather than "You spend too much money." Schedule a specific time for the conversation so it does not happen in the heat of the moment. Bring the numbers (Strategy 1) so the discussion is fact-based. Consider a joint session with a financial counselor if conversations consistently turn into arguments.
-
-### Can I be too broke to afford help?
-
-No. The NFCC offers free or very low-cost credit counseling. Legal Aid is free for low-income individuals. Community mental health centers use sliding-scale fees. 211.org connects you with local resources. Many therapists offer pro bono spots. The resources exist specifically for people who cannot afford expensive help.
-
-### How long does it take for financial stress to go away?
-
-The acute stress often reduces significantly within the first 30 days of taking action, even before your financial situation actually improves. The act of making a plan and taking steps creates a sense of control that directly counters the helplessness that drives anxiety. Full financial recovery (building savings, paying off debt) may take 1-3 years, but the stress starts decreasing much sooner.
-
-### Should I tell my employer about my financial stress?
-
-You do not need to share details, but some employers offer Employee Assistance Programs (EAPs) that include free financial counseling and therapy sessions. Check with your HR department. EAP conversations are confidential and do not affect your employment. Many large companies also offer financial wellness programs with budgeting tools and education.

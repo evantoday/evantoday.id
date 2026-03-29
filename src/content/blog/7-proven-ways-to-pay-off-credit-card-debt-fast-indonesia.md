@@ -223,30 +223,3 @@ Here’s the exact process I’d use if I were starting from zero with credit ca
 
 If you want a broader system for rebuilding your finances after debt, [how to diversify your investment portfolio Indonesia](/blog/7-smart-ways-to-diversify-your-investment-portfolio-indonesia/) is a good next read once you’re [debt-free](/blog/debt-free-journey-tips/) and ready to grow again.
 
-## Frequently Asked Questions
-
-### How long does it take to pay off credit card debt?
-
-It depends on the balance, interest rate, and how much extra you pay each month. A small debt of Rp 5 juta can disappear in a few months if you attack it aggressively, while a larger balance may take a year or more. The fastest payoff comes from paying more than the minimum and stopping new spending.
-
-### Is it better to pay one credit card first or all at once?
-
-I think it’s better to focus on one card first, especially if you’re using the avalanche or snowball method. Paying one card aggressively gives you clearer progress and usually reduces interest faster. Keep minimum payments on the others so your accounts stay current.
-
-### Can I use a personal loan to pay credit card debt?
-
-Sometimes people do this, but I’m cautious about it. It only makes sense if the new loan has a clearly lower interest rate and fixed repayment terms that you can handle comfortably. If not, you’re just moving debt around instead of solving the problem.
-
-### What happens if I miss a credit card payment in Indonesia?
-
-You’ll usually get late fees, interest charges, and a worse cash flow situation the next month. If you miss payments repeatedly, the debt becomes harder to manage and the bank may take further action. The best move is to contact the bank early if you know you’ll struggle.
-
-### Should I close my credit card after paying it off?
-
-If you’re someone who overspends easily, closing it can be smart. If you use credit responsibly and want to keep a long credit history, you might keep it open with very limited use. My honest advice: if the card was a problem, remove the temptation first.
-
-### What’s the first thing I should do today?
-
-Stop using the card and check your exact balance right now. Then write down your income, minimum payments, and how much extra you can send this month. That one small action gives you a real starting point instead of just stress.
-
-If you’re serious about getting out of debt, don’t wait for motivation. Build the plan, cut the leaks, and attack the balance with everything you’ve got. That’s how I’d do it, and that’s how I’d tell a friend to do it over kopi.

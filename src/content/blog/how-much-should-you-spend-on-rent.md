@@ -205,24 +205,3 @@ A simple way to compare: divide the median home price by the annual rent for a s
 5. **Consider a move**: If you work remotely, moving to a lower-cost city could free up $500-$1,500/month.
 6. **Boost income**: A raise, job change, or side hustle directly improves your ratio.
 
-## Frequently Asked Questions
-
-### Is the 30% rule outdated?
-
-The 30% rule is a useful guideline but not a rigid law. In high-cost cities like NYC or San Francisco, even high earners may spend 35-40% on rent. The key is understanding the trade-offs: spending more on rent means spending less on savings, investing, and other goals. Aim for 30% if possible, but if you must go higher, compensate by cutting costs elsewhere and having a plan to improve the ratio over time.
-
-### Should I use gross or net income for the 30% rule?
-
-The traditional rule uses gross income (before taxes), but using net income (take-home pay) gives a more realistic picture of what you can afford. If you earn $60,000 gross in a high-tax state, your take-home might be $3,750/month. Thirty percent of gross is $1,500, but that is actually 40% of your take-home. I recommend targeting 30% of net income if possible, which is roughly 22-25% of gross.
-
-### How much should a couple spend on rent?
-
-Use the same 30% rule but applied to combined gross income. If Partner A earns $50,000 and Partner B earns $40,000, your combined gross is $90,000 and your 30% max rent is $2,250/month. Couples have an advantage because many housing costs (utilities, internet, renter's insurance) are shared rather than doubled. This often makes the rent-to-income ratio more favorable.
-
-### Is it worth paying more rent to live closer to work?
-
-Often yes, when you factor in the full cost of commuting. A longer commute adds gas, car maintenance, parking, tolls, and — critically — time. If moving 30 minutes closer costs $300 more in rent but saves $200 in commuting costs and gives you back 40 hours per month, the math often favors higher rent. Calculate the total cost of each option, including the value of your time.
-
-### How do I save for a house down payment while paying high rent?
-
-It requires aggressive savings in other categories. Automate a fixed monthly transfer to a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account labeled "house fund." Cut discretionary spending (dining out, subscriptions, shopping). Consider a roommate to reduce rent temporarily. Pick up a side income source. Many first-time buyers also use FHA loans (3.5% down) or state down payment assistance programs to buy sooner with less saved.

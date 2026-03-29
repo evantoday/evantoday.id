@@ -235,24 +235,3 @@ My recommendation for most people: start with [Ally Bank](/blog/ally-bank-review
 
 The hardest part is choosing which bank to go with. The actual opening process is the easy part.
 
-## Frequently Asked Questions
-
-### Can I open a bank account online with bad credit?
-
-Yes. Most banks perform a soft credit check or no credit check at all when opening a checking or savings account. However, they may check your ChexSystems report, which tracks banking history like unpaid fees or involuntary closures. If you have a negative ChexSystems history, consider Chime or a second-chance checking account, which are more lenient.
-
-### Is it safe to enter my SSN online to open a bank account?
-
-Yes, as long as you are on the official bank website or app. Look for "https" in the URL and verify you are on the bank's actual domain (ally.com, sofi.com, chime.com). Never enter your SSN on a link from an unsolicited email or text message. Major banks use encryption and fraud monitoring to protect your information.
-
-### Can I open a bank account online if I am under 18?
-
-Most online banks require you to be at least 18 years old. However, some banks offer teen or student accounts that a parent can open on behalf of a minor. Capital One, Chase, and [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/) all offer custodial or teen accounts with online access. Chime, SoFi, and Ally do not currently offer accounts for minors.
-
-### How many bank accounts can I have?
-
-There is no legal limit on the number of bank accounts you can have. You can have checking and savings accounts at multiple banks simultaneously. Many financial experts recommend having at least two: one for daily spending and one for savings. Just make sure you can manage them all and are not paying unnecessary fees.
-
-### What if I need to close my online bank account?
-
-Closing an online bank account is usually straightforward. Transfer your remaining balance to another account, cancel any automatic payments or direct deposits linked to the account, and then request closure through the app, website, or customer service phone line. Most banks process closures within one to two business days. Make sure your balance is exactly $0 before closing to avoid complications.

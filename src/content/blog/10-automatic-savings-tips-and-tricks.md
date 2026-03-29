@@ -197,24 +197,3 @@ That is $24,636 per year—saved and invested automatically without making a sin
 
 The best part? After the initial setup (which takes a Saturday afternoon at most), the system runs itself. You just live your life while your wealth builds in the background.
 
-## Frequently Asked Questions
-
-### How much should I automate into savings each month?
-
-Start with whatever you can afford without going into debt—even $50/month is a starting point. The goal is to reach 20% of your take-home pay over time. Use auto-escalation to gradually increase. If you automate $50/month this quarter, bump it to $75 next quarter. Small increases add up without shocking your budget.
-
-### What if I need the money I have automated into savings?
-
-That is what your [emergency fund](/blog/emergency-fund-guide/) is for. Keep 3-6 months of expenses in an accessible high-yield savings account before locking money into investments. For sinking funds, the money is meant to be spent—just on planned expenses rather than impulse buys.
-
-### Are round-up apps like Acorns worth the fees?
-
-For most people, yes. Acorns charges $3-$12/month, and the average user saves $30-$50/month in round-ups alone. The real value is the behavioral nudge—it gets you investing without thinking about it. Once you build the habit and have a larger balance, you might graduate to a fee-free brokerage like Fidelity or Vanguard for direct investing.
-
-### Should I save or pay off debt first?
-
-Build a $1,000 emergency fund first (automate $200-$300/month until you hit it). Then attack high-interest debt (credit cards at 20%+ APR) aggressively while maintaining the $1,000 buffer. Once high-interest debt is gone, automate savings toward your full emergency fund and retirement accounts simultaneously.
-
-### Can I automate savings if I have irregular income?
-
-Yes, but adjust the approach. Instead of fixed dollar amounts, use percentages. Automate 15-20% of each deposit into savings. Most banks allow percentage-based transfers. Alternatively, set a baseline automatic transfer based on your lowest expected income and manually transfer extra during good months.

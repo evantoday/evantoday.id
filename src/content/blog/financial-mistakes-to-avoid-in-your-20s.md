@@ -197,24 +197,3 @@ You do not have to fix all ten things at once. Start with the biggest impact ite
 
 These four actions alone can save you six figures over the next decade.
 
-## Frequently Asked Questions
-
-### Is it too late to fix these mistakes if I am already 28 or 29?
-
-Not at all. Most of the damage from these mistakes comes from long-term compounding, which means even fixing them at 28 or 29 saves you enormous amounts over the next 30+ years. Starting to invest at 29 instead of 35 still gives you six extra years of compound growth. Paying off credit card debt at 29 instead of carrying it for another decade saves thousands in interest. The best time to start was five years ago. The second best time is today.
-
-### How much should a 20-something have in savings?
-
-By age 25, aim for at least $5,000-$10,000 in savings (emergency fund plus short-term goals). By age 30, aim for 1x your annual salary in total retirement savings (including 401k and IRA). These are targets, not requirements. If you are starting from zero, focus on building momentum rather than hitting a specific number.
-
-### Should I pay off student loans or invest first?
-
-If your student loan interest rate is below 6-7 percent and you have no credit card debt, do both. Invest enough to get your full employer 401(k) match, then split extra money between student loan payments and Roth IRA contributions. If your rate is above 7 percent, prioritize paying off the loans since that is a guaranteed return higher than most investments.
-
-### How do I build credit in my 20s without going into debt?
-
-Get one credit card with no annual fee. Use it for a small recurring charge like a streaming subscription or gas. Set it to autopay the full balance every month. Never charge more than you can pay off immediately. Your credit score will build steadily over time. After 6-12 months of on-time payments, your score should be in the 700s.
-
-### What is the single most important financial move in my 20s?
-
-Start investing in a Roth IRA or 401(k). The power of compound interest is strongest when you are young because you have the most time. Even small amounts grow dramatically over 30-40 years. Everything else on this list matters, but nothing comes close to the long-term impact of early investing.

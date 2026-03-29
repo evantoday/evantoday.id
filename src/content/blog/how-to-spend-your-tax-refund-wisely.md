@@ -177,24 +177,3 @@ Write down your allocation. Tell a partner or friend. Set up the transfers in ad
 
 If you consistently get large refunds ($2,000+), you are giving the government an interest-free loan all year. Use the IRS Tax Withholding Estimator to adjust your W-4. A $3,000 refund could instead be $250 extra per month in your paycheck, which is easier to save and invest consistently.
 
-## Frequently Asked Questions
-
-### When will I get my 2026 tax refund?
-
-If you file electronically with direct deposit, most refunds arrive within 21 days of the IRS accepting your return. Paper returns take 6-8 weeks. You can check your refund status at IRS.gov using the "Where's My Refund?" tool or the IRS2Go mobile app. Filing early in the season (late January to mid-February) typically results in faster processing.
-
-### Should I use my tax refund to pay off student loans?
-
-It depends on your interest rate and other debts. If you have credit card debt at 20%+ APR, pay that first — it is costing you far more than student loans at 5-7%. If your only debt is student loans, using your refund to make an extra principal payment can save significant interest over the loan term. Just make sure you have at least $1,000 in emergency savings before making extra debt payments.
-
-### Is it better to invest my refund or save it?
-
-If you do not have an emergency fund covering 3-6 months of expenses, save it first. Money in a high-yield savings account earning 4-5% APY is not as exciting as stock market returns, but it prevents you from going into debt the next time something unexpected happens. Once your emergency fund is solid, investing in a Roth IRA or [index funds](/blog/index-fund-investing-guide/) has historically returned 8-10% annually over the long term.
-
-### How do I stop getting such a large tax refund?
-
-Update your W-4 with your employer using the IRS Tax Withholding Estimator at IRS.gov. Adjust your withholding allowances so that less money is taken from each paycheck. The goal is to owe roughly $0 and receive roughly $0 at tax time — meaning you kept your money all year instead of loaning it to the government interest-free.
-
-### What is the worst way to spend a tax refund?
-
-Impulsive spending with no plan. Studies show that unplanned purchases lead to buyer's remorse within weeks. The worst specific uses include putting the refund toward a vacation while still carrying high-interest debt, buying a depreciating asset like a brand-new TV, or treating it as "bonus money" rather than what it actually is — your own overpaid taxes returned to you.

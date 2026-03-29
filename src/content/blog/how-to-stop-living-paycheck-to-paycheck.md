@@ -160,24 +160,3 @@ Friends want to go out, take trips, split expensive dinners. Be honest. "I am wo
 
 If you cut too aggressively, you will snap and blow your budget. Keep some fun money in your plan, even if it is only $50 per week. Sustainability beats perfection.
 
-## Frequently Asked Questions
-
-### How long does it take to stop living paycheck to paycheck?
-
-For most people, 3-6 months of consistent effort is enough to build a one-month buffer and break the cycle. The timeline depends on your income, expenses, and how aggressively you can save. Even if you can only save $100-$200 per month, you will notice a significant reduction in [financial stress](/blog/how-to-deal-with-financial-stress-and-anxiety/) within 90 days.
-
-### Is it possible to break the cycle on minimum wage?
-
-Yes, but it is harder and may take longer. Focus on the income side by picking up additional hours, starting a side gig, or working toward a higher-paying position. On the expense side, take advantage of every assistance program available like SNAP benefits, Medicaid, LIHEAP for utility assistance, and 211.org for local resources. Every dollar you save or earn extra accelerates your progress.
-
-### Should I pay off debt first or build a buffer?
-
-Build a small buffer first, ideally $500-$1,000. Without this cushion, any unexpected expense puts you right back on a credit card, which adds to your debt. Once you have a minimal buffer, split your extra money between debt payoff and growing the buffer to one month of expenses. After the buffer is complete, go all-in on debt.
-
-### What if my spouse or partner is not on board?
-
-This is one of the biggest challenges. Start by sharing the numbers without judgment. Show them the cash flow map from Step 1 and let the data speak. Propose a 30-day trial where you both follow the plan. Often, once a partner sees real progress in the first month, they become your biggest ally. If money fights continue, a session with a financial counselor (many nonprofits offer free sessions) can help.
-
-### What budgeting method works best for paycheck-to-paycheck households?
-
-I recommend [zero-based budget](/blog/zero-based-budgeting-method-explained/)ing, where every dollar is assigned a job before the month starts. YNAB is the gold standard app for this approach. If you prefer something free, EveryDollar has a solid free tier. The [envelope method](/blog/the-envelope-budgeting-method-for-beginners/) (using cash for variable spending categories) also works extremely well for people who tend to overspend with cards.

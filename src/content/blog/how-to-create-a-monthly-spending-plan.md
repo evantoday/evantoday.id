@@ -234,24 +234,3 @@ The middle-income sweet spot. You have room to save 20% while still enjoying lif
 
 At higher incomes, resist lifestyle inflation. Keep your savings rate at 25-30%+ and you will build wealth rapidly.
 
-## Frequently Asked Questions
-
-### How is a spending plan different from a budget?
-
-Functionally, they are almost identical—both involve planning how to allocate your income. The difference is mainly psychological. A spending plan frames it as proactive choices ("I choose to spend $200 on dining out"), while a budget can feel restrictive ("I can only spend $200 on dining out"). Use whichever framing keeps you motivated.
-
-### Should I include my 401(k) contribution in my spending plan?
-
-If your 401(k) contribution is deducted from your paycheck before it reaches your bank account, it is already gone before your spending plan starts. You can track it separately for your overall financial picture, but your spending plan should be based on the net amount you actually receive.
-
-### What if my expenses exceed my income?
-
-First, cut discretionary spending—dining out, entertainment, subscriptions. If that is not enough, look at your biggest fixed costs: housing and transportation. Can you get a roommate, move to a cheaper area, refinance your car, or switch to a single-car household? If expenses still exceed income, the answer is increasing your earnings through overtime, a side hustle, or a job change.
-
-### How often should I update my spending plan?
-
-Rebuild it every month. Each month has different needs—higher utilities in summer, holiday spending in December, back-to-school costs in August. A plan that worked in March will not perfectly fit June. Spend 20-30 minutes before each month starts to create a fresh plan.
-
-### Can a spending plan help me get out of debt?
-
-Absolutely. A spending plan makes your debt payments intentional rather than "whatever is left over." By seeing exactly where every dollar goes, you can identify categories to trim and redirect that money toward debt. Many people find an extra $200-$500 per month they did not know they had once they write everything down.

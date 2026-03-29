@@ -202,24 +202,3 @@ A family in rural Tennessee might spend $250,000 total while a family in San Fra
 5. **Update your budget**: Account for new recurring expenses before they hit
 6. **Max out tax benefits**: Claim the Child Tax Credit ($2,000), use a Dependent Care FSA ($5,000), and check eligibility for EITC
 
-## Frequently Asked Questions
-
-### How much does it cost to raise a child per year in the US?
-
-On average, $17,000-$18,000 per year from birth to 18, though costs are not evenly distributed. The first five years are the most expensive due to childcare, which can cost $12,000-$30,000 annually. Costs dip when kids enter public school, then rise again during the teenage years when food, clothing, activities, and eventually driving expenses increase.
-
-### What is the most expensive part of raising a child?
-
-Housing is the largest overall category at 29-33% of total costs, but childcare is the most intense expense during the years it applies. Full-time infant daycare in a major US city costs $15,000-$30,000 per year — more than in-state college tuition at many universities. Once kids start public school, this cost drops dramatically.
-
-### Is it cheaper to raise a child in a rural area?
-
-Significantly. A family in rural areas of the Midwest or South can spend $230,000-$270,000 over 18 years compared to $370,000-$450,000 in major coastal metros. The biggest savings come from housing (often 50% less) and childcare (often 30-40% less). However, rural areas may have fewer educational resources and activities, which some families supplement with online programs.
-
-### How can parents save money on childcare?
-
-Look into your state's childcare subsidy program, use a Dependent Care FSA through your employer ($5,000 pre-tax annually), claim the Child and Dependent Care Tax Credit (up to $2,100 for two children), consider in-home daycare (30-40% cheaper than centers), stagger work schedules between partners, and explore parent cooperative childcare arrangements in your community.
-
-### Should I start a 529 plan for my child?
-
-Yes, ideally at birth. A 529 plan lets you invest money that grows tax-free for qualified education expenses including college tuition, room and board, and K-12 tuition up to $10,000 per year. Many states offer tax deductions on contributions. Even $100 per month from birth, invested in an age-based portfolio, can grow to $35,000-$45,000 by age 18, covering a significant portion of in-state public university costs.

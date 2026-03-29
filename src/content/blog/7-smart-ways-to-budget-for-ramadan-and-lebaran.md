@@ -303,24 +303,3 @@ Here’s the exact template I’d use if I were starting from scratch:
 
 That’s a clean, realistic budget. Not luxurious. Not stingy. Just controlled.
 
-## Frequently Asked Questions
-
-### How much should I save for Ramadan and Lebaran?
-I’d start with a target of Rp 2 juta to Rp 5 juta if you’re single and not mudik, and Rp 5 juta to Rp 10 juta+ if you’re traveling or giving gifts. The right amount depends on your family expectations and travel plans. The safest move is to calculate your actual categories first, then save monthly toward that number.
-
-### Is it better to save monthly or use THR for Lebaran?
-I think monthly saving is better because THR is not guaranteed until it arrives. If you rely only on THR, you’re gambling with your budget. Use THR as a bonus, not the main plan.
-
-### How do I stop overspending on buka puasa?
-Set a weekly dining-out limit and keep most buka puasa meals at home. I’ve found that one or two social outings per week is enough for most people. If you go out every day, your budget will disappear fast.
-
-### Should I use a credit card for Lebaran expenses?
-Only if you already know exactly how you’ll pay it off. Otherwise, credit card spending can turn a festive month into a debt problem. I’d rather see you use cash, debit, or a pre-funded e-wallet.
-
-### What’s the biggest mistake people make when budgeting for Ramadan?
-The biggest mistake is forgetting the small repeated expenses. People plan for mudik and clothes, then get hit by snacks, transport, donations, and last-minute invites. That’s why I always keep a buffer in the budget.
-
-### Can I still enjoy Ramadan if I’m on a tight budget?
-Absolutely. A tight budget doesn’t mean a joyless Ramadan. It just means you need clearer priorities, smaller social spending, and more discipline with gifts and food. In my experience, Ramadan feels better when your money is calm.
-
-If you want Ramadan and Lebaran to feel peaceful instead of stressful, start budgeting now. Don’t wait for the first invite, the first promo, or the first “sekali setahun” temptation. The best budget is the one you set before your spending gets emotional.

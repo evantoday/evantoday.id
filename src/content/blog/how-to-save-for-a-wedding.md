@@ -201,24 +201,3 @@ If the wedding is 6 months away and you are short:
 
 Do not take out a personal loan or max out credit cards. Starting your marriage in debt over a party is never worth it.
 
-## Frequently Asked Questions
-
-### How much should you save for a wedding in 2026?
-
-The average US wedding costs about $35,000, but your budget should be based on what you can afford, not what is average. Many beautiful weddings happen at $10,000-$15,000 with smart planning. Start by deciding your priorities, get quotes, and work backward from your wedding date to calculate monthly savings needed. If the monthly number is too high, extend the engagement or reduce the budget.
-
-### Is it okay to go into debt for a wedding?
-
-No, and most financial advisors strongly agree. Starting a marriage with wedding debt creates [financial stress](/blog/how-to-deal-with-financial-stress-and-anxiety/) during what should be a joyful time. About 1 in 3 couples borrow for their wedding, and many say they regret it. If you cannot afford your dream wedding right now, scale down, extend your timeline, or both. Your marriage is what matters, not the party.
-
-### How can couples save for a wedding on a tight budget?
-
-Open a dedicated high-yield savings account, automate transfers on payday, cut your guest list aggressively (every guest costs $100-$250), choose an off-peak date (January or November weddings are 20-40% cheaper), and DIY what you can — invitations, centerpieces, and favors. Use credit card sign-up bonuses to earn rewards on vendor deposits. Every small saving adds up.
-
-### What is the best way to pay for wedding vendors?
-
-Pay deposits by credit card for purchase protection and rewards points, but pay the balance in full each month. For final payments, some vendors offer discounts for cash, check, or bank transfer. Never pay any vendor entirely in cash with no receipt, and always get a signed contract specifying services, timeline, and cancellation terms before making any payment.
-
-### Should I hire a wedding planner to save money?
-
-A good wedding planner typically costs $1,500-$3,000 but can save you that amount or more through vendor connections, negotiation expertise, and preventing costly mistakes. If your budget is under $15,000, a full planner may not make sense — consider a day-of coordinator ($500-$1,000) instead, who handles logistics on the actual wedding day while you plan everything else yourself.

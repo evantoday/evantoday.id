@@ -257,24 +257,3 @@ Set a monthly check-in (first of every month, 30 minutes). Review each goal, cel
 
 Your goals should reflect your life, values, and circumstances. Someone else's goal of buying a $500,000 house is irrelevant if your goal is to pay off $10,000 in debt. Focus on your own path.
 
-## Frequently Asked Questions
-
-### What if I cannot afford to work on all five goals?
-
-You do not need to. Start with Goal 1 (the $1,000 emergency fund) and work through them in order. Even working on just one goal at a time is better than having no goals. The phases above are designed to be sequential so you are never trying to do everything at once.
-
-### How often should I review my financial goals?
-
-Monthly check-ins work best for most people. Spend 30 minutes on the first of each month reviewing your progress, adjusting targets if needed, and planning for the upcoming month. Major goal reviews (adding new goals, retiring completed ones) should happen quarterly.
-
-### What if I fall behind on a goal?
-
-Adjust the timeline, not the goal. If you planned to save $5,000 in 10 months but life happened and you are behind, extend to 14 months instead of giving up. The goal is still valid. Circumstances just shifted the timeline. Never let a missed month turn into a missed year.
-
-### Should my partner and I set goals together?
-
-Absolutely. Financial goals work best when both partners are aligned. Schedule a "money date" to discuss individual and shared goals. Agree on priorities and contribution amounts. Joint goals (like a house down payment) should go in a joint savings account. Individual goals (like a personal hobby fund) can stay in individual accounts.
-
-### How do I know if my goals are realistic?
-
-A realistic goal should stretch you but not break you. If your monthly savings target requires you to skip meals or never have fun, it is too aggressive. If your target is so easy you do not notice the money leaving your account, it is too conservative. A good rule of thumb: if achieving your goal requires dedicating 15-25 percent of your take-home pay to savings and debt payoff, you are in the right range.

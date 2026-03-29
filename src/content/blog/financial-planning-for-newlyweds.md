@@ -284,24 +284,3 @@ After three years of managing finances together, here are the informal rules my 
 4. **No financial secrets**: Full transparency on all accounts, debts, and financial decisions.
 5. **Grace for mistakes**: We both overspend sometimes. The response is to adjust the budget, not assign blame.
 
-## Frequently Asked Questions
-
-### Should newlyweds combine all finances?
-
-There is no universally right answer. The hybrid approach (joint account for shared expenses, individual accounts for personal spending) works well for most couples because it combines transparency with autonomy. The most important thing is that both partners agree on the system and have full visibility into the household's overall financial picture.
-
-### How do we handle different spending habits?
-
-The personal allowance system solves most spending conflicts. Each partner gets an equal amount for discretionary spending with no questions asked. For shared spending, the [monthly budget](/blog/how-to-create-a-monthly-spending-plan/) meeting provides a structured way to discuss and resolve differences. If one partner is a saver and the other is a spender, focus on agreeing on the savings rate first, then give each other freedom with the remainder.
-
-### Should we file taxes jointly or separately?
-
-Filing jointly is almost always better financially. Joint filing typically results in lower tax rates and access to more deductions and credits. The main exceptions are if one partner has significant student loan debt on an income-driven repayment plan (separate filing can lower payments) or if there are legal liability concerns. Consult a tax professional for your specific situation.
-
-### When should we start saving for kids' college?
-
-As soon as possible after birth. A 529 plan is the most tax-efficient way to save for education. Even $100/month from birth, invested in a growth fund, can grow to $35,000-$45,000 by age 18. But do not prioritize college savings over your own retirement. Your kids can borrow for college; you cannot borrow for retirement.
-
-### How do we protect ourselves financially if the marriage does not work out?
-
-While it is uncomfortable to discuss, having a prenuptial agreement (before marriage) or postnuptial agreement (after marriage) is a smart financial planning step, especially if there is a significant income or asset disparity. Beyond legal agreements, maintaining individual retirement accounts and some financial independence within the marriage provides a safety net without undermining the partnership.

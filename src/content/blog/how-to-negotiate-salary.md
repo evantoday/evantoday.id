@@ -16,7 +16,7 @@ Three years ago, I received a job offer for $95,000. My gut reaction was excitem
 
 The final number? $107,000, plus an extra week of PTO and a $5,000 signing bonus.
 
-That single conversation, which took about 20 minutes of actual negotiation, was worth over $12,000 in first-year compensation. And here is the kicker: since future raises and bonuses are typically calculated as a percentage of your base salary, that $12,000 bump will compound over my entire career. A conservative estimate puts the lifetime value at $300,000 or more.
+That single conversation, which took about 20 minutes of actual negotiation, was worth over $12,000 in first-year compensation. And here is the kicker: since future raises and bonuses are typically calculated as a percentage of your base salary, that $12,000 bump will compound over my entire career. A conservative estimate puts the lifetime value at $300,000 or more. That extra income, invested wisely through [index funds](/blog/index-fund-investing-guide/) or a [Roth IRA](/blog/how-to-financially-prepare-for-retirement/), can dramatically accelerate your path to financial freedom.
 
 Yet according to research from Salary.com, 57% of Americans have never negotiated their salary. They accept whatever is offered. If that is you, this guide is going to change your approach permanently.
 
@@ -191,7 +191,7 @@ Rejection is not the end of the conversation. Try these responses:
 4. **Negotiating over text**: Use phone, video, or email. Never negotiate via text message
 5. **Making it adversarial**: Frame it as collaborative problem-solving, not a fight
 6. **Focusing only on base salary**: Total compensation matters more than any single number
-7. **Not getting the final offer in writing**: Verbal agreements are not enforceable
+7. **Not getting the final offer in writing**: Verbal agreements are not enforceable. For more on building wealth with your income, see our guide on [smart money habits](/blog/smart-money-habits-of-wealthy-people/)
 
 ## The Lifetime Impact of Negotiation
 
@@ -207,24 +207,3 @@ The difference between accepting $85,000 and negotiating $105,000 is $20,000 per
 
 And that does not count the additional [401(k)](/blog/how-to-financially-prepare-for-retirement/) matches, Social Security benefits, and investment returns on those extra earnings.
 
-## Frequently Asked Questions
-
-### Should I negotiate a salary offer if it is already fair?
-
-Yes, always. Even if the offer meets your expectations, there is almost always room for improvement somewhere in the package. At minimum, ask about signing bonuses, PTO, or remote work flexibility. The company expects you to negotiate, and failing to do so may actually signal a lack of confidence.
-
-### When should I bring up salary during the interview process?
-
-Let the company bring it up first. If pressed early in the process, deflect with "I would love to learn more about the role first." The ideal time for detailed salary negotiation is after you receive a formal offer, when the company has already decided they want you and has the most incentive to accommodate your requests.
-
-### Is it okay to negotiate salary over email?
-
-Absolutely, and I often recommend it. Email gives you time to craft your message carefully, removes the pressure of real-time conversation, and creates a written record. Many successful negotiations happen entirely over email. The one exception is if you sense the company culture strongly prefers phone conversations, in which case prepare your talking points and have your data in front of you.
-
-### What if the company has a strict salary band and says they cannot go higher?
-
-Ask specifically what that band is and where you fall within it. If you are at the top of the band, ask about other compensation components: signing bonus, annual bonus target, equity, or a title bump that puts you in a higher band. You can also ask when you would be eligible for promotion to the next band and what criteria are required.
-
-### How do I negotiate salary when changing careers or industries?
-
-Focus on transferable skills and the value you bring rather than your previous salary. Use market data for the new role to justify your ask. You may need to accept a slight pay cut when switching fields, but do not undervalue yourself. Frame your unique background as an advantage: "My experience in [previous field] gives me a perspective that most candidates from [new field] lack."

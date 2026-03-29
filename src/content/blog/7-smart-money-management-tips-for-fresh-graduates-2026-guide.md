@@ -234,28 +234,3 @@ The fastest way to improve your finances is to run a 30-day reset. I’ve used v
 
 If you do this for 30 days, you’ll already be ahead of most people your age. Not because you earn more, but because you’re finally directing your money instead of reacting to it.
 
-## Frequently Asked Questions
-
-### How much should a fresh graduate save from salary?
-A fresh graduate should try to save 10–20% of take-home pay if possible. If that’s too hard, start with a fixed amount like Rp 300,000 to Rp 500,000 per month and increase it later. The important part is building the habit early.
-
-### Is Rp 5 juta enough for a fresh graduate in Indonesia?
-Yes, Rp 5 juta can be enough if your lifestyle is controlled and your living costs are reasonable. If you live with parents, you can save a lot more than someone paying kos in Jakarta. The real issue is not just salary, but how much of it you keep.
-
-### Should fresh graduates invest in stocks immediately?
-Fresh graduates can start investing in stocks, but only after they have an emergency fund and understand the risk. I think index funds or diversified ETFs are better starting points than picking random individual stocks. Start small and keep it boring.
-
-### What is the best budget rule for fresh graduates?
-The best budget rule is to pay yourself first. Put savings and emergency fund transfers on autopilot right after payday, then live on the remainder. That way, saving becomes a system, not a hope.
-
-### How do I stop spending too much after payday?
-Move part of your salary out of your main account immediately and set a weekly spending limit. I also recommend a 24-hour rule for purchases above Rp 300,000. Most impulse buys feel less urgent after one day.
-
-### Should I help my parents financially after graduation?
-If you can afford it, yes, but it should be planned, not random. Set a fixed amount each month so family support doesn’t wreck your own budget. A clear number is better than giving whatever is left.
-
-## Final Thoughts
-
-Money management for fresh graduates Indonesia isn’t about becoming a finance expert overnight. It’s about avoiding the mistakes that make your salary disappear and your stress go up. Start with a budget, build a small emergency fund, control your spending, and invest only when your foundation is solid.
-
-What I’ve learned personally is that the earlier you build discipline, the easier life gets later. Your 20s are the best time to make money management boring. Boring means stable. Stable means freedom.

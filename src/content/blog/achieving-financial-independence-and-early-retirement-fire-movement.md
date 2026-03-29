@@ -42,7 +42,7 @@ The foundation of FIRE math is the 25x rule: you need 25 times your annual expen
 | $60,000 | $1,500,000 |
 | $80,000 | $2,000,000 |
 
-Notice something powerful here: reducing your expenses by just $10,000 per year reduces your FIRE number by $250,000. Expenses are the most important variable in the equation because they affect both how much you need and how quickly you can save.
+Notice something powerful here: reducing your expenses by just $10,000 per year reduces your FIRE number by $250,000. Expenses are the most important variable in the equation because they affect both how much you need and how quickly you can save. Knowing [how to budget money](/blog/how-to-budget-money/) is the foundation of any FIRE plan.
 
 ### The 4% Rule (Safe Withdrawal Rate)
 
@@ -115,7 +115,7 @@ Not everyone pursues FIRE the same way. The community has developed several vari
 
 ### Step 1: Calculate Your Current Spending
 
-Track every dollar for 2-3 months. I use a free spreadsheet, but apps like YNAB ($99/year) or Mint (free) work too. Be honest and include everything:
+Track every dollar for 2-3 months. I use a free spreadsheet, but [expense tracking apps](/blog/best-ways-to-track-expenses-comprehensive-guide/) like YNAB ($99/year) or Mint (free) work too. Be honest and include everything:
 
 - Housing (rent/mortgage, property taxes, insurance, maintenance)
 - Transportation (car payment, insurance, gas, maintenance, or public transit)
@@ -215,26 +215,5 @@ Most FIRE retirees report being busier than ever. Without a 9-5 job consuming yo
 
 **"This only works for high earners."**
 
-Lean FIRE is achievable on median incomes. A couple earning a combined $80,000 who reduces expenses to $30,000/year and invests $50,000 annually can reach FIRE in about 12-15 years. It requires sacrifice, but it is mathematically possible.
+Lean FIRE is achievable on median incomes, especially if you adopt [frugal living](/blog/frugal-living-tips/) habits. A couple earning a combined $80,000 who reduces expenses to $30,000/year and invests $50,000 annually can reach FIRE in about 12-15 years. It requires sacrifice, but it is mathematically possible.
 
-## Frequently Asked Questions
-
-### What is a good FIRE number for a single person in the US?
-
-It depends entirely on your expenses. For a single person living a moderate lifestyle in a mid-cost city, annual expenses of $40,000-$50,000 are common, giving a FIRE number of $1,000,000-$1,250,000. In a high-cost city like San Francisco or New York, you might need $1,500,000-$2,000,000. In a low-cost area, $750,000 could be sufficient.
-
-### How does Social Security fit into FIRE planning?
-
-Most FIRE planners treat Social Security as a bonus, not a core part of their plan. If you retire at 40, you will not collect Social Security until at least 62 (reduced benefit) or 67 (full benefit). Your benefit will be lower than someone who worked until 67 because it is based on your 35 highest-earning years. Still, even a reduced benefit of $1,000-$1,500/month provides a significant safety net in later decades.
-
-### Is the 4% rule still safe in 2026?
-
-The 4% rule has been debated extensively, especially given current bond yields and equity valuations. Many FIRE practitioners now use 3.5% for extra safety, especially for retirements lasting 40-50+ years. Others use a flexible approach: withdraw 4% in good years and reduce to 3% in bad years. The key is having flexibility and being willing to adjust.
-
-### Can I pursue FIRE with student loan debt?
-
-Yes, but prioritize paying off high-interest debt first. If your loans are at 6%+, aggressive debt repayment provides a guaranteed return that rivals the stock market. For federal loans at lower rates, you might invest simultaneously while making minimum payments. Many successful FIRE practitioners started with significant student debt and still achieved early retirement.
-
-### What is the biggest mistake FIRE pursuers make?
-
-Sacrificing their present happiness entirely for a future goal. FIRE should improve your life now, not just in 10-15 years. If you are miserable, burned out, and socially isolated from extreme frugality, you are doing it wrong. The best FIRE path is one that involves spending intentionally on what you truly value while cutting everything that does not bring real joy.

@@ -16,7 +16,7 @@ Transportation is the second-largest expense for American households, right behi
 
 Most people think of their "car cost" as just the monthly payment. But the payment is only the tip of the iceberg. Insurance, gas, maintenance, parking, tolls, registration, and depreciation together often cost more than the payment itself.
 
-I used to spend $1,100/month on transportation without realizing it—$450 car payment, $180 insurance, $200 gas, $120 maintenance average, and $150 in parking and tolls. After implementing the strategies below, I cut that to about $680/month. The $420 difference goes straight to my investment accounts.
+I used to spend $1,100/month on transportation without realizing it—$450 car payment, $180 insurance, $200 gas, $120 maintenance average, and $150 in parking and tolls. After implementing the strategies below, I cut that to about $680/month. The $420 difference goes straight to my investment accounts. If you are looking for more ways to [reduce monthly expenses](/blog/10-effective-ways-to-reduce-monthly-expenses/), transportation is one of the best places to start.
 
 Here are ten ways to keep more of your money while still getting where you need to go.
 
@@ -214,26 +214,5 @@ Here is how to implement these changes without being overwhelmed:
 
 **Week 4**: Schedule any deferred maintenance. Check tire pressure. Clean out your car. Set up mileage tracking if you qualify for deductions. Savings: $20-$50/month in fuel efficiency.
 
-Total first-month savings: $140-$440. As you optimize further over months two and three, that number climbs to $300+.
+Total first-month savings: $140-$440. As you optimize further over months two and three, that number climbs to $300+. Put those savings to work by building an [emergency fund](/blog/emergency-fund-guide/) or [starting to invest](/blog/how-much-money-do-you-need-to-start-investing/).
 
-## Frequently Asked Questions
-
-### Is it worth buying an electric car to save on transportation?
-
-An EV makes financial sense if you drive 10,000+ miles per year, have access to home charging, and plan to keep the car for at least 5 years. The upfront cost is higher, but fuel savings ($1,500-$2,500/year), lower maintenance ($500-$1,000/year saved), and federal tax credits (up to $7,500 for qualifying models) can make EVs cheaper over the ownership period. Do the math for your specific situation.
-
-### How much can I really save by carpooling?
-
-If you split a 30-mile round-trip commute with one person, you each save roughly $100-$150/month in gas, tolls, and vehicle wear. With three people sharing, individual savings can reach $150-$250/month. Plus, many states let carpoolers use HOV lanes, cutting commute time.
-
-### Should I use rideshare instead of owning a car?
-
-If you drive less than 5,000 miles per year and live in a city with good transit and rideshare availability, going car-free and using Uber/Lyft as needed can save $300-$600/month compared to car ownership. Above 8,000-10,000 miles per year, owning is almost always cheaper.
-
-### What is the cheapest reliable car to own?
-
-Toyota Corolla, Honda Civic, and Hyundai Elantra consistently rank as the cheapest sedans to own over 5 years when factoring in depreciation, fuel, insurance, and maintenance. For SUVs, the Toyota RAV4 and Honda CR-V lead. Buying a 2-3 year old certified pre-owned model gives you the best value.
-
-### How do I calculate my true cost of car ownership?
-
-Add up: monthly payment + insurance + gas + maintenance + registration + parking + tolls + depreciation. Depreciation is the hidden cost most people ignore—new cars lose 20-30% of their value in the first year alone. AAA's annual driving cost study is a good benchmark, or use the Edmunds True Cost to Own calculator for your specific vehicle.

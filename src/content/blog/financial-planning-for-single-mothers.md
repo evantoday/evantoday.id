@@ -185,24 +185,3 @@ You do not need an expensive attorney. At minimum, create:
 
 Services like Trust & Will or LegalZoom offer these documents for $100-300.
 
-## Frequently Asked Questions
-
-### How much should a single mom have in savings?
-
-Start with $1,000 as an emergency starter fund. Then work toward 3-6 months of essential expenses — for most single moms, that is $6,000-$15,000. Keep this in a high-yield savings account separate from your checking. Even saving $50 per month gets you to $1,000 in under two years, and the habit matters more than the amount.
-
-### Can single moms invest with very little money?
-
-Absolutely. Many brokerages like Fidelity, Vanguard, and Charles Schwab have no minimum investment requirements. You can start a Roth IRA with as little as $1 and buy fractional shares of index funds. Even $25 per month invested consistently over 20 years can grow to $15,000 or more with compound interest.
-
-### What tax credits should every single mom claim?
-
-The three biggest ones are the Earned Income Tax Credit (EITC), the Child Tax Credit, and the Child and Dependent Care Credit. Together, these can be worth $8,000-$12,000 per year depending on your income and number of children. Use free tax filing through IRS Free File or VITA (Volunteer Income Tax Assistance) to make sure you claim everything you qualify for.
-
-### How do I pay for childcare as a single mom?
-
-Childcare is often the largest expense after housing for single moms. Look into your state's childcare subsidy program, Head Start (free for qualifying families), and the Child and Dependent Care FSA through your employer, which lets you set aside up to $5,000 pre-tax for childcare expenses. Some employers also offer backup care benefits.
-
-### Should I pay off debt or save first?
-
-Both. Build your $1,000 emergency fund first so you do not go deeper into debt when something unexpected happens. Then attack high-interest debt (credit cards above 20% APR) aggressively while making minimum payments on everything else. Once the high-interest debt is gone, split extra money between your emergency fund and retirement investing.

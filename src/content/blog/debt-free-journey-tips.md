@@ -173,24 +173,3 @@ Here is what I wish someone had told me: the hardest part is the first three mon
 
 You do not need to be perfect. You just need to be consistent.
 
-## Frequently Asked Questions
-
-### How long does it take to become debt-free?
-
-It depends on your total debt, interest rates, and how much extra you can pay. Most people with $20,000-$50,000 in debt can become debt-free in 2-4 years with focused effort. The key is finding extra money beyond minimums. Even an extra $300-$500 per month dramatically shortens your timeline.
-
-### Should I save money while paying off debt?
-
-Yes, but start small. Keep a starter [emergency fund](/blog/emergency-fund-guide/) of $1,000-$2,000 so unexpected expenses do not derail your progress. Once your debt is paid off, shift your focus to building a full 3-6 month emergency fund. Trying to save aggressively and pay off high-interest debt at the same time usually slows both goals.
-
-### Will paying off debt hurt my credit score?
-
-Paying off debt typically improves your credit score because it lowers your credit utilization ratio. However, closing credit card accounts can temporarily lower your score, so keep them open with zero balances. Your score may dip slightly when you pay off an installment loan like a car or student loan, but this is minor and temporary.
-
-### Should I use a debt consolidation loan?
-
-Consolidation makes sense if you can get a significantly lower interest rate and you commit to not taking on new debt. A personal loan at 8-12 percent beats credit card rates of 20-25 percent. But consolidation is a tool, not a solution. If you do not change your spending habits, you will end up with the consolidation loan plus new credit card debt.
-
-### What about bankruptcy? When is it the right choice?
-
-Bankruptcy should be a last resort, but it exists for a reason. If your unsecured debt exceeds half your annual income and you cannot realistically pay it off within five years even with major lifestyle changes, talk to a bankruptcy attorney. Many offer free consultations. Chapter 7 can discharge most unsecured debt, while Chapter 13 sets up a court-ordered repayment plan. Both stay on your credit report for 7-10 years, but sometimes a fresh start is worth it.
