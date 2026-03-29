@@ -70,10 +70,10 @@ Secara historis, Bitcoin sering tampil bagus setelah halving, tapi kenaikannya t
 
 | Tanggal Halving | Block Reward Setelahnya | Perkiraan Harga Saat Halving | Apa yang Terjadi Setelahnya |
 |---|---:|---:|---|
-| 2012 | 25 BTC | Sekitar $12 | Rally kuat selama beberapa bulan berikutnya |
-| 2016 | 12,5 BTC | Sekitar $650 | Bull run muncul belakangan |
-| 2020 | 6,25 BTC | Sekitar $8.600 | Rally besar terjadi di tahun berikutnya |
-| 2024 | 3,125 BTC | Sekitar $60.000+ | Reaksi pasar awalnya campur aduk |
+| 2012 | 25 BTC | Sekitar Rp 180 ribu | Rally kuat selama beberapa bulan berikutnya |
+| 2016 | 12,5 BTC | Sekitar Rp 9,7 juta | Bull run muncul belakangan |
+| 2020 | 6,25 BTC | Sekitar Rp 129 juta | Rally besar terjadi di tahun berikutnya |
+| 2024 | 3,125 BTC | Sekitar Rp 900 juta+ | Reaksi pasar awalnya campur aduk |
 
 Yang paling menonjol bagi saya adalah kenaikan terbesar biasanya terjadi setelah halving, bukan tepat di hari itu. Banyak orang berharap candle yang begitu besar sampai terlihat seperti kembang api. Kenyataannya lebih berantakan. Kadang harga bergerak naik-turun selama berminggu-minggu atau berbulan-bulan sebelum trennya jelas.
 

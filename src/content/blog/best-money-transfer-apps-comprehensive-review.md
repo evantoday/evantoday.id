@@ -1,6 +1,6 @@
 ---
 title: "Aplikasi Transfer Uang Terbaik 2026"
-description: "Hemat biaya transfer domestik dan internasional. Bandingkan Wise, Zelle, Venmo, PayPal, dan Remitly dari segi biaya, kecepatan, dan limit."
+description: "Bandingkan biaya, kecepatan, dan limit transfer domestik maupun internasional: Wise, Zelle, Venmo, PayPal, Remitly, dan lainnya."
 pubDate: 2026-03-08
 category: "fintech"
 tags: ["money transfer", "Wise", "Remitly", "international transfer", "send money"]

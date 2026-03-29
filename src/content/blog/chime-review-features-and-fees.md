@@ -1,6 +1,6 @@
 ---
-title: "Chime Review [2026]: Free Banking Worth It?"
-description: "Chime offers no-fee checking, early direct deposit, and automatic savings—but no physical branches. Full breakdown of features, limits, and hidden catches."
+title: "Review Chime [2026]: Banking Gratis Worth It?"
+description: "Chime menawarkan rekening tanpa biaya, gaji lebih cepat, dan tabungan otomatis—tapi tanpa cabang fisik. Ini ulasan lengkapnya."
 pubDate: 2026-03-08
 category: "digital-banking"
 tags: ["Chime", "Chime review", "free checking", "neobank", "online banking"]
@@ -10,200 +10,200 @@ heroImageAlt: 'Chime Review [2026]: Free Banking Worth It?'
 
 ---
 
-## My Experience With Chime
+## Pengalaman Saya dengan Chime
 
-I opened a Chime account about three years ago when a friend told me he was getting his paycheck two days early. That sounded almost too good to be true, so I decided to test it myself. Three years later, I have a clear picture of what Chime does well, where it falls short, and who it is actually built for.
+Saya membuka akun Chime sekitar tiga tahun lalu saat seorang teman bilang dia menerima gaji dua hari lebih cepat. Kedengarannya hampir terlalu bagus untuk jadi kenyataan, jadi saya memutuskan untuk mencobanya sendiri. Tiga tahun kemudian, saya punya gambaran yang cukup jelas tentang apa yang dilakukan Chime dengan baik, di mana kekurangannya, dan untuk siapa layanan ini sebenarnya dibuat.
 
-Chime is not technically a bank. It is a financial technology company that partners with Bancorp Bank and Stride Bank to provide banking services. That distinction matters, and I will explain why throughout this review.
+Secara teknis, Chime bukan bank. Chime adalah perusahaan teknologi finansial yang bekerja sama dengan Bancorp Bank dan Stride Bank untuk menyediakan layanan perbankan. Perbedaan ini penting, dan saya akan jelaskan alasannya sepanjang ulasan ini.
 
-## Chime at a Glance
+## Chime Sekilas
 
-| Feature | Details |
+| Fitur | Detail |
 |---|---|
-| Monthly fees | $0 |
-| Minimum balance | $0 |
-| Savings APY | 2.00% |
-| Early direct deposit | Up to 2 days early |
-| ATM network | 60,000+ fee-free (Allpoint + MoneyPass) |
-| Overdraft protection | SpotMe up to $200 |
-| FDIC insured | Yes (through partner banks) |
-| Mobile app rating | 4.8/5 (App Store), 4.6/5 (Google Play) |
-| Credit builder card | Yes, no credit check |
+| Biaya bulanan | Rp 0 |
+| Saldo minimum | Rp 0 |
+| Bunga tabungan | 2,00% |
+| Direct deposit lebih cepat | Hingga 2 hari lebih awal |
+| Jaringan ATM | 60.000+ bebas biaya (Allpoint + MoneyPass) |
+| Proteksi overdraft | SpotMe hingga Rp 3 juta |
+| Diasuransikan LPS | Ya (melalui bank mitra) |
+| Rating aplikasi mobile | 4,8/5 (App Store), 4,6/5 (Google Play) |
+| Kartu pembangun kredit | Ya, tanpa cek kredit |
 
-## Chime Checking Account (Spending Account)
+## Rekening Chime (Spending Account)
 
-Chime calls its checking account the "Spending Account," which is a little confusing at first but works the same way as any checking account.
+Chime menyebut rekening tabungannya sebagai "Spending Account", yang awalnya agak membingungkan, tapi fungsinya sama seperti rekening tabungan harian biasa.
 
-### What You Get
+### Yang Kamu Dapat
 
-- **No monthly fees, ever**: There is no minimum balance requirement, no direct deposit requirement to waive fees, and no maintenance charges. It is genuinely free.
-- **Visa debit card**: You get a Chime Visa debit card that works everywhere Visa is accepted.
-- **Early direct deposit**: If your employer sends the payment file early (most do), Chime can make funds available up to two days before your official payday. I consistently get paid on Wednesday instead of Friday.
-- **Fee-free ATM access**: Over 60,000 ATMs in the Allpoint and MoneyPass networks are free. Out-of-network ATMs charge $2.50 from Chime plus whatever the ATM operator charges.
-- **Instant notifications**: Every swipe, every deposit, every transfer triggers a push notification. I find this incredibly useful for catching unauthorized transactions quickly.
+- **Tanpa biaya bulanan, selamanya**: Tidak ada syarat saldo minimum, tidak ada syarat direct deposit untuk menghapus biaya, dan tidak ada biaya pemeliharaan. Benar-benar gratis.
+- **Kartu debit Visa**: Kamu dapat kartu debit Visa Chime yang bisa dipakai di mana saja Visa diterima.
+- **Direct deposit lebih cepat**: Kalau perusahaanmu mengirim file pembayaran lebih awal (dan kebanyakan memang begitu), Chime bisa membuat dana tersedia hingga dua hari sebelum tanggal gajian resmi. Saya konsisten menerima gaji hari Rabu, bukan Jumat.
+- **Akses ATM bebas biaya**: Lebih dari 60.000 ATM dalam jaringan Allpoint dan MoneyPass gratis digunakan. Kalau pakai ATM di luar jaringan, ada biaya Rp 38 ribu dari Chime plus biaya dari operator ATM.
+- **Notifikasi instan**: Setiap transaksi, setoran, dan transfer memunculkan notifikasi push. Menurut saya ini sangat berguna untuk cepat mendeteksi transaksi tidak sah.
 
-### Checking Account Limitations
+### Keterbatasan Rekening
 
-- **No paper checks**: Chime does not offer traditional checkbooks. If you need to send a check, you can use Chime's "Checkbook" feature in the app, which mails a check on your behalf. It is slow and limited.
-- **No wire transfers**: You cannot send or receive wire transfers. This is a dealbreaker for certain financial transactions like closing on a house.
-- **No joint accounts**: As of 2026, Chime still does not support joint accounts. If you share finances with a partner, this is a significant gap.
-- **Deposit limits**: Mobile check deposits are capped, and cash deposits through retail partners have fees.
+- **Tidak ada cek kertas**: Chime tidak menyediakan buku cek tradisional. Kalau kamu perlu mengirim cek, kamu bisa memakai fitur "Checkbook" di aplikasi, yang akan mengirim cek atas nama kamu. Tapi prosesnya lambat dan terbatas.
+- **Tidak ada transfer antarbank real-time/wire transfer**: Kamu tidak bisa mengirim atau menerima wire transfer. Ini bisa jadi penghambat untuk transaksi tertentu seperti penutupan pembelian rumah.
+- **Tidak ada rekening bersama**: Sampai 2026, Chime masih belum mendukung rekening bersama. Kalau kamu mengatur keuangan dengan pasangan, ini kekurangan yang cukup besar.
+- **Batas setoran**: Setoran cek lewat aplikasi dibatasi, dan setoran tunai lewat mitra ritel dikenakan biaya.
 
-## Chime Savings Account
+## Rekening Tabungan Chime
 
-Chime's savings account is straightforward. It pays 2.00% APY, which is decent but nowhere near the top of the market. Ally, [SoFi](/blog/sofi-review-interest-rates-and-features/), and Marcus all pay significantly more.
+Rekening tabungan Chime cukup sederhana. Bunganya 2,00% per tahun, lumayan, tapi jauh dari yang terbaik di pasar. BCA, [SoFi](/blog/sofi-review-interest-rates-and-features/), dan Marcus semuanya menawarkan bunga yang jauh lebih tinggi.
 
-### Automatic Savings Features
+### Fitur Tabungan Otomatis
 
-Where Chime's savings account shines is in its automation:
+Kekuatan utama tabungan Chime ada di otomatisasinya:
 
-- **Round Ups**: Every debit card purchase is rounded up to the nearest dollar, and the difference is transferred to your savings account. Buy a coffee for $4.75, and Chime moves $0.25 to savings.
-- **Save When I Get Paid**: You can automatically transfer a percentage of every paycheck to savings. I set mine to 10%, and it happens without me thinking about it.
-- **No minimum balance**: You can start with zero and withdraw anytime without penalty.
+- **Round Ups**: Setiap pembelian dengan kartu debit dibulatkan ke dolar terdekat, lalu selisihnya dipindahkan ke rekening tabungan. Beli kopi Rp 75 ribu, lalu Chime memindahkan Rp 4 ribu ke tabungan.
+- **Save When I Get Paid**: Kamu bisa otomatis mentransfer persentase tertentu dari setiap gaji ke tabungan. Saya set 10%, dan semuanya berjalan tanpa saya perlu mikir.
+- **Tanpa saldo minimum**: Kamu bisa mulai dari nol dan tarik dana kapan saja tanpa penalti.
 
-### Why the APY Disappoints
+### Kenapa Bunganya Kurang Menarik
 
-At 2.00% APY, Chime's savings account is not competitive in 2026. [High-yield savings](/blog/best-high-yield-savings-accounts-2026/) accounts at other online banks are paying over 4%. If you keep significant savings at Chime, you are leaving money on the table. My approach is to use Chime for daily spending and [automatic savings](/blog/10-automatic-savings-tips-and-tricks/), then sweep larger balances to a higher-yield account.
+Dengan bunga 2,00% per tahun, rekening tabungan Chime kurang kompetitif di 2026. Rekening [tabungan berbunga tinggi](/blog/best-high-yield-savings-accounts-2026/) di bank online lain menawarkan bunga di atas 4%. Kalau kamu menyimpan dana besar di Chime, kamu sedang melewatkan potensi keuntungan. Pendekatan saya: pakai Chime untuk pengeluaran harian dan [tabungan otomatis](/blog/10-automatic-savings-tips-and-tricks/), lalu pindahkan saldo yang lebih besar ke rekening dengan bunga lebih tinggi.
 
-## SpotMe Overdraft Protection
+## Proteksi Overdraft SpotMe
 
-SpotMe is one of Chime's most popular features, and I think it is genuinely useful.
+SpotMe adalah salah satu fitur paling populer dari Chime, dan menurut saya memang sangat berguna.
 
-### How SpotMe Works
+### Cara Kerja SpotMe
 
-- **No overdraft fees**: If you overdraw your account by up to $200, Chime covers it without charging a fee. Traditional banks charge $35 per overdraft.
-- **Qualification**: You need to receive at least $200 in qualifying direct deposits per month.
-- **Starting limit**: New users start with a $20 SpotMe limit. It increases over time based on your deposit history and account activity. Mine went up to $200 after about six months.
-- **Applies to debit card purchases**: SpotMe works on debit card purchases, ATM withdrawals, and certain bill payments.
+- **Tanpa biaya overdraft**: Kalau saldo kamu minus sampai Rp 3 juta, Chime akan menutupnya tanpa mengenakan biaya. Bank tradisional biasanya mengenakan biaya sekitar Rp 500 ribu per overdraft.
+- **Syarat kelayakan**: Kamu perlu menerima minimal Rp 3 juta dalam direct deposit yang memenuhi syarat setiap bulan.
+- **Limit awal**: Pengguna baru mulai dengan limit SpotMe Rp 300 ribu. Limit ini naik seiring waktu berdasarkan riwayat setoran dan aktivitas akun. Limit saya naik ke Rp 3 juta setelah sekitar enam bulan.
+- **Berlaku untuk pembelian kartu debit**: SpotMe bisa dipakai untuk pembelian dengan kartu debit, tarik tunai di ATM, dan pembayaran tagihan tertentu.
 
-### SpotMe Limitations
+### Keterbatasan SpotMe
 
-- **Does not cover all transactions**: ACH transfers, pay-anyone transfers, and Chime Checkbook payments are not covered by SpotMe.
-- **Tipping is encouraged**: After Chime covers an overdraft, the app suggests you leave a tip. It is optional, but the prompts can feel pushy.
-- **Limit varies**: Chime decides your SpotMe limit using an algorithm, and it can go down as well as up. There is no guarantee you will always have $200 in coverage.
+- **Tidak menutup semua transaksi**: Transfer ACH, transfer ke orang lain, dan pembayaran lewat Chime Checkbook tidak ditanggung SpotMe.
+- **Tips dianjurkan**: Setelah Chime menutup overdraft, aplikasi akan menyarankan kamu memberi tip. Opsional, tapi tampilannya bisa terasa agak memaksa.
+- **Limit bisa berubah**: Chime menentukan limit SpotMe lewat algoritma, dan limit itu bisa naik maupun turun. Jadi tidak ada jaminan kamu akan selalu punya perlindungan Rp 3 juta.
 
-## Chime Credit Builder Card
+## Kartu Chime Credit Builder
 
-This is a clever product that helps people build or rebuild credit without a hard credit check or interest charges.
+Ini produk yang cerdas untuk membantu orang membangun atau memperbaiki riwayat kredit tanpa cek kredit keras atau bunga.
 
-### How It Works
+### Cara Kerjanya
 
-- **Secured card**: You load money onto the Credit Builder card from your Chime checking account, and that becomes your spending limit.
-- **No interest charges**: Because you are spending your own money, there is no interest.
-- **No credit check**: Opening the card does not require a hard inquiry on your credit report.
-- **Reports to all three bureaus**: Chime reports your payment history to Equifax, Experian, and TransUnion, which helps build your credit score over time.
-- **Automatic payments**: At the end of each billing cycle, Chime automatically pays off your balance using the funds you loaded, so you never miss a payment.
+- **Kartu secured**: Kamu mengisi dana ke kartu Credit Builder dari rekening Chime, dan dana itu jadi batas belanja kamu.
+- **Tanpa bunga**: Karena kamu memakai uang sendiri, tidak ada bunga.
+- **Tanpa cek kredit**: Membuka kartu ini tidak memerlukan hard inquiry di laporan kredit kamu.
+- **Dilaporkan ke tiga biro**: Chime melaporkan riwayat pembayaran kamu ke Equifax, Experian, dan TransUnion, yang membantu membangun skor kredit dari waktu ke waktu.
+- **Pembayaran otomatis**: Di akhir setiap siklus tagihan, Chime otomatis melunasi saldo memakai dana yang sudah kamu isi, jadi kamu tidak pernah telat bayar.
 
-### Credit Builder Results
+### Hasil Credit Builder
 
-I have seen multiple people raise their credit score by 30 to 50 points within six months of consistent use. It is not a magic bullet, but for people starting with no credit or recovering from past mistakes, it is a solid tool.
+Saya melihat beberapa orang menaikkan skor kredit mereka 30 sampai 50 poin dalam waktu enam bulan dengan penggunaan yang konsisten. Ini bukan solusi ajaib, tapi untuk orang yang belum punya kredit atau sedang bangkit dari kesalahan finansial, ini alat yang solid.
 
-## Chime Mobile App
+## Aplikasi Mobile Chime
 
-The app is where you do everything with Chime, and fortunately, it is one of the best banking apps I have used.
+Semua aktivitas Chime dilakukan lewat aplikasi, dan untungnya ini salah satu aplikasi perbankan terbaik yang pernah saya pakai.
 
-### What Works Well
+### Yang Berjalan Baik
 
-- **Clean interface**: The dashboard shows your checking and savings balances, recent transactions, and quick actions without clutter.
-- **Fast transfers**: Moving money between checking and savings is instant. Transfers to external bank accounts take one to three business days.
-- **Pay Anyone**: You can send money to anyone using their phone number, email, or $Chimetag. If they also use Chime, the transfer is instant.
-- **Direct deposit info**: Your account and routing numbers are easy to find, which makes setting up direct deposit simple.
-- **Card controls**: You can instantly lock and unlock your debit card from the app, set transaction alerts, and block specific transaction types.
+- **Tampilan bersih**: Dashboard menampilkan saldo rekening, saldo tabungan, transaksi terbaru, dan aksi cepat tanpa berantakan.
+- **Transfer cepat**: Pindah uang antara rekening utama dan tabungan berlangsung instan. Transfer ke rekening bank eksternal butuh satu sampai tiga hari kerja.
+- **Pay Anyone**: Kamu bisa kirim uang ke siapa saja lewat nomor telepon, email, atau $Chimetag. Kalau mereka juga pakai Chime, transfernya instan.
+- **Info direct deposit**: Nomor rekening dan routing number mudah ditemukan, jadi set up direct deposit jadi simpel.
+- **Kontrol kartu**: Kamu bisa langsung mengunci dan membuka kartu debit dari aplikasi, mengatur notifikasi transaksi, dan memblokir jenis transaksi tertentu.
 
-### What Could Improve
+### Yang Bisa Ditingkatkan
 
-- **No budgeting tools**: Chime does not offer spending categories, budgets, or financial planning features. You will need a separate app like YNAB or Mint for that.
-- **Limited transaction history**: The search and filtering options for past transactions are basic compared to traditional banking apps.
-- **Customer support via app only**: You can only reach support through the app's chat feature or by phone. There is no in-app messaging queue or callback option.
+- **Tidak ada alat budgeting**: Chime tidak menyediakan kategori pengeluaran, anggaran, atau fitur perencanaan keuangan. Kamu perlu aplikasi terpisah seperti YNAB atau Mint untuk itu.
+- **Riwayat transaksi terbatas**: Opsi pencarian dan filter transaksi lama masih dasar dibanding aplikasi perbankan tradisional.
+- **Layanan pelanggan hanya lewat aplikasi**: Kamu hanya bisa menghubungi support lewat chat di aplikasi atau telepon. Tidak ada antrean pesan dalam aplikasi atau opsi callback.
 
-## Cash Deposits and Mobile Check Deposits
+## Setoran Tunai dan Setoran Cek Lewat Aplikasi
 
-### Cash Deposits
+### Setoran Tunai
 
-Chime partners with retailers like Walgreens, CVS, Dollar General, and 7-Eleven for cash deposits. The process works, but there are catches:
+Chime bekerja sama dengan ritel seperti Walgreens, CVS, Dollar General, dan 7-Eleven untuk setoran tunai. Prosesnya berjalan, tapi ada beberapa catatan:
 
-- **Fees apply**: Most retailers charge $3.50 to $4.95 per deposit.
-- **Daily limit**: $1,000 per day.
-- **Monthly limit**: $10,000 per month.
+- **Ada biaya**: Kebanyakan ritel mengenakan biaya Rp 50 ribu sampai Rp 75 ribu per setoran.
+- **Limit harian**: Rp 15 juta per hari.
+- **Limit bulanan**: Rp 150 juta per bulan.
 
-### Mobile Check Deposits
+### Setoran Cek Lewat Aplikasi
 
-You can deposit checks through the Chime app, but limits are tight for new accounts:
+Kamu bisa setor cek lewat aplikasi Chime, tapi limitnya cukup ketat untuk akun baru:
 
-- **New accounts**: $2,000 per deposit, $5,000 per month.
-- **Established accounts**: Limits increase over time but are still lower than most traditional banks.
-- **Processing time**: Funds may take up to five business days to become available, which is slower than competitors.
+- **Akun baru**: Rp 30 juta per setoran, Rp 75 juta per bulan.
+- **Akun lama**: Limit naik seiring waktu, tapi tetap lebih rendah dibanding kebanyakan bank tradisional.
+- **Waktu proses**: Dana bisa butuh sampai lima hari kerja untuk tersedia, lebih lambat dari kompetitor.
 
-## Chime Customer Service
+## Layanan Pelanggan Chime
 
-This is where Chime gets the most criticism, and some of it is deserved.
+Di bagian ini Chime paling sering dikritik, dan sebagian kritik itu memang layak.
 
-### The Good
+### Yang Bagus
 
-- **24/7 availability**: You can reach support by phone or in-app chat anytime.
-- **Automated features work well**: Most common tasks like card replacements, dispute filings, and balance inquiries can be handled without talking to a person.
+- **Tersedia 24/7**: Kamu bisa menghubungi support lewat telepon atau chat di aplikasi kapan saja.
+- **Fitur otomatisnya bagus**: Banyak tugas umum seperti penggantian kartu, pengajuan sengketa, dan cek saldo bisa diselesaikan tanpa bicara dengan staf.
 
-### The Bad
+### Yang Buruk
 
-- **Long wait times**: During peak hours, phone wait times can exceed 30 minutes. Chat support is often faster but responses can be slow.
-- **Limited resolution authority**: Front-line agents sometimes cannot resolve complex issues and need to escalate, which adds days to the process.
-- **Account lockouts**: I have read numerous reports of Chime locking accounts for suspected fraud with little explanation and slow resolution times. This has not happened to me personally, but it is a real concern.
+- **Waktu tunggu lama**: Saat jam sibuk, waktu tunggu telepon bisa lebih dari 30 menit. Support chat sering lebih cepat, tapi responsnya bisa lambat.
+- **Kewenangan penyelesaian terbatas**: Agen lini depan kadang tidak bisa menyelesaikan masalah kompleks dan harus eskalasi, yang membuat proses tambah berhari-hari.
+- **Akun terkunci**: Saya membaca banyak laporan tentang akun Chime yang diblokir karena dugaan penipuan dengan penjelasan minim dan proses penyelesaian yang lambat. Ini tidak pernah terjadi pada saya, tapi tetap jadi kekhawatiran nyata.
 
-## Who Should Use Chime?
+## Siapa yang Cocok Pakai Chime?
 
-Chime is a great fit for:
+Chime cocok untuk:
 
-- **People who want zero-fee banking**: If you are tired of paying $12 per month just to have a checking account, Chime eliminates that entirely.
-- **Early paycheck access**: The two-day early direct deposit is legitimate and works consistently.
-- **Credit builders**: The Credit Builder card is one of the best no-fee secured cards available.
-- **Simple banking needs**: If you just need a place to receive your paycheck, pay bills, and save a little, Chime handles that well.
+- **Orang yang ingin banking tanpa biaya**: Kalau kamu bosan bayar Rp 180 ribu per bulan hanya untuk punya rekening, Chime menghapus biaya itu sepenuhnya.
+- **Akses gaji lebih cepat**: Direct deposit dua hari lebih cepat memang nyata dan konsisten.
+- **Pembangun kredit**: Kartu Credit Builder adalah salah satu kartu secured tanpa biaya terbaik yang tersedia.
+- **Kebutuhan perbankan sederhana**: Kalau kamu hanya butuh tempat menerima gaji, bayar tagihan, dan menabung sedikit, Chime bisa menangani itu dengan baik.
 
-Chime is probably not right if:
+Chime mungkin bukan pilihan tepat kalau:
 
-- **You need high-yield savings**: At 2.00% APY, your savings earn significantly less than competing online banks.
-- **You need wire transfers or joint accounts**: These are basic features Chime still does not offer.
-- **You keep large balances**: There is no benefit to keeping a lot of money in Chime. Move excess savings to a higher-yield account.
-- **You rely on customer service**: If you anticipate needing hands-on support, Chime's service is inconsistent.
+- **Kamu butuh tabungan berbunga tinggi**: Dengan bunga 2,00% per tahun, tabungan kamu menghasilkan jauh lebih sedikit dibanding bank online pesaing.
+- **Kamu butuh wire transfer atau rekening bersama**: Ini fitur dasar yang masih belum disediakan Chime.
+- **Kamu menyimpan saldo besar**: Tidak ada keuntungan menyimpan banyak uang di Chime. Pindahkan kelebihan dana ke rekening dengan bunga lebih tinggi.
+- **Kamu sangat bergantung pada layanan pelanggan**: Kalau kamu memperkirakan akan butuh bantuan intensif, layanan Chime bisa terasa tidak konsisten.
 
-## Chime vs Other Neobanks
+## Chime vs Neobank Lain
 
-| Feature | Chime | Ally Bank | SoFi | Varo |
+| Fitur | Chime | BCA | SoFi | Jago |
 |---|---|---|---|---|
-| Checking fees | $0 | $0 | $0 | $0 |
-| Savings APY | 2.00% | 4.25% | 4.00%+ | 3.00%+ |
-| Early direct deposit | Yes (2 days) | No | Yes (2 days) | Yes (2 days) |
-| Overdraft protection | SpotMe $200 | $100 buffer | $50 | $0 |
-| Credit builder | Yes | No | No | Yes |
-| ATM network | 60,000+ | 43,000+ | 55,000+ | 55,000+ |
-| Wire transfers | No | Yes | Yes | No |
-| Joint accounts | No | Yes | No | No |
+| Biaya rekening | Rp 0 | Rp 0 | Rp 0 | Rp 0 |
+| Bunga tabungan | 2,00% | 4,25% | 4,00%+ | 3,00%+ |
+| Direct deposit lebih cepat | Ya (2 hari) | Tidak | Ya (2 hari) | Ya (2 hari) |
+| Proteksi overdraft | SpotMe Rp 3 juta | Buffer Rp 1,5 juta | Rp 750 ribu | Rp 0 |
+| Kartu pembangun kredit | Ya | Tidak | Tidak | Ya |
+| Jaringan ATM | 60.000+ | 43.000+ | 55.000+ | 55.000+ |
+| Wire transfer | Tidak | Ya | Ya | Tidak |
+| Rekening bersama | Tidak | Ya | Tidak | Tidak |
 
-## The Bottom Line
+## Kesimpulan
 
-Chime is an excellent checking account for people who want simplicity, zero fees, and early paycheck access. The SpotMe overdraft feature and Credit Builder card add genuine value that most competitors do not match.
+Chime adalah rekening yang sangat bagus untuk orang yang menginginkan kesederhanaan, tanpa biaya, dan akses gaji lebih cepat. Fitur SpotMe dan kartu Credit Builder benar-benar menambah nilai yang tidak dimiliki banyak kompetitor.
 
-But Chime is not a complete banking solution. The low savings rate, lack of wire transfers, no [joint accounts](/blog/how-to-manage-money-as-a-couple/), and inconsistent customer service mean you will likely need a second bank for certain needs.
+Tapi Chime bukan solusi perbankan yang lengkap. Bunga tabungan yang rendah, tidak adanya wire transfer, tidak ada [rekening bersama](/blog/how-to-manage-money-as-a-couple/), dan layanan pelanggan yang tidak selalu konsisten berarti kamu kemungkinan tetap butuh bank kedua untuk kebutuhan tertentu.
 
-My recommendation: use Chime for your daily spending and paycheck, but keep your serious savings at a high-yield account like Ally or SoFi. That combination gives you the best of both worlds.
+Rekomendasi saya: pakai Chime untuk pengeluaran harian dan gaji, tapi simpan tabungan serius kamu di rekening berbunga tinggi seperti BCA atau SoFi. Kombinasi itu memberi kamu yang terbaik dari dua dunia.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is Chime a real bank?
+### Apakah Chime benar-benar bank?
 
-Chime is not a bank. It is a financial technology company that provides banking services through its partner banks: Bancorp Bank, N.A., and Stride Bank, N.A. Your deposits are FDIC insured through these partner banks up to $250,000, so your money is protected the same way it would be at a traditional bank.
+Chime bukan bank. Chime adalah perusahaan teknologi finansial yang menyediakan layanan perbankan melalui bank mitranya: Bancorp Bank, N.A. dan Stride Bank, N.A. Dana kamu diasuransikan LPS melalui bank mitra ini hingga Rp 3,8 miliar, jadi uangmu terlindungi seperti di bank tradisional.
 
-### How does Chime early direct deposit work?
+### Bagaimana cara kerja direct deposit lebih cepat di Chime?
 
-When your employer sends the payment file to the bank (usually one to two days before payday), Chime makes the funds available immediately rather than holding them until the scheduled pay date. This means you can access your paycheck up to two days early. It works with most employers, but the exact timing depends on when your employer submits the payment file.
+Saat perusahaanmu mengirim file pembayaran ke bank (biasanya satu sampai dua hari sebelum gajian), Chime langsung membuat dana tersedia, bukan menahannya sampai tanggal gajian resmi. Artinya kamu bisa mengakses gaji hingga dua hari lebih awal. Ini bekerja untuk sebagian besar perusahaan, tapi waktunya tetap tergantung kapan perusahaan mengirim file pembayaran.
 
-### Can Chime lock your account?
+### Apakah Chime bisa mengunci akun kamu?
 
-Yes, and this is a common complaint. Chime may lock your account if their fraud detection system flags suspicious activity. While this is meant to protect you, the resolution process can be slow and frustrating. To minimize this risk, avoid receiving large irregular deposits, keep your contact information updated, and respond quickly to any verification requests.
+Ya, dan ini keluhan yang cukup umum. Chime bisa mengunci akun kalau sistem deteksi penipuan mereka menandai aktivitas mencurigakan. Walaupun tujuannya untuk melindungi kamu, proses penyelesaiannya bisa lambat dan bikin frustrasi. Untuk mengurangi risikonya, hindari menerima setoran besar yang tidak rutin, pastikan info kontak selalu terbaru, dan cepat tanggapi permintaan verifikasi.
 
-### Does Chime affect your credit score?
+### Apakah Chime memengaruhi skor kredit?
 
-Opening a Chime checking or savings account does not affect your credit score. However, the Chime Credit Builder card reports your payment activity to all three major credit bureaus, which can help improve your score over time. Since the card uses your own deposited funds and pays automatically, it is a low-risk way to build credit.
+Membuka rekening tabungan atau rekening utama Chime tidak memengaruhi skor kredit kamu. Namun, kartu Chime Credit Builder melaporkan aktivitas pembayaran kamu ke tiga biro kredit utama, yang bisa membantu meningkatkan skor dari waktu ke waktu. Karena kartu ini memakai dana yang kamu setorkan sendiri dan pembayarannya otomatis, ini cara berisiko rendah untuk membangun kredit.
 
-### What happens if you overdraw your Chime account?
+### Apa yang terjadi kalau saldo akun Chime kamu minus?
 
-If you have SpotMe enabled and qualify, Chime will cover debit card purchases and ATM withdrawals up to your SpotMe limit (up to $200) without charging a fee. You repay the negative balance with your next direct deposit. If you do not have SpotMe or exceed your limit, Chime will simply decline the transaction rather than charging an overdraft fee.
+Kalau SpotMe aktif dan kamu memenuhi syarat, Chime akan menutup pembelian dengan kartu debit dan tarik tunai di ATM sampai limit SpotMe kamu (hingga Rp 3 juta) tanpa biaya. Kamu akan melunasi saldo negatif itu lewat direct deposit berikutnya. Kalau kamu tidak punya SpotMe atau melebihi limit, Chime biasanya hanya menolak transaksi, bukan mengenakan biaya overdraft.

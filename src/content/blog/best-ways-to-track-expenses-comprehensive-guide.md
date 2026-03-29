@@ -1,6 +1,6 @@
 ---
 title: "5 Aplikasi Catat Pengeluaran Terbaik 2026"
-description: "Orang Amerika membuang Rp 23 juta+ per tahun karena pengeluaran tak terlacak. 5 app ini membantu kamu tahu ke mana uang pergi."
+description: "Orang Amerika membuang Rp 23 juta+ per tahun karena pengeluaran tak terlacak. 5 app ini bantu kamu tahu ke mana uang pergi."
 pubDate: 2026-02-11
 category: "personal-finance"
 tags: ["expense tracking", "budget apps", "Mint", "YNAB", "Copilot", "money management"]

@@ -1,6 +1,6 @@
 ---
-title: "NYC vs LA vs Austin: Cost of Living Compared [2026]"
-description: "NYC rent eats 40% of your salary while Austin costs half as much. Real cost breakdown across 3 cities—housing, food, transport, and taxes."
+title: "NYC vs LA vs Austin: Biaya Hidup 2026"
+description: "Sewa di NYC bisa makan 40% gaji, sementara Austin jauh lebih murah. Ini rincian biaya nyata: rumah, makan, transportasi, dan pajak."
 pubDate: 2026-03-19
 category: "personal-finance"
 tags: ["cost of living", "NYC vs LA", "Austin cost of living", "city comparison", "relocation"]
@@ -10,246 +10,246 @@ heroImageAlt: 'NYC vs LA vs Austin: Cost of Living Compared [2026]'
 
 ---
 
-## Three Cities, Three Very Different Price Tags
+## Tiga Kota, Tiga Harga Hidup yang Sangat Berbeda
 
-Choosing where to live in America is one of the biggest financial decisions you will ever make. The difference between a high-cost city and a moderate-cost city can mean tens of thousands of dollars per year — money that could go toward savings, investing, or simply living without [financial stress](/blog/how-to-deal-with-financial-stress-and-anxiety/).
+Memilih tempat tinggal di Amerika adalah salah satu keputusan finansial terbesar yang bisa kamu ambil. Selisih antara kota berbiaya tinggi dan kota dengan biaya hidup menengah bisa berarti puluhan ribu dolar per tahun — uang yang bisa dipakai untuk menabung, investasi, atau sekadar hidup tanpa [stres finansial](/blog/how-to-deal-with-financial-stress-and-anxiety/).
 
-I have dug into the real numbers for three cities that represent different tiers of the US cost-of-living spectrum: New York City (the expensive benchmark), Los Angeles (high-cost but different from NYC), and Austin, Texas (the fast-growing Sun Belt alternative).
+Saya sudah membedah angka-angka nyata untuk tiga kota yang mewakili level berbeda dalam spektrum biaya hidup di AS: New York City (patokan kota mahal), Los Angeles (mahal tapi berbeda dari NYC), dan Austin, Texas (alternatif yang tumbuh cepat di wilayah Sun Belt).
 
-If you are considering a move, negotiating a remote salary, or just curious about how your city stacks up, this comparison gives you the real picture.
+Kalau kamu sedang mempertimbangkan pindah, menegosiasikan gaji remote, atau sekadar penasaran kota mana yang paling “masuk akal”, perbandingan ini akan memberi gambaran yang lebih nyata.
 
-## The Quick Comparison
+## Perbandingan Singkat
 
-Here is the high-level overview before we dig into details:
+Ini gambaran besarnya dulu sebelum kita masuk ke detail:
 
-| Category | New York City | Los Angeles | Austin, TX |
+| Kategori | New York City | Los Angeles | Austin, TX |
 |----------|--------------|-------------|------------|
-| 1BR apartment (city center) | $3,200-$4,000/mo | $2,200-$2,800/mo | $1,500-$1,900/mo |
-| 2BR apartment (city center) | $4,500-$6,000/mo | $3,000-$4,000/mo | $2,000-$2,600/mo |
-| Groceries (monthly, 1 person) | $500-$650 | $400-$550 | $350-$450 |
-| Dining out (meal for 2) | $80-$120 | $60-$90 | $50-$70 |
-| Monthly transit pass | $132 | $100 (Metro) | $41.25 (Cap Metro) |
-| State income tax | 4-10.9% | 1-13.3% | 0% |
-| Overall cost index (US avg = 100) | 187 | 166 | 110 |
+| Apartemen 1BR (pusat kota) | Rp 48-60 juta/bln | Rp 33-42 juta/bln | Rp 23-29 juta/bln |
+| Apartemen 2BR (pusat kota) | Rp 68-90 juta/bln | Rp 45-60 juta/bln | Rp 30-39 juta/bln |
+| Belanja bulanan (1 orang) | Rp 7,5-9,8 juta | Rp 6-8,3 juta | Rp 5,2-6,8 juta |
+| Makan di luar (makan untuk 2) | Rp 1,2-1,8 juta | Rp 900 ribu-1,4 juta | Rp 750 ribu-1,1 juta |
+| Kartu transportasi bulanan | Rp 2 juta | Rp 1,5 juta (Metro) | Rp 620 ribu (Cap Metro) |
+| Pajak penghasilan negara bagian | 4-10,9% | 1-13,3% | 0% |
+| Indeks biaya hidup keseluruhan (rata-rata AS = 100) | 187 | 166 | 110 |
 
-Austin is the clear winner on cost. But cost is not the whole story — let me break down each category.
+Austin jelas paling unggul dari sisi biaya. Tapi biaya bukan satu-satunya cerita — saya akan bedah tiap kategori.
 
-## Housing: Where Most of Your Money Goes
+## Hunian: Tempat Sebagian Besar Uangmu Habis
 
 ### New York City
 
-Housing in NYC is legendary for its expense. The median one-bedroom in Manhattan runs $3,500-$4,200 per month. Brooklyn is somewhat cheaper at $2,800-$3,400. Queens and the Bronx offer relative deals at $1,800-$2,500.
+Biaya hunian di NYC memang legendaris mahalnya. Median apartemen satu kamar di Manhattan berada di kisaran Rp 53-64 juta per bulan. Brooklyn sedikit lebih murah di Rp 42-51 juta. Queens dan Bronx menawarkan harga yang relatif lebih “masuk akal” di Rp 27-38 juta.
 
-Key NYC housing realities:
+Realitas hunian di NYC:
 
-- **Broker fees**: Many NYC rentals charge 12-15% of annual rent as a broker fee. On a $3,000/month apartment, that is $4,320 upfront.
-- **Tiny spaces**: Your $3,000/month apartment might be 500 square feet
-- **Buying is nearly impossible**: The median home price in Manhattan is over $1 million. Even in Brooklyn, you are looking at $700,000+ for a small condo.
-- **Utilities**: Heat is often included in rent for older buildings, but electricity runs $100-$200/month
+- **Biaya broker**: Banyak sewa di NYC mengenakan biaya broker 12-15% dari total sewa tahunan. Untuk apartemen Rp 45 juta/bulan, kamu bisa kena biaya awal sekitar Rp 65 juta.
+- **Ruangan kecil**: Apartemen Rp 45 juta/bulan bisa saja cuma 46 meter persegi
+- **Beli rumah hampir mustahil**: Harga rumah median di Manhattan sudah di atas Rp 15 miliar. Bahkan di Brooklyn, kamu masih akan melihat condo kecil seharga Rp 10,5 miliar+
+- **Utilitas**: Pemanas sering sudah termasuk sewa untuk bangunan lama, tapi listrik bisa mencapai Rp 1,5-3 juta/bulan
 
 ### Los Angeles
 
-LA is expensive but offers more space for your money than NYC:
+LA mahal, tapi kamu biasanya dapat ruang lebih besar dibanding NYC:
 
-- **One-bedroom in popular areas** (Santa Monica, West Hollywood, Silver Lake): $2,200-$3,000/month
-- **One-bedroom in more affordable areas** (Van Nuys, Glendale, Long Beach): $1,500-$2,000/month
-- **Buying a home**: Median price is around $900,000, though inland areas are lower at $500,000-$700,000
-- **You need a car**: Unlike NYC, LA's sprawl means most people drive, adding $500-$800/month in car payment, insurance, and gas
+- **Satu kamar di area populer** (Santa Monica, West Hollywood, Silver Lake): Rp 33-45 juta/bulan
+- **Satu kamar di area lebih terjangkau** (Van Nuys, Glendale, Long Beach): Rp 23-30 juta/bulan
+- **Beli rumah**: Harga median sekitar Rp 13,5 miliar, meski area pedalaman bisa lebih rendah di Rp 7,5-10,5 miliar
+- **Kamu butuh mobil**: Tidak seperti NYC, wilayah LA yang menyebar membuat kebanyakan orang harus menyetir, menambah biaya Rp 7,5-12 juta/bulan untuk cicilan mobil, asuransi, dan bensin
 
 ### Austin, Texas
 
-Austin has gotten more expensive in recent years due to tech company migrations, but it remains significantly cheaper than NYC or LA:
+Austin memang jadi lebih mahal dalam beberapa tahun terakhir karena perpindahan perusahaan teknologi, tapi tetap jauh lebih murah daripada NYC atau LA:
 
-- **One-bedroom downtown**: $1,500-$1,900/month
-- **One-bedroom in suburbs** (Round Rock, Cedar Park, Pflugerville): $1,100-$1,500/month
-- **Buying a home**: Median price around $450,000 — expensive by Texas standards but affordable compared to coastal cities
-- **Space**: Your dollar gets 2-3 times more square footage than NYC
-- **Property taxes**: Texas has no state income tax but compensates with high property taxes (1.8-2.2% of home value)
+- **Satu kamar di pusat kota**: Rp 23-29 juta/bulan
+- **Satu kamar di pinggiran** (Round Rock, Cedar Park, Pflugerville): Rp 17-23 juta/bulan
+- **Beli rumah**: Harga median sekitar Rp 6,8 miliar — mahal menurut standar Texas, tapi masih jauh lebih terjangkau dibanding kota pantai
+- **Ruang**: Dengan uang yang sama, kamu bisa dapat 2-3 kali lebih banyak meter persegi dibanding NYC
+- **Pajak properti**: Texas tidak punya pajak penghasilan negara bagian, tapi menebusnya dengan pajak properti yang tinggi (1,8-2,2% dari nilai rumah)
 
-### Housing Cost Comparison Table
+### Tabel Perbandingan Biaya Hunian
 
-| Housing Metric | NYC | LA | Austin |
+| Metrik Hunian | NYC | LA | Austin |
 |---------------|-----|-----|--------|
-| Median 1BR rent (city) | $3,500 | $2,400 | $1,700 |
-| Median home price | $750,000+ | $900,000 | $450,000 |
-| Average utilities | $150-$250/mo | $120-$200/mo | $130-$220/mo |
-| Renter's insurance | $15-$25/mo | $15-$20/mo | $12-$18/mo |
+| Median sewa 1BR (kota) | Rp 53 juta | Rp 36 juta | Rp 25,5 juta |
+| Harga rumah median | Rp 11,3 miliar+ | Rp 13,5 miliar | Rp 6,8 miliar |
+| Utilitas rata-rata | Rp 2,3-3,8 juta/bln | Rp 1,8-3 juta/bln | Rp 2-3,3 juta/bln |
+| Asuransi penyewa | Rp 230-380 ribu/bln | Rp 230-300 ribu/bln | Rp 180-270 ribu/bln |
 
-## Food and Dining
+## Makanan dan Makan di Luar
 
-### Grocery Costs
+### Biaya Belanja Harian
 
-Grocery prices reflect the overall cost of living in each city:
+Harga bahan makanan mencerminkan biaya hidup keseluruhan di tiap kota:
 
 | Item | NYC | LA | Austin |
 |------|-----|-----|--------|
-| Gallon of milk | $5.50-$6.50 | $4.50-$5.50 | $3.50-$4.50 |
-| Dozen eggs | $4.50-$6.00 | $4.00-$5.50 | $3.00-$4.50 |
-| Chicken breast (lb) | $5.50-$7.00 | $4.50-$6.00 | $4.00-$5.00 |
-| Loaf of bread | $4.00-$5.50 | $3.50-$5.00 | $3.00-$4.00 |
-| Monthly total (1 person) | $500-$650 | $400-$550 | $350-$450 |
+| 1 galon susu | Rp 85-100 ribu | Rp 70-85 ribu | Rp 55-70 ribu |
+| 1 lusin telur | Rp 70-90 ribu | Rp 62-85 ribu | Rp 47-70 ribu |
+| Dada ayam (per lb) | Rp 85-110 ribu | Rp 70-95 ribu | Rp 62-78 ribu |
+| 1 roti tawar | Rp 62-85 ribu | Rp 55-78 ribu | Rp 47-62 ribu |
+| Total bulanan (1 orang) | Rp 7,5-9,8 juta | Rp 6-8,3 juta | Rp 5,2-6,8 juta |
 
-NYC [grocery costs](/blog/how-to-save-money-on-groceries/) are 30-40% higher than Austin largely due to real estate costs passed on to stores, [transportation costs](/blog/10-effective-ways-to-save-money-on-transportation/) for goods, and limited competition in dense neighborhoods.
+Biaya [belanja kebutuhan pokok](/blog/how-to-save-money-on-groceries/) di NYC 30-40% lebih tinggi daripada Austin, terutama karena biaya sewa toko yang diteruskan ke harga barang, [biaya transportasi](/blog/10-effective-ways-to-save-money-on-transportation/) barang, dan minimnya persaingan di lingkungan yang padat.
 
-### Dining Out
+### Makan di Luar
 
-All three cities have incredible food scenes, but the prices differ:
+Ketiga kota ini punya dunia kuliner yang luar biasa, tapi harganya berbeda jauh:
 
-- **NYC**: A casual dinner for two runs $80-$120. A nice restaurant is $150-$300+. Even a slice of pizza is $3.50-$5.00 now.
-- **LA**: Slightly cheaper at $60-$90 for a casual dinner for two. Taco trucks and casual spots offer amazing food for $8-$15 per person.
-- **Austin**: The most affordable dining scene of the three. A casual dinner for two costs $50-$70. BBQ plates run $15-$22. Food trucks are everywhere with $8-$12 meals.
+- **NYC**: Makan malam santai untuk dua orang bisa Rp 1,2-1,8 juta. Restoran bagus bisa Rp 2,3-4,5 juta+. Bahkan sepotong pizza sekarang bisa Rp 55-78 ribu.
+- **LA**: Sedikit lebih murah, sekitar Rp 900 ribu-1,4 juta untuk makan malam santai berdua. Truk taco dan tempat kasual menawarkan makanan enak seharga Rp 120-230 ribu per orang.
+- **Austin**: Paling terjangkau di antara ketiganya. Makan malam santai untuk dua orang sekitar Rp 750 ribu-1,1 juta. Porsi BBQ berkisar Rp 230-330 ribu. Food truck ada di mana-mana dengan makanan Rp 120-180 ribu.
 
-## Transportation
+## Transportasi
 
-### New York City: The Transit City
+### New York City: Kota Transportasi Umum
 
-NYC is the only US city where not owning a car is truly practical:
+NYC adalah satu-satunya kota di AS di mana tidak punya mobil benar-benar praktis:
 
-- **Monthly MetroCard**: $132 for unlimited rides
-- **Average car ownership cost**: Most New Yorkers do not own cars. Those who do pay $300-$600/month for garage parking alone, plus insurance ($200-$350/month), and the car itself.
-- **Rideshare (Uber/Lyft)**: Expect $15-$30 per ride within Manhattan, $30-$50 to airports
-- **Walking/biking**: Many neighborhoods are highly walkable. Citi Bike membership is $205/year.
+- **Kartu bulanan**: Rp 2 juta untuk perjalanan tak terbatas
+- **Biaya kepemilikan mobil rata-rata**: Kebanyakan warga NYC tidak punya mobil. Yang punya bisa bayar Rp 4,5-9 juta/bulan hanya untuk parkir garasi, plus asuransi (Rp 3-5,2 juta/bulan), dan mobilnya sendiri.
+- **Taksi online (Uber/Lyft)**: Siapkan Rp 230-460 ribu per perjalanan di Manhattan, Rp 460 ribu-770 ribu ke bandara
+- **Jalan kaki/sepeda**: Banyak lingkungan sangat ramah pejalan kaki. Keanggotaan Citi Bike sekitar Rp 3,1 juta/tahun.
 
-**Monthly transit cost**: $132-$200
+**Biaya transportasi bulanan**: Rp 2-3 juta
 
-### Los Angeles: Car Required
+### Los Angeles: Mobil Wajib
 
-LA without a car is extremely difficult:
+Tanpa mobil di LA itu sangat sulit:
 
-- **Car payment**: $400-$600/month (average)
-- **Gas**: $200-$300/month (LA gas prices are among the highest in the nation)
-- **Insurance**: $150-$250/month
-- **Parking**: $50-$200/month depending on your area
-- **Metro**: Exists but coverage is limited. A monthly pass is $100.
+- **Cicilan mobil**: Rp 6-9 juta/bulan (rata-rata)
+- **Bensin**: Rp 3-4,5 juta/bulan (harga bensin LA termasuk yang tertinggi di negara itu)
+- **Asuransi**: Rp 2,3-3,8 juta/bulan
+- **Parkir**: Rp 750 ribu-3 juta/bulan tergantung area
+- **Metro**: Ada, tapi cakupannya terbatas. Kartu bulanan sekitar Rp 1,5 juta.
 
-**Monthly transportation cost**: $800-$1,350 with a car
+**Biaya transportasi bulanan**: Rp 12-20 juta dengan mobil
 
-### Austin: Car Helpful but Cheaper
+### Austin: Mobil Masih Dibutuhkan, tapi Lebih Murah
 
-Austin is car-dependent but significantly cheaper to drive in:
+Austin masih sangat bergantung pada mobil, tapi biaya berkendaranya jauh lebih rendah:
 
-- **Car payment**: $400-$600/month (same as LA — cars cost the same everywhere)
-- **Gas**: $120-$180/month (Texas gas prices are lower than California)
-- **Insurance**: $100-$200/month (cheaper than LA or NYC)
-- **Parking**: Mostly free or cheap compared to other metros
-- **Cap Metro**: Monthly pass is $41.25
+- **Cicilan mobil**: Rp 6-9 juta/bulan (sama seperti LA — harga mobil memang mirip di mana-mana)
+- **Bensin**: Rp 1,8-2,7 juta/bulan (harga bensin di Texas lebih rendah daripada California)
+- **Asuransi**: Rp 1,5-3 juta/bulan (lebih murah daripada LA atau NYC)
+- **Parkir**: Kebanyakan gratis atau murah dibanding kota besar lain
+- **Cap Metro**: Kartu bulanan Rp 620 ribu
 
-**Monthly transportation cost**: $620-$980 with a car
+**Biaya transportasi bulanan**: Rp 9,3-14,7 juta dengan mobil
 
-### Transportation Cost Summary
+### Ringkasan Biaya Transportasi
 
-| Cost | NYC (no car) | LA (with car) | Austin (with car) |
+| Biaya | NYC (tanpa mobil) | LA (dengan mobil) | Austin (dengan mobil) |
 |------|-------------|---------------|-------------------|
-| Monthly total | $132-$200 | $800-$1,350 | $620-$980 |
-| Annual total | $1,584-$2,400 | $9,600-$16,200 | $7,440-$11,760 |
+| Total bulanan | Rp 2-3 juta | Rp 12-20 juta | Rp 9,3-14,7 juta |
+| Total tahunan | Rp 19-29 juta | Rp 144-243 juta | Rp 89-141 juta |
 
-NYC wins on transportation if you do not own a car. But when you add up housing + transportation together, Austin still comes out ahead.
+NYC menang di transportasi kalau kamu tidak punya mobil. Tapi kalau kamu gabungkan hunian + transportasi, Austin tetap lebih unggul.
 
-## Taxes: Austin's Secret Weapon
+## Pajak: Senjata Rahasia Austin
 
-This is where Austin pulls far ahead of both coastal cities.
+Di sinilah Austin jauh meninggalkan dua kota pantai itu.
 
-### State Income Tax Comparison
+### Perbandingan Pajak Penghasilan Negara Bagian
 
-| Income Level | NYC Total Tax | LA/CA Total Tax | Austin/TX Total Tax |
+| Level Pendapatan | Total Pajak NYC | Total Pajak LA/CA | Total Pajak Austin/TX |
 |-------------|--------------|-----------------|---------------------|
-| $75,000 | ~28% effective | ~26% effective | ~22% effective |
-| $100,000 | ~30% effective | ~28% effective | ~24% effective |
-| $150,000 | ~33% effective | ~31% effective | ~24% effective |
+| Rp 1,1 miliar/tahun | ~28% efektif | ~26% efektif | ~22% efektif |
+| Rp 1,5 miliar/tahun | ~30% efektif | ~28% efektif | ~24% efektif |
+| Rp 2,3 miliar/tahun | ~33% efektif | ~31% efektif | ~24% efektif |
 
-*Includes federal + state + local income taxes*
+*Termasuk pajak penghasilan federal + negara bagian + lokal*
 
-At $100,000 income:
-- **NYC**: You pay roughly $30,000 in total income taxes (federal + state + city)
-- **LA**: You pay roughly $28,000 (federal + state)
-- **Austin**: You pay roughly $24,000 (federal only — no state income tax)
+Pada penghasilan Rp 1,5 miliar:
+- **NYC**: Kamu bayar sekitar Rp 450 juta pajak penghasilan total (federal + negara bagian + kota)
+- **LA**: Kamu bayar sekitar Rp 420 juta (federal + negara bagian)
+- **Austin**: Kamu bayar sekitar Rp 360 juta (hanya federal — tanpa pajak penghasilan negara bagian)
 
-That $4,000-$6,000 annual tax savings in Austin is real money that goes directly into your pocket.
+Penghematan pajak Rp 60-90 juta per tahun di Austin itu nyata dan langsung masuk ke kantongmu.
 
-### The Texas Property Tax Catch
+### Jebakan Pajak Properti Texas
 
-Texas compensates for no state income tax with higher property taxes. If you own a $450,000 home in Austin, your annual property tax is roughly $8,100-$9,900 (1.8-2.2%). In California on a $900,000 home, it is about $9,000-$10,000 (1.0-1.1%). In NYC, it varies but effective rates on a $750,000 property are roughly $6,000-$8,000.
+Texas menutup ketiadaan pajak penghasilan negara bagian dengan pajak properti yang lebih tinggi. Kalau kamu punya rumah Rp 6,8 miliar di Austin, pajak properti tahunanmu sekitar Rp 122-150 juta (1,8-2,2%). Di California, untuk rumah Rp 13,5 miliar, pajaknya sekitar Rp 135-150 juta (1,0-1,1%). Di NYC, angkanya bervariasi, tapi tarif efektif untuk properti Rp 11,3 miliar kira-kira Rp 90-120 juta.
 
-For renters, the zero income tax in Texas is a pure win. For homeowners, you need to run the numbers.
+Untuk penyewa, nol pajak penghasilan di Texas adalah kemenangan bersih. Untuk pemilik rumah, kamu perlu menghitung angkanya dengan cermat.
 
-## Healthcare
+## Kesehatan
 
-Healthcare costs vary less by city than you might think, since most Americans get insurance through their employer. But some differences exist:
+Biaya kesehatan tidak berbeda sejauh yang kamu kira antar kota, karena sebagian besar orang Amerika mendapat asuransi dari kantor. Tapi tetap ada beberapa perbedaan:
 
-- **Average monthly premium (employer-sponsored)**: $150-$300/month for individual coverage in all three cities
-- **Out-of-pocket costs**: Slightly higher in NYC due to higher provider charges
-- **Uninsured costs**: All three states have ACA marketplace options, but California has its own exchange (Covered California) with more robust subsidies
+- **Premi bulanan rata-rata (dari kantor)**: Rp 2,3-4,5 juta/bulan untuk perlindungan individu di ketiga kota
+- **Biaya out-of-pocket**: Sedikit lebih tinggi di NYC karena tarif penyedia layanan lebih mahal
+- **Biaya tanpa asuransi**: Ketiga negara bagian punya opsi pasar asuransi ACA, tapi California punya bursa sendiri dengan subsidi yang lebih kuat
 
-## Salary Comparison: What You Need to Earn
+## Perbandingan Gaji: Berapa yang Kamu Butuhkan
 
-To maintain the same quality of life (renting a 1BR, eating out occasionally, saving 15%), here is what you would need to earn in each city:
+Untuk mempertahankan kualitas hidup yang sama (sewa 1BR, sesekali makan di luar, menabung 15%), ini kira-kira penghasilan yang kamu butuhkan di tiap kota:
 
-| Lifestyle Level | NYC | LA | Austin |
+| Level Gaya Hidup | NYC | LA | Austin |
 |----------------|-----|-----|--------|
-| Modest (shared apartment, budget-conscious) | $65,000 | $55,000 | $45,000 |
-| Comfortable (own 1BR, regular dining out) | $95,000 | $80,000 | $60,000 |
-| Affluent (nice 1BR, frequent dining, travel) | $140,000+ | $110,000+ | $85,000+ |
+| Sederhana (tinggal bareng, hemat) | Rp 1 miliar | Rp 825 juta | Rp 675 juta |
+| Nyaman (punya 1BR sendiri, rutin makan di luar) | Rp 1,4 miliar | Rp 1,2 miliar | Rp 900 juta |
+| Mapan (1BR bagus, sering makan di luar, traveling) | Rp 2,1 miliar+ | Rp 1,65 miliar+ | Rp 1,3 miliar+ |
 
-A $75,000 salary in Austin gives you roughly the same purchasing power as $110,000 in LA or $130,000 in NYC.
+Gaji Rp 1,1 miliar di Austin memberi daya beli yang kira-kira setara dengan Rp 1,65 miliar di LA atau Rp 1,95 miliar di NYC.
 
-## Quality of Life Beyond Money
+## Kualitas Hidup di Luar Soal Uang
 
-### New York City Pros and Cons
+### Kelebihan dan Kekurangan New York City
 
-**Pros**: Unmatched cultural offerings, no car needed, career opportunities in nearly every industry, incredible food diversity, walkable neighborhoods, public transit works 24/7
+**Kelebihan**: Pilihan budaya tak tertandingi, tidak perlu mobil, banyak peluang karier di hampir semua industri, pilihan makanan sangat beragam, lingkungan ramah pejalan kaki, transportasi umum beroperasi 24/7
 
-**Cons**: Tiny living spaces, brutal winters, oppressive summer humidity, noise, crowds, high stress levels, tough for families with young children
+**Kekurangan**: Ruang tinggal sempit, musim dingin keras, musim panas lembap dan berat, bising, ramai, stres tinggi, sulit untuk keluarga dengan anak kecil
 
-### Los Angeles Pros and Cons
+### Kelebihan dan Kekurangan Los Angeles
 
-**Pros**: Perfect weather year-round, beach access, entertainment industry hub, diverse food scene, more space than NYC, outdoor lifestyle
+**Kelebihan**: Cuaca sempurna sepanjang tahun, dekat pantai, pusat industri hiburan, pilihan makanan beragam, ruang lebih luas daripada NYC, gaya hidup outdoor
 
-**Cons**: Traffic is genuinely terrible (average commute is 30+ minutes), car-dependent, air quality issues, wildfire risk, very high [housing costs](/blog/how-much-should-you-spend-on-rent/), income inequality is visible
+**Kekurangan**: Macetnya benar-benar parah (rata-rata waktu perjalanan 30+ menit), bergantung pada mobil, kualitas udara bermasalah, risiko kebakaran hutan, [biaya hunian](/blog/how-much-should-you-spend-on-rent/) sangat tinggi, kesenjangan pendapatan terlihat jelas
 
-### Austin Pros and Cons
+### Kelebihan dan Kekurangan Austin
 
-**Pros**: No state income tax, booming tech job market, live music scene, great food (especially BBQ and Tex-Mex), warm climate, friendly culture, lower housing costs
+**Kelebihan**: Tidak ada pajak penghasilan negara bagian, pasar kerja teknologi sedang tumbuh pesat, suasana musik live, makanan enak (terutama BBQ dan Tex-Mex), iklim hangat, budaya yang ramah, biaya hunian lebih rendah
 
-**Cons**: Extreme summer heat (100+ degrees for months), growing traffic congestion, public transit is limited, allergen capital of the US, rapid growth is driving costs up
+**Kekurangan**: Panas ekstrem di musim panas (di atas 38°C selama berbulan-bulan), kemacetan yang makin parah, transportasi umum terbatas, kota dengan alergi tertinggi di AS, pertumbuhan cepat mendorong biaya naik
 
-## Which City Is Right for You?
+## Kota Mana yang Cocok untuk Kamu?
 
-### Choose NYC if:
-- You work in finance, media, fashion, or a field that clusters in NYC
-- You hate driving and love walking and public transit
-- You value cultural experiences over living space
-- You earn $100,000+ and prioritize career growth
+### Pilih NYC jika:
+- Kamu bekerja di keuangan, media, fashion, atau bidang yang terkonsentrasi di NYC
+- Kamu benci menyetir dan suka jalan kaki serta transportasi umum
+- Kamu lebih menghargai pengalaman budaya daripada ruang tinggal
+- Kamu punya penghasilan Rp 1,5 miliar+ dan memprioritaskan pertumbuhan karier
 
-### Choose LA if:
-- You work in entertainment, tech, or creative industries
-- Outdoor lifestyle and weather matter more than saving money
-- You do not mind driving
-- You earn $80,000+ and want more space than NYC offers
+### Pilih LA jika:
+- Kamu bekerja di hiburan, teknologi, atau industri kreatif
+- Gaya hidup outdoor dan cuaca lebih penting daripada hemat uang
+- Kamu tidak masalah menyetir
+- Kamu punya penghasilan Rp 1,2 miliar+ dan ingin ruang lebih besar daripada yang ditawarkan NYC
 
-### Choose Austin if:
-- You work in tech, remote work, or want to stretch your dollar
-- You want to buy a home without spending $1 million
-- You value a lower tax burden and lower overall costs
-- You can handle extreme heat and do not need a big-city transit system
+### Pilih Austin jika:
+- Kamu bekerja di teknologi, remote work, atau ingin memaksimalkan nilai uangmu
+- Kamu ingin beli rumah tanpa harus keluar Rp 15 miliar
+- Kamu menghargai beban pajak yang lebih rendah dan biaya hidup keseluruhan yang lebih murah
+- Kamu sanggup menghadapi panas ekstrem dan tidak butuh sistem transportasi kota besar
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is Austin really cheaper than NYC and LA?
+### Apakah Austin benar-benar lebih murah daripada NYC dan LA?
 
-Yes, significantly. The overall cost of living in Austin is about 40% lower than NYC and 30% lower than LA. The biggest savings come from housing (50-60% less than NYC), no state income tax (saving $3,000-$10,000+ annually depending on income), and lower grocery and dining costs. However, Austin is no longer "cheap" — it has gotten 25-30% more expensive since 2020.
+Ya, jauh lebih murah. Biaya hidup keseluruhan di Austin sekitar 40% lebih rendah daripada NYC dan 30% lebih rendah daripada LA. Penghematan terbesar datang dari hunian (50-60% lebih murah daripada NYC), tidak adanya pajak penghasilan negara bagian (hemat Rp 45 juta-Rp 150 juta+ per tahun tergantung penghasilan), serta biaya belanja dan makan yang lebih rendah. Tapi Austin sekarang sudah tidak bisa disebut “murah” — sejak 2020 biayanya sudah naik 25-30%.
 
-### How much do you need to earn to live comfortably in NYC?
+### Berapa penghasilan yang dibutuhkan untuk hidup nyaman di NYC?
 
-For a single person renting their own one-bedroom apartment, eating out regularly, and saving for retirement, most financial experts suggest $95,000-$120,000 minimum. Shared living can bring that down to $65,000-$75,000. Keep in mind that NYC has additional city income tax (3.08-3.88%) on top of New York State tax (4-10.9%), which takes a meaningful bite out of paychecks.
+Untuk lajang yang menyewa apartemen satu kamar sendiri, rutin makan di luar, dan tetap menabung untuk pensiun, kebanyakan ahli keuangan menyarankan minimal Rp 1,4-1,8 miliar per tahun. Kalau tinggal berbagi, angka itu bisa turun ke Rp 1-1,1 miliar. Ingat, NYC juga punya pajak penghasilan kota tambahan (3,08-3,88%) di atas pajak negara bagian New York (4-10,9%), yang cukup menggerus gaji.
 
-### Is it worth moving from a high-cost city to a lower-cost city?
+### Apakah pindah dari kota mahal ke kota yang lebih murah itu sepadan?
 
-It depends on whether your income follows you. If you keep a NYC salary while working remotely from Austin, you gain an enormous financial advantage — potentially $20,000-$40,000 per year in savings. If you take a local Austin salary, the cost savings may be partially offset by lower pay. Run the numbers for your specific situation using a cost-of-living calculator like NerdWallet's or Bankrate's.
+Tergantung apakah penghasilanmu ikut pindah atau tidak. Kalau kamu tetap menerima gaji NYC sambil kerja remote dari Austin, kamu bisa dapat keuntungan finansial besar — potensi hemat Rp 300 juta-Rp 600 juta per tahun. Kalau kamu menerima gaji lokal Austin, penghematan biaya hidup bisa sebagian tertutup oleh gaji yang lebih rendah. Coba hitung untuk situasimu sendiri dengan kalkulator biaya hidup seperti milik NerdWallet atau Bankrate.
 
-### Does no state income tax in Texas make up for higher property taxes?
+### Apakah nol pajak penghasilan negara bagian di Texas menutup pajak properti yang lebih tinggi?
 
-For renters, Texas's zero state income tax is a clear win since you do not pay property tax directly. For homeowners, it depends on your income and home value. Generally, if you earn over $80,000 and own a home under $500,000, Texas's total tax burden is still lower than California's or New York's. Above $500,000 in home value, run the numbers carefully — property taxes at 2% can exceed what you save on income tax.
+Untuk penyewa, nol pajak penghasilan negara bagian di Texas jelas menguntungkan karena kamu tidak membayar pajak properti langsung. Untuk pemilik rumah, tergantung penghasilan dan nilai rumah. Secara umum, kalau kamu berpenghasilan di atas Rp 1,2 miliar dan punya rumah di bawah Rp 7,5 miliar, total beban pajak Texas masih lebih rendah daripada California atau New York. Di atas nilai rumah Rp 7,5 miliar, hitung dengan hati-hati — pajak properti 2% bisa lebih besar daripada penghematan pajak penghasilanmu.
 
-### What is the best city for young professionals in 2026?
+### Kota terbaik untuk profesional muda di 2026 apa?
 
-Austin offers the best combination of career growth, affordability, and quality of life for most young professionals in 2026. The tech job market is strong, the social scene is vibrant, and you can actually save money while still enjoying life. NYC remains the best choice for specific career paths (finance, media, law), and LA is ideal for entertainment and creative industries. Choose based on your career needs first, then optimize for cost.
+Austin menawarkan kombinasi terbaik antara pertumbuhan karier, keterjangkauan, dan kualitas hidup untuk kebanyakan profesional muda di 2026. Pasar kerja teknologi kuat, kehidupan sosialnya hidup, dan kamu masih bisa menabung sambil menikmati hidup. NYC tetap jadi pilihan terbaik untuk jalur karier tertentu (keuangan, media, hukum), dan LA ideal untuk industri hiburan serta kreatif. Pilih berdasarkan kebutuhan karier dulu, lalu optimalkan biayanya.
