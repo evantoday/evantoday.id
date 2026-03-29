@@ -23,250 +23,250 @@ What surprised me the first time I used Coinbase was how clean it felt compared 
 - Security and ease of use are major strengths, plus USD balances are covered by LPS insurance up to Rp 3,8 miliar.
 - If you want to compare it with other platforms, I'd also look at [Robinhood review features and how to use](/blog/robinhood-review-features-and-how-to-use/) for stocks and [best crypto wallets for beginners](/blog/best-crypto-wallets-for-beginners/) for storage.
 
-## What Is Coinbase and Who Is It For?
+## Apa Itu Coinbase dan Cocok untuk Siapa?
 
-Coinbase is a publicly traded (NASDAQ: COIN) crypto exchange in the US designed mainly for buying, selling, and holding digital assets in a simple interface. It's best for beginners, casual investors, and people who want to start with small amounts like Rp 75 ribu atau Rp 150 ribu without dealing with complicated order books.
+Coinbase adalah bursa kripto yang diperdagangkan secara publik (NASDAQ: COIN) di AS, dan dirancang terutama untuk membeli, menjual, dan menyimpan aset digital dengan tampilan yang sederhana. Platform ini paling cocok untuk pemula, investor santai, dan orang yang ingin mulai dari nominal kecil seperti Rp 75 ribu atau Rp 150 ribu tanpa harus berurusan dengan order book yang rumit.
 
-### My quick take on Coinbase
+### Pendapat singkat saya soal Coinbase
 
-I think Coinbase's biggest advantage is usability. A lot of crypto apps try to impress you with too many buttons, too many charts, and too many "opportunities." Coinbase does the opposite. It keeps the experience simple, which is exactly what many people need when they're just trying to understand Bitcoin, Ethereum, or stablecoin tanpa bikin salah langkah.
+Menurut saya, keunggulan terbesar Coinbase adalah kemudahan pakainya. Banyak aplikasi kripto mencoba terlihat keren dengan terlalu banyak tombol, grafik, dan "peluang." Coinbase justru kebalikannya. Pengalamannya dibuat sederhana, dan itu memang yang dibutuhkan banyak orang saat baru belajar Bitcoin, Ethereum, atau stablecoin tanpa bikin salah langkah.
 
-That said, simplicity comes with trade-offs. If you're the kind of person who wants deep chart analysis, advanced order types, or ultra-low trading costs, the standard Coinbase app may feel limited. For that crowd, Coinbase Advanced offers lower fees and more tools, and I'd also suggest learning the basics of [how to read stock charts for beginners](/blog/how-to-read-stock-charts-for-beginners/) because the same discipline helps in crypto too.
+Tapi, kesederhanaan juga ada komprominya. Kalau kamu tipe orang yang ingin analisis grafik mendalam, jenis order yang lebih canggih, atau biaya trading yang super rendah, aplikasi Coinbase biasa mungkin terasa terbatas. Untuk kebutuhan seperti itu, Coinbase Advanced menawarkan biaya lebih rendah dan lebih banyak alat, dan saya juga sarankan belajar dasar-dasar [cara membaca grafik saham untuk pemula](/blog/how-to-read-stock-charts-for-beginners/) karena disiplin yang sama juga berguna di kripto.
 
-In my experience, Coinbase is most useful for:
-- first-time crypto buyers
-- long-term holders
-- people who want a mobile-first app
-- users who value a platform with familiar payment methods
+Dari pengalaman saya, Coinbase paling berguna untuk:
+- pembeli kripto pertama kali
+- pemegang jangka panjang
+- orang yang ingin aplikasi mobile-first
+- pengguna yang suka metode pembayaran yang familiar
 
-If your goal is "buy a little crypto and keep it simple," Coinbase makes sense. If your goal is "day trade every hour," I think you'll outgrow the basic app fast (though Coinbase Advanced helps bridge that gap).
+Kalau tujuanmu adalah "beli sedikit kripto dan tetap simpel," Coinbase masuk akal. Kalau tujuanmu adalah "day trading tiap jam," saya rasa kamu akan cepat merasa aplikasi dasarnya kurang memadai (meski Coinbase Advanced bisa membantu menjembatani kebutuhan itu).
 
-## How Much Are Coinbase Fees?
+## Berapa Biaya Coinbase?
 
-Coinbase fees are generally made up of trading fees, spread, and withdrawal-related costs depending on the asset and network. The exact amount can change over time, but the important thing is that your real cost is not just the visible fee percentage.
+Biaya Coinbase umumnya terdiri dari biaya trading, spread, dan biaya penarikan tergantung aset serta jaringannya. Angka pastinya bisa berubah dari waktu ke waktu, tapi yang penting adalah memahami bahwa biaya riil kamu bukan cuma persentase fee yang terlihat.
 
-### The fee structure I pay attention to
+### Struktur biaya yang saya perhatikan
 
-When I evaluate a crypto exchange, I don't stop at the headline fee. I look at three things:
+Saat saya menilai bursa kripto, saya tidak berhenti di fee yang tertulis di depan. Saya melihat tiga hal:
 
-1. **Trading fee** — the explicit fee when you buy or sell.
-2. **Spread** — the difference between buy and sell prices, which can quietly increase your cost.
-3. **Withdrawal fee** — network or transfer cost when moving crypto out of the exchange.
+1. **Trading fee** — biaya yang dikenakan saat beli atau jual.
+2. **Spread** — selisih harga beli dan jual, yang diam-diam bisa menambah biaya.
+3. **Withdrawal fee** — biaya jaringan atau transfer saat memindahkan kripto keluar dari platform.
 
-That's where many beginners get surprised. You might think you're paying "cheap fees," but if the spread is wide, you're still losing money on entry and exit.
+Di sinilah banyak pemula kaget. Kamu mungkin merasa bayar "fee murah," tapi kalau spread-nya lebar, kamu tetap rugi saat masuk dan keluar posisi.
 
-Here's a simple way I think about it:
+Begini cara saya memikirkannya:
 
-| Cost Type | What It Means | Why It Matters |
+| Jenis Biaya | Artinya | Kenapa Penting |
 |---|---|---|
-| Trading fee | Fee charged on buy/sell orders | Affects every transaction |
-| Spread | Gap between buy and sell price | Can be the hidden cost |
-| Withdrawal fee | Cost to move crypto off-platform | Important if you use your own wallet |
+| Trading fee | Biaya saat order beli/jual | Mempengaruhi setiap transaksi |
+| Spread | Selisih harga beli dan jual | Bisa jadi biaya tersembunyi |
+| Withdrawal fee | Biaya untuk memindahkan kripto keluar platform | Penting kalau kamu pakai wallet sendiri |
 
-For example, if you buy Rp 15 juta of crypto and the total cost impact from fee plus spread is around 1% to 2%, you're effectively starting with Rp 14,7 juta to Rp 14,85 juta of exposure. That's not terrible, but it matters if you trade often. Coinbase Advanced can significantly reduce these costs with its maker/taker fee model.
+Misalnya, kalau kamu beli kripto senilai Rp 15 juta dan total dampak biaya dari fee plus spread sekitar 1% sampai 2%, berarti kamu sebenarnya mulai dengan eksposur sekitar Rp 14,7 juta sampai Rp 14,85 juta. Itu tidak buruk, tapi jadi penting kalau kamu sering trading. Coinbase Advanced bisa menurunkan biaya ini cukup signifikan lewat model maker/taker fee.
 
-My opinion: Coinbase is acceptable for occasional buying and holding. If you're making lots of small trades, fees and spreads become much more important. That's why I always tell people to think about their strategy first, then pick the platform.
+Pendapat saya: Coinbase masih oke untuk beli sesekali dan simpan. Kalau kamu sering transaksi kecil, biaya dan spread jadi jauh lebih penting. Karena itu saya selalu bilang: pikirkan strategimu dulu, baru pilih platformnya.
 
-## What Features Does Coinbase Offer?
+## Fitur Apa Saja yang Ditawarkan Coinbase?
 
-Coinbase offers a beginner-friendly set of features for buying, selling, tracking, and managing crypto assets. The exchange's main strength is making crypto feel less intimidating, but it also packs some powerful extras.
+Coinbase menawarkan fitur yang ramah pemula untuk membeli, menjual, melacak, dan mengelola aset kripto. Kekuatan utamanya adalah membuat kripto terasa tidak terlalu menakutkan, tapi platform ini juga punya beberapa fitur tambahan yang cukup kuat.
 
-### 1. Simple buy and sell interface
+### 1. Tampilan beli dan jual yang sederhana
 
-This is the feature I think most users will appreciate first. You can open the app, pick an asset, enter an amount in rupiah, and place a buy order without needing to understand a complicated trading screen.
+Ini fitur yang menurut saya paling cepat disukai pengguna. Kamu bisa buka aplikasi, pilih aset, masukkan nominal dalam rupiah, lalu pasang order beli tanpa perlu paham layar trading yang rumit.
 
-For beginners, that simplicity is gold. I've seen too many people freeze when faced with advanced exchange interfaces. Coinbase removes a lot of that friction.
+Untuk pemula, kesederhanaan seperti ini sangat berharga. Saya sudah melihat terlalu banyak orang freeze saat berhadapan dengan tampilan exchange yang terlalu rumit. Coinbase mengurangi banyak gesekan itu.
 
-### 2. Crypto asset selection
+### 2. Pilihan aset kripto
 
-Coinbase supports a wide range of popular crypto assets, including major coins and many altcoins. I personally think it's smart to focus on major assets first, because chasing obscure coins is where many new investors get burned.
+Coinbase mendukung banyak aset kripto populer, termasuk koin utama dan banyak altcoin. Menurut saya, lebih bijak kalau kamu fokus ke aset besar dulu, karena mengejar koin yang kurang jelas sering jadi tempat banyak investor baru kena rugi.
 
-If you're still learning, I'd rather see you build a basic understanding of diversification first. My guide on [how to diversify your investment portfolio](/blog/7-smart-ways-to-diversify-your-investment-portfolio/) applies here too, even if crypto is only a small part of your total portfolio.
+Kalau kamu masih belajar, saya lebih suka kamu membangun pemahaman dasar tentang diversifikasi dulu. Panduan saya tentang [cara diversifikasi portofolio investasi](/blog/7-smart-ways-to-diversify-your-investment-portfolio/) juga relevan di sini, meskipun kripto hanya bagian kecil dari total portofoliomu.
 
-### 3. USD deposits with LPS-style protection
+### 3. Deposit USD dengan perlindungan ala LPS
 
-This matters more than people admit. Coinbase makes it easy to fund your account with bank transfers, debit cards, and other familiar payment methods. Even better, USD balances held on Coinbase are covered by LPS-style protection up to Rp 3,8 miliar, which is a huge advantage for users who want peace of mind on their uninvested cash.
+Ini lebih penting daripada yang banyak orang akui. Coinbase memudahkan kamu mengisi akun lewat transfer bank, kartu debit, dan metode pembayaran yang familiar. Lebih bagus lagi, saldo USD yang disimpan di Coinbase dilindungi ala LPS hingga Rp 3,8 miliar, yang jadi keuntungan besar bagi pengguna yang ingin merasa tenang atas uang tunai yang belum diinvestasikan.
 
-### 4. Portfolio tracking
+### 4. Pelacakan portofolio
 
-The app shows your holdings and price movements in a way that's easy to follow. I like this because it helps you stay aware of your position without obsessing over every candle.
+Aplikasi ini menampilkan kepemilikan dan pergerakan harga dengan cara yang mudah diikuti. Saya suka ini karena membantu kamu tetap sadar posisi tanpa harus obsesif melihat setiap candle.
 
 ### 5. Coinbase Earn
 
-This is a feature I really appreciate. Coinbase Earn lets you learn about different cryptocurrencies by watching short videos and answering quizzes, and you actually earn small amounts of crypto for doing it. It's a great way for beginners to build knowledge and get some skin in the game at the same time.
+Ini fitur yang sangat saya apresiasi. Coinbase Earn memungkinkan kamu belajar tentang berbagai cryptocurrency lewat video singkat dan kuis, lalu kamu benar-benar dapat sedikit kripto sebagai imbalannya. Ini cara yang bagus untuk pemula membangun pengetahuan sambil tetap punya skin in the game.
 
-### 6. Recurring buys and learning tools
+### 6. Pembelian berkala dan alat belajar
 
-For people who want to invest gradually, recurring purchases can be useful. I'm a big believer in consistency over hype. If you buy a fixed amount each month, you're less likely to panic or FOMO into bad entries.
+Buat orang yang ingin investasi bertahap, pembelian rutin bisa sangat berguna. Saya sangat percaya pada konsistensi, bukan hype. Kalau kamu beli nominal tetap tiap bulan, kamu jadi lebih kecil kemungkinannya panik atau FOMO masuk di harga yang jelek.
 
-If you're the type who struggles with consistency, I'd also recommend reading [how to create a monthly spending plan](/blog/how-to-create-a-monthly-spending-plan/) so your investing doesn't mess up your cash flow.
+Kalau kamu tipe yang susah konsisten, saya juga sarankan baca [cara membuat rencana pengeluaran bulanan](/blog/how-to-create-a-monthly-spending-plan/) supaya investasi tidak mengganggu arus kasmu.
 
-## Is Coinbase Good for Beginners?
+## Apakah Coinbase Bagus untuk Pemula?
 
-Yes, Coinbase is one of the better crypto exchanges for beginners in the US because it simplifies the experience without overwhelming you. If you're new to crypto, that alone can save you from a lot of mistakes.
+Ya, Coinbase adalah salah satu bursa kripto yang lebih baik untuk pemula di AS karena menyederhanakan pengalaman tanpa membuat kamu kewalahan. Kalau kamu baru masuk ke dunia kripto, itu saja sudah bisa menyelamatkanmu dari banyak kesalahan.
 
-### Why I think beginners like it
+### Kenapa menurut saya pemula suka Coinbase
 
-When I first tested beginner-friendly crypto apps, I noticed the same pattern: the easier the interface, the less likely people are to make impulsive decisions. Coinbase is good at reducing that friction.
+Saat saya pertama kali menguji aplikasi kripto yang ramah pemula, saya melihat pola yang sama: makin mudah antarmukanya, makin kecil kemungkinan orang mengambil keputusan impulsif. Coinbase bagus dalam mengurangi gesekan itu.
 
-Here's why it works:
-- The interface is clean and easy to understand.
-- Coinbase Earn rewards you for learning about new assets.
-- You can start with small amounts.
-- The app doesn't force you into advanced trading features right away.
+Ini alasan kenapa platform ini bekerja:
+- Antarmukanya bersih dan mudah dipahami.
+- Coinbase Earn memberi imbalan saat kamu belajar aset baru.
+- Kamu bisa mulai dengan nominal kecil.
+- Aplikasi ini tidak memaksa kamu langsung memakai fitur trading tingkat lanjut.
 
-But I also want to be honest. Beginner-friendly doesn't mean risk-free. Crypto is still volatile. If you're using Coinbase because you heard a friend made money fast, that's a bad reason. I'd rather you treat crypto like a small, high-risk portion of your portfolio, not your entire financial plan.
+Tapi saya juga ingin jujur. Ramah pemula bukan berarti bebas risiko. Kripto tetap sangat volatil. Kalau kamu pakai Coinbase karena dengar temanmu cepat untung, itu alasan yang buruk. Saya lebih suka kamu memperlakukan kripto sebagai porsi kecil berisiko tinggi dari portofolio, bukan seluruh rencana keuanganmu.
 
-If you're still fixing your [money habits](/blog/smart-money-habits-of-wealthy-people/) overall, I'd strongly suggest reading [financial mistakes to avoid in your 20s](/blog/financial-mistakes-to-avoid-in-your-20s/) and [how to stop living paycheck to paycheck](/blog/how-to-stop-living-paycheck-to-paycheck/). Crypto should come after your basics, not before them.
+Kalau kamu masih beresin [kebiasaan uang](/blog/smart-money-habits-of-wealthy-people/) secara keseluruhan, saya sangat menyarankan baca [kesalahan keuangan yang harus dihindari di usia 20-an](/blog/financial-mistakes-to-avoid-in-your-20s/) dan [cara berhenti hidup dari gaji ke gaji](/blog/how-to-stop-living-paycheck-to-paycheck/). Kripto sebaiknya datang setelah dasar keuanganmu rapi, bukan sebelumnya.
 
-## How Does Coinbase Compare to Other Crypto Apps?
+## Bagaimana Coinbase Dibandingkan dengan Aplikasi Kripto Lain?
 
-Coinbase is better than many crypto exchanges in the US when it comes to simplicity and trust, but it's not always the cheapest or most advanced. That's the trade-off.
+Coinbase lebih baik daripada banyak bursa kripto di AS dalam hal kesederhanaan dan kepercayaan, tapi tidak selalu yang paling murah atau paling canggih. Itu trade-off-nya.
 
-### My comparison framework
+### Kerangka perbandingan saya
 
-When I compare crypto exchanges, I look at five things:
-1. Ease of use
-2. Fee transparency
-3. Asset selection
-4. Security
-5. Advanced trading tools
+Saat membandingkan bursa kripto, saya melihat lima hal:
+1. Kemudahan penggunaan
+2. Transparansi biaya
+3. Pilihan aset
+4. Keamanan
+5. Alat trading tingkat lanjut
 
-Here's how I'd summarize Coinbase versus the typical alternatives:
+Begini ringkasan saya soal Coinbase dibanding alternatif pada umumnya:
 
-| Feature | Coinbase | More Advanced Crypto Exchanges |
+| Fitur | Coinbase | Bursa Kripto yang Lebih Canggih |
 |---|---|---|
-| Ease of use | Excellent | Often cluttered |
-| Beginner friendliness | Very high | Medium |
-| Fee competitiveness | Good, not always best (Advanced helps) | Can be better for active traders |
-| Advanced tools | Coinbase Advanced available | Strong |
-| Regulatory trust | Very strong (publicly traded, SEC/FinCEN regulated) | Varies |
+| Kemudahan penggunaan | Sangat baik | Sering terasa penuh sesak |
+| Ramah pemula | Sangat tinggi | Sedang |
+| Kompetitif soal biaya | Bagus, tapi tidak selalu terbaik (Advanced membantu) | Bisa lebih baik untuk trader aktif |
+| Alat tingkat lanjut | Ada Coinbase Advanced | Kuat |
+| Kepercayaan regulasi | Sangat kuat (diperdagangkan publik, diawasi SEC/FinCEN) | Bervariasi |
 
-My honest opinion: if you're a beginner or casual investor, Coinbase is often the better choice because you're less likely to make mistakes. If you're an active trader, you may prefer Coinbase Advanced or a platform with deeper order types and tighter cost control.
+Pendapat jujur saya: kalau kamu pemula atau investor santai, Coinbase sering jadi pilihan yang lebih baik karena kamu lebih kecil kemungkinan melakukan kesalahan. Kalau kamu trader aktif, kamu mungkin lebih cocok memakai Coinbase Advanced atau platform lain dengan jenis order yang lebih dalam dan kontrol biaya yang lebih ketat.
 
-I think this is similar to choosing between a simple savings app and a full-featured investment platform like [Ally Bank review still worth it in 2026](/blog/ally-bank-review-still-worth-it-in-2026/). The "best" app depends on what kind of user you are.
+Saya rasa ini mirip seperti memilih antara aplikasi tabungan sederhana dan platform investasi yang lebih lengkap seperti [ulasan Ally Bank, masih layak di 2026](/blog/ally-bank-review-still-worth-it-in-2026/). Aplikasi "terbaik" tergantung kamu tipe pengguna seperti apa.
 
-## What Are the Pros and Cons of Coinbase?
+## Apa Kelebihan dan Kekurangan Coinbase?
 
-Coinbase's biggest pros are simplicity, regulatory credibility, and beginner-friendly design. Its biggest cons are limited advanced features on the standard app and costs that may not be ideal for frequent traders.
+Kelebihan terbesar Coinbase adalah kesederhanaan, kredibilitas regulasi, dan desain yang ramah pemula. Kekurangan terbesarnya adalah fitur lanjutan yang terbatas di aplikasi standar dan biaya yang mungkin kurang ideal untuk trader yang sering transaksi.
 
-### Pros
+### Kelebihan
 
-- Easy to use, even if you're new to crypto
-- Publicly traded on NASDAQ, SEC and FinCEN regulated
-- LPS-style protection on USD balances
-- Coinbase Earn lets you learn and earn crypto
-- Good for small starting amounts
-- Clean interface with less confusion
-- Better suited to disciplined, long-term users
+- Mudah digunakan, bahkan kalau kamu baru di dunia kripto
+- Diperdagangkan publik di NASDAQ, diawasi SEC dan FinCEN
+- Perlindungan ala LPS untuk saldo USD
+- Coinbase Earn memungkinkan kamu belajar sambil dapat kripto
+- Cocok untuk modal awal kecil
+- Antarmuka bersih dan tidak membingungkan
+- Lebih cocok untuk pengguna disiplin jangka panjang
 
-### Cons
+### Kekurangan
 
-- Not ideal for advanced traders (unless you use Coinbase Advanced)
-- Fees and spreads can matter more if you trade often
-- Fewer professional tools on the basic app than some competitors
-- Crypto volatility still makes it risky
+- Kurang ideal untuk trader aktif (kecuali pakai Coinbase Advanced)
+- Biaya dan spread bisa terasa lebih berat kalau kamu sering trading
+- Alat profesional di aplikasi dasar lebih sedikit dibanding beberapa pesaing
+- Volatilitas kripto tetap membuatnya berisiko
 
-My view is straightforward: Coinbase is a good exchange for learning and basic investing, but it's not the platform I'd choose if I wanted to scalp or trade heavily every day without switching to Coinbase Advanced. I prefer tools that match the user's actual habits, not their fantasy version of themselves.
+Menurut saya, Coinbase adalah bursa yang bagus untuk belajar dan investasi dasar, tapi bukan platform yang akan saya pilih kalau ingin scalping atau trading berat setiap hari tanpa pindah ke Coinbase Advanced. Saya lebih suka alat yang sesuai dengan kebiasaan nyata pengguna, bukan versi fantasi dari diri mereka sendiri.
 
-If you're interested in the broader risk side of crypto, I'd also read [risks of cryptocurrency investing](/blog/risks-of-cryptocurrency-investing/). That article pairs well with this one because platform quality doesn't remove market risk.
+Kalau kamu tertarik pada sisi risiko kripto yang lebih luas, saya juga sarankan baca [risiko investasi cryptocurrency](/blog/risks-of-cryptocurrency-investing/). Artikel itu cocok dibaca bersama artikel ini karena kualitas platform tidak menghapus risiko pasar.
 
-## How Do I Use Coinbase Without Paying Too Much?
+## Bagaimana Cara Pakai Coinbase Tanpa Bayar Terlalu Mahal?
 
-The best way to use Coinbase cheaply is to trade less often, use larger but less frequent transactions, consider Coinbase Advanced for lower fees, and avoid unnecessary withdrawals. Most beginners lose more money from behavior than from the platform itself.
+Cara terbaik memakai Coinbase dengan murah adalah trading lebih jarang, gunakan transaksi yang lebih besar tapi tidak terlalu sering, pertimbangkan Coinbase Advanced untuk biaya lebih rendah, dan hindari penarikan yang tidak perlu. Kebanyakan pemula kehilangan lebih banyak uang karena perilaku mereka sendiri daripada karena platformnya.
 
-### Step-by-step way I'd use it
+### Langkah-langkah yang saya akan pakai
 
-1. **Deposit once a month instead of every few days.**
-   Smaller, repeated deposits can create more friction and tempt you to check prices too often.
+1. **Top up sekali sebulan, bukan tiap beberapa hari.**  
+   Setoran kecil berulang bisa menambah friksi dan bikin kamu terlalu sering cek harga.
 
-2. **Buy only assets you understand.**
-   I'd stick to major names first.
+2. **Beli hanya aset yang kamu pahami.**  
+   Saya akan tetap di nama-nama besar dulu.
 
-3. **Avoid panic selling.**
-   Selling during a dip often locks in a loss and creates extra fee drag.
+3. **Hindari panic selling.**  
+   Jual saat harga turun sering mengunci rugi dan menambah beban biaya.
 
-4. **Don't withdraw crypto unless you really need to.**
-   Every move off-platform can add cost.
+4. **Jangan tarik kripto kecuali benar-benar perlu.**  
+   Setiap perpindahan keluar platform bisa menambah biaya.
 
-5. **Set a fixed budget.**
-   I think Rp 150 ribu to Rp 7,5 juta per month is a more sensible learning range for most beginners than trying to go big immediately.
+5. **Tetapkan budget tetap.**  
+   Menurut saya, Rp 150 ribu sampai Rp 7,5 juta per bulan adalah rentang belajar yang lebih masuk akal untuk kebanyakan pemula daripada langsung mencoba besar.
 
-That last point matters. If you're still building emergency savings, crypto should stay small. I'd rather see you build a stronger base first, maybe by following the logic in [how to save $10,000 in one year](/blog/how-to-save-10000-in-one-year/) if you need a bigger financial goal to focus on.
+Poin terakhir itu penting. Kalau kamu masih membangun dana darurat, kripto sebaiknya tetap kecil. Saya lebih suka kamu membangun fondasi yang lebih kuat dulu, mungkin dengan mengikuti logika di [cara menabung Rp 150 juta dalam setahun](/blog/how-to-save-10000-in-one-year/) kalau kamu butuh target keuangan yang lebih besar untuk fokus.
 
-## Is Coinbase Safe?
+## Apakah Coinbase Aman?
 
-Coinbase can be a strong option for users who want a well-regulated crypto exchange, but I still think your own habits matter more than the platform logo. Safety in crypto is never just about the exchange.
+Coinbase bisa jadi pilihan yang kuat untuk pengguna yang ingin bursa kripto yang diatur dengan baik, tapi saya tetap percaya kebiasaanmu sendiri lebih penting daripada logo platform. Keamanan di kripto tidak pernah cuma soal exchange.
 
-### What I look for in safety
+### Apa yang saya cari dari sisi keamanan
 
-I usually check:
-- whether the platform is clearly regulated (Coinbase is registered with the SEC and FinCEN)
-- whether login and account security are solid
-- whether users are educated about scams
-- whether the exchange encourages good withdrawal and wallet habits
+Biasanya saya cek:
+- apakah platformnya jelas diatur (Coinbase terdaftar di SEC dan FinCEN)
+- apakah keamanan login dan akun solid
+- apakah pengguna diedukasi soal penipuan
+- apakah exchange mendorong kebiasaan penarikan dan wallet yang baik
 
-Coinbase being publicly traded on NASDAQ adds an extra layer of transparency since the company is required to disclose financials and undergo audits. Plus, LPS-style protection on USD balances gives you protection that most crypto exchanges simply don't offer.
+Karena Coinbase diperdagangkan publik di NASDAQ, ada lapisan transparansi tambahan karena perusahaan wajib mengungkap laporan keuangan dan menjalani audit. Ditambah lagi, perlindungan ala LPS pada saldo USD memberi perlindungan yang tidak dimiliki kebanyakan bursa kripto.
 
-I also recommend using strong password practices and 2FA whenever possible. Crypto scams often happen because users get careless, not because the exchange is the only weak point.
+Saya juga menyarankan pakai password yang kuat dan 2FA kapan pun memungkinkan. Penipuan kripto sering terjadi karena pengguna lengah, bukan karena exchange adalah satu-satunya titik lemah.
 
-If you're serious about protecting your money, I'd read [digital wallet security tips](/blog/7-smart-digital-wallet-security-tips-2026-guide/) too. The mindset is similar: your security habits matter as much as the platform.
+Kalau kamu serius melindungi uangmu, saya juga sarankan baca [tips keamanan dompet digital](/blog/7-smart-digital-wallet-security-tips-2026-guide/). Polanya mirip: kebiasaan keamananmu sama pentingnya dengan platform yang kamu pakai.
 
-My personal rule is simple: if I'm holding a meaningful amount of crypto, I don't leave everything sitting in one place forever. I think that's just common sense.
+Aturan pribadi saya sederhana: kalau saya memegang kripto dalam jumlah yang berarti, saya tidak membiarkan semuanya diam di satu tempat selamanya. Menurut saya itu cuma akal sehat.
 
-## Who Should Skip Coinbase?
+## Siapa yang Sebaiknya Tidak Pakai Coinbase?
 
-You should probably skip Coinbase if you're a very active trader who doesn't want to use Coinbase Advanced, want ultra-low costs from day one, or need features that only specialized exchanges offer. That doesn't make Coinbase bad. It just means it's not built for you.
+Kamu mungkin sebaiknya skip Coinbase kalau kamu trader yang sangat aktif dan tidak ingin memakai Coinbase Advanced, ingin biaya super rendah sejak hari pertama, atau butuh fitur yang hanya ada di exchange khusus. Itu bukan berarti Coinbase buruk. Hanya saja, platform ini memang bukan dibuat untuk kebutuhanmu.
 
-### Skip it if you are:
-- a day trader who wants the absolute lowest fees
-- someone who wants advanced technical analysis tools beyond what Coinbase Advanced offers
-- a user who moves assets in and out frequently
-- someone comparing every basis point of cost
-- a person who wants full control over self-custody from day one
+### Sebaiknya skip kalau kamu:
+- day trader yang ingin fee serendah mungkin
+- orang yang butuh alat analisis teknikal lanjutan di luar yang ditawarkan Coinbase Advanced
+- pengguna yang sering keluar-masuk aset
+- orang yang membandingkan setiap basis point biaya
+- orang yang ingin kontrol penuh atas self-custody sejak awal
 
-For those users, I'd rather they study wallet management and storage first, maybe starting with [best crypto wallets for beginners](/blog/best-crypto-wallets-for-beginners/). Platform choice matters, but custody habits matter even more.
+Untuk tipe pengguna seperti itu, saya lebih suka mereka belajar soal manajemen wallet dan penyimpanan dulu, mungkin mulai dari [best crypto wallets for beginners](/blog/best-crypto-wallets-for-beginners/). Pilihan platform memang penting, tapi kebiasaan custody jauh lebih penting.
 
-## My Final Verdict on Coinbase
+## Putusan Akhir Saya soal Coinbase
 
-Coinbase is a strong crypto exchange for people who want a simple, beginner-friendly way to buy and hold digital assets. I think the platform does its best work when you use it for straightforward investing, not aggressive trading.
+Coinbase adalah bursa kripto yang kuat untuk orang yang ingin cara sederhana dan ramah pemula untuk membeli dan menyimpan aset digital. Menurut saya, platform ini paling efektif kalau dipakai untuk investasi yang straightforward, bukan trading agresif.
 
-### My bottom line
+### Kesimpulan saya
 
-If you want:
-- a clean app
-- easy rupiah deposits with LPS-style protection on eligible cash balances where applicable
-- a beginner-friendly experience
-- a platform that doesn't feel intimidating
-- the ability to earn crypto through Coinbase Earn
+Kalau kamu ingin:
+- aplikasi yang bersih
+- deposit rupiah yang mudah dengan perlindungan ala LPS pada saldo kas yang memenuhi syarat bila berlaku
+- pengalaman yang ramah pemula
+- platform yang tidak terasa menakutkan
+- kemampuan dapat kripto lewat Coinbase Earn
 
-then Coinbase is worth considering.
+maka Coinbase layak dipertimbangkan.
 
-If you want:
-- the lowest possible costs
-- advanced trading tools
-- frequent buy/sell activity
+Kalau kamu ingin:
+- biaya serendah mungkin
+- alat trading tingkat lanjut
+- aktivitas beli/jual yang sering
 
-then I think you should look into Coinbase Advanced or compare other platforms too.
+maka saya rasa kamu sebaiknya melihat Coinbase Advanced atau membandingkan platform lain juga.
 
-My honest rating philosophy is this: I don't judge a finance app by how many features it has. I judge it by whether it helps real people make better decisions. On that score, Coinbase does pretty well for beginners.
+Filosofi penilaian saya jujur saja begini: saya tidak menilai aplikasi keuangan dari banyaknya fitur. Saya menilainya dari apakah aplikasi itu membantu orang sungguhan membuat keputusan yang lebih baik. Dalam hal itu, Coinbase cukup bagus untuk pemula.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is Coinbase good for beginners in the US?
-Yes, Coinbase is good for beginners because it has a simple interface and supports easy USD deposits. I think it's one of the easier crypto exchanges to learn without feeling overwhelmed.
+### Apakah Coinbase bagus untuk pemula di AS?
+Ya, Coinbase bagus untuk pemula karena antarmukanya sederhana dan mendukung deposit USD yang mudah. Menurut saya, ini salah satu bursa kripto yang paling mudah dipelajari tanpa merasa kewalahan.
 
-### How much are Coinbase fees?
-Coinbase fees depend on trading costs, spread, and any withdrawal-related charges. The exact total cost can vary by asset and market conditions, so I always look at the full cost, not just the visible fee. Coinbase Advanced offers significantly lower fees for more active users.
+### Berapa biaya Coinbase?
+Biaya Coinbase tergantung pada biaya trading, spread, dan biaya terkait penarikan. Total biayanya bisa berbeda tergantung aset dan kondisi pasar, jadi saya selalu melihat biaya keseluruhan, bukan cuma fee yang terlihat. Coinbase Advanced menawarkan biaya yang jauh lebih rendah untuk pengguna yang lebih aktif.
 
-### Can I start with $10 on Coinbase?
-Yes, you can usually start with small amounts like Rp 150 ribu. That makes it practical for beginners who want to learn without risking too much money.
+### Bisakah saya mulai dengan $10 di Coinbase?
+Ya, biasanya kamu bisa mulai dengan nominal kecil seperti Rp 150 ribu. Ini praktis untuk pemula yang ingin belajar tanpa mempertaruhkan terlalu banyak uang.
 
-### Is Coinbase safe to use?
-Coinbase is one of the most trusted crypto exchanges in the US. It's publicly traded on NASDAQ, regulated by the SEC and FinCEN, and offers LPS-style protection on USD balances. That said, safety also depends on your own account habits. I recommend using strong passwords, 2FA, and avoiding suspicious links or fake support messages.
+### Apakah Coinbase aman digunakan?
+Coinbase adalah salah satu bursa kripto paling tepercaya di AS. Platform ini diperdagangkan publik di NASDAQ, diatur oleh SEC dan FinCEN, serta menawarkan perlindungan ala LPS pada saldo USD. Meski begitu, keamanan juga tergantung pada kebiasaan akunmu sendiri. Saya sarankan memakai password kuat, 2FA, dan menghindari link mencurigakan atau pesan dukungan palsu.
 
-### Is Coinbase better than other crypto apps?
-Coinbase is better for simplicity, trust, and beginner use, but not always better for fees or advanced trading. I think it's the stronger choice if you value ease of use and regulatory credibility over complex tools.
+### Apakah Coinbase lebih baik daripada aplikasi kripto lain?
+Coinbase lebih baik untuk kesederhanaan, kepercayaan, dan penggunaan pemula, tapi tidak selalu lebih baik untuk biaya atau trading tingkat lanjut. Menurut saya, ini pilihan yang lebih kuat kalau kamu lebih menghargai kemudahan pakai dan kredibilitas regulasi daripada alat yang rumit.
 
-### Should I keep crypto on Coinbase or move it to a wallet?
-If you're holding a small amount and want convenience, keeping it on Coinbase may be fine. If your holdings become larger, I'd seriously consider learning about self-custody and using a separate wallet.
+### Apakah saya harus simpan kripto di Coinbase atau pindahkan ke wallet?
+Kalau kamu hanya menyimpan jumlah kecil dan ingin praktis, menyimpannya di Coinbase mungkin tidak masalah. Kalau kepemilikanmu makin besar, saya sangat menyarankan belajar soal self-custody dan memakai wallet terpisah.

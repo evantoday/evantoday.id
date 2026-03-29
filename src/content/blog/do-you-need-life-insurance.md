@@ -114,20 +114,20 @@ Asuransi jiwa universal adalah polis permanen yang fleksibel, di mana kamu bisa 
 
 | Perusahaan | Berjangka 20 Tahun (Rp 7,5 Miliar, Usia 35, Pria) | Rating AM Best | Fitur Utama |
 |---------|-----------------------------------|----------------|-------------|
-| Haven Life | Rp 390 ribu/bulan | A++ (MassMutual) | Persetujuan online instan |
-| Bestow | Rp 420 ribu/bulan | A+ (North American) | Tanpa pemeriksaan medis |
-| Banner Life | Rp 360 ribu/bulan | A+ | Tarif terendah secara umum |
-| Pacific Life | Rp 405 ribu/bulan | A+ | Opsi konversi |
-| Protective | Rp 375 ribu/bulan | A+ | Kebijakan konversi kuat |
+| BCA Life | Rp 390 ribu/bulan | A++ | Persetujuan online instan |
+| Prudential | Rp 420 ribu/bulan | A+ | Tanpa pemeriksaan medis |
+| Allianz | Rp 360 ribu/bulan | A+ | Tarif terendah secara umum |
+| AXA Mandiri | Rp 405 ribu/bulan | A+ | Opsi konversi |
+| Seabank | Rp 375 ribu/bulan | A+ | Kebijakan konversi kuat |
 
 ### Untuk Asuransi Jiwa Seumur Hidup
 
 | Perusahaan | Premi Tahunan (Rp 3,8 Miliar, Usia 35, Pria) | Rating AM Best | Riwayat Dividen |
 |---------|--------------------------------------|----------------|-----------------|
-| Northwestern Mutual | Rp 57 juta | A++ | 168 tahun berturut-turut |
-| MassMutual | Rp 54 juta | A++ | Rekam jejak dividen kuat |
-| New York Life | Rp 56 juta | A++ | 170+ tahun berturut-turut |
-| Guardian | Rp 52,5 juta | A++ | Dividen kompetitif |
+| Prudential | Rp 57 juta | A++ | 168 tahun berturut-turut |
+| Allianz | Rp 54 juta | A++ | Rekam jejak dividen kuat |
+| AXA Mandiri | Rp 56 juta | A++ | 170+ tahun berturut-turut |
+| BCA Life | Rp 52,5 juta | A++ | Dividen kompetitif |
 
 ## Cara Membeli Asuransi Jiwa: Langkah demi Langkah
 

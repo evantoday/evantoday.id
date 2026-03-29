@@ -1,6 +1,6 @@
 ---
-title: "Financial Planning for Newlyweds (7 Key Steps)"
-description: "70% of couple fights are about money. These 7 financial planning steps help newlyweds align on budgets, joint accounts, insurance, and long-term goals fast."
+title: "Perencanaan Keuangan untuk Pengantin Baru"
+description: "7 langkah keuangan ini membantu pasangan baru menyamakan budget, rekening, asuransi, dan tujuan jangka panjang."
 pubDate: 2026-03-14
 category: "financial-tips"
 tags: ["newlywed finances", "couple money management", "joint accounts", "marriage finances", "financial planning"]
@@ -10,277 +10,276 @@ heroImageAlt: 'Financial Planning for Newlyweds (7 Key Steps)'
 
 ---
 
-## The Money Conversation Most Couples Avoid
+## Obrolan Uang yang Sering Dihindari Pasangan
 
-My wife and I had our first real fight about money three weeks after our honeymoon. It was over something stupid: a $200 purchase I made without mentioning it. But the argument was not really about $200. It was about expectations, communication, and the fact that we had never actually talked about how our finances would work as a married couple.
+Saya dan istri saya pertama kali benar-benar bertengkar soal uang tiga minggu setelah bulan madu. Penyebabnya sepele: saya membeli sesuatu senilai sekitar Rp 3 juta tanpa bilang dulu. Tapi sebenarnya, pertengkaran itu bukan soal Rp 3 juta. Itu soal ekspektasi, komunikasi, dan fakta bahwa kami belum pernah benar-benar membicarakan bagaimana keuangan kami akan dijalankan sebagai pasangan suami istri.
 
-We are not alone. According to a survey by Ramsey Solutions, money is the number one issue married couples fight about, and it is the second leading cause of divorce in the US. The problem is not that couples disagree about money. It is that they never establish a shared system for managing it.
+Kami bukan satu-satunya. Menurut survei Ramsey Solutions, uang adalah sumber konflik nomor satu dalam pernikahan, dan juga salah satu penyebab utama perceraian. Masalahnya bukan karena pasangan selalu berbeda pendapat soal uang. Masalahnya adalah mereka tidak pernah membangun sistem bersama untuk mengelolanya.
 
-After that fight, my wife and I sat down and worked through a financial framework together. It took one weekend. Three years later, we have not had a serious money argument since. Here are the seven steps that worked for us, and they can work for you too.
+Setelah pertengkaran itu, saya dan istri duduk bersama dan menyusun kerangka keuangan yang jelas. Hanya butuh satu akhir pekan. Tiga tahun kemudian, kami belum pernah bertengkar serius soal uang lagi. Berikut tujuh langkah yang berhasil untuk kami, dan bisa juga membantu kamu.
 
-## Step 1: Have the Full Disclosure Conversation
+## Langkah 1: Lakukan Obrolan Keterbukaan Penuh
 
-Before you merge any accounts or make any financial plans, you both need to put everything on the table. And I mean everything.
+Sebelum menggabungkan rekening atau membuat rencana keuangan apa pun, kalian berdua perlu membuka semuanya. Dan saya benar-benar maksud semuanya.
 
-### What to Share
+### Apa yang Perlu Dibagikan
 
-- **Income**: Gross salary, net pay, any side income, bonuses, commissions
-- **Debt**: Student loans, credit cards, car payments, personal loans, medical debt
-- **Assets**: Savings accounts, retirement accounts, investments, property
-- **Credit scores**: Pull both reports from AnnualCreditReport.com (free)
-- **Financial obligations**: Child support, alimony, family support, co-signed loans
-- **Financial history**: Bankruptcies, collections, late payments
+- **Penghasilan**: Gaji kotor, gaji bersih, penghasilan sampingan, bonus, komisi
+- **Utang**: Pinjaman pendidikan, kartu kredit, cicilan mobil, pinjaman pribadi, utang medis
+- **Aset**: Tabungan, dana pensiun, investasi, properti
+- **Skor kredit**: Cek laporan BI Checking/SLIK OJK dari sumber resmi yang tersedia
+- **Kewajiban finansial**: Nafkah, tanggungan keluarga, pinjaman yang ditandatangani bersama
+- **Riwayat keuangan**: Kepailitan, penagihan, keterlambatan pembayaran
 
-This conversation can be uncomfortable. One of you might have significantly more debt or a lower credit score. That is okay. What matters is honesty. Financial secrets in a marriage are toxic, and they always come out eventually.
+Obrolan ini bisa terasa tidak nyaman. Salah satu dari kalian mungkin punya utang jauh lebih besar atau skor kredit yang lebih rendah. Tidak apa-apa. Yang penting adalah kejujuran. Rahasia keuangan dalam pernikahan itu beracun, dan cepat atau lambat pasti akan muncul juga.
 
-### How to Have This Conversation
+### Cara Melakukan Obrolan Ini
 
-- Pick a relaxed setting (not during an argument)
-- Bring actual numbers, not estimates
-- Listen without judging
-- Focus on the future, not blame for the past
-- Write everything down so you have a shared reference document
+- Pilih suasana yang santai (bukan saat sedang bertengkar)
+- Bawa angka yang nyata, bukan perkiraan
+- Dengarkan tanpa menghakimi
+- Fokus ke masa depan, bukan menyalahkan masa lalu
+- Tulis semuanya supaya kalian punya dokumen referensi bersama
 
-## Step 2: Decide on a Joint vs. Separate Account Structure
+## Langkah 2: Tentukan Struktur Rekening Bersama vs Terpisah
 
-This is one of the most debated topics in [couple finances](/blog/how-to-manage-money-as-a-couple/), and there is no single right answer. Here are the three main approaches:
+Ini salah satu topik yang paling sering diperdebatkan dalam [keuangan pasangan](/blog/how-to-manage-money-as-a-couple/), dan tidak ada satu jawaban yang paling benar. Ada tiga pendekatan utama:
 
-### Option A: Fully Joint
+### Opsi A: Sepenuhnya Gabung
 
-All income goes into one shared account. All bills and spending come from that account.
+Semua penghasilan masuk ke satu rekening bersama. Semua tagihan dan pengeluaran dibayar dari rekening itu.
 
-**Pros:**
-- Maximum transparency
-- Simplest to manage
-- Both partners have full visibility
-- Easier to track household budget
+**Kelebihan:**
+- Transparansi maksimal
+- Paling sederhana dikelola
+- Keduanya bisa melihat semua arus uang
+- Lebih mudah melacak anggaran rumah tangga
 
-**Cons:**
-- Less individual financial autonomy
-- Every purchase is visible (can feel controlling)
-- Harder to buy surprise gifts
-- Can be contentious if there is a large income gap
+**Kekurangan:**
+- Kebebasan finansial pribadi lebih kecil
+- Setiap pembelian terlihat jelas (bisa terasa mengontrol)
+- Lebih sulit membeli hadiah kejutan
+- Bisa memicu konflik kalau ada perbedaan penghasilan besar
 
-### Option B: Fully Separate
+### Opsi B: Sepenuhnya Terpisah
 
-Each person maintains their own accounts. Bills are split based on an agreed formula.
+Masing-masing tetap punya rekening sendiri. Tagihan dibagi berdasarkan formula yang disepakati.
 
-**Pros:**
-- Maximum individual autonomy
-- No arguments over personal spending
-- Each person maintains [financial independence](/blog/achieving-financial-independence-and-early-retirement-fire-movement/)
-- Easier if one partner has debt they want to manage alone
+**Kelebihan:**
+- Kebebasan pribadi maksimal
+- Tidak ada debat soal pengeluaran pribadi
+- Masing-masing tetap punya [kemandirian finansial](/blog/achieving-financial-independence-and-early-retirement-fire-movement/)
+- Lebih mudah kalau salah satu punya utang yang ingin dikelola sendiri
 
-**Cons:**
-- More complex to manage
-- Less transparency
-- Can create a "roommate" dynamic
-- Harder to save for shared goals
+**Kekurangan:**
+- Lebih rumit dikelola
+- Transparansi lebih rendah
+- Bisa terasa seperti hidup “serumah tapi bukan tim”
+- Lebih sulit menabung untuk tujuan bersama
 
-### Option C: Hybrid (What We Do)
+### Opsi C: Hybrid (Ini yang Kami Pakai)
 
-Both partners have a joint account for shared expenses AND individual accounts for personal spending.
+Keduanya punya rekening bersama untuk pengeluaran rumah tangga **dan** rekening pribadi untuk belanja masing-masing.
 
-**How the hybrid works:**
+**Cara kerja hybrid:**
 
-1. Both paychecks deposit into the joint account
-2. Shared expenses (mortgage, utilities, groceries, savings, investments) are paid from joint
-3. Each person gets an equal "personal allowance" transferred to their individual account
-4. Personal accounts are for individual discretionary spending, no questions asked
+1. Gaji keduanya masuk ke rekening bersama
+2. Pengeluaran bersama (KPR/sewa, listrik, belanja bulanan, tabungan, investasi) dibayar dari rekening bersama
+3. Masing-masing mendapat “uang pribadi” dengan jumlah sama yang ditransfer ke rekening individu
+4. Rekening pribadi dipakai untuk pengeluaran discretionary pribadi, tanpa perlu tanya-tanya
 
-We use $300/month each as our personal allowance. I can spend mine on whatever I want, she spends hers on whatever she wants, and neither of us needs to justify it. This eliminates 90% of potential spending arguments.
+Kami memakai sekitar Rp 4,5 juta per bulan per orang sebagai uang pribadi. Saya bebas pakai untuk apa pun, istri saya juga bebas pakai untuk apa pun, dan tidak ada yang perlu menjelaskan. Ini menghilangkan sekitar 90% potensi debat soal belanja.
 
-### The Proportional Contribution Method
+### Metode Kontribusi Proporsional
 
-If there is a significant income gap, many couples split joint contributions proportionally rather than 50/50:
+Kalau ada selisih penghasilan yang cukup besar, banyak pasangan membagi kontribusi ke rekening bersama secara proporsional, bukan 50/50:
 
-| Expense Category | Partner A (earns $90K) | Partner B (earns $60K) |
+| Kategori Biaya | Pasangan A (penghasilan Rp 1,35 miliar/tahun) | Pasangan B (penghasilan Rp 900 juta/tahun) |
 |-----------------|----------------------|----------------------|
-| Proportional share | 60% | 40% |
-| Joint contribution | $3,600/month | $2,400/month |
+| Porsi proporsional | 60% | 40% |
+| Kontribusi ke rekening bersama | Rp 54 juta/bulan | Rp 36 juta/bulan |
 
-This feels more equitable than a 50/50 split when incomes differ significantly.
+Cara ini terasa lebih adil daripada dibagi rata kalau penghasilan memang jauh berbeda.
 
-## Step 3: Build Your Emergency Fund Together
+## Langkah 3: Bangun Dana Darurat Bersama
 
-Before investing, before paying off debt aggressively, before anything else: build a joint emergency fund.
+Sebelum investasi, sebelum melunasi utang secara agresif, sebelum yang lain-lain: bangun dana darurat bersama.
 
-### How Much You Need
+### Berapa Besarnya
 
-- **Minimum**: 3 months of combined household expenses
-- **Recommended**: 6 months of combined household expenses
-- **Ideal**: 6-12 months if one or both partners have variable income
+- **Minimal**: 3 bulan biaya hidup rumah tangga gabungan
+- **Disarankan**: 6 bulan biaya hidup rumah tangga gabungan
+- **Ideal**: 6-12 bulan kalau salah satu atau keduanya punya penghasilan yang tidak tetap
 
-### Where to Keep It
+### Simpan di Mana
 
-A [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account (HYSA) at an online bank. In 2026, the best HYSAs pay 4.0-4.5% APY. Good options include:
+Rekening tabungan berbunga tinggi di bank digital atau bank online. Pilih rekening yang mudah diakses tapi tidak terlalu gampang dipakai. Beberapa opsi yang sering dipakai orang Indonesia misalnya:
 
-- Marcus by Goldman Sachs
-- Ally Bank
-- Capital One 360
-- Discover Online Savings
+- BCA
+- Mandiri
+- Jago
+- Seabank
 
-Keep the emergency fund separate from your daily checking account so you are not tempted to dip into it for non-emergencies.
+Simpan dana darurat terpisah dari rekening harian supaya kamu tidak tergoda memakainya untuk hal yang bukan darurat.
 
-### What Counts as an Emergency
+### Apa yang Termasuk Darurat
 
-Define this together in advance:
+Tentukan ini bersama dari awal:
 
-**Emergencies:**
-- Job loss
-- Medical expenses not covered by insurance
-- Major car repair needed for work transportation
-- Emergency home repair (burst pipe, broken furnace)
+**Darurat:**
+- Kehilangan pekerjaan
+- Biaya medis yang tidak ditanggung asuransi
+- Perbaikan mobil besar yang dibutuhkan untuk kerja
+- Perbaikan rumah darurat (pipa pecah, AC rusak total, dan sejenisnya)
 
-**Not emergencies:**
-- Vacation deals
-- Black Friday sales
-- Wanting to upgrade your phone
-- Restaurant spending that exceeded the budget
+**Bukan darurat:**
+- Promo liburan
+- Diskon besar-besaran
+- Ingin ganti HP
+- Belanja makan di luar yang melebihi budget
 
-Having this list written down prevents disagreements in the moment.
+Kalau daftar ini sudah ditulis, kalian tidak akan debat di tengah situasi panas.
 
-## Step 4: Create a Joint Budget
+## Langkah 4: Buat Anggaran Bersama
 
-A budget is not a restriction. It is a plan that tells your money where to go instead of wondering where it went.
+Anggaran bukan pembatas. Anggaran adalah rencana yang memberi tahu uangmu harus pergi ke mana, bukan bertanya ke mana uang itu hilang.
 
-### The 50/30/20 Framework (Modified for Couples)
+### Kerangka 50/30/20 (Dimodifikasi untuk Pasangan)
 
-This is the simplest starting point:
+Ini titik awal yang paling sederhana:
 
-| Category | Percentage | Example ($8,000/month combined) |
+| Kategori | Persentase | Contoh (Rp 120 juta/bulan gabungan) |
 |----------|-----------|-------------------------------|
-| Needs | 50% | $4,000 |
-| Wants | 30% | $2,400 |
-| Savings/Debt | 20% | $1,600 |
+| Kebutuhan | 50% | Rp 60 juta |
+| Keinginan | 30% | Rp 36 juta |
+| Tabungan/Utang | 20% | Rp 24 juta |
 
-**Needs (50%)**: Mortgage/rent, utilities, groceries, insurance premiums, minimum debt payments, transportation
+**Kebutuhan (50%)**: KPR/sewa, listrik, air, belanja dapur, premi asuransi, pembayaran minimum utang, transportasi
 
-**Wants (30%)**: Dining out, entertainment, subscriptions, personal allowances, travel, hobbies
+**Keinginan (30%)**: Makan di luar, hiburan, langganan, uang pribadi, liburan, hobi
 
-**Savings/Debt (20%)**: Emergency fund, retirement contributions beyond employer match, extra debt payments, saving for specific goals
+**Tabungan/Utang (20%)**: Dana darurat, kontribusi pensiun, pembayaran utang tambahan, tabungan untuk tujuan tertentu
 
-### Monthly Budget Meeting
+### Rapat Anggaran Bulanan
 
-Schedule a 30-minute money date once per month. Here is the agenda:
+Jadwalkan “money date” 30 menit sekali sebulan. Agenda sederhananya:
 
-1. Review last month's spending vs. budget (5 minutes)
-2. Identify any overspending categories and discuss why (5 minutes)
-3. Review progress toward savings goals (5 minutes)
-4. Discuss any upcoming large expenses (5 minutes)
-5. Adjust next month's budget if needed (5 minutes)
-6. Celebrate wins (5 minutes)
+1. Review pengeluaran bulan lalu vs anggaran (5 menit)
+2. Identifikasi kategori yang boros dan bahas alasannya (5 menit)
+3. Cek progres menuju target tabungan (5 menit)
+4. Bahas pengeluaran besar yang akan datang (5 menit)
+5. Sesuaikan anggaran bulan depan jika perlu (5 menit)
+6. Rayakan pencapaian (5 menit)
 
-That last point matters. If you paid off a credit card or hit a savings milestone, acknowledge it. Positive reinforcement keeps both partners engaged.
+Poin terakhir ini penting. Kalau kamu berhasil melunasi kartu kredit atau mencapai target tabungan, akui itu. Penguatan positif bikin kalian berdua tetap semangat.
 
-## Step 5: Align on Debt Payoff Strategy
+## Langkah 5: Samakan Strategi Pelunasan Utang
 
-If either or both of you bring debt into the marriage, you need a shared plan to eliminate it.
+Kalau salah satu atau kalian berdua membawa utang ke dalam pernikahan, kalian perlu rencana bersama untuk melunasinya.
 
-### Whose Debt Is It?
+### Utang Itu Milik Siapa?
 
-Legally, debt incurred before marriage belongs to the individual. But financially, one partner's debt affects the household. My recommendation: treat all debt as "our" debt once you are married, even if it legally is not. Fighting about whose debt is whose creates resentment.
+Secara hukum, utang yang dibuat sebelum menikah adalah tanggung jawab individu. Tapi secara finansial, utang satu orang tetap memengaruhi rumah tangga. Saran saya: anggap semua utang sebagai “utang kita” setelah menikah, meskipun secara hukum tidak semuanya begitu. Berdebat soal utang siapa itu siapa hanya akan menimbulkan rasa kesal.
 
-### The Payoff Order
+### Urutan Prioritas Pelunasan
 
-| Debt Type | Interest Rate | Priority |
+| Jenis Utang | Bunga | Prioritas |
 |-----------|--------------|----------|
-| Credit cards | 18-28% | Highest |
-| Personal loans | 8-15% | High |
-| Private student loans | 5-10% | Medium |
-| Auto loans | 4-8% | Medium |
-| Federal student loans | 3-7% | Lower |
-| Mortgage | 3-7% | Lowest |
+| Kartu kredit | 18-28% | Tertinggi |
+| Pinjaman pribadi | 8-15% | Tinggi |
+| Pinjaman pendidikan swasta | 5-10% | Menengah |
+| Kredit mobil | 4-8% | Menengah |
+| Pinjaman pendidikan pemerintah | 3-7% | Lebih rendah |
+| KPR | 3-7% | Paling rendah |
 
-### Debt Avalanche vs. Debt Snowball
+### Metode Debt Avalanche vs Debt Snowball
 
-**Avalanche method**: Pay minimum on everything, throw extra money at the highest-interest debt first. Mathematically optimal.
+**Metode avalanche**: Bayar minimum semua utang, lalu fokuskan uang ekstra ke utang dengan bunga tertinggi dulu. Secara matematika paling optimal.
 
-**Snowball method**: Pay minimum on everything, throw extra money at the smallest balance first. Psychologically motivating because you see debts disappear faster.
+**Metode snowball**: Bayar minimum semua utang, lalu fokuskan uang ekstra ke saldo paling kecil dulu. Secara psikologis lebih memotivasi karena kamu melihat utang cepat hilang.
 
-Both work. Pick the one that your household is more likely to stick with. If one partner is motivated by math and the other by quick wins, the snowball method usually wins because adherence matters more than optimization.
+Keduanya bisa berhasil. Pilih yang paling mungkin kalian jalankan konsisten. Kalau satu orang lebih termotivasi oleh angka dan yang lain butuh kemenangan cepat, metode snowball biasanya lebih cocok karena kepatuhan lebih penting daripada sekadar optimasi.
 
-## Step 6: Set Up Retirement and Insurance
+## Langkah 6: Atur Pensiun dan Asuransi
 
-### Retirement Accounts
+### Rekening Pensiun
 
-As a married couple, you have access to more tax-advantaged space:
+Sebagai pasangan menikah, kalian punya akses ke ruang pajak yang lebih besar untuk investasi pensiun:
 
-| Account | 2026 Limit Per Person | Combined Limit |
+| Akun | Batas 2026 per Orang | Batas Gabungan |
 |---------|---------------------|---------------|
-| 401(k) | $23,500 | $47,000 |
-| IRA/Roth IRA | $7,000 | $14,000 |
-| HSA (family) | $8,550 | $8,550 |
+| DPLK/dana pensiun | Rp 350 juta | Rp 700 juta |
+| Reksadana/investasi | Rp 105 juta | Rp 210 juta |
+| HSA keluarga | Rp 128 juta | Rp 128 juta |
 
-**Priority order:**
-1. Both partners contribute enough to get full 401(k) employer matches
-2. Max out both Roth IRAs ($14,000 total)
-3. Max out HSA if available ($8,550 family)
-4. Increase 401(k) contributions toward the maximum
+**Urutan prioritas:**
+1. Keduanya menabung cukup untuk mendapatkan match dari perusahaan
+2. Maksimalkan kontribusi ke reksadana/investasi
+3. Maksimalkan dana pensiun jika tersedia
+4. Naikkan kontribusi pensiun menuju batas maksimal
 
-**Spousal IRA**: Even if one partner does not work, they can still contribute to an IRA based on the working spouse's income. This is a huge benefit that many couples miss.
+**IRA pasangan**: Kalau salah satu pasangan tidak bekerja, tetap bisa menabung untuk investasi/pensiun berdasarkan penghasilan pasangan yang bekerja. Ini manfaat besar yang sering terlewat.
 
-### Insurance You Need
+### Asuransi yang Kamu Butuhkan
 
-**Health insurance**: Evaluate which partner's employer plan is better for a family. Compare premiums, deductibles, and networks. Open enrollment is typically in November.
+**Asuransi kesehatan**: Bandingkan paket kantor mana yang paling bagus untuk keluarga. Lihat premi, deductible, dan jaringan rumah sakit. Biasanya masa pendaftaran tahunan ada di akhir tahun.
 
-**Life insurance**: If either partner depends on the other's income, get term life insurance. Rule of thumb: 10-12x the primary earner's annual income. A healthy 30-year-old can get a $500,000 30-year term policy for $25-$40/month.
+**Asuransi jiwa**: Kalau salah satu bergantung pada penghasilan pasangannya, ambil asuransi jiwa berjangka. Patokan umum: 10-12x penghasilan tahunan pencari nafkah utama. Orang sehat usia 30-an bisa dapat polis Rp 7,5 miliar untuk 30 tahun dengan premi sekitar Rp 375 ribu-Rp 600 ribu per bulan.
 
-**Disability insurance**: More important than life insurance statistically. You are more likely to become disabled during your working years than to die. Get long-term disability coverage if your employer offers it, and supplement privately if needed.
+**Asuransi disabilitas**: Secara statistik, ini lebih penting daripada asuransi jiwa. Risiko mengalami disabilitas saat masih bekerja lebih besar daripada meninggal. Ambil perlindungan disabilitas jangka panjang kalau kantor menyediakannya, lalu tambahkan secara pribadi jika perlu.
 
-**Renter's or homeowner's insurance**: Essential. Make sure coverage limits match your actual belongings.
+**Asuransi sewa atau rumah**: Wajib. Pastikan batas pertanggungannya sesuai dengan barang yang benar-benar kamu punya.
 
-**Auto insurance**: Combine policies for a multi-car discount. Shop rates annually.
+**Asuransi mobil**: Gabungkan polis kalau punya lebih dari satu mobil untuk dapat diskon. Bandingkan harga setiap tahun.
 
-**Umbrella insurance**: Once your net worth exceeds $300,000-$500,000, consider a $1 million umbrella policy ($200-$400/year). It provides liability coverage beyond your auto and home policies.
+**Asuransi umbrella**: Begitu aset bersihmu melewati sekitar Rp 4,5 miliar-Rp 7,5 miliar, pertimbangkan polis umbrella senilai Rp 15 miliar (sekitar Rp 3 juta-Rp 6 juta per tahun). Ini memberi perlindungan tanggung gugat di luar polis mobil dan rumah.
 
-## Step 7: Define Shared Financial Goals
+## Langkah 7: Tentukan Tujuan Keuangan Bersama
 
-This is the most important step and the one most couples skip. Without shared goals, money management feels like sacrifice without purpose.
+Ini langkah paling penting, dan justru yang paling sering dilewatkan pasangan. Tanpa tujuan bersama, mengelola uang terasa seperti berkorban tanpa arah.
 
-### Short-Term Goals (1-3 Years)
+### Tujuan Jangka Pendek (1-3 Tahun)
 
-- Pay off [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/)
-- Build emergency fund to 6 months
-- Save for a vacation
-- Furnish your home
+- Melunasi [utang kartu kredit](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/)
+- Membangun dana darurat sampai 6 bulan
+- Menabung untuk liburan
+- Melengkapi perabot rumah
 
-### Medium-Term Goals (3-10 Years)
+### Tujuan Jangka Menengah (3-10 Tahun)
 
-- Save for a home down payment (typically 10-20% of purchase price)
-- Pay off student loans
-- Save for a major life event (wedding if not yet married, starting a family)
-- Build taxable investment portfolio
+- Menabung untuk uang muka rumah (biasanya 10-20% dari harga rumah)
+- Melunasi pinjaman pendidikan
+- Menabung untuk peristiwa besar dalam hidup (misalnya punya anak)
+- Membangun portofolio investasi kena pajak
 
-### Long-Term Goals (10+ Years)
+### Tujuan Jangka Panjang (10+ Tahun)
 
-- Retirement savings target
-- Children's college fund (529 plan)
-- Pay off mortgage early
-- Financial independence
+- Target tabungan pensiun
+- Dana pendidikan anak
+- Melunasi KPR lebih cepat
+- Kemandirian finansial
 
-### Making Goals Actionable
+### Membuat Tujuan Jadi Aksi Nyata
 
-For each goal, define:
+Untuk setiap tujuan, tentukan:
 
-- **Specific amount needed**
-- **Target date**
-- **Monthly savings required** (amount / months remaining)
-- **Where the money will be kept** (separate savings account, investment account, etc.)
+- **Jumlah pasti yang dibutuhkan**
+- **Tanggal target**
+- **Tabungan bulanan yang diperlukan** (jumlah / sisa bulan)
+- **Di mana uang akan disimpan** (rekening tabungan terpisah, rekening investasi, dan lain-lain)
 
-**Example**: Save $40,000 for a home down payment in 3 years
+**Contoh**: Menabung Rp 600 juta untuk uang muka rumah dalam 3 tahun
 
-- Monthly savings needed: $1,111/month
-- Where to save: High-yield savings account labeled "House Fund"
-- Funded from: Joint account automatic transfer on the 1st of each month
+- Tabungan bulanan yang dibutuhkan: Rp 16,7 juta/bulan
+- Disimpan di mana: Rekening tabungan berbunga tinggi dengan label “Dana Rumah”
+- Sumber dana: Transfer otomatis dari rekening bersama setiap tanggal 1
 
-## Money Rules That Keep the Peace
+## Aturan Uang yang Menjaga Hubungan Tetap Harmonis
 
-After three years of managing finances together, here are the informal rules my wife and I follow:
+Setelah tiga tahun mengelola keuangan bersama, ini aturan tidak tertulis yang saya dan istri ikuti:
 
-1. **The $200 rule**: Any purchase over $200 requires a conversation first. Neither of us makes unilateral big purchases.
-2. **No judgment on personal allowance**: What happens in the personal account stays in the personal account.
-3. **Annual financial planning date**: Every January, we review the prior year and set goals for the new year. We make it fun: nice dinner, wine, and a laptop.
-4. **No financial secrets**: Full transparency on all accounts, debts, and financial decisions.
-5. **Grace for mistakes**: We both overspend sometimes. The response is to adjust the budget, not assign blame.
-
+1. **Aturan Rp 3 juta**: Setiap pembelian di atas Rp 3 juta harus dibicarakan dulu. Tidak ada pembelian besar sepihak.
+2. **Tidak menghakimi uang pribadi**: Apa yang terjadi di rekening pribadi tetap di rekening pribadi.
+3. **Tanggal perencanaan keuangan tahunan**: Setiap Januari, kami meninjau tahun sebelumnya dan menetapkan tujuan untuk tahun baru. Kami buat menyenangkan: makan malam enak, minum wine, dan laptop.
+4. **Tidak ada rahasia keuangan**: Semua rekening, utang, dan keputusan finansial harus transparan.
+5. **Toleransi untuk kesalahan**: Kami berdua kadang belanja berlebihan. Responsnya adalah menyesuaikan anggaran, bukan saling menyalahkan.

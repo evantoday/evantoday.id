@@ -1,5 +1,5 @@
 ---
-title: "Dollar Cost Averaging: Kalahkan Volatilitas Pasar"
+title: "Dollar Cost Averaging: Lawan Volatilitas Pasar"
 description: "Jangan coba timing pasar. DCA bikin kamu investasi Rp 7,5 juta/bulan saat pasar naik turun — dan sering mengalahkan investasi sekaligus."
 pubDate: 2026-03-20
 category: "investing"

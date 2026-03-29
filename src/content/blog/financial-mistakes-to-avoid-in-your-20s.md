@@ -1,6 +1,6 @@
 ---
-title: "10 Money Mistakes in Your 20s That Cost Thousands [2026]"
-description: "These 10 financial mistakes cost 20-somethings $100K+ by age 35. Most don't realize until it's too late—check how many you're making right now."
+title: "10 Kesalahan Keuangan di Usia 20-an"
+description: "10 kesalahan finansial ini bisa bikin kamu rugi Rp 1,5 miliar+ sebelum usia 35. Cek sekarang."
 pubDate: 2026-03-09
 category: "personal-finance"
 tags: ["money mistakes", "20s finance", "financial mistakes", "young adults", "money tips"]
@@ -10,190 +10,189 @@ heroImageAlt: '10 Money Mistakes in Your 20s That Cost Thousands'
 
 ---
 
-## Your 20s Set the Financial Tone for Everything
+## Usia 20-an Menentukan Arah Keuanganmu
 
-Your 20s feel like they should be carefree. You are figuring out careers, relationships, where you want to live, who you want to be. Money feels like a problem for future you.
+Usia 20-an sering terasa seperti masa yang bebas-bebas saja. Kamu lagi cari arah karier, hubungan, tempat tinggal, dan versi diri yang kamu mau. Uang terasa seperti urusan “nanti saja”.
 
-But here is the uncomfortable truth: the financial decisions you make (or avoid) between ages 20 and 30 have a compounding effect that lasts decades. A single money mistake at 23 can cost you tens of thousands of dollars by 35. Ten mistakes? You are looking at six figures of lost wealth.
+Tapi ini kenyataan yang agak tidak nyaman: keputusan keuangan yang kamu ambil (atau justru kamu hindari) antara usia 20 sampai 30 punya efek berantai yang bisa bertahan puluhan tahun. Satu kesalahan uang di usia 23 bisa bikin kamu kehilangan puluhan juta rupiah pada usia 35. Sepuluh kesalahan? Kamu bisa kehilangan kekayaan sampai ratusan juta, bahkan lebih.
 
-I made most of these mistakes myself. Some I caught early enough to fix. Others cost me years of progress. Here are the ten biggest financial mistakes people in their 20s make, why they are so expensive, and exactly how to avoid them.
+Saya sendiri pernah melakukan sebagian besar kesalahan ini. Ada yang masih sempat saya perbaiki lebih awal. Ada juga yang bikin saya kehilangan bertahun-tahun kemajuan. Berikut 10 kesalahan finansial terbesar yang sering dilakukan orang di usia 20-an, kenapa biayanya mahal banget, dan cara menghindarinya.
 
-## Key Takeaways
+## Poin Penting
 
-- **Financial mistakes in your 20s compound** over time, costing far more than the initial dollar amount.
-- **Not investing early** is the single most expensive mistake due to lost compound interest.
-- **Lifestyle inflation** quietly eats every raise you get if you are not intentional.
-- **Most mistakes are behavioral**, not mathematical, which means awareness is the fix.
-- **You do not need to be perfect** but avoiding even half of these mistakes puts you years ahead of your peers.
+- **Kesalahan finansial di usia 20-an efeknya menumpuk** dari waktu ke waktu, jadi biayanya jauh lebih besar daripada angka awalnya.
+- **Tidak mulai investasi sejak awal** adalah kesalahan paling mahal karena hilangnya efek compounding.
+- **Inflasi gaya hidup** diam-diam menghabiskan setiap kenaikan gaji kalau kamu tidak sengaja mengelolanya.
+- **Kebanyakan kesalahan itu soal perilaku**, bukan matematika, jadi kesadaran adalah kuncinya.
+- **Kamu tidak harus sempurna**, tapi menghindari bahkan setengah dari kesalahan ini sudah bikin kamu jauh di depan teman sebayamu.
 
-## Mistake 1: Not Investing From Day One
+## Kesalahan 1: Tidak Mulai Investasi Sejak Hari Pertama
 
-This is the most expensive mistake on the list, and it is the one I regret the most.
+Ini kesalahan paling mahal di daftar ini, dan juga yang paling saya sesali.
 
-### The Math That Should Scare You
+### Hitungannya Bikin Ngeri
 
-If you invest $200 per month starting at age 22 in a simple S&P 500 [index fund](/blog/index-fund-investing-guide/) averaging 10 percent returns:
+Kalau kamu investasi Rp 3 juta per bulan mulai usia 22 di reksadana indeks S&P 500 sederhana yang rata-rata memberi imbal hasil 10 persen:
 
-- By age 35: $61,000
-- By age 45: $190,000
-- By age 55: $530,000
-- By age 65: $1,430,000
+- Usia 35: Rp 930 juta
+- Usia 45: Rp 2,9 miliar
+- Usia 55: Rp 8,1 miliar
+- Usia 65: Rp 21,9 miliar
 
-If you wait until 32 (just 10 years later) and invest the same $200 per month:
+Kalau kamu menunggu sampai usia 32, alias telat 10 tahun, lalu investasi Rp 3 juta per bulan yang sama:
 
-- By age 65: $530,000
+- Usia 65: Rp 8,1 miliar
 
-That 10-year delay cost you $900,000. Not because you invested less money, but because you gave up 10 years of compound growth.
+Tunda 10 tahun itu membuatmu kehilangan sekitar Rp 13,8 miliar. Bukan karena kamu menaruh uang lebih sedikit, tapi karena kamu kehilangan 10 tahun pertumbuhan majemuk.
 
-### What to Do Instead
+### Apa yang Harus Kamu Lakukan
 
-Open a Roth IRA today. It takes 15 minutes at Fidelity, Schwab, or Vanguard. Start with whatever you can afford, even $50 per month. Buy a total stock market index fund (VTSAX, FSKAX, or VTI) and do not touch it. You can contribute up to $7,000 per year in 2026. If your employer offers a 401(k) match, contribute at least enough to get the full match. That is free money.
+Buka akun investasi/reksadana hari ini. Di Indonesia, kamu bisa mulai lewat platform investasi yang tersedia di banyak bank dan aplikasi investasi. Mulai dari nominal yang kamu mampu, bahkan Rp 500 ribu per bulan. Beli reksadana indeks pasar saham atau ETF indeks, lalu jangan diutak-atik. Kalau kantor kamu punya program dana pensiun/DPLK dengan matching, kontribusikan minimal sampai dapat match penuh. Itu uang gratis.
 
-## Mistake 2: Carrying Credit Card Debt
+## Kesalahan 2: Membawa Utang Kartu Kredit
 
-The average credit card interest rate in America is over 22 percent. That means a $5,000 balance you only make minimum payments on will take over 20 years to pay off and cost you more than $8,000 in interest.
+Bunga kartu kredit bisa sangat tinggi. Di banyak kasus, bunga efektifnya bisa di atas 20 persen. Artinya, saldo Rp 75 juta yang cuma kamu bayar minimum bisa butuh bertahun-tahun untuk lunas dan bikin kamu bayar bunga belasan juta rupiah.
 
-### Why It Happens in Your 20s
+### Kenapa Ini Sering Terjadi di Usia 20-an
 
-Credit card companies love targeting young adults. You get pre-approved offers in the mail, sign-up bonuses, and "0 percent intro APR" deals that turn into 25 percent nightmares six months later.
+Penerbit kartu kredit suka menargetkan orang dewasa muda. Kamu dapat penawaran pre-approved, bonus pendaftaran, dan promo “0 persen cicilan” yang berubah jadi bunga tinggi beberapa bulan kemudian.
 
-### What to Do Instead
+### Apa yang Harus Kamu Lakukan
 
-- Pay your full balance every month, no exceptions.
-- If you already have [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/), stop using the cards immediately and throw every extra dollar at the highest-rate card.
-- If you cannot trust yourself, use a debit card for daily spending and keep one credit card only for building credit with small recurring charges like a streaming subscription.
-- Never carry a balance to "build credit." That is a myth. You build credit by using the card and paying it off.
+- Bayar tagihan penuh setiap bulan, tanpa kecuali.
+- Kalau kamu sudah punya [utang kartu kredit](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/), berhenti pakai kartunya sekarang juga dan alihkan semua dana ekstra ke kartu dengan bunga tertinggi.
+- Kalau kamu belum bisa disiplin, pakai kartu debit untuk pengeluaran harian dan simpan satu kartu kredit فقط untuk transaksi kecil berulang, misalnya langganan streaming.
+- Jangan pernah menyisakan saldo hanya untuk “bangun BI Checking/SLIK OJK”. Itu mitos. Skor kredit dibangun dengan memakai kartu lalu membayarnya lunas.
 
-## Mistake 3: Ignoring Your Student Loans
+## Kesalahan 3: Mengabaikan Pinjaman Pendidikan
 
-Americans carry $1.77 trillion in student loan debt. The average graduate owes about $37,000. Many 20-somethings put their loans on autopilot minimum payments and try not to think about them.
+Banyak orang punya beban pinjaman pendidikan yang cukup besar. Lulusan baru sering membawa utang puluhan juta rupiah. Banyak orang di usia 20-an membiarkan cicilan berjalan otomatis dan berusaha tidak memikirkannya.
 
-### Why That Is Expensive
+### Kenapa Ini Mahal
 
-On a standard 10-year repayment plan at 5.5 percent interest, a $37,000 student loan costs about $11,000 in interest. If you extend to a 20-year plan to reduce monthly payments, the interest jumps to over $23,000.
+Dengan skema pembayaran standar 10 tahun dan bunga 5,5 persen, pinjaman pendidikan Rp 555 juta bisa membuat kamu membayar bunga sekitar Rp 165 juta. Kalau tenor diperpanjang jadi 20 tahun supaya cicilan bulanan lebih ringan, bunganya bisa naik jauh lebih besar.
 
-### What to Do Instead
+### Apa yang Harus Kamu Lakukan
 
-- Know your exact balance, interest rate, and repayment timeline.
-- If you have federal loans, explore income-driven repayment plans if cash is tight.
-- If you can afford extra payments, target the highest-rate loans first.
-- Look into Public Service Loan Forgiveness (PSLF) if you work in government or nonprofit.
-- Refinancing with a private lender can lower your rate but you lose federal protections.
-- Never default. The consequences (wage garnishment, credit destruction, tax refund seizure) are severe.
+- Ketahui saldo pasti, bunga, dan jadwal pelunasanmu.
+- Kalau kamu punya pinjaman pemerintah, cari tahu opsi cicilan berbasis penghasilan kalau cash flow lagi ketat.
+- Kalau kamu mampu bayar lebih, fokus ke pinjaman dengan bunga tertinggi dulu.
+- Cek apakah ada program keringanan atau penghapusan utang untuk profesi tertentu di sektor publik/nonprofit.
+- Refinancing ke lembaga keuangan swasta bisa menurunkan bunga, tapi kamu bisa kehilangan perlindungan tertentu.
+- Jangan sampai gagal bayar. Konsekuensinya serius: denda, reputasi kredit rusak, dan masalah penagihan.
 
-## Mistake 4: No Emergency Fund
+## Kesalahan 4: Tidak Punya Dana Darurat
 
-Without an [emergency fund](/blog/emergency-fund-guide/), every surprise becomes a crisis that goes on a credit card. And credit card debt at 22 percent interest turns a $800 car repair into a $1,200 problem.
+Tanpa [dana darurat](/blog/emergency-fund-guide/), setiap kejadian tak terduga berubah jadi krisis yang masuk kartu kredit. Dan utang kartu kredit dengan bunga tinggi bisa membuat perbaikan mobil Rp 12 juta terasa seperti masalah Rp 18 juta.
 
-### The Cycle
+### Siklusnya
 
-No savings leads to credit card usage for emergencies, which leads to debt, which leads to minimum payments that eat into your savings capacity, which leads to no savings. It is a trap.
+Tidak punya tabungan membuat kamu pakai kartu kredit untuk keadaan darurat, lalu jadi utang, lalu bayar minimum, lalu kemampuan menabung makin kecil, lalu tetap tidak punya tabungan. Ini jebakan.
 
-### What to Do Instead
+### Apa yang Harus Kamu Lakukan
 
-Save $1,000 as fast as you can. Sell stuff, cut spending, pick up extra hours. Then build to $2,000-$5,000, which covers most common emergencies in your 20s. Keep it in a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account earning 4-5 percent APY, separate from your checking account.
+Kumpulkan Rp 15 juta secepat mungkin. Jual barang yang tidak dipakai, kurangi pengeluaran, ambil kerja tambahan. Setelah itu, bangun sampai Rp 30 juta-Rp 75 juta, yang bisa menutup sebagian besar keadaan darurat umum di usia 20-an. Simpan di rekening tabungan berbunga tinggi atau deposito yang mudah dicairkan, terpisah dari rekening harian.
 
-## Mistake 5: Lifestyle Inflation
+## Kesalahan 5: Inflasi Gaya Hidup
 
-You get a raise from $50,000 to $60,000. Instead of saving or investing the extra $10,000, you upgrade your apartment, buy a nicer car, and start eating out more. Six months later, you feel exactly as broke as before.
+Kamu dapat kenaikan gaji dari Rp 15 juta jadi Rp 18 juta per bulan. Alih-alih menabung atau investasi selisihnya, kamu pindah ke apartemen yang lebih mahal, beli mobil yang lebih bagus, dan lebih sering makan di luar. Enam bulan kemudian, rasanya kamu tetap sama-sama seret.
 
-### Why It Is So Dangerous
+### Kenapa Ini Berbahaya
 
-Lifestyle inflation is invisible. Each individual upgrade feels small and justified. But together they consume every raise you will ever get. I watched friends double their salaries from age 22 to 28 and end up with less savings than when they started.
+Inflasi gaya hidup itu tidak kelihatan. Setiap upgrade terasa kecil dan masuk akal. Tapi kalau digabung, semuanya menghabiskan setiap kenaikan gaji yang kamu dapat. Saya melihat teman-teman menggandakan gaji dari usia 22 ke 28, tapi tabungannya malah lebih kecil dari saat mereka mulai.
 
-### What to Do Instead
+### Apa yang Harus Kamu Lakukan
 
-Follow the 50-50 rule: every time your income increases, save or invest 50 percent of the increase and use the other 50 percent for lifestyle improvements. If you get a $5,000 raise, $2,500 per year goes to your Roth IRA and $2,500 improves your life. You still upgrade your lifestyle, just at half the rate.
+Pakai aturan 50-50: setiap kali penghasilan naik, simpan atau investasikan 50 persen dari kenaikannya dan pakai 50 persen sisanya untuk memperbaiki kualitas hidup. Kalau kamu dapat kenaikan Rp 5 juta per bulan, Rp 2,5 juta per bulan masuk ke investasi dan Rp 2,5 juta sisanya untuk hidup lebih nyaman. Kamu tetap naik level, tapi lebih terkontrol.
 
-## Mistake 6: Not Negotiating Your Salary
+## Kesalahan 6: Tidak Menegosiasikan Gaji
 
-The average starting salary difference between people who negotiate and people who do not is $5,000-$7,000. That might not sound like much, but salary is cumulative. Every future raise, bonus, and job offer is built on top of your previous salary.
+Perbedaan gaji awal antara orang yang negosiasi dan yang tidak bisa mencapai Rp 75 juta-Rp 105 juta per tahun. Mungkin terdengar kecil, tapi gaji itu efeknya menumpuk. Semua kenaikan gaji, bonus, dan tawaran kerja berikutnya dibangun di atas gaji sebelumnya.
 
-### The Lifetime Cost
+### Biaya Seumur Hidup
 
-A $5,000 difference at age 23, compounded with 3 percent annual raises, means you earn $200,000+ less over a 40-year career. Not negotiating a single salary costs you the price of a house.
+Selisih Rp 75 juta di usia 23, kalau tumbuh dengan kenaikan 3 persen per tahun, bisa bikin kamu menghasilkan lebih sedikit Rp 3 miliar+ selama karier 40 tahun. Tidak negosiasi satu kali gaji saja bisa setara harga rumah.
 
-### What to Do Instead
+### Apa yang Harus Kamu Lakukan
 
-- Research the market rate for your position using Glassdoor, Levels.fyi, Payscale, or LinkedIn Salary.
-- Always negotiate. Even if the offer feels generous. The worst they say is no.
-- Use this script: "I am excited about this opportunity. Based on my research and experience, I was hoping for something in the range of [X to Y]. Is there flexibility?"
-- Negotiate once a year at your current job too. Come with documentation of your accomplishments and market data.
+- Riset standar gaji untuk posisi kamu lewat Glassdoor, Levels.fyi, Payscale, atau LinkedIn Salary.
+- Selalu negosiasi. Bahkan kalau tawarannya terasa sudah bagus. Jawaban terburuk mereka biasanya cuma “tidak”.
+- Pakai skrip ini: “Saya sangat antusias dengan kesempatan ini. Berdasarkan riset dan pengalaman saya, saya berharap ada di kisaran [X sampai Y]. Apakah masih ada ruang untuk negosiasi?”
+- Negosiasikan juga kenaikan gaji di tempat kerja sekarang, setidaknya setahun sekali. Bawa bukti pencapaian dan data pasar.
 
-## Mistake 7: No Health Insurance
+## Kesalahan 7: Tidak Punya Asuransi Kesehatan
 
-If you are young and healthy, health insurance feels like a waste of money. Until you break your ankle playing basketball and the ER bill is $15,000.
+Kalau kamu masih muda dan sehat, asuransi kesehatan sering terasa seperti pengeluaran yang sia-sia. Sampai kamu cedera dan tagihan rumah sakitnya mencapai puluhan juta rupiah.
 
-### What to Do Instead
+### Apa yang Harus Kamu Lakukan
 
-- Stay on your parents' plan until age 26 if possible.
-- If your employer offers health insurance, take it, especially if they subsidize the premium.
-- If you are uninsured, check Healthcare.gov during open enrollment. Marketplace plans with subsidies can cost $0-$100 per month depending on income.
-- At minimum, get a high-deductible health plan (HDHP) paired with a Health Savings Account (HSA). The HSA is triple tax-advantaged, meaning it is one of the best investment accounts available.
+- Tetap ikut asuransi orang tua kalau masih memungkinkan.
+- Kalau kantor menyediakan asuransi kesehatan, ambil, apalagi kalau premi disubsidi.
+- Kalau kamu belum punya asuransi, cek opsi asuransi kesehatan yang tersedia saat pendaftaran terbuka. Paket dengan subsidi bisa jauh lebih terjangkau tergantung penghasilan.
+- Minimal, ambil asuransi kesehatan dengan deductible tinggi yang dipadukan dengan rekening tabungan kesehatan atau instrumen investasi yang memang disiapkan untuk biaya medis. Ini salah satu alat keuangan terbaik kalau dipakai dengan benar.
 
-## Mistake 8: Co-Signing Loans
+## Kesalahan 8: Menjadi Penjamin Pinjaman
 
-Your best friend needs a car loan but has bad credit. Your partner wants an apartment but cannot qualify alone. You co-sign because you trust them.
+Teman dekatmu butuh kredit mobil tapi riwayat kreditnya buruk. Pasanganmu mau sewa apartemen tapi belum lolos sendiri. Kamu jadi penjamin karena percaya.
 
-### Why This Destroys Finances
+### Kenapa Ini Bisa Menghancurkan Keuangan
 
-When you co-sign, you are 100 percent liable for the debt if the other person stops paying. And they often do. A 2016 CreditCards.com survey found that 38 percent of co-signers lost money because the primary borrower did not pay. It also impacts your debt-to-income ratio, making it harder for you to get your own loans.
+Saat kamu jadi penjamin, kamu 100 persen bertanggung jawab atas utang itu kalau orang lain berhenti bayar. Dan itu sering terjadi. Survei CreditCards.com pada 2016 menemukan bahwa 38 persen penjamin kehilangan uang karena peminjam utama tidak membayar. Ini juga memengaruhi rasio utang terhadap penghasilanmu, sehingga lebih sulit untuk mengajukan pinjaman sendiri.
 
-### What to Do Instead
+### Apa yang Harus Kamu Lakukan
 
-Never co-sign. If someone needs a co-signer, it is because lenders have already determined they are a risk. You are not smarter than the lender's risk models. Help them in other ways, like offering to help them build credit or find a more affordable option.
+Jangan pernah jadi penjamin. Kalau seseorang butuh penjamin, artinya pemberi pinjaman sudah menilai mereka berisiko. Kamu tidak lebih pintar dari model risiko bank. Bantu dengan cara lain, misalnya bantu mereka membangun riwayat kredit atau cari opsi yang lebih terjangkau.
 
-## Mistake 9: Paying for a Brand New Car
+## Kesalahan 9: Membeli Mobil Baru
 
-The average new car payment in America is $726 per month. For a 20-something earning $45,000-$55,000, that is a budget killer.
+Cicilan mobil baru rata-rata bisa sangat besar. Untuk orang usia 20-an dengan penghasilan Rp 6,5 juta-Rp 8,5 juta per bulan, ini bisa jadi pembunuh anggaran.
 
-### The Real Cost
+### Biaya Nyatanya
 
-A new car loses 20-30 percent of its value in the first two years. A $35,000 car is worth $24,000-$28,000 two years later, but you still owe most of the original loan. You are underwater on an asset that gets cheaper every day.
+Mobil baru bisa kehilangan 20-30 persen nilainya dalam dua tahun pertama. Mobil seharga Rp 525 juta mungkin tinggal bernilai Rp 360 juta-Rp 420 juta dua tahun kemudian, tapi kamu masih menanggung sebagian besar pinjaman awal. Kamu terjebak di aset yang nilainya turun setiap hari.
 
-### What to Do Instead
+### Apa yang Harus Kamu Lakukan
 
-Buy a 3-5 year old used car from a reliable brand (Toyota, Honda, Mazda). You let someone else take the depreciation hit. A 2022 Honda Civic with 40,000 miles costs $18,000-$20,000 versus $28,000+ new. Pay cash if possible, or take a small, short-term loan (36 months max).
+Beli mobil bekas usia 3-5 tahun dari merek yang terkenal awet (Toyota, Honda, Mazda). Kamu membiarkan orang lain menanggung depresiasi awal. Honda Civic 2022 dengan jarak tempuh 64.000 km bisa jauh lebih murah dibanding versi baru. Bayar tunai kalau bisa, atau ambil pinjaman kecil dengan tenor pendek (maksimal 36 bulan).
 
-## Mistake 10: Not Having a Budget
+## Kesalahan 10: Tidak Punya Anggaran
 
-"I will just be careful with money" is not a budget. Without a written plan for your money, you will always wonder where it went at the end of the month.
+“Yang penting saya hati-hati saja” bukanlah anggaran. Tanpa rencana tertulis untuk uangmu, kamu akan selalu bingung ke mana larinya uang di akhir bulan.
 
-### What to Do Instead
+### Apa yang Harus Kamu Lakukan
 
-Pick a budgeting method and try it for 60 days:
+Pilih metode budgeting dan coba selama 60 hari:
 
-- **50/30/20 rule:** 50 percent needs, 30 percent wants, 20 percent savings. Simple starting point.
-- **Zero-based budget:** Every dollar is assigned a job before the month starts. More detailed but more effective.
-- **Pay-yourself-first:** Automate savings immediately after payday. Spend whatever remains freely.
+- **Aturan 50/30/20:** 50 persen kebutuhan, 30 persen keinginan, 20 persen tabungan/investasi. Titik awal yang sederhana.
+- **Budget nol:** Setiap rupiah sudah diberi tugas sebelum bulan dimulai. Lebih detail, tapi lebih efektif.
+- **Bayar diri sendiri dulu:** Otomatiskan tabungan tepat setelah gajian. Sisanya boleh kamu pakai bebas.
 
-Use an app like YNAB ($14.99 per month, worth every penny), EveryDollar (free tier available), or a simple Google Sheets template.
+Pakai aplikasi seperti GoPay, OVO, Dana, atau template Google Sheets sederhana untuk melacak pengeluaran.
 
-## The Compound Cost of Multiple Mistakes
+## Biaya Menumpuk dari Beberapa Kesalahan
 
-Here is what these mistakes look like combined for a typical 25-year-old:
+Begini gambaran gabungan kesalahan-kesalahan ini untuk orang usia 25 tahun pada umumnya:
 
-| Mistake | Estimated Cost by Age 35 |
-|---------|-------------------------|
-| Not investing for 5 years | $25,000-$40,000 |
-| Carrying credit card debt | $5,000-$15,000 |
-| Student loan mismanagement | $5,000-$12,000 |
-| No emergency fund (credit card emergencies) | $3,000-$8,000 |
-| Lifestyle inflation | $20,000-$50,000 |
-| Not negotiating salary | $25,000-$50,000 |
-| New car depreciation | $8,000-$15,000 |
-| **Total potential cost** | **$91,000-$190,000** |
+| Kesalahan | Perkiraan Biaya pada Usia 35 |
+|---------|------------------------------|
+| Tidak investasi selama 5 tahun | Rp 375 juta-Rp 600 juta |
+| Membawa utang kartu kredit | Rp 75 juta-Rp 225 juta |
+| Salah kelola pinjaman pendidikan | Rp 75 juta-Rp 180 juta |
+| Tidak punya dana darurat (darurat pakai kartu kredit) | Rp 45 juta-Rp 120 juta |
+| Inflasi gaya hidup | Rp 300 juta-Rp 750 juta |
+| Tidak negosiasi gaji | Rp 375 juta-Rp 750 juta |
+| Depresiasi mobil baru | Rp 120 juta-Rp 225 juta |
+| **Total potensi biaya** | **Rp 1,365 miliar-Rp 2,85 miliar** |
 
-These are conservative estimates. The real cost, when you factor in compound growth on the money you could have invested, is even higher.
+Ini estimasi konservatif. Biaya nyatanya, kalau kamu hitung juga pertumbuhan majemuk dari uang yang seharusnya bisa kamu investasikan, bisa jauh lebih besar.
 
-## The Good News
+## Kabar Baiknya
 
-You do not have to fix all ten things at once. Start with the biggest impact items:
+Kamu tidak harus memperbaiki semuanya sekaligus. Mulai dari yang paling berdampak:
 
-1. **[Start investing](/blog/how-much-money-do-you-need-to-start-investing/) today.** Even $50 per month. Open a Roth IRA and buy an index fund.
-2. **Build a $1,000 emergency fund.** This stops the credit card debt cycle.
-3. **Pay your credit card in full every month.** If you already have debt, make a payoff plan.
-4. **Negotiate your next salary.** Whether at your current job or your next one.
+1. **[Mulai investasi](/blog/how-much-money-do-you-need-to-start-investing/) hari ini.** Bahkan Rp 500 ribu per bulan. Buka akun investasi dan beli reksadana indeks.
+2. **Bangun dana darurat Rp 15 juta.** Ini menghentikan siklus utang kartu kredit.
+3. **Bayar kartu kredit lunas setiap bulan.** Kalau kamu sudah punya utang, buat rencana pelunasan.
+4. **Negosiasikan gaji berikutnya.** Baik di tempat kerja sekarang maupun saat pindah kerja.
 
-These four actions alone can save you six figures over the next decade.
-
+Empat langkah ini saja bisa menghemat kamu kekayaan setara ratusan juta hingga miliaran rupiah dalam satu dekade ke depan.
