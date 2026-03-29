@@ -1,6 +1,6 @@
 ---
-title: "7 Proven Ways to Diversify Your Portfolio [2026]"
-description: "Stop putting all your money in one place. I'll show you how to diversify with $500, 3 asset classes, and a simple plan."
+title: "7 Cara Terbukti Diversifikasi Portofolio [2026]"
+description: "Jangan taruh semua uang di satu tempat. Saya akan tunjukkan cara diversifikasi dengan Rp 7,5 juta, 3 kelas aset, dan rencana sederhana."
 pubDate: 2026-03-26
 updatedDate: 2026-03-26
 category: "investing"
@@ -18,30 +18,30 @@ If you've been Googling **how to diversify your investment portfolio**, you're p
 ## Key Takeaways
 
 - Diversification means spreading your money across different asset classes, sectors, and risk levels.
-- For most Americans, a simple mix of cash, mutual funds/index funds, stocks, and maybe a small crypto slice is more practical than chasing "hot" picks.
-- Your portfolio should match your goal timeline: [emergency fund](/blog/emergency-fund-guide/), 1–3 years, 3–7 years, or 7+ years.
-- You don't need huge capital to start. I think $500 to $1,000 is enough to build a basic diversified portfolio.
-- Rebalancing matters. A portfolio that drifts too far from your target can quietly become riskier than you planned.
+- For most orang Indonesia, campuran sederhana antara dana tunai, reksadana/index fund, saham, dan mungkin sedikit kripto lebih praktis daripada mengejar saham "panas".
+- Portofolio kamu harus cocok dengan jangka waktu tujuan: [dana darurat](/blog/emergency-fund-guide/), 1–3 tahun, 3–7 tahun, atau 7+ tahun.
+- Kamu nggak perlu modal besar untuk mulai. Menurut saya, Rp 7,5 juta sampai Rp 15 juta sudah cukup untuk membangun portofolio dasar yang terdiversifikasi.
+- Rebalancing itu penting. Portofolio yang melenceng terlalu jauh dari target bisa diam-diam jadi lebih berisiko dari yang kamu rencanakan.
 
 ## What Does It Mean to Diversify Your Investment Portfolio?
 
 Diversifying your investment portfolio means not relying on one asset, one sector, or one market to carry all your returns. The basic idea is simple: if one investment falls, others may hold up or rise.
 
-For US investors, I like to think about diversification in three layers:
+For investors di Indonesia, saya suka memikirkan diversifikasi dalam tiga lapisan:
 
-1. **Across asset classes** — cash, savings accounts, mutual funds, stocks, bonds, gold, crypto.
-2. **Across risk levels** — safe, moderate, aggressive.
-3. **Across time horizons** — money you need soon vs money you can leave alone for years.
+1. **Across asset classes** — cash, tabungan, reksadana, saham, obligasi, emas, kripto.
+2. **Across risk levels** — aman, moderat, agresif.
+3. **Across time horizons** — uang yang dibutuhkan قريب vs uang yang bisa dibiarkan bertahun-tahun.
 
-A lot of people confuse diversification with "owning many random things." That's not enough. If you own five tech stocks, you're still heavily exposed to one theme. If you own one stock, one crypto asset, and one gold bar, that's better — but still not ideal if all three behave similarly during stress.
+Banyak orang mengira diversifikasi itu berarti "punya banyak hal acak." Padahal itu belum tentu benar. Kalau kamu punya lima saham teknologi, kamu masih sangat terpapar ke satu tema. Kalau kamu punya satu saham, satu aset kripto, dan satu emas batangan, itu memang lebih baik — tapi tetap belum ideal kalau ketiganya bergerak mirip saat pasar sedang stres.
 
-What I recommend is building a portfolio that can survive different market conditions. For example:
+Yang saya sarankan adalah membangun portofolio yang bisa bertahan di berbagai kondisi pasar. Misalnya:
 
-- When stocks are weak, bonds or FDIC-insured savings can soften the blow.
-- When inflation rises, gold may help protect purchasing power.
-- When the market rallies, equity funds or stocks can drive growth.
+- Saat saham melemah, obligasi atau tabungan yang dijamin LPS bisa meredam dampaknya.
+- Saat inflasi naik, emas bisa membantu menjaga daya beli.
+- Saat pasar naik, reksadana saham atau saham bisa mendorong pertumbuhan.
 
-I've seen too many beginners go all-in on one stock because it "looks cheap" or on crypto because a friend made money fast. That's not investing. That's concentration risk with a fancy label. If you want a deeper foundation on risk, I'd also read my piece on [financial mistakes to avoid in your 20s](/blog/financial-mistakes-to-avoid-in-your-20s/).
+Saya sudah terlalu sering melihat pemula all-in ke satu saham karena "kelihatannya murah" atau ke kripto karena teman dapat untung cepat. Itu bukan investasi. Itu risiko konsentrasi dengan label yang lebih keren. Kalau kamu ingin fondasi yang lebih kuat soal risiko, saya juga sarankan baca tulisan saya tentang [financial mistakes to avoid in your 20s](/blog/financial-mistakes-to-avoid-in-your-20s/).
 
 ## Why Is Diversification Important for US Investors?
 
@@ -51,99 +51,99 @@ The main benefit is that diversification reduces the damage from a single failur
 
 Here's why I think it matters for Americans:
 
-- **Sector concentration is real.** Many US investors end up overweight in tech or a few popular names in the S&P 500.
-- **Inflation erodes cash.** Even with FDIC-insured savings, sitting in cash too long means losing purchasing power over time.
-- **Lifestyle inflation is common.** If you're in your 20s or 30s, your income might rise fast, but so do expenses. You need investments that fit changing goals.
-- **Market sentiment moves fast.** A stock that looks unstoppable can cool off quickly.
+- **Sector concentration is real.** Banyak investor Indonesia juga akhirnya terlalu berat di saham teknologi atau beberapa nama populer.
+- **Inflation erodes cash.** Bahkan dengan tabungan yang dijamin LPS, terlalu lama menaruh uang di cash tetap bisa menggerus daya beli.
+- **Lifestyle inflation is common.** Kalau kamu berusia 20-an atau 30-an, penghasilan bisa naik cepat, tapi pengeluaran juga ikut naik. Kamu butuh investasi yang sesuai dengan tujuan yang berubah.
+- **Market sentiment moves fast.** Saham yang kelihatannya nggak bisa turun pun bisa melemah dengan cepat.
 
-There's also a psychological benefit. A diversified portfolio is easier to stay invested in. And staying invested matters more than trying to be clever. I've personally found that investors panic less when they know not everything depends on one asset.
+Ada juga manfaat psikologisnya. Portofolio yang terdiversifikasi lebih mudah dipertahankan. Dan bertahan di pasar itu lebih penting daripada sok pintar. Saya pribadi merasa investor lebih jarang panik kalau mereka tahu tidak semuanya bergantung pada satu aset.
 
-If you're still building your money system, I'd strongly suggest reading [how to create a monthly spending plan](/blog/how-to-create-a-monthly-spending-plan/) first. Diversification works best when your cash flow is under control.
+Kalau kamu masih membangun sistem keuanganmu, saya sangat menyarankan baca [how to create a monthly spending plan](/blog/how-to-create-a-monthly-spending-plan/) dulu. Diversifikasi bekerja paling baik saat arus kas kamu sudah terkendali.
 
 ## How to Diversify Your Investment Portfolio: Step-by-Step
 
-The simplest answer to **how to diversify your investment portfolio** is this: start with your goals, choose a mix of assets, then rebalance regularly. That's the whole game.
+Jawaban paling sederhana untuk **how to diversify your investment portfolio** adalah ini: mulai dari tujuanmu, pilih campuran aset, lalu rebalance secara rutin. Selesai. Intinya memang itu.
 
 ### Step 1: Separate your money by purpose
 
-Before buying anything, I split money into buckets:
+Sebelum membeli apa pun, saya membagi uang ke beberapa “kantong”:
 
-- **Emergency fund**: 3–6 months of expenses in a high-yield savings account or money market fund
-- **Short-term goals**: 1–3 years, use low-volatility assets
-- **Medium-term goals**: 3–7 years, use balanced assets
-- **Long-term goals**: 7+ years, use higher-growth assets (and max out your 401(k) or IRA contributions)
+- **Emergency fund**: 3–6 bulan biaya hidup di tabungan berbunga tinggi atau reksadana pasar uang
+- **Short-term goals**: 1–3 tahun, gunakan aset yang volatilitasnya rendah
+- **Medium-term goals**: 3–7 tahun, gunakan aset yang seimbang
+- **Long-term goals**: 7+ tahun, gunakan aset yang lebih agresif untuk pertumbuhan
 
-I think this is where many people go wrong. They invest money they'll need in 12 months into volatile assets like stocks or crypto. That's not diversification. That's bad timing.
+Menurut saya, di sinilah banyak orang salah langkah. Mereka menaruh uang yang akan dipakai 12 bulan lagi ke aset yang fluktuatif seperti saham atau kripto. Itu bukan diversifikasi. Itu salah penempatan waktu.
 
 ### Step 2: Pick your core assets
 
-For most Americans, I like a core portfolio built from:
+For most investors, saya suka portofolio inti yang dibangun dari:
 
-- **Cash / high-yield savings** for liquidity (look for FDIC-insured accounts)
-- **Bond or money market mutual funds** for stability
-- **Equity index funds or blue-chip stocks** for growth (S&P 500 index funds are a great starting point)
-- **Gold** for defensive balance
-- **A small crypto allocation** only if you understand the risks
+- **Cash / high-yield savings** untuk likuiditas (cari rekening yang dijamin LPS)
+- **Reksadana pasar uang atau obligasi** untuk stabilitas
+- **Reksadana saham atau saham blue-chip** untuk pertumbuhan (reksadana indeks seperti IDX30 atau LQ45 bisa jadi awal yang bagus)
+- **Emas** untuk penyeimbang defensif
+- **Sedikit kripto** hanya kalau kamu paham risikonya
 
-If you want a practical starting point, I'd look at [ETF investing explained](/blog/etf-investing-explained/) and [index fund investing guide](/blog/index-fund-investing-guide/). Those are usually better foundations than picking random individual stocks.
+Kalau kamu butuh titik awal yang praktis, saya sarankan lihat [ETF investing explained](/blog/etf-investing-explained/) dan [index fund investing guide](/blog/index-fund-investing-guide/). Biasanya itu fondasi yang lebih baik daripada pilih saham acak.
 
 ### Step 3: Set a target allocation
 
-A target allocation is just your ideal percentage split. For example:
+Target allocation itu cuma pembagian persentase idealmu. Contohnya:
 
-- 20% cash / savings
-- 30% bond or money market funds
-- 40% equity funds / stocks
-- 10% gold
+- 20% cash / tabungan
+- 30% obligasi atau reksadana pasar uang
+- 40% reksadana saham / saham
+- 10% emas
 
-Or, for a more aggressive investor:
+Atau, untuk investor yang lebih agresif:
 
 - 10% cash
-- 20% bonds
-- 60% equities
-- 10% gold or crypto
+- 20% obligasi
+- 60% saham
+- 10% emas atau kripto
 
-The exact mix depends on your age, stability, and goal timeline. I'll show some examples below.
+Komposisi yang tepat tergantung usia, kestabilan penghasilan, dan jangka waktu tujuanmu. Saya akan kasih contoh di bawah.
 
 ### Step 4: Invest gradually
 
-You don't need to deploy everything at once. I actually prefer monthly investing because it smooths out entry prices and keeps you disciplined. If you're using apps like [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/), Vanguard, Schwab, or [Robinhood](/blog/robinhood-review-features-and-how-to-use/), auto-invest features can make this very easy. And if your employer offers a 401(k) match, make sure you're contributing enough to get the full match — that's free money.
+Kamu nggak harus menaruh semuanya sekaligus. Saya justru lebih suka investasi bulanan karena membantu meratakan harga beli dan menjaga disiplin. Kalau kamu pakai aplikasi seperti [BCA](/blog/fidelity-review-for-stock-and-fund-investing/), Mandiri, Jago, Seabank, atau [Ajaib](/blog/robinhood-review-features-and-how-to-use/), fitur auto-invest bisa bikin ini jauh lebih mudah. Dan kalau kantor kamu menyediakan dana pensiun/DPLK dengan kontribusi matching, pastikan kamu setor cukup untuk dapat manfaat penuh — itu uang gratis.
 
 ### Step 5: Rebalance every 6–12 months
 
-If your target is 60% stocks and 40% bonds, but stocks rally and become 75% of your portfolio, you're now taking more risk than planned. Rebalancing means selling a bit of what grew too much and buying what lagged.
+Kalau targetmu 60% saham dan 40% obligasi, tapi saham naik dan sekarang jadi 75% portofolio, artinya kamu sedang mengambil risiko lebih besar dari rencana awal. Rebalancing berarti menjual sedikit aset yang terlalu besar dan membeli aset yang tertinggal.
 
-That sounds boring. It is. But boring is good when it comes to wealth-building.
+Kedengarannya membosankan. Memang. Tapi membosankan itu bagus kalau urusannya membangun kekayaan.
 
 ## What Assets Should You Include in a Diversified Portfolio?
 
-A diversified portfolio usually includes assets that behave differently from one another. For US investors, I think these are the most practical building blocks.
+Portofolio yang terdiversifikasi biasanya berisi aset yang perilakunya berbeda satu sama lain. Untuk investor Indonesia, menurut saya ini adalah komponen yang paling praktis.
 
 ### 1. Cash and emergency savings
 
-Cash isn't an investment in the strict sense, but it's part of a healthy portfolio. I keep this in a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account or money market fund because it protects me from selling investments at the wrong time. Look for FDIC-insured accounts offering competitive rates.
+Cash memang bukan investasi dalam arti ketat, tapi ini bagian penting dari portofolio yang sehat. Saya menyimpannya di [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) atau reksadana pasar uang karena itu melindungi saya dari harus menjual investasi di waktu yang salah. Cari rekening yang dijamin LPS dengan bunga yang kompetitif.
 
-Good places for this include high-yield savings accounts or neobanks. If you want a product comparison angle, my [Ally Bank review: still worth it in 2026](/blog/ally-bank-review-still-worth-it-in-2026/) and [best neobanks in 2026](/blog/best-neobanks-2026/) can help.
+Tempat yang cocok untuk ini termasuk tabungan berbunga tinggi atau neobank. Kalau kamu ingin sudut pandang perbandingan produk, ulasan saya tentang [Ally Bank review: still worth it in 2026](/blog/ally-bank-review-still-worth-it-in-2026/) dan [best neobanks in 2026](/blog/best-neobanks-2026/) bisa membantu.
 
 ### 2. Money market and bond mutual funds
 
-These are useful for stability. I like them for short- to medium-term goals because they're less volatile than stocks. They won't make you rich fast, but they help anchor the portfolio.
+Ini berguna untuk stabilitas. Saya suka ini untuk tujuan jangka pendek sampai menengah karena volatilitasnya lebih rendah daripada saham. Memang nggak bikin cepat kaya, tapi membantu jadi jangkar portofolio.
 
 ### 3. Stocks or equity funds
 
-This is your growth engine. For beginners, I usually prefer broad exposure through index funds or diversified ETFs rather than trying to pick winners every month. An S&P 500 index fund is a solid foundation. If you want to go deeper, my article on [best dividend stocks for beginners](/blog/best-dividend-stocks-for-beginners/) is a good next step.
+Ini mesin pertumbuhanmu. Untuk pemula, saya biasanya lebih suka eksposur luas lewat reksadana indeks atau ETF terdiversifikasi daripada mencoba menebak pemenang setiap bulan. Reksadana indeks IDX30 atau LQ45 adalah fondasi yang solid. Kalau kamu mau lebih dalam, artikel saya tentang [best dividend stocks for beginners](/blog/best-dividend-stocks-for-beginners/) bisa jadi langkah berikutnya.
 
 ### 4. Gold
 
-Gold is not exciting, but it's useful. I see it as a hedge, not a growth machine. When markets get nervous, gold can help reduce portfolio stress.
+Emas memang nggak seru, tapi berguna. Saya melihatnya sebagai lindung nilai, bukan mesin pertumbuhan. Saat pasar mulai cemas, emas bisa membantu mengurangi tekanan portofolio.
 
 ### 5. Crypto
 
-I'm not against crypto, but I'm strict about position sizing. If you include it, keep it small. I'd personally treat crypto as a satellite position, not a core holding. If you want a reality check, read [understanding the risks of cryptocurrency investing](/blog/risks-of-cryptocurrency-investing/).
+Saya bukan anti-kripto, tapi saya sangat ketat soal ukuran posisinya. Kalau kamu memasukkannya, porsinya kecil saja. Saya pribadi menganggap kripto sebagai posisi satelit, bukan kepemilikan inti. Kalau kamu butuh cek realitas, baca [understanding the risks of cryptocurrency investing](/blog/risks-of-cryptocurrency-investing/).
 
 ### 6. International exposure
 
-This is often overlooked by US investors. You don't want your entire portfolio tied to one country's economy. Some global exposure through international ETFs, foreign stock funds, or emerging market funds can improve diversification.
+Ini sering diabaikan oleh investor Indonesia. Kamu nggak mau seluruh portofoliomu bergantung pada ekonomi satu negara. Sedikit eksposur global lewat ETF internasional, reksadana saham luar negeri, atau reksadana pasar berkembang bisa meningkatkan diversifikasi.
 
 ## What Is a Good Portfolio Mix for Americans?
 
@@ -157,158 +157,157 @@ Here's a simple table I'd use as a baseline:
 | Balanced | 15% | 30% | 40% | 10% | 5% |
 | Aggressive | 10% | 15% | 60% | 10% | 5% |
 
-My honest opinion: for most Americans aged 20–40, a **balanced** approach is the sweet spot. You still get growth, but you're not overexposed to volatility.
+Pendapat jujur saya: untuk kebanyakan orang berusia 20–40 tahun, pendekatan **balanced** adalah titik tengah yang paling pas. Kamu tetap dapat pertumbuhan, tapi tidak terlalu terekspos volatilitas.
 
-Here's how I'd think about it by life stage:
+Begini cara saya memikirkannya berdasarkan tahap hidup:
 
-- **Age 20–25**: If your income is unstable, keep more cash and build a strong emergency fund first. Open a Roth IRA if you can — the earlier you start, the more tax-free growth you get.
-- **Age 26–30**: Start increasing equity exposure, but don't ignore bonds or gold. Max out your 401(k) match at minimum.
-- **Age 31–40**: Focus on goal-based allocation. If you're saving for a house, kids' college, or early retirement, split by purpose.
+- **Age 20–25**: Kalau penghasilan belum stabil, simpan lebih banyak cash dan bangun dana darurat yang kuat dulu. Buka reksadana/investasi kalau kamu bisa — makin cepat mulai, makin besar efek pertumbuhan jangka panjang.
+- **Age 26–30**: Mulai tingkatkan porsi saham, tapi jangan abaikan obligasi atau emas. Minimal, pastikan kamu memanfaatkan matching dari kantor atau kontribusi pensiun.
+- **Age 31–40**: Fokus pada alokasi berbasis tujuan. Kalau kamu menabung untuk rumah, pendidikan anak, atau pensiun dini, pisahkan berdasarkan tujuan.
 
-If you want a more aggressive long-term framework, I'd also look at [financial independence and early retirement (FIRE) movement](/blog/achieving-financial-independence-and-early-retirement-fire-movement/). But don't copy FIRE portfolios blindly. Your job stability and family obligations matter.
+Kalau kamu ingin kerangka jangka panjang yang lebih agresif, saya juga sarankan lihat [financial independence and early retirement (FIRE) movement](/blog/achieving-financial-independence-and-early-retirement-fire-movement/). Tapi jangan menyalin portofolio FIRE mentah-mentah. Stabilitas kerja dan tanggungan keluarga tetap penting.
 
 ## How Much Money Do You Need to Start Diversifying?
 
-You can start diversifying with as little as $500. That's enough to buy a few different instruments through modern investing apps.
+Kamu bisa mulai diversifikasi dengan modal serendah Rp 7,5 juta. Itu cukup untuk membeli beberapa instrumen lewat aplikasi investasi modern.
 
-Here's a practical example I like:
+Ini contoh praktis yang saya suka:
 
-- $100 in a money market mutual fund
-- $150 in a bond mutual fund
-- $200 in an equity index fund
-- $50 in gold or crypto as an experimental slice
+- Rp 1,5 juta di reksadana pasar uang
+- Rp 2,25 juta di reksadana obligasi
+- Rp 3 juta di reksadana indeks / reksadana saham
+- Rp 750 ribu di emas atau kripto sebagai porsi eksperimen
 
-That's not a perfect portfolio, but it's a real one. And real beats theoretical.
+Itu bukan portofolio sempurna, tapi itu nyata. Dan yang nyata lebih baik daripada yang cuma teori.
 
-If you have $1,000 per month, I'd do something like this:
+Kalau kamu punya Rp 15 juta per bulan, saya akan membaginya seperti ini:
 
-- $200 emergency savings top-up
-- $300 bond or money market fund
-- $400 equity fund / ETF
-- $100 gold or crypto
+- Rp 3 juta tambahan dana darurat
+- Rp 4,5 juta ke reksadana obligasi atau pasar uang
+- Rp 6 juta ke reksadana saham / ETF
+- Rp 1,5 juta ke emas atau kripto
 
-If you have $3,000 per month, you can be more deliberate:
+Kalau kamu punya Rp 45 juta per bulan, kamu bisa lebih terstruktur:
 
-- $500 cash buffer
-- $750 bonds
-- $1,200 equities
-- $300 gold
-- $250 satellite bets
+- Rp 7,5 juta buffer kas
+- Rp 11,25 juta obligasi
+- Rp 18 juta saham
+- Rp 4,5 juta emas
+- Rp 3,75 juta taruhan satelit
 
-I think people overestimate the capital needed to diversify. The real challenge isn't money. It's consistency.
+Saya pikir banyak orang melebih-lebihkan modal yang dibutuhkan untuk diversifikasi. Tantangan sebenarnya bukan uang. Tantangannya adalah konsistensi.
 
 ## How Do You Diversify Without Overcomplicating Things?
 
-The best way to diversify is to keep your system simple enough that you'll actually follow it. Too many people build a portfolio they can't maintain.
+Cara terbaik untuk diversifikasi adalah menjaga sistem tetap sederhana supaya benar-benar dijalankan. Terlalu banyak orang membangun portofolio yang tidak sanggup mereka pertahankan.
 
-Here's what I recommend:
+Ini yang saya sarankan:
 
 ### Keep a core-satellite structure
 
-- **Core**: 70–90% of your portfolio in broad, stable assets
-- **Satellite**: 10–30% in higher-risk or thematic bets
+- **Core**: 70–90% portofolio di aset yang luas dan stabil
+- **Satellite**: 10–30% di aset berisiko lebih tinggi atau tema tertentu
 
-For example, your core might be index funds, bonds, and gold. Your satellite might be a few stocks, crypto, or sector-specific plays.
+Misalnya, inti portofoliomu bisa berupa reksadana indeks, obligasi, dan emas. Sementara satelitnya bisa beberapa saham, kripto, atau taruhan sektor tertentu.
 
 ### Avoid fake diversification
 
-These are common traps:
+Ini jebakan yang sering terjadi:
 
-- Owning 6 stocks from the same sector
-- Buying 3 different crypto coins that move together
-- Holding multiple funds with nearly identical holdings
-- Overloading on one bank, one commodity, or one theme
+- Punya 6 saham dari sektor yang sama
+- Beli 3 koin kripto berbeda yang pergerakannya mirip
+- Menyimpan beberapa reksadana dengan isi yang hampir sama
+- Terlalu berat di satu bank, satu komoditas, atau satu tema
 
 ### Use rules, not feelings
 
-I like simple rules:
+Saya suka aturan sederhana:
 
-1. Don't let any one asset exceed 30–40% unless you intentionally want concentration.
-2. Don't add new assets just because they're trending.
-3. Review your allocation every 6 months.
-4. Rebalance when one position drifts more than 5–10 percentage points from target.
+1. Jangan biarkan satu aset melebihi 30–40% kecuali kamu memang sengaja ingin konsentrasi.
+2. Jangan menambah aset baru hanya karena sedang tren.
+3. Tinjau alokasi setiap 6 bulan.
+4. Rebalance kalau satu posisi melenceng lebih dari 5–10 poin persentase dari target.
 
-That's it. No need to turn portfolio management into a second job.
+Selesai. Nggak perlu mengubah pengelolaan portofolio jadi pekerjaan kedua.
 
 ## What Are the Most Common Diversification Mistakes?
 
-The biggest mistake is thinking you're diversified when you're really just scattered. A scattered portfolio looks busy but still carries hidden risk.
+Kesalahan terbesar adalah mengira kamu sudah diversifikasi padahal sebenarnya cuma tersebar. Portofolio yang terlihat ramai belum tentu aman; sering kali justru menyimpan risiko tersembunyi.
 
-Here are the mistakes I see most often:
+Ini kesalahan yang paling sering saya lihat:
 
 ### 1. Owning too many similar assets
 
-If you own several tech stocks, your portfolio may still be heavily tied to the same economic drivers. Same with multiple crypto assets or overlapping index funds.
+Kalau kamu punya beberapa saham teknologi, portofoliomu mungkin tetap sangat bergantung pada faktor ekonomi yang sama. Begitu juga dengan beberapa aset kripto atau reksadana yang isinya tumpang tindih.
 
 ### 2. Ignoring correlation
 
-Correlation means how assets move relative to each other. If two assets usually rise and fall together, they don't diversify much. I prefer assets that react differently to inflation, interest rates, and market panic.
+Correlation berarti bagaimana aset bergerak relatif satu sama lain. Kalau dua aset biasanya naik-turun bersama, manfaat diversifikasinya kecil. Saya lebih suka aset yang bereaksi berbeda terhadap inflasi, suku bunga, dan kepanikan pasar.
 
 ### 3. Skipping rebalancing
 
-A portfolio can drift fast. One winning asset can quietly become too large and increase your risk. Rebalancing keeps your plan honest.
+Portofolio bisa melenceng cepat. Satu aset yang menang besar bisa diam-diam jadi terlalu besar dan meningkatkan risikomu. Rebalancing menjaga rencanamu tetap sesuai jalur.
 
 ### 4. Chasing performance
 
-I've done this myself early on. You see last year's winner and want to buy it now. That usually means you're buying after the easy money has already been made.
+Saya juga pernah melakukan ini di awal. Kamu lihat pemenang tahun lalu dan ingin beli sekarang. Biasanya itu berarti kamu membeli setelah uang mudahnya sudah lewat.
 
 ### 5. Forgetting your goal
 
-Diversification is not the goal. Reaching your financial target is. A portfolio for a home down payment in 3 years should look very different from a retirement portfolio.
+Diversifikasi bukan tujuan akhir. Mencapai target keuanganmu yang utama. Portofolio untuk uang muka rumah dalam 3 tahun harus sangat berbeda dari portofolio pensiun.
 
-If you're still learning how market behavior works, my guide on [how to read stock charts for beginners](/blog/how-to-read-stock-charts-for-beginners/) can help you avoid emotional decisions.
+Kalau kamu masih belajar bagaimana perilaku pasar bekerja, panduan saya tentang [how to read stock charts for beginners](/blog/how-to-read-stock-charts-for-beginners/) bisa membantu kamu menghindari keputusan emosional.
 
 ## How Often Should You Rebalance Your Portfolio?
 
-I think once or twice a year is enough for most people. Rebalancing too often can create unnecessary fees, stress, and bad timing.
+Saya pikir sekali atau dua kali setahun sudah cukup untuk kebanyakan orang. Rebalancing terlalu sering justru bisa menambah biaya, stres, dan keputusan yang buruk.
 
-A simple rhythm works best:
+Pola sederhana biasanya paling efektif:
 
-- **Every 6 months** if you're active and want tighter control
-- **Every 12 months** if you prefer a hands-off approach
-- **After major life changes** like job loss, marriage, or buying a house
+- **Every 6 months** kalau kamu aktif dan ingin kontrol lebih ketat
+- **Every 12 months** kalau kamu lebih suka pendekatan santai
+- **After major life changes** seperti kehilangan pekerjaan, menikah, atau membeli rumah
 
-Here's a straightforward rebalancing process:
+Ini proses rebalancing yang sederhana:
 
-1. Check each asset's current percentage.
-2. Compare it to your target allocation.
-3. Identify what's overweight and underweight.
-4. Add new money to the underweight assets first.
-5. Sell only if the drift is large or your goals changed.
+1. Cek persentase tiap aset saat ini.
+2. Bandingkan dengan target alokasi.
+3. Identifikasi mana yang overweight dan underweight.
+4. Tambahkan dana baru ke aset yang porsinya masih kurang dulu.
+5. Jual hanya kalau pergeserannya besar atau tujuanmu berubah.
 
-I usually prefer using fresh monthly contributions to rebalance instead of selling everything around. It's simpler and often more tax-efficient — especially inside a 401(k) or IRA where there are no tax consequences for rebalancing.
+Saya biasanya lebih suka memakai setoran bulanan baru untuk rebalancing daripada menjual semuanya lalu mulai lagi. Lebih sederhana dan sering kali lebih efisien pajak — terutama di dalam dana pensiun/DPLK atau reksadana yang tidak menimbulkan konsekuensi pajak saat rebalancing.
 
 ## Sample Diversified Portfolios for US Investors
 
-Here are three sample portfolios I'd actually consider for different types of people.
+Berikut tiga contoh portofolio yang menurut saya realistis untuk tipe orang yang berbeda.
 
 ### Portfolio 1: Beginner with $1,000/month
 
-- 20% emergency savings
-- 30% money market/bond fund
-- 40% index fund or diversified equity fund
-- 10% gold
+- 20% dana darurat
+- 30% reksadana pasar uang/obligasi
+- 40% reksadana indeks atau reksadana saham terdiversifikasi
+- 10% emas
 
-This is my favorite starting point. It's balanced, realistic, and not too stressful.
+Ini favorit saya untuk awal. Seimbang, realistis, dan nggak terlalu bikin stres.
 
 ### Portfolio 2: Young professional, higher risk tolerance
 
 - 10% cash
-- 20% bonds
-- 55% equities
-- 10% gold
-- 5% crypto
+- 20% obligasi
+- 55% saham
+- 10% emas
+- 5% kripto
 
-This works if your income is stable and you can handle volatility without panic-selling.
+Ini cocok kalau penghasilanmu stabil dan kamu bisa menghadapi volatilitas tanpa panik jual.
 
 ### Portfolio 3: Goal-based conservative investor
 
 - 30% cash
-- 35% bonds
-- 20% equities
-- 15% gold
+- 35% obligasi
+- 20% saham
+- 15% emas
 
-This is better if you're protecting capital or saving for a near-term goal.
+Ini lebih cocok kalau kamu sedang menjaga modal atau menabung untuk tujuan jangka dekat.
 
-I'd rather you start with one of these simple models than build a complicated portfolio you don't understand.
-
+Saya lebih suka kamu mulai dari salah satu model sederhana ini daripada membangun portofolio rumit yang sendiri pun kamu nggak paham.

@@ -1,6 +1,6 @@
 ---
 title: "10 Cara Hemat Rp 4,5 Juta/Bulan Transportasi"
-description: "Orang Amerika habiskan Rp 15 juta+/bulan untuk transportasi. Coba 10 cara ini—dari aplikasi bensin sampai carpooling—dan simpan Rp 4,5 juta+ tiap bulan."
+description: "Orang Amerika habiskan Rp 15 juta+/bulan untuk transportasi. Coba 10 cara ini dan simpan Rp 4,5 juta+ tiap bulan."
 pubDate: 2026-03-14
 category: "personal-finance"
 tags: ["save on transport", "car expenses", "commute savings", "gas savings", "transportation costs"]
@@ -12,9 +12,9 @@ heroImageAlt: '10 Ways to Save $300/Month on Transportation'
 
 ## Kenapa Biaya Transportasi Diam-diam Menghancurkan Anggaran
 
-Transportasi adalah pengeluaran terbesar kedua untuk rumah tangga di Amerika, tepat di bawah biaya tempat tinggal. Menurut AAA, biaya rata-rata memiliki dan mengoperasikan mobil baru di AS adalah $12.182 per tahun—atau lebih dari Rp 15 juta per bulan. Untuk mobil bekas, biayanya turun jadi sekitar Rp 9 juta-Rp 12 juta per bulan kalau dihitung dari cicilan, asuransi, bensin, perawatan, dan depresiasi.
+Transportasi adalah salah satu pengeluaran terbesar rumah tangga di Amerika, tepat di bawah biaya tempat tinggal. Menurut AAA, biaya rata-rata punya dan mengoperasikan mobil baru di AS adalah $12.182 per tahun—atau lebih dari Rp 15 juta per bulan. Untuk mobil bekas, biayanya bisa turun jadi sekitar Rp 9 juta-Rp 12 juta per bulan kalau dihitung dari cicilan, asuransi, bensin, perawatan, dan depresiasi.
 
-Kebanyakan orang menganggap “biaya mobil” itu cuma cicilan bulanan. Padahal cicilan cuma puncak gunung es. Asuransi, bensin, perawatan, parkir, tol, registrasi, dan depresiasi sering kali totalnya lebih besar daripada cicilan itu sendiri.
+Kebanyakan orang mengira “biaya mobil” itu cuma cicilan bulanan. Padahal cicilan cuma puncak gunung es. Asuransi, bensin, perawatan, parkir, tol, registrasi, dan depresiasi sering kali totalnya lebih besar daripada cicilan itu sendiri.
 
 Dulu saya pernah menghabiskan Rp 16,5 juta per bulan untuk transportasi tanpa sadar—cicilan mobil Rp 6,8 juta, asuransi Rp 2,7 juta, bensin Rp 3 juta, perawatan rata-rata Rp 1,8 juta, dan parkir serta tol Rp 2,3 juta. Setelah menerapkan strategi di bawah ini, saya menurunkannya jadi sekitar Rp 10,2 juta per bulan. Selisih Rp 6,3 juta langsung masuk ke akun investasi saya. Kalau kamu sedang mencari cara lain untuk [mengurangi pengeluaran bulanan](/blog/10-effective-ways-to-reduce-monthly-expenses/), transportasi adalah salah satu tempat terbaik untuk mulai.
 

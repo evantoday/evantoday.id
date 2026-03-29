@@ -8,7 +8,7 @@ tags: ["credit card debt", "debt payoff", "Indonesia", "personal finance", "budg
 author: "Evan"
 ---
 
-I’ve seen a lot of people in Indonesia treat credit card debt like it’s “just temporary,” then suddenly the tagihan has grown into something ugly. I get it — one month of swipe here, one emergency there, and before you know it, you’re paying bunga on money you don’t even remember spending. If you’re searching for how to pay off credit card debt fast Indonesia, the good news is this: you don’t need a miracle, you need a system.
+Saya sudah sering melihat orang di Indonesia menganggap utang kartu kredit itu “sementara saja,” lalu tiba-tiba tagihannya membengkak jadi masalah besar. Saya paham — satu bulan gesek di sana, satu darurat di sini, dan tanpa sadar kamu sudah bayar bunga dari uang yang bahkan kamu tidak ingat habiskan. Kalau kamu sedang mencari cara cepat melunasi utang kartu kredit di Indonesia, kabar baiknya begini: kamu tidak butuh keajaiban, kamu butuh sistem.
 
 **Key Takeaways**
 - Cara tercepat untuk melunasi utang kartu kredit adalah berhenti belanja baru, lalu serang saldo dengan metode pelunasan yang jelas.
@@ -23,7 +23,7 @@ Utang kartu kredit cepat membengkak karena bunga berbunga, pembayaran minimum ya
 
 Menurut saya, ini perangkap yang sering tidak disadari. Kartu kredit terasa fleksibel, jadi otak kita menganggapnya alat bayar, bukan alat utang. Tapi begitu kamu membawa saldo, kenyamanan itu berubah jadi pinjaman yang sangat mahal. Kalau kartu kamu mengenakan bunga sekitar 2% sampai 3% per bulan, kedengarannya kecil sampai kamu sadar bunga itu dikenakan ke saldo yang mungkin tidak pernah benar-benar turun kalau kamu terus pakai kartunya.
 
-Contoh sederhananya begini. Misalnya kamu punya utang Rp 10 juta dan cuma bayar minimum. Kalau pembayaranmu hampir habis untuk bunga dan hanya sedikit mengurangi pokok, kamu bisa berakhir membayar jauh lebih dari Rp 10 juta dalam jangka panjang. Tambah beberapa swipe lagi untuk Grab, Tokopedia, atau liburan akhir pekan, saldo itu bisa tetap mentok berbulan-bulan. Karena itu saya selalu bilang: berhenti fokus ke limit kartu, dan mulai fokus ke total utang.
+Contoh sederhananya begini. Misalnya kamu punya utang Rp 10 juta dan cuma bayar minimum. Kalau pembayaranmu hampir habis untuk bunga dan hanya sedikit mengurangi pokok, kamu bisa berakhir membayar jauh lebih dari Rp 10 juta dalam jangka panjang. Tambah beberapa gesek lagi untuk Grab, Tokopedia, atau liburan akhir pekan, saldo itu bisa tetap mentok berbulan-bulan. Karena itu saya selalu bilang: berhenti fokus ke limit kartu, dan mulai fokus ke total utang.
 
 Kalau kamu juga sedang menanggung masalah uang lain, saya sarankan baca [how to stop living paycheck to paycheck Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/) karena utang kartu kredit sering kali cuma gejala dari masalah arus kas yang lebih besar. Dan kalau kamu ingin tahu uangmu sebenarnya lari ke mana, [how to create a monthly spending plan in Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/) adalah tempat terbaik untuk mulai.
 

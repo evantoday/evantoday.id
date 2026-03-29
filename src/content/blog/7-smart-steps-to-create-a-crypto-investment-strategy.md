@@ -1,6 +1,6 @@
 ---
-title: "7 Steps to Build a Crypto Strategy [2026]"
-description: "Stop buying crypto randomly. Build a strategy that fits your budget, risk, and goals in 30 minutes — step #4 changed how I invest."
+title: "7 Langkah Membangun Strategi Crypto [2026]"
+description: "Jangan beli crypto asal-asalan. Bangun strategi yang sesuai budget, risiko, dan tujuanmu dalam 30 menit."
 pubDate: 2026-03-28
 updatedDate: 2026-03-28
 category: "cryptocurrency"
@@ -12,318 +12,318 @@ I used to think crypto investing was just about picking the “next coin” befo
 
 ## Key Takeaways
 
-- A good crypto investment strategy starts with your goal, time horizon, and risk tolerance — not with the coin you want to buy.
-- For most Indonesians, a simple structure like 70/20/10 or 60/30/10 is easier to stick to than chasing altcoins.
-- DCA, position sizing, and a clear exit plan matter more than trying to time the market.
-- You should only use money you can afford to lock up for years, especially if your tabungan and [emergency fund](/blog/emergency-fund-guide/) aren’t solid yet.
-- Security matters as much as returns. If you can’t protect your account, your strategy is weak from the start.
+- Strategi investasi crypto yang bagus dimulai dari tujuan, jangka waktu, dan toleransi risiko — bukan dari koin yang ingin kamu beli.
+- Untuk kebanyakan orang Indonesia, struktur sederhana seperti 70/20/10 atau 60/30/10 lebih mudah dijalankan daripada mengejar altcoin.
+- DCA, ukuran posisi, dan rencana keluar yang jelas jauh lebih penting daripada mencoba menebak timing pasar.
+- Kamu sebaiknya hanya memakai uang yang memang sanggup “dikunci” selama bertahun-tahun, apalagi kalau tabungan dan [dana darurat](/blog/emergency-fund-guide/) kamu belum kuat.
+- Keamanan sama pentingnya dengan imbal hasil. Kalau kamu tidak bisa melindungi akunmu, strategimu sudah lemah dari awal.
 
 ## What Is a Crypto Investment Strategy?
 
-A crypto investment strategy is a written plan for how you buy, hold, rebalance, and eventually sell crypto based on your goals. It helps you avoid emotional decisions like FOMO buying at the top or panic selling during a crash.
+Strategi investasi crypto adalah rencana tertulis tentang bagaimana kamu membeli, menyimpan, menyeimbangkan ulang, dan akhirnya menjual crypto berdasarkan tujuanmu. Ini membantu kamu menghindari keputusan emosional seperti FOMO beli di puncak atau panik jual saat pasar jatuh.
 
-In my experience, most people in Indonesia don’t fail in crypto because they picked the “wrong” coin. They fail because they had no plan. They bought BTC, SOL, or meme coins based on hype from X, Telegram, or friends at the office, then froze when the market moved against them.
+Dari pengalaman saya, kebanyakan orang di Indonesia gagal di crypto bukan karena memilih koin yang “salah”. Mereka gagal karena tidak punya rencana. Mereka beli BTC, SOL, atau meme coin karena hype dari X, Telegram, atau teman kantor, lalu bingung saat pasar bergerak berlawanan.
 
-A real strategy answers five basic questions:
+Strategi yang benar menjawab lima pertanyaan dasar:
 
-1. Why am I investing in crypto?
-2. How much can I afford to put in?
-3. Which coins fit my risk level?
-4. How often will I buy?
-5. When will I sell or rebalance?
+1. Kenapa saya investasi di crypto?
+2. Berapa banyak uang yang sanggup saya masukkan?
+3. Koin apa yang cocok dengan tingkat risiko saya?
+4. Seberapa sering saya akan beli?
+5. Kapan saya akan jual atau rebalance?
 
-That’s it. If you can answer those five questions honestly, you’re already ahead of most retail investors.
+Selesai. Kalau kamu bisa menjawab lima pertanyaan itu dengan jujur, kamu sudah selangkah lebih maju dibanding kebanyakan investor ritel.
 
-I also think crypto should sit inside a broader financial plan. If your cash flow is messy, start with [how to stop living paycheck to paycheck Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/) first. If you’re just beginning to invest, I’d even argue [index funds](/blog/index-fund-investing-guide/) should come before crypto for many people, because they’re easier to understand and less brutal on your emotions. You can compare that mindset with my [index fund investing in Indonesia guide](/blog/index-fund-investing-in-indonesia-guide/).
+Saya juga percaya crypto sebaiknya berada di dalam rencana keuangan yang lebih besar. Kalau arus kas kamu masih berantakan, mulai dulu dari [cara berhenti hidup dari gaji ke gaji di Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/). Kalau kamu baru mulai investasi, saya bahkan akan bilang [reksadana indeks](/blog/index-fund-investing-guide/) lebih dulu daripada crypto untuk banyak orang, karena lebih mudah dipahami dan tidak sebrutal itu ke emosi. Kamu bisa bandingkan pola pikir ini dengan [panduan investasi reksadana indeks di Indonesia](/blog/index-fund-investing-in-indonesia-guide/).
 
 ### Why strategy matters more in crypto than in stocks
 
-Crypto moves faster than most assets I’ve invested in. A 10% swing in a day isn’t rare. A 40% drawdown in a month can happen without warning.
+Crypto bergerak lebih cepat daripada kebanyakan aset yang pernah saya investasikan. Naik-turun 10% dalam sehari bukan hal aneh. Penurunan 40% dalam sebulan bisa terjadi tanpa peringatan.
 
-That volatility is exactly why you need rules. Without rules, you’ll do the worst possible thing at the worst possible time. I’ve seen people buy Rp 5 juta worth of a coin after a green candle, then sell it for a loss two weeks later because they couldn’t handle the noise.
+Volatilitas seperti inilah alasan kamu butuh aturan. Tanpa aturan, kamu akan melakukan hal paling buruk di waktu yang paling buruk. Saya pernah lihat orang beli Rp 5 juta sebuah koin setelah candle hijau, lalu menjual rugi dua minggu kemudian karena tidak tahan dengan noise pasar.
 
-A strategy won’t remove risk. But it will stop random behavior from destroying your capital.
+Strategi memang tidak menghapus risiko. Tapi strategi akan mencegah perilaku asal-asalan menghancurkan modalmu.
 
 ## How Much Money Should You Put Into Crypto?
 
-The right amount is usually small enough that a bad month won’t ruin your finances. For most Indonesians, I think 5% to 15% of investable assets is a reasonable crypto range, and beginners should stay closer to the lower end.
+Jumlah yang tepat biasanya kecil, cukup supaya bulan buruk tidak merusak keuanganmu. Untuk kebanyakan orang Indonesia, saya rasa 5% sampai 15% dari aset yang bisa diinvestasikan adalah kisaran crypto yang masuk akal, dan pemula sebaiknya tetap di sisi bawah.
 
-If you earn Rp 8 juta a month and can invest Rp 1 juta after bills, debt, and savings, I’d be careful about putting all of it into crypto. I’d rather see something like:
+Kalau kamu punya penghasilan Rp 8 juta per bulan dan bisa investasi Rp 1 juta setelah bayar tagihan, utang, dan tabungan, saya akan hati-hati kalau semua uang itu dimasukkan ke crypto. Saya lebih suka melihat pembagian seperti ini:
 
-- Rp 600.000 into a safer long-term bucket
-- Rp 200.000 into crypto
-- Rp 200.000 into cash savings or emergency fund top-up
+- Rp 600.000 ke bucket jangka panjang yang lebih aman
+- Rp 200.000 ke crypto
+- Rp 200.000 ke tabungan tunai atau top up dana darurat
 
-That may sound conservative, but I’ve found conservatism helps people stay invested. The best strategy is the one you can actually follow for 2-3 years.
+Mungkin terdengar konservatif, tapi saya merasa sikap konservatif membantu orang tetap bertahan di pasar. Strategi terbaik adalah yang benar-benar bisa kamu jalankan selama 2-3 tahun.
 
-Here’s the order I recommend before going heavy on crypto:
+Urutan yang saya rekomendasikan sebelum agresif ke crypto:
 
-1. Build an emergency fund of at least 3-6 months of expenses.
-2. Pay off high-interest debt, especially kartu kredit or paylater.
-3. Start a basic investment habit in something more stable.
-4. Add crypto as a satellite position, not your whole portfolio.
+1. Bangun dana darurat minimal 3-6 bulan pengeluaran.
+2. Lunasi utang berbunga tinggi, terutama kartu kredit atau paylater.
+3. Mulai kebiasaan investasi dasar di instrumen yang lebih stabil.
+4. Tambahkan crypto sebagai posisi satelit, bukan seluruh portofolio.
 
-If you’re carrying expensive debt, I’d honestly prioritize [how to pay off credit card debt fast Indonesia](/blog/how-to-pay-off-credit-card-debt-fast-indonesia/) before increasing crypto exposure. A 3% monthly return in crypto means nothing if your debt is charging you 2% per month.
+Kalau kamu masih membawa utang mahal, jujur saya akan memprioritaskan [cara melunasi utang kartu kredit dengan cepat di Indonesia](/blog/how-to-pay-off-credit-card-debt-fast-indonesia/) sebelum menambah eksposur crypto. Return 3% per bulan di crypto tidak ada artinya kalau utangmu menagih 2% per bulan.
 
 ### A simple allocation rule I like
 
-For a beginner crypto portfolio, I like this structure:
+Untuk portofolio crypto pemula, saya suka struktur ini:
 
-| Investor Type | Bitcoin | Ethereum | Altcoins | Cash Reserve |
+| Tipe Investor | Bitcoin | Ethereum | Altcoin | Cadangan Kas |
 |---|---:|---:|---:|---:|
-| Very cautious | 80% | 20% | 0% | 10-20% outside crypto |
-| Balanced beginner | 60% | 25% | 15% | 10-20% outside crypto |
-| Aggressive | 40% | 30% | 30% | 10% outside crypto |
+| Sangat hati-hati | 80% | 20% | 0% | 10-20% di luar crypto |
+| Pemula seimbang | 60% | 25% | 15% | 10-20% di luar crypto |
+| Agresif | 40% | 30% | 30% | 10% di luar crypto |
 
-I personally think most new investors in Indonesia should start with the “very cautious” or “balanced beginner” setup. Bitcoin and Ethereum already give you enough market exposure without turning your portfolio into a gamble.
+Menurut saya, sebagian besar investor baru di Indonesia sebaiknya mulai dari setup “sangat hati-hati” atau “pemula seimbang”. Bitcoin dan Ethereum sudah memberi eksposur pasar yang cukup tanpa mengubah portofolio kamu jadi ajang taruhan.
 
 ## How Do You Build a Crypto Investment Strategy Step by Step?
 
-The best way to create a crypto investment strategy is to [defi](/blog/defi-explained-in-simple-terms-for-beginners/)ne your goal, choose your allocation, automate your buying, and set exit rules before you buy anything. That keeps emotion out of the process.
+Cara terbaik membangun strategi investasi crypto adalah dengan [defi](/blog/defi-explained-in-simple-terms-for-beginners/)ne tujuanmu, memilih alokasi, mengotomatiskan pembelian, dan menetapkan aturan keluar sebelum membeli apa pun. Itu menjaga emosi tetap keluar dari proses.
 
-Here’s the exact framework I’d use if I were starting from zero today.
+Berikut framework yang akan saya pakai kalau saya mulai dari nol hari ini.
 
 ### 1) Define your goal first
 
-Be specific. “I want to get rich” is not a goal. “I want to build Rp 50 juta in crypto over 5 years for long-term growth” is a goal.
+Harus spesifik. “Saya ingin kaya” bukan tujuan. “Saya ingin membangun Rp 50 juta di crypto dalam 5 tahun untuk pertumbuhan jangka panjang” adalah tujuan.
 
-Your goal determines everything else:
+Tujuanmu menentukan semuanya:
 
-- Short-term goal: lower allocation, more cash reserve
-- Medium-term goal: moderate DCA, focus on BTC/ETH
-- Long-term goal: can tolerate volatility, but still needs risk control
+- Tujuan jangka pendek: alokasi lebih kecil, cadangan kas lebih besar
+- Tujuan jangka menengah: DCA moderat, fokus ke BTC/ETH
+- Tujuan jangka panjang: bisa tahan volatilitas, tapi tetap perlu kontrol risiko
 
-I’m a big believer in writing the goal down. Put it in your notes app or even on paper. If you can’t explain why you own a coin, you probably shouldn’t own it.
+Saya sangat percaya tujuan harus ditulis. Simpan di notes atau bahkan di kertas. Kalau kamu tidak bisa menjelaskan kenapa kamu punya sebuah koin, kemungkinan besar kamu memang tidak perlu memilikinya.
 
 ### 2) Decide your time horizon
 
-Crypto is not ideal money if you’ll need it in 6 months. I think the minimum sensible holding period is 3 years, and 5 years is better.
+Crypto bukan uang yang ideal kalau kamu akan membutuhkannya dalam 6 bulan. Saya rasa minimal periode pegang yang masuk akal adalah 3 tahun, dan 5 tahun lebih baik.
 
-Why? Because crypto cycles can be ugly. If you buy during a euphoric phase and then need to sell during a drawdown, your “investment” becomes a forced loss.
+Kenapa? Karena siklus crypto bisa sangat jelek. Kalau kamu beli saat fase euforia lalu harus jual saat harga turun, “investasi” kamu berubah jadi rugi paksa.
 
-A simple rule:
+Aturan sederhana:
 
-- 0-1 year horizon: don’t use crypto
-- 1-3 years: keep allocation very small
-- 3-5 years: BTC/ETH-focused strategy makes more sense
-- 5+ years: you can consider a more diversified crypto basket
+- Horizon 0-1 tahun: jangan pakai crypto
+- 1-3 tahun: alokasi sangat kecil
+- 3-5 tahun: strategi fokus BTC/ETH lebih masuk akal
+- 5+ tahun: kamu bisa pertimbangkan keranjang crypto yang lebih beragam
 
 ### 3) Choose your core assets
 
-For most people, the core should be Bitcoin and Ethereum. I know that sounds boring, but boring is often profitable.
+Untuk kebanyakan orang, inti portofolio sebaiknya Bitcoin dan Ethereum. Saya tahu ini terdengar membosankan, tapi yang membosankan sering kali justru menguntungkan.
 
-My personal view:
-- Bitcoin is the strongest “store of value” style crypto
-- Ethereum is the strongest smart-contract ecosystem for broad exposure
-- Altcoins are where returns can be huge, but so can losses
+Pandangan pribadi saya:
+- Bitcoin adalah crypto dengan karakter “penyimpan nilai” yang paling kuat
+- Ethereum adalah ekosistem smart contract terkuat untuk eksposur yang luas
+- Altcoin adalah tempat return bisa sangat besar, tapi kerugiannya juga bisa sama besarnya
 
-If you want to explore altcoins, keep them in a small bucket. Don’t let them dominate your portfolio just because they’re trending on TikTok.
+Kalau kamu ingin eksplor altcoin, simpan di bucket kecil. Jangan biarkan mereka mendominasi portofolio hanya karena sedang viral di TikTok.
 
-If you’re still learning the basics of wallet safety and custody, I’d read [best crypto wallets for Indonesian investors](/blog/best-crypto-wallets-for-indonesian-investors/) before moving too much money around.
+Kalau kamu masih belajar dasar keamanan wallet dan custody, saya sarankan baca [wallet crypto terbaik untuk investor Indonesia](/blog/best-crypto-wallets-for-indonesian-investors/) sebelum memindahkan terlalu banyak uang.
 
 ### 4) Pick your buying method
 
-I strongly prefer DCA — [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) — for most people. In plain English, that means buying a fixed amount regularly, like Rp 100.000 every week or Rp 500.000 every month.
+Saya sangat prefer DCA — [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) — untuk kebanyakan orang. Sederhananya, itu berarti membeli jumlah tetap secara rutin, misalnya Rp 100.000 setiap minggu atau Rp 500.000 setiap bulan.
 
-Why I like DCA:
-- It reduces the pressure of timing the market
-- It smooths out price volatility
-- It’s easier to stay consistent
-- It fits salary-based cash flow in Indonesia
+Kenapa saya suka DCA:
+- Mengurangi tekanan untuk menebak timing pasar
+- Meratakan volatilitas harga
+- Lebih mudah dijalankan secara konsisten
+- Cocok dengan arus kas berbasis gaji di Indonesia
 
-If you get paid monthly, buy monthly. If you prefer weekly discipline, buy weekly. What matters is consistency.
+Kalau kamu digaji bulanan, beli bulanan. Kalau kamu lebih suka disiplin mingguan, beli mingguan. Yang penting konsisten.
 
 ### 5) Set your sell rules before you enter
 
-This is where most people fail. They know how to buy, but they have no idea when to take profit.
+Di sinilah kebanyakan orang gagal. Mereka tahu cara beli, tapi tidak tahu kapan ambil untung.
 
-I recommend using one of these simple sell rules:
+Saya sarankan pakai salah satu aturan jual sederhana ini:
 
-- Rebalance every 6 or 12 months
-- Take partial profit when a coin doubles
-- Sell if the thesis breaks, not just because price drops
-- Gradually reduce exposure as you near your goal
+- Rebalance setiap 6 atau 12 bulan
+- Ambil profit sebagian saat sebuah koin naik 2x
+- Jual kalau thesis-nya rusak, bukan cuma karena harga turun
+- Kurangi eksposur secara bertahap saat mendekati target
 
-A strategy without an exit plan is just hope.
+Strategi tanpa rencana keluar hanyalah harapan.
 
 ## Which Crypto Assets Should You Include?
 
-The safest crypto investment strategy usually starts with Bitcoin and Ethereum, then adds a small altcoin sleeve if you understand the risk. I’d avoid building a portfolio around random low-cap coins.
+Strategi investasi crypto yang paling aman biasanya dimulai dari Bitcoin dan Ethereum, lalu menambahkan sedikit porsi altcoin kalau kamu paham risikonya. Saya akan menghindari membangun portofolio di atas koin kecil yang asal-asalan.
 
-Here’s how I think about different asset types:
+Begini cara saya melihat jenis aset yang berbeda:
 
 ### Bitcoin
-Bitcoin is the simplest starting point. It has the strongest brand, the deepest liquidity, and the clearest long-term narrative.
+Bitcoin adalah titik awal paling sederhana. Brand-nya paling kuat, likuiditasnya paling dalam, dan narasi jangka panjangnya paling jelas.
 
-For many Indonesian investors, BTC is the “core holding.” If I had to build a one-coin portfolio, I’d pick Bitcoin over almost everything else.
+Bagi banyak investor Indonesia, BTC adalah “core holding”. Kalau saya harus membangun portofolio satu koin, saya akan pilih Bitcoin dibanding hampir semuanya.
 
 ### Ethereum
-Ethereum gives you exposure to smart contracts, DeFi, and a huge ecosystem of applications. It’s more complex than Bitcoin, but I think it still belongs in a serious crypto strategy.
+Ethereum memberi eksposur ke smart contract, DeFi, dan ekosistem aplikasi yang sangat besar. Lebih kompleks daripada Bitcoin, tapi menurut saya tetap layak masuk strategi crypto yang serius.
 
 ### Large-cap altcoins
-These are established coins with real ecosystems, but they’re still riskier than BTC and ETH. They can be useful if you understand what problem they solve.
+Ini adalah koin yang sudah mapan dengan ekosistem nyata, tapi tetap lebih berisiko daripada BTC dan ETH. Mereka bisa berguna kalau kamu paham masalah apa yang mereka selesaikan.
 
-### Small-cap and meme coins
-These are speculation, not core investing. I’m not saying never buy them. I’m saying they should be tiny, if they exist at all, in your portfolio.
+### Small-cap dan meme coins
+Ini spekulasi, bukan inti investasi. Saya tidak bilang jangan pernah beli. Saya bilang porsinya harus sangat kecil, kalau memang ada sama sekali di portofolio kamu.
 
-A simple rule I use: if a coin needs a 12-paragraph explanation and a lot of hype to sound attractive, it probably doesn’t belong in my core allocation.
+Aturan sederhana yang saya pakai: kalau sebuah koin butuh penjelasan 12 paragraf dan banyak hype supaya terdengar menarik, kemungkinan besar itu bukan bagian dari alokasi inti saya.
 
 ## How Do You Manage Risk in Crypto?
 
-Risk management is the difference between a strategy and a gamble. If you ignore risk, one bad trade can wipe out months of progress.
+Manajemen risiko adalah pembeda antara strategi dan judi. Kalau kamu mengabaikan risiko, satu trade buruk bisa menghapus progres berbulan-bulan.
 
-I’d focus on four things.
+Saya akan fokus pada empat hal.
 
 ### Position sizing
-Never put too much into one coin. A common mistake is throwing Rp 10 juta into one altcoin because it “feels right.” That’s not investing. That’s concentration risk.
+Jangan pernah taruh terlalu banyak di satu koin. Kesalahan umum adalah memasukkan Rp 10 juta ke satu altcoin karena “rasanya cocok”. Itu bukan investasi. Itu risiko konsentrasi.
 
-A better approach:
-- BTC: largest position
-- ETH: second-largest position
-- Altcoins: small positions only
-- New tokens: tiny experimental size, if any
+Pendekatan yang lebih baik:
+- BTC: posisi terbesar
+- ETH: posisi terbesar kedua
+- Altcoin: posisi kecil saja
+- Token baru: ukuran eksperimen yang sangat kecil, kalau ada
 
 ### Rebalancing
-Rebalancing means bringing your portfolio back to your target mix.
+Rebalancing berarti mengembalikan portofolio ke komposisi target.
 
-Example:
-- You start with 70% BTC, 20% ETH, 10% altcoins
-- BTC pumps hard and becomes 85%
-- You sell a little BTC and move back to 70%
+Contoh:
+- Kamu mulai dengan 70% BTC, 20% ETH, 10% altcoin
+- BTC naik tajam dan jadi 85%
+- Kamu jual sedikit BTC dan kembali ke 70%
 
-This forces you to trim winners and avoid becoming overexposed.
+Ini memaksa kamu mengurangi pemenang dan mencegah eksposur berlebihan.
 
 ### Security
-Crypto security is non-negotiable. Use strong passwords, 2FA, and a separate email for exchange accounts. I also recommend checking [digital wallet security tips Indonesia](/blog/7-smart-digital-wallet-security-tips-indonesia-2026-guide/) because the same habits that protect your e-wallet also protect your exchange account.
+Keamanan crypto tidak bisa ditawar. Pakai password kuat, 2FA, dan email terpisah untuk akun exchange. Saya juga menyarankan cek [tips keamanan dompet digital Indonesia](/blog/7-smart-digital-wallet-security-tips-indonesia-2026-guide/) karena kebiasaan yang melindungi e-wallet kamu juga melindungi akun exchange.
 
 ### Avoid leverage
-I’m blunt about this: leverage is one of the fastest ways to destroy a crypto portfolio. Unless you’re a very experienced trader, don’t use margin or futures.
+Saya akan blak-blakan: leverage adalah salah satu cara tercepat menghancurkan portofolio crypto. Kecuali kamu trader yang sangat berpengalaman, jangan pakai margin atau futures.
 
-If you want to survive long enough to win, stay simple.
+Kalau kamu ingin bertahan cukup lama untuk menang, tetap sederhana.
 
 ## What’s the Best Crypto Investment Strategy for Indonesians?
 
-For most Indonesians, the best crypto investment strategy is a simple DCA plan focused on Bitcoin and Ethereum, with a small altcoin allocation and strict risk limits.
+Untuk kebanyakan orang Indonesia, strategi crypto terbaik adalah rencana DCA sederhana yang fokus pada Bitcoin dan Ethereum, dengan alokasi altcoin kecil dan batas risiko yang ketat.
 
-Here’s the strategy I’d recommend for a typical salaried worker in Jakarta, Surabaya, Bandung, or anywhere else in Indonesia:
+Berikut strategi yang saya rekomendasikan untuk pekerja bergaji di Jakarta, Surabaya, Bandung, atau kota lain di Indonesia:
 
-1. Invest only after your emergency fund is in place.
-2. Put 60-80% of your crypto budget into BTC.
-3. Put 20-30% into ETH.
-4. Keep altcoins at 0-15% max.
-5. Buy on a fixed schedule, not based on feelings.
-6. Review the portfolio every 6 months.
-7. Take profits when your target is hit.
+1. Investasi hanya setelah dana darurat siap.
+2. Masukkan 60-80% budget crypto ke BTC.
+3. Masukkan 20-30% ke ETH.
+4. Jaga altcoin di 0-15% maksimal.
+5. Beli dengan jadwal tetap, bukan berdasarkan perasaan.
+6. Tinjau portofolio setiap 6 bulan.
+7. Ambil profit saat target tercapai.
 
 ### Example: Rp 1 juta per month strategy
 
-If you can invest Rp 1 juta per month, I’d structure it like this:
+Kalau kamu bisa investasi Rp 1 juta per bulan, saya akan menyusunnya seperti ini:
 
 - Rp 700.000 BTC
 - Rp 200.000 ETH
-- Rp 100.000 altcoin or cash reserve
+- Rp 100.000 altcoin atau cadangan kas
 
-After 12 months, you’ll have invested Rp 12 juta. That may not sound huge, but consistency matters more than the first year’s result. If your portfolio grows and your income rises, you can scale it up later.
+Setelah 12 bulan, total investasi kamu Rp 12 juta. Mungkin tidak terdengar besar, tapi konsistensi jauh lebih penting daripada hasil tahun pertama. Kalau portofolio kamu tumbuh dan penghasilan naik, kamu bisa menaikkannya nanti.
 
-I also like pairing this with a broader money system. For example, if you’re trying to grow wealth aggressively, you might split money between crypto and something more defensive like sukuk. My guide on [investing in sukuk Islamic bonds Indonesia](/blog/7-smart-ways-to-start-investing-in-sukuk-indonesia-guide/) is useful if you want lower-volatility assets alongside crypto.
+Saya juga suka menggabungkan ini dengan sistem uang yang lebih luas. Misalnya, kalau kamu ingin membangun kekayaan secara agresif, kamu bisa membagi uang antara crypto dan instrumen yang lebih defensif seperti sukuk. Panduan saya tentang [investasi sukuk di Indonesia](/blog/7-smart-ways-to-start-investing-in-sukuk-indonesia-guide/) berguna kalau kamu ingin aset yang lebih rendah volatilitasnya berdampingan dengan crypto.
 
 ## How Often Should You Review Your Strategy?
 
-You should review your crypto investment strategy every 3 to 6 months, not every day. Daily checking usually creates anxiety, not better decisions.
+Kamu sebaiknya meninjau strategi investasi crypto setiap 3 sampai 6 bulan, bukan setiap hari. Cek harian biasanya justru memicu cemas, bukan keputusan yang lebih baik.
 
-I check my own crypto exposure less often than I check my bank balance. That’s intentional. If I stare at price charts too much, I start making dumb emotional choices.
+Saya sendiri mengecek eksposur crypto saya lebih jarang daripada cek saldo bank. Itu memang sengaja. Kalau saya terlalu sering menatap grafik harga, saya jadi lebih mudah mengambil keputusan emosional yang bodoh.
 
-When you review, ask:
+Saat review, tanyakan:
 
-- Has my financial situation changed?
-- Is my emergency fund still enough?
-- Has one coin become too large?
-- Do I still believe in the thesis?
-- Am I buying out of discipline or FOMO?
+- Apakah kondisi keuangan saya berubah?
+- Apakah dana darurat saya masih cukup?
+- Apakah ada satu koin yang jadi terlalu besar?
+- Apakah saya masih percaya pada thesis-nya?
+- Apakah saya membeli karena disiplin atau FOMO?
 
 ### A simple review checklist
 
-Use this checklist every 6 months:
+Gunakan checklist ini setiap 6 bulan:
 
-1. Check total crypto allocation as a percentage of [net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/).
-2. Compare current allocation with your target.
-3. Rebalance if any asset is too large.
-4. Remove coins you no longer understand.
-5. Increase DCA only if your cash flow supports it.
-6. Record what you changed and why.
+1. Cek total alokasi crypto sebagai persentase dari [net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/).
+2. Bandingkan alokasi saat ini dengan target.
+3. Rebalance jika ada aset yang terlalu besar.
+4. Hapus koin yang sudah tidak kamu pahami.
+5. Tambah DCA hanya jika arus kas mendukung.
+6. Catat apa yang kamu ubah dan kenapa.
 
-That last point matters more than people think. Writing down your decisions helps you avoid repeating mistakes.
+Poin terakhir itu lebih penting daripada yang orang kira. Menulis keputusanmu membantu kamu menghindari pengulangan kesalahan.
 
 ## Comparison: DCA vs Lump Sum for Crypto
 
-If you’re wondering whether to buy all at once or spread it out, here’s my honest take: DCA is better for most Indonesians because it reduces emotional mistakes.
+Kalau kamu bertanya apakah lebih baik beli sekaligus atau dicicil, jawaban jujur saya: DCA lebih baik untuk kebanyakan orang Indonesia karena mengurangi kesalahan emosional.
 
-| Method | Best For | Pros | Cons |
+| Metode | Cocok Untuk | Kelebihan | Kekurangan |
 |---|---|---|---|
-| DCA | Salaried investors, beginners | Lower stress, consistent habit, less timing risk | Can feel slow in strong bull markets |
-| Lump sum | Experienced investors, strong conviction | More upside if timing is good | Higher regret risk if price drops after entry |
-| Hybrid | People with cash on hand | Balanced flexibility | Needs discipline |
+| DCA | Investor bergaji, pemula | Lebih rendah stres, kebiasaan konsisten, risiko timing lebih kecil | Bisa terasa lambat saat bull market kuat |
+| Lump sum | Investor berpengalaman, keyakinan kuat | Potensi upside lebih besar kalau timing tepat | Risiko penyesalan lebih tinggi kalau harga turun setelah masuk |
+| Hybrid | Orang yang punya dana siap pakai | Fleksibel dan seimbang | Butuh disiplin |
 
-I personally prefer a hybrid. If I have extra cash, I might enter 50% now and DCA the rest over 4-8 weeks. That gives me some exposure without making me feel like I’ve bet everything on one day.
+Saya pribadi lebih suka hybrid. Kalau saya punya dana ekstra, saya mungkin masuk 50% sekarang dan DCA sisanya selama 4-8 minggu. Itu memberi saya eksposur tanpa membuat saya merasa seperti mempertaruhkan semuanya dalam satu hari.
 
 ## What Mistakes Should You Avoid?
 
-The biggest crypto mistakes are emotional buying, oversized positions, and having no exit plan. Those three mistakes destroy more portfolios than bad coin selection.
+Kesalahan crypto terbesar adalah beli karena emosi, posisi terlalu besar, dan tidak punya rencana keluar. Tiga hal ini menghancurkan lebih banyak portofolio daripada pemilihan koin yang buruk.
 
-Here are the ones I see most often:
+Berikut yang paling sering saya lihat:
 
 ### Buying because of hype
-If your entry reason is “everyone is talking about it,” that’s a red flag. Hype is not a thesis.
+Kalau alasan masuk kamu adalah “semua orang ngomongin ini”, itu tanda bahaya. Hype bukan thesis.
 
 ### Ignoring fees
-Exchange fees, spread, and withdrawal costs can eat into returns. Compare platforms before you commit. If you’re still choosing an exchange, my [Pintu crypto app review fees and features 2026](/blog/pintu-crypto-app-review-fees-and-features-2026/) and [Reku crypto exchange review Indonesia](/blog/reku-crypto-exchange-review-indonesia-2026-guide/) articles can help.
+Biaya exchange, spread, dan biaya penarikan bisa menggerus return. Bandingkan platform sebelum kamu komit. Kalau kamu masih memilih exchange, artikel saya tentang [review aplikasi crypto Pintu: biaya dan fitur 2026](/blog/pintu-crypto-app-review-fees-and-features-2026/) dan [review exchange crypto Reku Indonesia](/blog/reku-crypto-exchange-review-indonesia-2026-guide/) bisa membantu.
 
 ### Overtrading
-Buying and selling too often usually makes results worse. I think most beginners should be investors first, traders never.
+Terlalu sering beli-jual biasanya malah memperburuk hasil. Saya rasa kebanyakan pemula sebaiknya jadi investor dulu, bukan trader.
 
 ### Keeping everything on one platform
-Diversify your custody habits. Don’t make one app the single point of failure.
+Diversifikasi kebiasaan penyimpanan. Jangan jadikan satu aplikasi sebagai satu-satunya titik gagal.
 
 ### Forgetting taxes and records
-Keep notes of what you bought, when you bought it, and at what price. It saves headaches later.
+Simpan catatan apa yang kamu beli, kapan membelinya, dan di harga berapa. Itu menyelamatkan kamu dari repot nanti.
 
 ## Frequently Asked Questions
 
 ### How much money do I need to start a crypto investment strategy?
 
-You can start with as little as Rp 100.000 to Rp 500.000 if the platform allows it. The amount matters less than the habit and the risk control. I’d rather see someone invest Rp 200.000 every week consistently than throw Rp 5 juta in one emotional purchase.
+Kamu bisa mulai dengan Rp 100.000 sampai Rp 500.000 kalau platform-nya memungkinkan. Jumlahnya kurang penting dibanding kebiasaan dan kontrol risiko. Saya lebih suka melihat seseorang investasi Rp 200.000 setiap minggu secara konsisten daripada menghabiskan Rp 5 juta dalam satu pembelian emosional.
 
 ### Is crypto good for long-term investing?
 
-Yes, crypto can be part of a long-term strategy, but it shouldn’t be your only strategy. I think Bitcoin and Ethereum make the most sense for long-term exposure because they have stronger liquidity and clearer use cases. For most people, crypto should complement a broader portfolio, not replace it.
+Ya, crypto bisa menjadi bagian dari strategi jangka panjang, tapi jangan jadi satu-satunya strategi. Menurut saya Bitcoin dan Ethereum paling masuk akal untuk eksposur jangka panjang karena likuiditasnya lebih kuat dan use case-nya lebih jelas. Untuk kebanyakan orang, crypto sebaiknya melengkapi portofolio yang lebih luas, bukan menggantikannya.
 
 ### Should I buy Bitcoin only or diversify into altcoins?
 
-If you’re a beginner, I’d start with Bitcoin and Ethereum first. Altcoins can add upside, but they also add much more risk and complexity. I only recommend adding altcoins after you understand your core allocation and can tolerate large drawdowns.
+Kalau kamu pemula, saya sarankan mulai dari Bitcoin dan Ethereum dulu. Altcoin bisa menambah upside, tapi juga menambah risiko dan kompleksitas jauh lebih besar. Saya hanya menyarankan altcoin setelah kamu paham alokasi inti dan sanggup menahan penurunan besar.
 
 ### How often should I buy crypto?
 
-For most Indonesians, once a week or once a month is enough. The best schedule is the one you can follow without stress. I prefer monthly DCA for people with salary-based cash flow, because it matches payday and keeps things simple.
+Untuk kebanyakan orang Indonesia, seminggu sekali atau sebulan sekali sudah cukup. Jadwal terbaik adalah yang bisa kamu ikuti tanpa stres. Saya lebih suka DCA bulanan untuk orang dengan arus kas berbasis gaji, karena cocok dengan tanggal gajian dan membuat semuanya sederhana.
 
 ### Should I keep crypto on an exchange or in a wallet?
 
-If you’re trading actively, some funds can stay on an exchange. If you’re holding for the long term, I prefer moving larger amounts to a wallet you control. Security matters a lot, and I’d read about the [best crypto wallets for Indonesian investors](/blog/best-crypto-wallets-for-indonesian-investors/) before moving serious money.
+Kalau kamu aktif trading, sebagian dana bisa tetap di exchange. Kalau kamu pegang untuk jangka panjang, saya lebih suka memindahkan jumlah yang lebih besar ke wallet yang kamu kontrol. Keamanan itu sangat penting, dan saya sarankan baca [wallet crypto terbaik untuk investor Indonesia](/blog/best-crypto-wallets-for-indonesian-investors/) sebelum memindahkan uang serius.
 
 ### What if the market crashes after I buy?
 
-That’s normal in crypto. A crash doesn’t automatically mean your strategy is wrong; it may just mean volatility is doing what volatility does. If your allocation was sensible and your time horizon is long enough, you usually just keep buying on schedule instead of panic selling.
+Itu normal di crypto. Crash tidak otomatis berarti strategimu salah; bisa saja volatilitas memang sedang bekerja seperti biasa. Kalau alokasimu masuk akal dan horizon waktumu cukup panjang, biasanya kamu cukup lanjut beli sesuai jadwal, bukan panik jual.
 
 ## Final Thoughts
 
-If I had to boil down how to create a crypto investment strategy into one sentence, I’d say this: build a plan that survives your emotions, not just one that looks smart on paper.
+Kalau saya harus merangkum cara membuat strategi investasi crypto dalam satu kalimat, saya akan bilang begini: bangun rencana yang bisa bertahan dari emosimu, bukan cuma yang terlihat pintar di atas kertas.
 
-That’s the real test. Anyone can feel brilliant in a bull market. The hard part is staying disciplined when your portfolio drops 20% in a week and your friends are either bragging or panicking.
+Itulah ujian sebenarnya. Siapa pun bisa merasa jenius di bull market. Bagian tersulit adalah tetap disiplin saat portofolio kamu turun 20% dalam seminggu dan teman-temanmu entah sedang pamer atau panik.
 
-My honest recommendation for most Indonesians is simple:
-- keep your crypto allocation modest,
-- focus on BTC and ETH,
-- DCA regularly,
-- protect your accounts,
-- and review your plan every few months.
+Rekomendasi jujur saya untuk kebanyakan orang Indonesia sederhana:
+- jaga alokasi crypto tetap wajar,
+- fokus ke BTC dan ETH,
+- lakukan DCA secara rutin,
+- lindungi akunmu,
+- dan tinjau rencana setiap beberapa bulan.
 
-That’s not flashy. But it works better than random coin-hopping, and in my experience, boring strategies are the ones that actually build wealth.
+Memang tidak heboh. Tapi hasilnya jauh lebih baik daripada loncat-loncat koin secara acak, dan dari pengalaman saya, strategi yang membosankan justru yang benar-benar membangun kekayaan.

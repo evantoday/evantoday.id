@@ -1,6 +1,6 @@
 ---
-title: "7 Money Tips for Fresh Graduates [2026 Guide]"
-description: "Fresh graduate and gaji pertama? Here’s how to manage money in Indonesia, avoid lifestyle creep, and save Rp 1 juta+ from day one."
+title: "7 Tips Keuangan untuk Fresh Graduate [2026]"
+description: "Fresh graduate dan gaji pertama? Ini cara atur uang di Indonesia, hindari lifestyle creep, dan mulai nabung Rp 1 juta+ sejak awal."
 pubDate: 2026-03-28
 updatedDate: 2026-03-28
 category: "personal-finance"
@@ -8,40 +8,40 @@ tags: ["money management", "fresh graduates", "budgeting", "saving", "Indonesia"
 author: "Evan"
 ---
 
-When I got my first proper salary, I made the classic mistake: I felt rich for about 10 days. Then the end of the month hit, and my rekening looked embarrassingly empty. If you’re a fresh graduate in Indonesia, **money management for fresh graduates Indonesia** is not about being stingy — it’s about making sure your gaji pertama doesn’t disappear before you even feel settled.
+When saya dapat gaji pertama yang “beneran”, saya melakukan kesalahan klasik: saya merasa kaya selama sekitar 10 hari. Lalu akhir bulan datang, dan rekening saya terlihat memalukan kosongnya. Kalau kamu fresh graduate di Indonesia, **money management untuk fresh graduate Indonesia** bukan soal pelit — tapi soal memastikan gaji pertama kamu tidak habis sebelum kamu benar-benar merasa mapan.
 
-What I wish someone had told me earlier is this: the first 6–12 months after graduation are the easiest time to build good financial habits. You don’t need a huge salary. You need a system.
+Yang dulu saya harap ada orang bilang ke saya lebih cepat adalah ini: 6–12 bulan pertama setelah lulus adalah waktu paling gampang untuk membangun kebiasaan finansial yang bagus. Kamu tidak butuh gaji besar. Kamu butuh sistem.
 
 ## Key Takeaways
 
-- Fresh graduates should use a simple salary split so money doesn’t vanish before payday.
-- Your first priorities are emergency savings, fixed expenses, and avoiding bad debt.
-- A budget works better when it’s based on your actual take-home pay, not your “feels like enough” salary.
-- Small habits like auto-transfer, separate accounts, and tracking spending can save you millions over a year.
-- Investing is important, but only after you’ve built a basic cash buffer and controlled your monthly cash flow.
+- Fresh graduate sebaiknya pakai pembagian gaji sederhana supaya uang tidak hilang sebelum tanggal gajian berikutnya.
+- Prioritas pertama adalah dana darurat, biaya tetap, dan menghindari utang konsumtif.
+- Budget akan lebih efektif kalau dibuat dari take-home pay yang benar-benar masuk ke rekening, bukan dari gaji yang “kayaknya cukup”.
+- Kebiasaan kecil seperti auto-transfer, rekening terpisah, dan mencatat pengeluaran bisa menghemat jutaan rupiah dalam setahun.
+- Investasi itu penting, tapi setelah kamu punya buffer kas dasar dan arus kas bulanan sudah terkendali.
 
 ## Why Money Management Matters So Much After Graduation
 
-The short answer is this: your income is finally yours, but so are all your mistakes. Fresh graduates often face the biggest gap between expectation and reality. You might earn Rp 5 juta, Rp 7 juta, or even Rp 10 juta, but once transport, makan siang, pulsa, and social life kick in, the money goes fast.
+Jawaban singkatnya: penghasilanmu akhirnya jadi milikmu, tapi semua kesalahanmu juga ikut jadi milikmu. Fresh graduate sering menghadapi jarak paling besar antara ekspektasi dan kenyataan. Kamu mungkin gaji Rp 5 juta, Rp 7 juta, atau bahkan Rp 10 juta, tapi begitu transport, makan siang, pulsa, dan kehidupan sosial mulai jalan, uangnya cepat sekali habis.
 
-I’ve seen this pattern over and over. A friend starts work in Jakarta, gets excited, upgrades everything at once, and suddenly the whole salary is tied up in cicilan, GoFood, and weekend hangouts. That’s lifestyle creep. It’s sneaky because it feels normal.
+Saya sudah lihat pola ini berkali-kali. Seorang teman mulai kerja di Jakarta, semangat banget, lalu upgrade semuanya sekaligus, dan tiba-tiba seluruh gajinya habis untuk cicilan, GoFood, dan nongkrong di akhir pekan. Itulah lifestyle creep. Licik, karena rasanya normal.
 
-What I recommend is building a system before you build a lifestyle. That means:
+Yang saya sarankan adalah membangun sistem sebelum membangun gaya hidup. Artinya:
 
-1. Knowing your take-home pay.
-2. Separating needs from wants.
-3. Setting aside savings the moment salary comes in.
-4. Avoiding debt for things that don’t grow your income.
+1. Tahu take-home pay kamu.
+2. Pisahkan kebutuhan dan keinginan.
+3. Sisihkan tabungan begitu gaji masuk.
+4. Hindari utang untuk hal-hal yang tidak menambah penghasilan.
 
-If you do this early, you’ll have way more freedom later. And honestly, that freedom matters more than looking successful on Instagram.
+Kalau kamu lakukan ini sejak awal, nanti kamu jauh lebih bebas. Dan jujur saja, kebebasan itu lebih penting daripada terlihat sukses di Instagram.
 
 ## How Should Fresh Graduates Split Their Salary?
 
-The best salary split is the one you can actually follow. For most fresh graduates in Indonesia, I think a simple 50/30/20 split is a good starting point, but I’d tweak it based on your city and living situation.
+Pembagian gaji terbaik adalah yang benar-benar bisa kamu ikuti. Untuk kebanyakan fresh graduate di Indonesia, menurut saya pembagian 50/30/20 adalah titik awal yang bagus, tapi perlu disesuaikan dengan kota dan kondisi tempat tinggalmu.
 
-If you live with parents, you can save more. If you’re renting in Jakarta, your fixed costs are higher. So don’t copy someone else’s budget blindly.
+Kalau kamu tinggal dengan orang tua, kamu bisa menabung lebih banyak. Kalau kamu ngontrak di Jakarta, biaya tetapmu lebih tinggi. Jadi jangan meniru budget orang lain mentah-mentah.
 
-Here’s a practical version I like:
+Ini versi praktis yang saya suka:
 
 | Category | Percentage | Example on Rp 6,000,000 |
 |---|---:|---:|
@@ -50,187 +50,186 @@ Here’s a practical version I like:
 | Savings / Emergency Fund | 20% | Rp 1,200,000 |
 | Investing / Future Goals | 10% | Rp 600,000 |
 
-If your salary is still small, I’d prioritize emergency savings first. In the beginning, your “investment” is actually your safety net. You can read more about building a realistic budget in my [monthly spending plan guide for Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/).
+Kalau gajimu masih kecil, saya akan prioritaskan dana darurat dulu. Di awal, “investasi” kamu yang paling penting sebenarnya adalah safety net. Kamu bisa baca lebih lanjut soal bikin budget yang realistis di [panduan rencana pengeluaran bulanan untuk Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/).
 
 ### A better split for many fresh grads
 
-If you’re still early in your career, I’d personally use this:
+Kalau kamu masih awal karier, saya pribadi akan pakai ini:
 
-- 55% needs
-- 15% wants
-- 20% emergency savings
-- 10% investing or skill development
+- 55% kebutuhan
+- 15% keinginan
+- 20% dana darurat
+- 10% investasi atau pengembangan skill
 
-Why skill development? Because sometimes the best return isn’t from saham or reksadana. It’s from a course, certification, or tool that helps you earn more next year.
+Kenapa pengembangan skill? Karena kadang return terbaik bukan dari saham atau reksadana. Tapi dari kursus, sertifikasi, atau tools yang bikin kamu bisa menghasilkan lebih banyak tahun depan.
 
 ## What Should Your First Financial Priorities Be?
 
-Your first priorities should be survival, stability, and control. That means [emergency fund](/blog/emergency-fund-guide/) first, debt second, and investing third. I know that sounds boring, but boring is what keeps you out of trouble.
+Prioritas pertama kamu adalah bertahan, stabil, dan punya kontrol. Artinya [dana darurat](/blog/emergency-fund-guide/) dulu, utang kedua, dan investasi ketiga. Saya tahu ini terdengar membosankan, tapi justru yang membosankan itulah yang bikin kamu aman.
 
 ### 1. Build a starter emergency fund
 
-You don’t need 6 months of expenses immediately. Start with Rp 3 juta to Rp 5 juta if you’re living with family, or one month of expenses if you’re living independently. That amount can save you from using paylater or pinjol when something goes wrong.
+Kamu tidak harus langsung punya dana darurat 6 bulan pengeluaran. Mulailah dari Rp 3 juta sampai Rp 5 juta kalau kamu tinggal dengan keluarga, atau satu bulan biaya hidup kalau kamu hidup mandiri. Jumlah itu bisa menyelamatkan kamu dari paylater atau pinjol saat ada masalah.
 
-Keep it in a separate rekening that’s easy to access but not too easy to spend from. I like using a separate savings account for this. If you already use Jenius, their savings pockets can help. I’ve written about whether it’s still worth it in my [Jenius BTPN review](/blog/jenius-btpn-review-still-worth-it-in-2026/).
+Simpan di rekening terpisah yang mudah diakses, tapi tidak terlalu gampang dipakai. Saya suka pakai rekening tabungan khusus untuk ini. Kalau kamu sudah pakai Jago atau Seabank, fitur kantong/tabungan terpisah bisa membantu. Saya juga pernah bahas apakah masih worth it di [ulasan Jenius BTPN saya](/blog/jenius-btpn-review-still-worth-it-in-2026/).
 
 ### 2. Avoid consumer debt
 
-If you’re a fresh graduate, I think [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) and paylater are dangerous unless you’re extremely disciplined. A small cicilan can snowball fast when your salary is still limited. If you’re already stuck, focus on paying it off aggressively with a simple plan like the one I shared in [how to pay off credit card debt fast in Indonesia](/blog/how-to-pay-off-credit-card-debt-fast-indonesia/).
+Kalau kamu fresh graduate, saya pikir [utang kartu kredit](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) dan paylater itu berbahaya kecuali kamu benar-benar disiplin. Cicilan kecil bisa menumpuk cepat saat gajimu masih terbatas. Kalau kamu sudah terlanjur terjebak, fokus lunasi secepat mungkin dengan rencana sederhana seperti yang saya bahas di [cara melunasi utang kartu kredit dengan cepat di Indonesia](/blog/how-to-pay-off-credit-card-debt-fast-indonesia/).
 
 ### 3. Start investing only after you have a buffer
 
-I’m pro-investing, but not at the expense of liquidity. If you don’t have emergency savings yet, don’t rush into crypto or high-risk products just because someone on TikTok said it’s the “fastest way to grow money.” I’d rather you start small with index funds or reksadana once your cash buffer is in place. If you want a practical entry point, check my [index fund investing in Indonesia guide](/blog/index-fund-investing-in-indonesia-guide/) or [ETF investing in Indonesia explained](/blog/etf-investing-in-indonesia-explained/).
+Saya pro-investasi, tapi bukan dengan mengorbankan likuiditas. Kalau kamu belum punya dana darurat, jangan buru-buru masuk crypto atau produk berisiko tinggi cuma karena ada orang di TikTok bilang itu “cara tercepat bikin uang berkembang.” Saya lebih suka kamu mulai kecil lewat indeks fund atau reksadana setelah buffer kas kamu aman. Kalau mau titik awal yang praktis, cek [panduan investasi index fund di Indonesia](/blog/index-fund-investing-in-indonesia-guide/) atau [penjelasan ETF investing di Indonesia](/blog/etf-investing-in-indonesia-explained/).
 
 ## How Do You Budget on a Fresh Graduate Salary?
 
-The easiest budget is the one you can review in 10 minutes, not 2 hours. I recommend using a [zero-based budget](/blog/zero-based-budgeting-method-explained/) for your first 3 months after graduation. That means every rupiah has a job before the month starts.
+Budget paling gampang adalah yang bisa kamu review dalam 10 menit, bukan 2 jam. Saya sarankan pakai [zero-based budget](/blog/zero-based-budgeting-method-explained/) selama 3 bulan pertama setelah lulus. Artinya, setiap rupiah sudah punya tugas sebelum bulan dimulai.
 
 ### Step-by-step budget method
 
-1. Write down your take-home salary.
-2. List fixed expenses: kos, transport, pulsa, internet, family support, debt.
-3. Estimate variable spending: makan, coffee, hangouts, shopping.
-4. Set savings transfers before spending anything else.
-5. Track actual spending weekly.
+1. Tulis take-home salary kamu.
+2. Daftarkan pengeluaran tetap: kos, transport, pulsa, internet, bantu keluarga, utang.
+3. Perkirakan pengeluaran variabel: makan, kopi, nongkrong, belanja.
+4. Set transfer tabungan sebelum belanja apa pun.
+5. Catat pengeluaran aktual setiap minggu.
 
-Let’s say your take-home salary is Rp 6,500,000.
+Misalnya take-home salary kamu Rp 6.500.000.
 
-- Kos: Rp 1,500,000
-- Transport: Rp 500,000
-- Makan kerja: Rp 1,200,000
-- Pulsa/internet: Rp 200,000
-- Family support: Rp 500,000
-- Emergency savings: Rp 1,300,000
-- Investing: Rp 500,000
-- Wants: Rp 800,000
+- Kos: Rp 1.500.000
+- Transport: Rp 500.000
+- Makan kerja: Rp 1.200.000
+- Pulsa/internet: Rp 200.000
+- Bantu keluarga: Rp 500.000
+- Dana darurat: Rp 1.300.000
+- Investasi: Rp 500.000
+- Keinginan: Rp 800.000
 
-That’s already most of your money accounted for. The point is not to make life miserable. The point is to stop random spending from quietly eating your salary.
+Itu sudah mencakup sebagian besar uangmu. Tujuannya bukan bikin hidup sengsara. Tujuannya supaya pengeluaran random tidak diam-diam menggerus gaji kamu.
 
 ### My rule for variable spending
 
-I use a weekly cap, not a monthly wish. For example, if your “fun money” is Rp 800,000 a month, divide it into four weeks. That gives you Rp 200,000 per week. Once it’s gone, it’s gone. This works much better than telling yourself “I’ll be careful this month.”
+Saya pakai batas mingguan, bukan harapan bulanan. Misalnya, kalau uang “senang-senang” kamu Rp 800.000 per bulan, bagi jadi empat minggu. Jadi Rp 200.000 per minggu. Begitu habis, ya habis. Ini jauh lebih efektif daripada bilang ke diri sendiri, “bulan ini saya harus lebih hemat.”
 
-If you struggle with overspending, I’d also suggest separate wallets or separate e-wallet balances. Apps like GoPay, OVO, and DANA can make spending feel painless, which is exactly why you need boundaries. For more on that, I’ve covered [digital wallet security tips in Indonesia](/blog/7-smart-digital-wallet-security-tips-indonesia-2026-guide/) and [best QR payment apps in Indonesia 2026](/blog/best-qr-payment-apps-indonesia-2026/).
+Kalau kamu susah mengontrol belanja, saya juga sarankan pakai dompet terpisah atau saldo e-wallet terpisah. Aplikasi seperti GoPay, OVO, dan DANA bisa bikin belanja terasa ringan, dan justru itu alasan kamu perlu batas. Untuk bahasan lebih lanjut, saya sudah tulis [tips keamanan dompet digital di Indonesia](/blog/7-smart-digital-wallet-security-tips-indonesia-2026-guide/) dan [aplikasi QR payment terbaik di Indonesia 2026](/blog/best-qr-payment-apps-indonesia-2026/).
 
 ## How Much Should Fresh Graduates Save Each Month?
 
-A fresh graduate should aim to save at least 10–20% of take-home pay, but the exact number depends on your living costs. If you can only save Rp 300,000 a month at first, that’s still a start. Consistency beats perfection.
+Fresh graduate sebaiknya menargetkan tabungan minimal 10–20% dari take-home pay, tapi angka pastinya tergantung biaya hidupmu. Kalau awalnya kamu cuma bisa nabung Rp 300.000 per bulan, itu tetap awal yang bagus. Konsistensi mengalahkan kesempurnaan.
 
 ### A realistic savings ladder
 
-Here’s how I’d think about it:
+Begini cara saya memikirkannya:
 
-- **Month 1–3:** Save whatever you can, even Rp 200,000–Rp 500,000.
-- **Month 4–6:** Push toward 10% of salary.
-- **Month 7–12:** Aim for 15–20% if expenses are stable.
+- **Bulan 1–3:** Nabung semampunya, bahkan Rp 200.000–Rp 500.000.
+- **Bulan 4–6:** Dorong ke 10% gaji.
+- **Bulan 7–12:** Target 15–20% kalau pengeluaran sudah stabil.
 
-If you earn Rp 5 juta and save Rp 500,000 per month, that’s Rp 6 juta in one year. If you save Rp 1 juta per month, that’s Rp 12 juta. That’s enough to create real breathing room.
+Kalau kamu gaji Rp 5 juta dan nabung Rp 500.000 per bulan, itu jadi Rp 6 juta dalam setahun. Kalau kamu nabung Rp 1 juta per bulan, itu Rp 12 juta. Cukup untuk memberi ruang napas yang nyata.
 
-I like setting automation so savings happen right after payday. This is one of the simplest money management habits I know. If you wait until the end of the month, you’ll usually spend first and save what’s left — which is often nothing.
+Saya suka bikin otomatisasi supaya tabungan langsung pindah begitu gajian. Ini salah satu kebiasaan money management paling sederhana yang saya tahu. Kalau kamu menunggu sampai akhir bulan, biasanya kamu akan belanja dulu dan menabung dari sisa — yang seringnya nol.
 
-For a bigger target, I’ve also broken down a more aggressive approach in [how to save Rp 100 million in one year](/blog/how-to-save-rp-100-million-in-one-year/). That article is more ambitious, but the same principle applies: automate, cut waste, and increase income where you can.
+Kalau kamu punya target lebih besar, saya juga pernah bahas pendekatan yang lebih agresif di [cara menabung Rp 100 juta dalam setahun](/blog/how-to-save-rp-100-million-in-one-year/). Artikel itu lebih ambisius, tapi prinsipnya sama: otomatisasi, kurangi pemborosan, dan tingkatkan penghasilan kalau bisa.
 
 ## What Mistakes Do Fresh Graduates Make Most Often?
 
-The biggest mistakes are lifestyle inflation, no emergency fund, and mixing all money in one account. I’d call these the three silent killers of early-career finances.
+Kesalahan terbesar adalah lifestyle inflation, tidak punya dana darurat, dan mencampur semua uang dalam satu rekening. Saya sebut ini tiga pembunuh diam-diam keuangan awal karier.
 
 ### 1. Upgrading lifestyle too fast
 
-The first salary is not a signal to buy a new phone, subscribe to everything, and eat out every day. I get the temptation. I really do. But if your expenses rise immediately, your future savings get trapped.
+Gaji pertama bukan sinyal untuk beli HP baru, langganan semua layanan, dan makan di luar tiap hari. Saya paham godaannya. Serius. Tapi kalau pengeluaran naik langsung, tabungan masa depan kamu jadi terkunci.
 
 ### 2. Not separating needs and wants
 
-A lot of people say “I need coffee to work” or “I need online shopping because it’s discounted.” Usually, that’s a want wearing a needs costume. Be honest with yourself. It saves money and stress.
+Banyak orang bilang “saya butuh kopi biar bisa kerja” atau “saya butuh belanja online karena lagi diskon.” Biasanya itu keinginan yang menyamar jadi kebutuhan. Jujur ke diri sendiri. Itu menghemat uang dan stres.
 
 ### 3. Ignoring small leaks
 
-Rp 25,000 here, Rp 40,000 there, and suddenly you’ve spent Rp 1.2 juta on things you can’t even remember. I’ve found that daily spending is often the real problem, not one big purchase.
+Rp 25.000 di sini, Rp 40.000 di sana, dan tiba-tiba kamu sudah habis Rp 1,2 juta untuk hal-hal yang bahkan tidak kamu ingat. Dari pengalaman saya, pengeluaran harian sering kali masalah sebenarnya, bukan satu pembelian besar.
 
 ### 4. Using debt for convenience
 
-Paylater is especially dangerous when you’re still learning [how to budget](/blog/how-to-budget-money/). A small monthly installment looks harmless until it stacks with other subscriptions and card bills.
+Paylater sangat berbahaya kalau kamu masih belajar [cara membuat budget](/blog/how-to-budget-money/). Cicilan bulanan yang kecil terlihat aman sampai menumpuk dengan langganan lain dan tagihan kartu.
 
 ### 5. Investing too early in the wrong product
 
-I’m not anti-crypto, but I am anti-randomness. If you don’t understand your risk, don’t jump into volatile assets just because your friends are talking about them. If you want to learn the basics first, my guides on [P2P lending in Indonesia](/blog/how-p2p-lending-works-in-indonesia-a-comprehensive-guide/) and [what staking crypto is](/blog/what-is-staking-crypto-and-how-to-earn-passive-income/) can help you compare risk levels more clearly.
+Saya bukan anti-crypto, tapi saya anti-asal ikut-ikutan. Kalau kamu belum paham risikonya, jangan langsung masuk aset volatil cuma karena teman-temanmu membicarakannya. Kalau kamu mau belajar dasar-dasarnya dulu, panduan saya tentang [P2P lending di Indonesia](/blog/how-p2p-lending-works-in-indonesia-a-comprehensive-guide/) dan [apa itu staking crypto](/blog/what-is-staking-crypto-and-how-to-earn-passive-income/) bisa bantu kamu membandingkan tingkat risikonya dengan lebih jelas.
 
 ## How Can You Control Spending Without Feeling Miserable?
 
-You control spending by setting rules before temptation shows up. Willpower alone is weak. Systems are stronger.
+Kamu mengontrol pengeluaran dengan membuat aturan sebelum godaan muncul. Willpower saja lemah. Sistem jauh lebih kuat.
 
 ### My favorite spending controls
 
-1. **Use a 24-hour rule** for non-essential purchases above Rp 300,000.
-2. **Set weekly cash limits** for food, hangouts, and transport.
-3. **Unsubscribe from promo spam** if sales make you buy things you don’t need.
-4. **Keep one “fun” account** so guilt doesn’t leak into everything else.
-5. **Review transactions every Sunday** for 10 minutes.
+1. **Pakai aturan 24 jam** untuk pembelian non-esensial di atas Rp 300.000.
+2. **Tetapkan batas uang mingguan** untuk makan, nongkrong, dan transport.
+3. **Unsubscribe dari spam promo** kalau diskon bikin kamu beli barang yang tidak perlu.
+4. **Punya satu rekening “fun”** supaya rasa bersalah tidak bocor ke semua pengeluaran.
+5. **Review transaksi setiap Minggu** selama 10 menit.
 
 ### The “three-account” method
 
-I think this is one of the simplest setups for fresh graduates:
+Menurut saya ini salah satu setup paling sederhana untuk fresh graduate:
 
-- **Account 1: Salary account** for income and bills
-- **Account 2: Spending account** for daily use
-- **Account 3: Savings account** for emergency fund and goals
+- **Rekening 1: Rekening gaji** untuk pemasukan dan tagihan
+- **Rekening 2: Rekening belanja** untuk pemakaian harian
+- **Rekening 3: Rekening tabungan** untuk dana darurat dan tujuan
 
-This setup helps because your money stops blending together. When all your cash sits in one rekening, it’s too easy to tell yourself you’re “still fine” when you’re actually spending the future.
+Setup ini membantu karena uangmu tidak bercampur jadi satu. Kalau semua uang ada di satu rekening, terlalu mudah untuk bilang “saya masih aman” padahal sebenarnya kamu sedang menghabiskan uang masa depan.
 
-If you want a deeper system for money flow, I’d pair this with the budgeting framework in my [how to create a monthly spending plan in Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/) guide.
+Kalau kamu mau sistem arus uang yang lebih rapi, saya sarankan dipadukan dengan framework budget di panduan [cara membuat rencana pengeluaran bulanan di Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/).
 
 ## Should Fresh Graduates Invest or Save First?
 
-Save first, then invest. I know some people hate hearing that, but I think it’s the smartest order for most fresh graduates in Indonesia.
+Nabung dulu, baru investasi. Saya tahu ada orang yang tidak suka mendengar ini, tapi menurut saya urutan ini paling masuk akal untuk kebanyakan fresh graduate di Indonesia.
 
-Saving gives you flexibility. Investing gives you growth. If you invest without a buffer, you may end up selling at the wrong time just because you need cash.
+Menabung memberi kamu fleksibilitas. Investasi memberi kamu pertumbuhan. Kalau kamu investasi tanpa buffer, kamu bisa terpaksa jual di waktu yang salah hanya karena butuh cash.
 
 ### A practical order of operations
 
-1. Build Rp 3 juta–Rp 5 juta starter emergency fund.
-2. Pay off expensive debt.
-3. [Start investing](/blog/how-much-money-do-you-need-to-start-investing/) with small, regular amounts.
-4. Increase contributions when income rises.
+1. Bangun dana darurat awal Rp 3 juta–Rp 5 juta.
+2. Lunasi utang mahal.
+3. [Mulai investasi](/blog/how-much-money-do-you-need-to-start-investing/) dengan nominal kecil dan rutin.
+4. Naikkan kontribusi saat penghasilan naik.
 
 ### What I’d personally do with a Rp 6 juta salary
 
-- Rp 1,500,000 for living costs
-- Rp 1,000,000 for family support and transport
-- Rp 1,000,000 for emergency savings
-- Rp 500,000 for investing
-- Rp 500,000 for skills or certifications
-- Rp 1,500,000 for flexible spending and bills
+- Rp 1.500.000 untuk biaya hidup
+- Rp 1.000.000 untuk bantu keluarga dan transport
+- Rp 1.000.000 untuk dana darurat
+- Rp 500.000 untuk investasi
+- Rp 500.000 untuk skill atau sertifikasi
+- Rp 1.500.000 untuk pengeluaran fleksibel dan tagihan
 
-That’s not a perfect formula, but it’s realistic. And realism matters more than theory.
+Itu bukan formula yang sempurna, tapi realistis. Dan realisme lebih penting daripada teori.
 
-If you want to invest with a long-term mindset, I’d look at diversified products like index funds or sukuk before chasing quick wins. My guide on [investing in sukuk Islamic bonds Indonesia](/blog/investing-in-sukuk-islamic-bonds-indonesia/) is a good option if you want something more stable than stocks or crypto.
+Kalau kamu mau investasi dengan mindset jangka panjang, saya akan lihat produk yang terdiversifikasi seperti index fund atau sukuk sebelum mengejar keuntungan cepat. Panduan saya tentang [investasi sukuk obligasi syariah di Indonesia](/blog/investing-in-sukuk-islamic-bonds-indonesia/) cocok kalau kamu ingin sesuatu yang lebih stabil daripada saham atau crypto.
 
 ## A Simple 30-Day Money Reset Plan for Fresh Graduates
 
-The fastest way to improve your finances is to run a 30-day reset. I’ve used versions of this when I felt my spending getting sloppy, and it works because it creates momentum.
+Cara tercepat memperbaiki keuangan adalah menjalankan reset 30 hari. Saya pernah pakai versi ini saat merasa pengeluaran saya mulai berantakan, dan hasilnya bagus karena menciptakan momentum.
 
 ### Week 1: Audit everything
 
-- Check your last 30 days of transactions.
-- Categorize spending into needs, wants, and leaks.
-- Identify your top 3 money drains.
+- Cek transaksi 30 hari terakhir.
+- Kategorikan pengeluaran jadi kebutuhan, keinginan, dan kebocoran.
+- Identifikasi 3 penguras uang terbesar.
 
 ### Week 2: Set your system
 
-- Open or separate accounts if needed.
-- Create automatic transfers on payday.
-- Decide your weekly spending cap.
+- Buka atau pisahkan rekening kalau perlu.
+- Buat transfer otomatis saat gajian.
+- Tentukan batas pengeluaran mingguan.
 
 ### Week 3: Cut one major leak
 
-- Cancel one unused subscription.
-- Reduce food delivery.
-- Set a hard limit on hangouts.
+- Batalkan satu langganan yang tidak dipakai.
+- Kurangi pesan antar makanan.
+- Tetapkan batas tegas untuk nongkrong.
 
 ### Week 4: Start building the buffer
 
-- Transfer your first emergency fund amount.
-- Put a small amount into investing.
-- Review what worked and what didn’t.
+- Transfer dana darurat pertama kamu.
+- Masukkan sedikit uang ke investasi.
+- Review apa yang berhasil dan apa yang tidak.
 
-If you do this for 30 days, you’ll already be ahead of most people your age. Not because you earn more, but because you’re finally directing your money instead of reacting to it.
-
+Kalau kamu melakukan ini selama 30 hari, kamu sudah selangkah lebih maju dari kebanyakan orang seusiamu. Bukan karena kamu lebih kaya, tapi karena kamu akhirnya mengarahkan uangmu, bukan bereaksi terhadapnya.
