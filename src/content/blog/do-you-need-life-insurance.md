@@ -73,7 +73,7 @@ Round up to $1.3 million. A 20-year term life policy at that amount for a health
 Term life covers you for a set period—10, 15, 20, 25, or 30 years. If you die during the term, your beneficiaries get the death benefit. If you outlive the term, coverage ends and there's no payout.
 
 **Pros:**
-- Cheapest option by far (5-10x less than whole life for the same death benefit)
+- Cheapest option by far (5-10x less than [whole life](/blog/term-life-vs-whole-life-insurance/) for the same death benefit)
 - Simple and easy to understand
 - Covers you during your highest-need years (kids growing up, mortgage being paid off)
 
@@ -98,7 +98,7 @@ Whole life covers you for your entire life and includes a cash value component t
 - 5-10x more expensive than term life for the same death benefit
 - Cash value growth is slow, especially in early years
 - Complex fee structures
-- Poor investment returns compared to index funds
+- Poor investment returns compared to [index funds](/blog/index-fund-investing-guide/)
 
 **Best for:** High-net-worth individuals using it for estate planning or tax strategies. Not for most families.
 
@@ -203,7 +203,7 @@ It depends entirely on your financial situation. A single 30-year-old with no de
 
 ### Is term or whole life insurance better?
 
-For the vast majority of Americans, term life insurance is the better choice. It's 5-10x cheaper and provides coverage during the years you need it most. Whole life makes sense only for high-net-worth individuals with specific estate planning needs. My general rule: buy term life and invest the premium difference in a 401(k) or index fund.
+For the vast majority of Americans, term life insurance is the better choice. It's 5-10x cheaper and provides coverage during the years you need it most. Whole life makes sense only for high-net-worth individuals with specific estate planning needs. My general rule: buy term life and invest the premium difference in a [401(k)](/blog/how-to-financially-prepare-for-retirement/) or index fund.
 
 ### Can I get life insurance with a pre-existing condition?
 

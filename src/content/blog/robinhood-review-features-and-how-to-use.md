@@ -34,7 +34,7 @@ The company went public in 2021 (ticker: HOOD) and has since expanded its produc
 
 ### Commission-Free Trading
 
-The headline feature is still the $0 commission on stock, ETF, and options trades. While other brokerages like Fidelity and Schwab have since matched this pricing, Robinhood was the one that forced the entire industry to go fee-free.
+The headline feature is still the $0 commission on stock, ETF, and options trades. While other brokerages like [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/) and Schwab have since matched this pricing, Robinhood was the one that forced the entire industry to go fee-free.
 
 What you actually pay nothing for:
 
@@ -61,7 +61,7 @@ The 4.5% APY on cash alone makes Gold worth it if you keep more than about $1,30
 
 ### Robinhood IRA
 
-Robinhood launched retirement accounts with a compelling hook: a 1% match on all IRA contributions (3% with Gold). That means if you contribute $7,000 to your Roth IRA, Robinhood adds $70 (or $210 with Gold) in matching funds.
+Robinhood launched retirement accounts with a compelling hook: a 1% match on all IRA contributions (3% with Gold). That means if you contribute $7,000 to your [Roth IRA](/blog/how-to-financially-prepare-for-retirement/), Robinhood adds $70 (or $210 with Gold) in matching funds.
 
 No other major brokerage offers an IRA match, so this is a genuine competitive advantage. However, the match vests over a period and there are conditions to be aware of.
 
@@ -85,7 +85,7 @@ When I compare the Robinhood app to Fidelity or Schwab's mobile apps, it is not 
 
 ### Recurring Investments
 
-You can set up automatic recurring investments on a daily, weekly, or monthly basis. I have a $100 weekly purchase of VTI set up on Robinhood that runs on autopilot. This is dollar-cost averaging at its simplest.
+You can set up automatic recurring investments on a daily, weekly, or monthly basis. I have a $100 weekly purchase of VTI set up on Robinhood that runs on autopilot. This is [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) at its simplest.
 
 ### Cash Management
 
@@ -98,7 +98,7 @@ The Robinhood debit card and cash management features have improved significantl
 
 ### Low Barrier to Entry
 
-No minimum deposit, fractional shares from $1, and a simple sign-up process. Robinhood is genuinely the easiest way for a complete beginner to start investing. I have recommended it to friends who were intimidated by traditional brokerages and every single one was able to start investing within 15 minutes.
+No minimum deposit, fractional shares from $1, and a simple sign-up process. Robinhood is genuinely the easiest way for a complete beginner to [start investing](/blog/how-much-money-do-you-need-to-start-investing/). I have recommended it to friends who were intimidated by traditional brokerages and every single one was able to start investing within 15 minutes.
 
 ## What Concerns Me About Robinhood
 
@@ -112,7 +112,7 @@ Why this matters:
 - The SEC has scrutinized this practice extensively
 - The conflict of interest is real: Robinhood profits more when you trade more
 
-In practice, for small investors buying and holding index funds, the price improvement difference is negligible, maybe a fraction of a cent per share. But for active traders dealing in large volumes, it can add up.
+In practice, for small investors buying and holding [index funds](/blog/index-fund-investing-guide/), the price improvement difference is negligible, maybe a fraction of a cent per share. But for active traders dealing in large volumes, it can add up.
 
 ### Limited Research and Analysis Tools
 

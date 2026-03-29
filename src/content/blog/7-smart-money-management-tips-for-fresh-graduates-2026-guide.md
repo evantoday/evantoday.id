@@ -1,5 +1,5 @@
 ---
-title: "7 Smart Money Management Tips for Fresh Graduates [2026 Guide]"
+title: "7 Money Tips for Fresh Graduates [2026 Guide]"
 description: "Fresh graduate and gaji pertama? Here’s how to manage money in Indonesia, avoid lifestyle creep, and save Rp 1 juta+ from day one."
 pubDate: 2026-03-28
 updatedDate: 2026-03-28
@@ -65,7 +65,7 @@ Why skill development? Because sometimes the best return isn’t from saham or r
 
 ## What Should Your First Financial Priorities Be?
 
-Your first priorities should be survival, stability, and control. That means emergency fund first, debt second, and investing third. I know that sounds boring, but boring is what keeps you out of trouble.
+Your first priorities should be survival, stability, and control. That means [emergency fund](/blog/emergency-fund-guide/) first, debt second, and investing third. I know that sounds boring, but boring is what keeps you out of trouble.
 
 ### 1. Build a starter emergency fund
 
@@ -75,7 +75,7 @@ Keep it in a separate rekening that’s easy to access but not too easy to spend
 
 ### 2. Avoid consumer debt
 
-If you’re a fresh graduate, I think credit card debt and paylater are dangerous unless you’re extremely disciplined. A small cicilan can snowball fast when your salary is still limited. If you’re already stuck, focus on paying it off aggressively with a simple plan like the one I shared in [how to pay off credit card debt fast in Indonesia](/blog/how-to-pay-off-credit-card-debt-fast-indonesia/).
+If you’re a fresh graduate, I think [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) and paylater are dangerous unless you’re extremely disciplined. A small cicilan can snowball fast when your salary is still limited. If you’re already stuck, focus on paying it off aggressively with a simple plan like the one I shared in [how to pay off credit card debt fast in Indonesia](/blog/how-to-pay-off-credit-card-debt-fast-indonesia/).
 
 ### 3. Start investing only after you have a buffer
 
@@ -83,7 +83,7 @@ I’m pro-investing, but not at the expense of liquidity. If you don’t have em
 
 ## How Do You Budget on a Fresh Graduate Salary?
 
-The easiest budget is the one you can review in 10 minutes, not 2 hours. I recommend using a zero-based budget for your first 3 months after graduation. That means every rupiah has a job before the month starts.
+The easiest budget is the one you can review in 10 minutes, not 2 hours. I recommend using a [zero-based budget](/blog/zero-based-budgeting-method-explained/) for your first 3 months after graduation. That means every rupiah has a job before the month starts.
 
 ### Step-by-step budget method
 
@@ -148,7 +148,7 @@ Rp 25,000 here, Rp 40,000 there, and suddenly you’ve spent Rp 1.2 juta on thin
 
 ### 4. Using debt for convenience
 
-Paylater is especially dangerous when you’re still learning how to budget. A small monthly installment looks harmless until it stacks with other subscriptions and card bills.
+Paylater is especially dangerous when you’re still learning [how to budget](/blog/how-to-budget-money/). A small monthly installment looks harmless until it stacks with other subscriptions and card bills.
 
 ### 5. Investing too early in the wrong product
 
@@ -188,7 +188,7 @@ Saving gives you flexibility. Investing gives you growth. If you invest without 
 
 1. Build Rp 3 juta–Rp 5 juta starter emergency fund.
 2. Pay off expensive debt.
-3. Start investing with small, regular amounts.
+3. [Start investing](/blog/how-much-money-do-you-need-to-start-investing/) with small, regular amounts.
 4. Increase contributions when income rises.
 
 ### What I’d personally do with a Rp 6 juta salary

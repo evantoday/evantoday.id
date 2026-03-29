@@ -94,7 +94,7 @@ To set up direct deposit, get your new account number and routing number from th
 
 ### Opening a Chime Account
 
-1. Download the Chime app from the App Store or Google Play.
+1. Download the [Chime](/blog/chime-review-features-and-fees/) app from the App Store or Google Play.
 2. Tap "Apply Now" and enter your personal information.
 3. Chime does a soft credit check (does not affect your credit score).
 4. If approved, your account is open immediately.
@@ -164,7 +164,7 @@ If you are a US resident without an SSN, you may be able to use an ITIN (Individ
 - Citibank
 - Some credit unions
 
-Most neobanks (Chime, SoFi, Ally) require an SSN specifically.
+Most [neobanks](/blog/best-neobanks-2026/) (Chime, SoFi, Ally) require an SSN specifically.
 
 ## Online Bank Account vs Traditional Bank Account
 
@@ -231,7 +231,7 @@ Once your account is open, here is how long different funding methods take:
 
 Opening a bank account online in the US takes about ten minutes and requires nothing more than your SSN and a government ID. You do not need to visit a branch, schedule an appointment, or fill out paper forms.
 
-My recommendation for most people: start with Ally Bank if you want high-yield savings, Chime if you want the best free checking account, or SoFi if you want everything in one place. You can always open additional accounts later as your needs change.
+My recommendation for most people: start with [Ally Bank](/blog/ally-bank-review-still-worth-it-in-2026/) if you want [high-yield savings](/blog/best-high-yield-savings-accounts-2026/), Chime if you want the best free checking account, or SoFi if you want everything in one place. You can always open additional accounts later as your needs change.
 
 The hardest part is choosing which bank to go with. The actual opening process is the easy part.
 
@@ -247,7 +247,7 @@ Yes, as long as you are on the official bank website or app. Look for "https" in
 
 ### Can I open a bank account online if I am under 18?
 
-Most online banks require you to be at least 18 years old. However, some banks offer teen or student accounts that a parent can open on behalf of a minor. Capital One, Chase, and Fidelity all offer custodial or teen accounts with online access. Chime, SoFi, and Ally do not currently offer accounts for minors.
+Most online banks require you to be at least 18 years old. However, some banks offer teen or student accounts that a parent can open on behalf of a minor. Capital One, Chase, and [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/) all offer custodial or teen accounts with online access. Chime, SoFi, and Ally do not currently offer accounts for minors.
 
 ### How many bank accounts can I have?
 

@@ -117,7 +117,7 @@ Here's why it works:
 
 But I also want to be honest. Beginner-friendly doesn't mean risk-free. Crypto is still volatile. If you're using Coinbase because you heard a friend made money fast, that's a bad reason. I'd rather you treat crypto like a small, high-risk portion of your portfolio, not your entire financial plan.
 
-If you're still fixing your money habits overall, I'd strongly suggest reading [financial mistakes to avoid in your 20s](/blog/financial-mistakes-to-avoid-in-your-20s/) and [how to stop living paycheck to paycheck](/blog/how-to-stop-living-paycheck-to-paycheck/). Crypto should come after your basics, not before them.
+If you're still fixing your [money habits](/blog/smart-money-habits-of-wealthy-people/) overall, I'd strongly suggest reading [financial mistakes to avoid in your 20s](/blog/financial-mistakes-to-avoid-in-your-20s/) and [how to stop living paycheck to paycheck](/blog/how-to-stop-living-paycheck-to-paycheck/). Crypto should come after your basics, not before them.
 
 ## How Does Coinbase Compare to Other Crypto Apps?
 

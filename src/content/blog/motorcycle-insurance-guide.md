@@ -129,7 +129,7 @@ If you have tickets, accidents, or a lapse in coverage, Dairyland is one of the 
 | Allstate | $580 | $240 | $580 | Accident forgiveness |
 | Dairyland | $650 | $280 | $650 | Accepts high-risk riders |
 
-*Based on a 35-year-old male, clean record, 2023 Harley-Davidson Sportster, $500 deductible.*
+*Based on a 35-year-old male, clean record, 2023 Harley-Davidson Sportster, $500 [deductible](/blog/insurance-terms-explained-simply-2026-guide/).*
 
 ## How Motorcycle Insurance Rates Are Calculated
 
@@ -175,7 +175,7 @@ The MSF Basic RiderCourse or similar state-approved course saves 5-15% on premiu
 
 ### 2. Bundle With Auto Insurance
 
-Bundling motorcycle and auto insurance saves 10-20% with most companies. Progressive and GEICO offer the best bundle discounts in my experience.
+Bundling motorcycle and [auto insurance](/blog/car-insurance-comparison-2026/) saves 10-20% with most companies. Progressive and GEICO offer the best bundle discounts in my experience.
 
 ### 3. Install Anti-Theft Devices
 

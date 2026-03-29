@@ -28,7 +28,7 @@ Here’s the simple version: you enter the recipient’s bank account, Flip give
 
 What I like about Flip is that it solves a very Indonesian problem. We all have accounts spread across different banks. One bank for salary, another for savings, another for e-wallet top-ups, and maybe one more for investing or business. That means bank transfer fees add up fast. If you send money 20 times a month and each transfer costs Rp 6.500, that’s Rp 130.000 gone. That’s not life-changing, but it’s still real money.
 
-I think Flip makes the most sense for people who are trying to be more intentional with cash flow. If you’re already working on better money habits, this is one of those small wins that quietly helps. It’s similar to how I think about cutting other friction costs, like avoiding unnecessary debt and tightening spending before it gets out of hand. If that’s your situation, my guide on [how to pay off credit card debt fast Indonesia](/blog/how-to-pay-off-credit-card-debt-fast-indonesia/) might also be useful.
+I think Flip makes the most sense for people who are trying to be more intentional with cash flow. If you’re already working on better [money habits](/blog/smart-money-habits-of-wealthy-people/), this is one of those small wins that quietly helps. It’s similar to how I think about cutting other friction costs, like avoiding unnecessary debt and tightening spending before it gets out of hand. If that’s your situation, my guide on [how to pay off credit card debt fast Indonesia](/blog/how-to-pay-off-credit-card-debt-fast-indonesia/) might also be useful.
 
 ## Is Flip Really Free for Bank Transfers?
 
@@ -40,7 +40,7 @@ What people usually mean by “free transfer” is this:
 2. You still need to follow Flip’s transfer flow correctly.
 3. Some services or special features may have different pricing.
 
-In my experience, the savings are very real. If your bank normally charges Rp 6.500 per transfer and you do 10 transfers a month, that’s Rp 65.000 saved. Over a year, that’s Rp 780.000. For a lot of people in Indonesia, that’s not pocket change. That’s a decent utility bill, groceries, or a chunk of your emergency fund.
+In my experience, the savings are very real. If your bank normally charges Rp 6.500 per transfer and you do 10 transfers a month, that’s Rp 65.000 saved. Over a year, that’s Rp 780.000. For a lot of people in Indonesia, that’s not pocket change. That’s a decent utility bill, groceries, or a chunk of your [emergency fund](/blog/emergency-fund-guide/).
 
 ### My quick cost comparison
 
@@ -115,7 +115,7 @@ I think the choice is pretty clear for most Indonesians. If you transfer money o
 
 There’s also a psychological angle here. People often ignore small fees because Rp 6.500 feels tiny. But small fees become big over time. I’ve always believed personal finance is built on boring consistency, not dramatic hacks. That’s why I care about tools like Flip. It’s not exciting, but it quietly saves you money.
 
-If you’re trying to optimize your overall money system, you may also want to look at other places where small costs pile up. For example, if you use digital wallets heavily, my guide on [digital wallet security tips Indonesia](/blog/7-smart-digital-wallet-security-tips-indonesia-2026-guide/) can help you avoid mistakes that are much more expensive than transfer fees.
+If you’re trying to optimize your overall money system, you may also want to look at other places where small costs pile up. For example, if you use [digital wallet](/blog/7-smart-digital-wallet-security-tips-2026-guide/)s heavily, my guide on [digital wallet security tips Indonesia](/blog/7-smart-digital-wallet-security-tips-indonesia-2026-guide/) can help you avoid mistakes that are much more expensive than transfer fees.
 
 ## Is Flip Safe to Use?
 
@@ -128,7 +128,7 @@ What I always recommend:
 - Only install apps from official app stores.
 - Keep your phone and banking apps updated.
 
-I’m very opinionated about this: most fintech problems are not caused by the app alone. They happen when users get sloppy. A rushed transfer, a copied account number from WhatsApp, or a fake customer service chat can turn a simple payment into a mess.
+I’m very opinionated about this: most [fintech](/blog/how-fintech-is-changing-banking/) problems are not caused by the app alone. They happen when users get sloppy. A rushed transfer, a copied account number from WhatsApp, or a fake customer service chat can turn a simple payment into a mess.
 
 That’s why I treat Flip the same way I treat my bank apps and e-wallets: useful, but not something I use casually without checking details. If you handle transfers often, security habits matter more than brand loyalty.
 

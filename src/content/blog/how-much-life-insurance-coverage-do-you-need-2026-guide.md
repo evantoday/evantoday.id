@@ -8,7 +8,7 @@ tags: ["life insurance", "coverage", "Indonesia", "financial planning", "family 
 author: "Evan"
 ---
 
-When I first started looking at life insurance, I made the same mistake a lot of people make: I focused on the monthly premium, not the coverage amount. That’s backwards. The real question isn’t “How cheap can I buy it?” It’s **how much life insurance coverage do you need Indonesia** so your family won’t be forced to sell assets or take on debt if something happens to you.
+When I first started looking at [life insurance](/blog/do-you-need-life-insurance/), I made the same mistake a lot of people make: I focused on the monthly premium, not the coverage amount. That’s backwards. The real question isn’t “How cheap can I buy it?” It’s **how much life insurance coverage do you need Indonesia** so your family won’t be forced to sell assets or take on debt if something happens to you.
 
 I’ve seen too many people in their 20s and 30s buy a policy with Rp 100 juta of coverage and feel “safe,” when that number barely covers a few months of living costs, let alone a mortgage, kids, and future education. Let’s fix that properly.
 
@@ -28,7 +28,7 @@ If you’re single with no dependents, your need may be low or even unnecessary 
 
 Here’s the framework I use when I estimate coverage for myself or when friends ask me for help:
 
-1. **Pay off debts**
+1. **[Pay off debt](/blog/debt-free-journey-tips/)s**
    - KPR
    - KTA
    - Credit card balances
@@ -46,7 +46,7 @@ Here’s the framework I use when I estimate coverage for myself or when friends
 
 4. **Fund future goals**
    - Children’s education
-   - Emergency fund replacement
+   - [Emergency fund](/blog/emergency-fund-guide/) replacement
    - Care for parents
    - Final expenses
 
@@ -79,7 +79,7 @@ Include anything your family would have to pay if you died.
 Example:
 - KPR balance: Rp 450 juta
 - Car loan: Rp 80 juta
-- Credit card debt: Rp 20 juta
+- [Credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/): Rp 20 juta
 
 Total debts = **Rp 550 juta**
 
@@ -352,7 +352,7 @@ Rp 1 miliar may be enough if you’re single, debt-light, or only need short-ter
 Yes, I absolutely think you should include KPR if your family would struggle to keep the house without your income. If the mortgage balance is large, it can be one of the biggest reasons your coverage needs to go up.
 
 ### Is term life better than whole life in Indonesia?
-For most people aged 20–40, I think term life is better because it gives much higher coverage for a lower premium. Whole life can make sense if you specifically want lifetime coverage and are comfortable paying more.
+For most people aged 20–40, I think term life is better because it gives much higher coverage for a lower premium. [Whole life](/blog/term-life-vs-whole-life-insurance/) can make sense if you specifically want lifetime coverage and are comfortable paying more.
 
 ### Do I still need life insurance if I have savings and investments?
 You might still need it if your savings and investments are not enough to cover debts, living expenses, and future goals. Insurance is there to bridge the gap when your assets alone can’t protect your family.

@@ -38,7 +38,7 @@ Here is my full breakdown of what makes Fidelity great, where it falls short, an
 
 ### Zero-Fee Index Funds
 
-This is Fidelity's killer feature. They offer four zero-expense-ratio index funds:
+This is Fidelity's killer feature. They offer four zero-expense-ratio [index funds](/blog/index-fund-investing-guide/):
 
 - **FZROX**: Fidelity ZERO Total Market Index Fund
 - **FZILX**: Fidelity ZERO International Index Fund
@@ -53,14 +53,14 @@ The catch is minor: these funds are only available at Fidelity, so you cannot tr
 
 Fidelity offers $0 commissions on all US stock and ETF trades. Their trade execution is excellent, often providing price improvement that saves you money on each trade.
 
-According to Fidelity's execution quality statistics, they saved customers an average of $19.30 per 1,000 shares traded through price improvement. Unlike Robinhood, Fidelity routes a significant portion of orders directly to exchanges rather than selling order flow to market makers, which generally results in better execution prices.
+According to Fidelity's execution quality statistics, they saved customers an average of $19.30 per 1,000 shares traded through price improvement. Unlike [Robinhood](/blog/robinhood-review-features-and-how-to-use/), Fidelity routes a significant portion of orders directly to exchanges rather than selling order flow to market makers, which generally results in better execution prices.
 
 ### Fractional Shares
 
 Fidelity's Stocks by the Slice feature lets you buy fractional shares of any S&P 500 stock or eligible ETF for as little as $1. This is great for:
 
 - Building a diversified portfolio with limited capital
-- Dollar-cost averaging into expensive stocks
+- [Dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) into expensive stocks
 - Setting up recurring automatic investments
 
 ### Cash Management
@@ -92,11 +92,11 @@ This is where Fidelity truly separates itself from simpler platforms like Robinh
 **What you get for free:**
 
 - Equity research reports from 20+ providers
-- Screeners for stocks, ETFs, mutual funds, and bonds
+- Screeners for stocks, [ETFs](/blog/etf-investing-explained/), mutual funds, and bonds
 - Advanced charting with 100+ technical indicators
 - Options analysis tools including profit/loss calculator
 - Portfolio analysis with sector breakdown and risk assessment
-- Retirement planning calculator (one of the best free tools available)
+- [Retirement planning](/blog/how-to-financially-prepare-for-retirement/) calculator (one of the best free tools available)
 - Tax reporting and cost basis tracking
 
 **Active Trader Pro (free desktop platform):**

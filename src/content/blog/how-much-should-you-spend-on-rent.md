@@ -16,7 +16,7 @@ Here is a reality that millions of Americans are living with right now: they are
 
 According to the Joint Center for Housing Studies at Harvard, nearly half of all US renters are "cost-burdened," meaning they spend more than 30% of their gross income on housing. About 12 million households spend more than 50%.
 
-When rent eats up half your paycheck, everything else suffers. Emergency savings? Nonexistent. Retirement contributions? Skipped. Credit card debt? Growing. It becomes a cycle that is incredibly hard to break.
+When rent eats up half your paycheck, everything else suffers. Emergency savings? Nonexistent. Retirement contributions? Skipped. [Credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/)? Growing. It becomes a cycle that is incredibly hard to break.
 
 The good news is that understanding the right rent-to-income ratio — and making intentional decisions about housing — can free up hundreds of dollars every month. Let me show you how.
 
@@ -67,9 +67,9 @@ A more realistic approach uses net income:
 
 ### My Recommended Tiers
 
-Here is a more nuanced framework based on your financial goals:
+Here is a more nuanced framework based on your [financial goals](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/):
 
-**Under 25% of gross income**: Ideal. You have plenty of room for savings, investing, and lifestyle spending. This is the target if you are aggressively saving for a home down payment or early retirement.
+**Under 25% of gross income**: Ideal. You have plenty of room for savings, investing, and lifestyle spending. This is the target if you are aggressively saving for a home down payment or [early retirement](/blog/achieving-financial-independence-and-early-retirement-fire-movement/).
 
 **25-30% of gross income**: Healthy. The standard recommendation. You can comfortably cover rent while still saving 15-20% of income.
 
@@ -225,4 +225,4 @@ Often yes, when you factor in the full cost of commuting. A longer commute adds 
 
 ### How do I save for a house down payment while paying high rent?
 
-It requires aggressive savings in other categories. Automate a fixed monthly transfer to a high-yield savings account labeled "house fund." Cut discretionary spending (dining out, subscriptions, shopping). Consider a roommate to reduce rent temporarily. Pick up a side income source. Many first-time buyers also use FHA loans (3.5% down) or state down payment assistance programs to buy sooner with less saved.
+It requires aggressive savings in other categories. Automate a fixed monthly transfer to a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account labeled "house fund." Cut discretionary spending (dining out, subscriptions, shopping). Consider a roommate to reduce rent temporarily. Pick up a side income source. Many first-time buyers also use FHA loans (3.5% down) or state down payment assistance programs to buy sooner with less saved.

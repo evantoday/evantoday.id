@@ -208,7 +208,7 @@ Saying no to expensive activities is hard in college. But remember: going into d
 
 ## Building Long-Term Financial Habits in College
 
-The money you save in college matters, but the habits you build matter more. Students who graduate with even basic financial literacy and habits are dramatically better off at 30 than those who figure it out later.
+The money you save in college matters, but the habits you build matter more. Students who graduate with even basic [financial literacy](/blog/how-to-teach-kids-about-money/) and habits are dramatically better off at 30 than those who figure it out later.
 
 ### Habits to Start Now
 
@@ -222,11 +222,11 @@ The money you save in college matters, but the habits you build matter more. Stu
 
 ### How much money should a college student have in savings?
 
-Aim for at least $500-$1,000 as a starter emergency fund. This covers most common unexpected expenses like a car repair, medical copay, or last-minute travel. If you can save more, great, but having even a small buffer prevents you from going into credit card debt when something comes up. Beyond that, save what you can without sacrificing your mental health or academic performance.
+Aim for at least $500-$1,000 as a starter [emergency fund](/blog/emergency-fund-guide/). This covers most common unexpected expenses like a car repair, medical copay, or last-minute travel. If you can save more, great, but having even a small buffer prevents you from going into [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) when something comes up. Beyond that, save what you can without sacrificing your mental health or academic performance.
 
 ### Should college students invest?
 
-If you have earned income (from a job, not just financial aid) and you have a basic emergency fund, opening a Roth IRA is one of the smartest moves you can make. Even $50-$100 per month invested at age 20 has decades to grow. A Roth IRA allows tax-free withdrawals in retirement, and you can withdraw your contributions (not earnings) anytime without penalty if you need them. Start with a low-cost index fund at Fidelity or Vanguard.
+If you have earned income (from a job, not just financial aid) and you have a basic emergency fund, opening a [Roth IRA](/blog/how-to-financially-prepare-for-retirement/) is one of the smartest moves you can make. Even $50-$100 per month invested at age 20 has decades to grow. A Roth IRA allows tax-free withdrawals in retirement, and you can withdraw your contributions (not earnings) anytime without penalty if you need them. Start with a low-cost [index fund](/blog/index-fund-investing-guide/) at Fidelity or Vanguard.
 
 ### How do I split expenses fairly with roommates?
 

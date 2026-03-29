@@ -64,7 +64,7 @@ This is goal number one for everyone, regardless of income, debt level, or finan
 
 ### How to Set This Goal
 
-**SMART version:** "I will save $1,000 in a separate high-yield savings account within the next 8 weeks."
+**SMART version:** "I will save $1,000 in a separate [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account within the next 8 weeks."
 
 ### Action Steps
 
@@ -90,7 +90,7 @@ If you carry any debt with an interest rate above 10 percent (most credit cards 
 
 ### How to Set This Goal
 
-**SMART version:** "I will pay off my $6,800 in credit card debt within 18 months by paying $450 per month using the avalanche method."
+**SMART version:** "I will pay off my $6,800 in [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) within 18 months by paying $450 per month using the avalanche method."
 
 ### Action Steps
 
@@ -123,7 +123,7 @@ Every year you wait costs you approximately $100,000 at retirement.
 
 ### How to Set This Goal
 
-**SMART version:** "I will open a Roth IRA this week and set up automatic contributions of $250 per month into a total stock market index fund."
+**SMART version:** "I will open a [Roth IRA](/blog/how-to-financially-prepare-for-retirement/) this week and set up automatic contributions of $250 per month into a total stock market [index fund](/blog/index-fund-investing-guide/)."
 
 ### Action Steps
 
@@ -202,7 +202,7 @@ You cannot pursue all five at full speed simultaneously. Here is the recommended
 
 ### Phase 1: Foundation (Months 1-3)
 
-- Build the $1,000 starter emergency fund.
+- Build the $1,000 starter [emergency fund](/blog/emergency-fund-guide/).
 - Start contributing enough to get your employer 401(k) match (if available).
 - Make minimum payments on all debts.
 

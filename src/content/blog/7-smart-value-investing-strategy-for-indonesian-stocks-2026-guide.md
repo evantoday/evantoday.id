@@ -1,5 +1,5 @@
 ---
-title: "7 Smart Value Investing Strategy for Indonesian Stocks [2026 Guide]"
+title: "7 Value Investing Tips for Indonesian Stocks [2026]"
 description: "Value investing bisa mulai dari Rp 1 juta. Saya jelaskan cara pilih saham murah, cek fundamental, dan hindari jebakan value trap."
 pubDate: 2026-03-28
 updatedDate: 2026-03-28
@@ -76,7 +76,7 @@ Saya pernah lihat saham terlihat murah karena:
 
 Itu bukan value. Itu bisa jadi value trap.
 
-Kalau kamu mau membangun kebiasaan analisis yang rapi, saya sarankan baca juga [index fund investing in Indonesia guide](/blog/index-fund-investing-in-indonesia-guide/) supaya kamu paham bedanya memilih saham aktif vs beli pasar secara luas. Buat banyak orang, kombinasi index fund dan value stock justru lebih sehat.
+Kalau kamu mau membangun kebiasaan analisis yang rapi, saya sarankan baca juga [index fund investing in Indonesia guide](/blog/index-fund-investing-in-indonesia-guide/) supaya kamu paham bedanya memilih saham aktif vs beli pasar secara luas. Buat banyak orang, kombinasi [index fund](/blog/index-fund-investing-guide/) dan value stock justru lebih sehat.
 
 ## Langkah-Langkah Menerapkan Value Investing Strategy
 

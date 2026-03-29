@@ -52,7 +52,7 @@ The numbers:
 ### How to Manage Housing Costs
 
 - Stay in your current home longer than you think you need to — babies do not actually need their own room for the first 1-2 years
-- Consider locations with lower cost of living if your work allows remote flexibility
+- Consider locations with lower [cost of living](/blog/cost-of-living-comparison-nyc-vs-la-vs-austin/) if your work allows remote flexibility
 - House hack: rent out a room or a basement unit to offset the larger mortgage payment
 
 ## Childcare: The Cost That Shocks New Parents ($65K-$85K)
@@ -195,10 +195,10 @@ A family in rural Tennessee might spend $250,000 total while a family in San Fra
 
 ## How to Financially Prepare for a Child
 
-1. **Build a baby emergency fund**: $5,000-$10,000 before the baby arrives to cover birth costs and initial expenses
+1. **Build a baby [emergency fund](/blog/emergency-fund-guide/)**: $5,000-$10,000 before the baby arrives to cover birth costs and initial expenses
 2. **Review your health insurance**: Switch to a plan with better maternity coverage during open enrollment if needed
 3. **Start a 529 college savings plan**: Even $50/month from birth grows to $20,000+ by age 18
-4. **Get life insurance**: Both parents need term life insurance once a child depends on your income
+4. **Get [life insurance](/blog/do-you-need-life-insurance/)**: Both parents need [term life](/blog/term-life-vs-whole-life-insurance/) insurance once a child depends on your income
 5. **Update your budget**: Account for new recurring expenses before they hit
 6. **Max out tax benefits**: Claim the Child Tax Credit ($2,000), use a Dependent Care FSA ($5,000), and check eligibility for EITC
 

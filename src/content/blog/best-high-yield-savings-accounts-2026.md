@@ -70,7 +70,7 @@ Ally is the most complete online bank I've used. Beyond the high-yield savings a
 - No physical branches
 - External transfers can take 1-3 days
 
-I personally use Ally as my primary savings bank because the Buckets feature makes it easy to separate emergency funds, vacation savings, and other goals without opening multiple accounts.
+I personally use Ally as my primary savings bank because the Buckets feature makes it easy to separate [emergency fund](/blog/emergency-fund-guide/)s, vacation savings, and other goals without opening multiple accounts.
 
 ### 3. Discover Online Savings
 
@@ -98,7 +98,7 @@ Discover is a solid all-around option with competitive rates and good customer s
 **Minimum deposit:** $0
 **Monthly fee:** None
 
-SoFi offers one of the highest rates available, but there's a catch: you need to set up direct deposit to get the top APY. Without direct deposit, the rate drops to around 1.20%.
+[SoFi](/blog/sofi-review-interest-rates-and-features/) offers one of the highest rates available, but there's a catch: you need to set up direct deposit to get the top APY. Without direct deposit, the rate drops to around 1.20%.
 
 **Pros:**
 - Top-tier APY with direct deposit
@@ -118,12 +118,12 @@ SoFi offers one of the highest rates available, but there's a catch: you need to
 **Minimum deposit:** $0
 **Monthly fee:** None
 
-Wealthfront is primarily a robo-advisor, but their cash account offers excellent savings rates with FDIC coverage up to $8 million through partner banks.
+Wealthfront is primarily a [robo-advisor](/blog/robo-advisor-indonesia-review-2026-guide/), but their cash account offers excellent savings rates with FDIC coverage up to $8 million through partner banks.
 
 **Pros:**
 - Up to $8 million in FDIC coverage
 - Integrates with Wealthfront's investment platform
-- Autopilot feature for automatic savings
+- Autopilot feature for [automatic savings](/blog/10-automatic-savings-tips-and-tricks/)
 - No fees or minimums
 
 **Cons:**

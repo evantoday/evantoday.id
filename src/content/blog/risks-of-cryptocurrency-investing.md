@@ -95,14 +95,14 @@ The regulatory environment for crypto in the US is changing rapidly, and it affe
 
 #### SEC Enforcement
 
-The Securities and Exchange Commission has taken the position that many cryptocurrencies are unregistered securities. In 2023, the SEC sued both Coinbase and Binance, the two largest crypto exchanges. While the legal battles continue, the outcomes could reshape which tokens are available to US investors.
+The Securities and Exchange Commission has taken the position that many cryptocurrencies are unregistered securities. In 2023, the SEC sued both [Coinbase](/blog/coinbase-review-fees-and-features-2026/) and Binance, the two largest crypto exchanges. While the legal battles continue, the outcomes could reshape which tokens are available to US investors.
 
 #### Tax Enforcement
 
-The IRS is increasing its focus on crypto tax compliance:
+The IRS is increasing its focus on [crypto tax](/blog/crypto-tax-rules-explained/) compliance:
 - The 1040 form now asks directly about digital asset transactions.
 - Starting in 2026, exchanges must file Form 1099-DA reporting customer transactions.
-- The IRS has used blockchain analysis tools to identify unreported income.
+- The IRS has used [blockchain](/blog/beginners-guide-to-blockchain-technology/) analysis tools to identify unreported income.
 
 #### Broker Reporting Rules
 
@@ -125,7 +125,7 @@ Crypto comes with unique technical risks that do not exist in traditional invest
 
 ### Lost Keys and Wallet Access
 
-If you lose access to your crypto wallet (forgotten password, lost hardware wallet, lost seed phrase), your crypto is gone forever. There is no password reset, no customer service, no recovery option.
+If you lose access to your crypto wallet (forgotten password, lost [hardware wallet](/blog/best-crypto-wallets-for-beginners/), lost seed phrase), your crypto is gone forever. There is no password reset, no customer service, no recovery option.
 
 **Statistics**: An estimated 3-4 million Bitcoin are permanently lost due to lost private keys, worth hundreds of billions of dollars at current prices.
 
@@ -226,7 +226,7 @@ None of this means you should avoid crypto entirely. It means you should go in w
 
 ### Is crypto investing worth the risk?
 
-It depends on your financial situation and risk tolerance. If you have a fully funded emergency fund, no high-interest debt, and are already contributing to retirement accounts, allocating 5-10% of your portfolio to crypto is a reasonable approach for many people. The potential for high returns exists, but so does the potential for significant loss. Do not invest money you need for rent, bills, or essential expenses.
+It depends on your financial situation and risk tolerance. If you have a fully funded [emergency fund](/blog/emergency-fund-guide/), no high-interest debt, and are already contributing to retirement accounts, allocating 5-10% of your portfolio to crypto is a reasonable approach for many people. The potential for high returns exists, but so does the potential for significant loss. Do not invest money you need for rent, bills, or essential expenses.
 
 ### What is the safest cryptocurrency to invest in?
 

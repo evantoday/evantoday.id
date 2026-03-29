@@ -22,7 +22,7 @@ I get it. After months of working and paying taxes, that refund feels like found
 
 So the question is: now that you have it back, what is the smartest thing you can do with it?
 
-I am going to walk you through five money moves that turn your tax refund into something lasting — whether that means eliminating debt, building an emergency fund, or investing in your future.
+I am going to walk you through five money moves that turn your tax refund into something lasting — whether that means eliminating debt, building an [emergency fund](/blog/emergency-fund-guide/), or investing in your future.
 
 ## Move 1: Pay Off High-Interest Debt
 
@@ -30,7 +30,7 @@ I am going to walk you through five money moves that turn your tax refund into s
 
 If you carry a credit card balance, your money is actively losing value every single day. The average credit card APR in 2026 is over 22%. That means if you owe $3,000 on a credit card and only make minimum payments, you will pay more than $3,000 in interest alone over the life of that debt.
 
-Using your entire $3,100 refund to wipe out or drastically reduce credit card debt is the single highest-return "investment" you can make. You are effectively earning a guaranteed 22% return.
+Using your entire $3,100 refund to wipe out or drastically reduce [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) is the single highest-return "investment" you can make. You are effectively earning a guaranteed 22% return.
 
 ### Which Debts to Target First
 
@@ -60,7 +60,7 @@ By using your tax refund to pay both off completely, you save $2,400 in interest
 
 Nearly 60% of Americans cannot cover a $1,000 emergency expense without borrowing. If that describes you, your tax refund can fix that problem immediately.
 
-Put $1,000-$2,000 into a high-yield savings account and do not touch it. This is your car-broke-down fund. Your unexpected-ER-visit fund. Your landlord-raised-the-rent fund.
+Put $1,000-$2,000 into a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account and do not touch it. This is your car-broke-down fund. Your unexpected-ER-visit fund. Your landlord-raised-the-rent fund.
 
 ### Where to Park Your Emergency Fund
 
@@ -85,7 +85,7 @@ If you have already hit the $1,000 starter mark, use your refund to build toward
 
 If you do not have high-interest debt and your emergency fund is in good shape, the best long-term use of your tax refund is investing it.
 
-A Roth IRA is the best vehicle for most Americans because:
+A [Roth IRA](/blog/how-to-financially-prepare-for-retirement/) is the best vehicle for most Americans because:
 
 - Your money grows tax-free forever
 - You can withdraw your contributions (not earnings) at any time without penalty
@@ -189,7 +189,7 @@ It depends on your interest rate and other debts. If you have credit card debt a
 
 ### Is it better to invest my refund or save it?
 
-If you do not have an emergency fund covering 3-6 months of expenses, save it first. Money in a high-yield savings account earning 4-5% APY is not as exciting as stock market returns, but it prevents you from going into debt the next time something unexpected happens. Once your emergency fund is solid, investing in a Roth IRA or index funds has historically returned 8-10% annually over the long term.
+If you do not have an emergency fund covering 3-6 months of expenses, save it first. Money in a high-yield savings account earning 4-5% APY is not as exciting as stock market returns, but it prevents you from going into debt the next time something unexpected happens. Once your emergency fund is solid, investing in a Roth IRA or [index funds](/blog/index-fund-investing-guide/) has historically returned 8-10% annually over the long term.
 
 ### How do I stop getting such a large tax refund?
 

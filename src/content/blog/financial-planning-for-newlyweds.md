@@ -43,7 +43,7 @@ This conversation can be uncomfortable. One of you might have significantly more
 
 ## Step 2: Decide on a Joint vs. Separate Account Structure
 
-This is one of the most debated topics in couple finances, and there is no single right answer. Here are the three main approaches:
+This is one of the most debated topics in [couple finances](/blog/how-to-manage-money-as-a-couple/), and there is no single right answer. Here are the three main approaches:
 
 ### Option A: Fully Joint
 
@@ -68,7 +68,7 @@ Each person maintains their own accounts. Bills are split based on an agreed for
 **Pros:**
 - Maximum individual autonomy
 - No arguments over personal spending
-- Each person maintains financial independence
+- Each person maintains [financial independence](/blog/achieving-financial-independence-and-early-retirement-fire-movement/)
 - Easier if one partner has debt they want to manage alone
 
 **Cons:**
@@ -113,7 +113,7 @@ Before investing, before paying off debt aggressively, before anything else: bui
 
 ### Where to Keep It
 
-A high-yield savings account (HYSA) at an online bank. In 2026, the best HYSAs pay 4.0-4.5% APY. Good options include:
+A [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account (HYSA) at an online bank. In 2026, the best HYSAs pay 4.0-4.5% APY. Good options include:
 
 - Marcus by Goldman Sachs
 - Ally Bank
@@ -240,7 +240,7 @@ This is the most important step and the one most couples skip. Without shared go
 
 ### Short-Term Goals (1-3 Years)
 
-- Pay off credit card debt
+- Pay off [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/)
 - Build emergency fund to 6 months
 - Save for a vacation
 - Furnish your home
@@ -292,7 +292,7 @@ There is no universally right answer. The hybrid approach (joint account for sha
 
 ### How do we handle different spending habits?
 
-The personal allowance system solves most spending conflicts. Each partner gets an equal amount for discretionary spending with no questions asked. For shared spending, the monthly budget meeting provides a structured way to discuss and resolve differences. If one partner is a saver and the other is a spender, focus on agreeing on the savings rate first, then give each other freedom with the remainder.
+The personal allowance system solves most spending conflicts. Each partner gets an equal amount for discretionary spending with no questions asked. For shared spending, the [monthly budget](/blog/how-to-create-a-monthly-spending-plan/) meeting provides a structured way to discuss and resolve differences. If one partner is a saver and the other is a spender, focus on agreeing on the savings rate first, then give each other freedom with the remainder.
 
 ### Should we file taxes jointly or separately?
 

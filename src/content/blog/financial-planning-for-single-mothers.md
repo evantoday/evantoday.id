@@ -24,7 +24,7 @@ The financial system in America is not always kind to single parents, but there 
 
 Before you budget a single dollar, you need to know exactly what hits your bank account after taxes, health insurance premiums, and any 401(k) contributions. If you earn $40,000 gross, your take-home might be closer to $30,000 depending on your state.
 
-Here is a quick framework using the 50/30/20 rule adapted for single moms:
+Here is a quick framework using the [50/30/20 rule](/blog/50-30-20-budget-rule-explained/) adapted for single moms:
 
 | Category | Percentage | Monthly ($40K Gross) |
 |----------|-----------|---------------------|
@@ -54,7 +54,7 @@ You do not need to pay for budgeting software. These free tools handle everythin
 
 ### Why $1,000 Comes First
 
-Financial advisors love to say you need 3-6 months of expenses saved. For a single mom earning $35,000, that is $8,000 to $15,000. That number feels impossible when you are living paycheck to paycheck.
+Financial advisors love to say you need 3-6 months of expenses saved. For a single mom earning $35,000, that is $8,000 to $15,000. That number feels impossible when you are living [paycheck to paycheck](/blog/how-to-stop-living-paycheck-to-paycheck/).
 
 So forget that number for now. Your first target is $1,000. That is enough to cover:
 
@@ -74,13 +74,13 @@ Here is a realistic plan:
 
 ### Where to Keep Your Emergency Fund
 
-Do not leave it in your checking account where you will spend it. Open a high-yield savings account (HYSA) at an online bank like:
+Do not leave it in your checking account where you will spend it. Open a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account (HYSA) at an online bank like:
 
 - **Marcus by Goldman Sachs**: 4.0-5.0% APY, no minimums
 - **Ally Bank**: 4.0-4.5% APY, excellent app
 - **Capital One 360**: Easy to set up sub-accounts for different goals
 
-That emergency fund will earn you money while it sits there. Even $1,000 at 4.5% APY earns about $45 per year — not life-changing, but better than $0.
+That [emergency fund](/blog/emergency-fund-guide/) will earn you money while it sits there. Even $1,000 at 4.5% APY earns about $45 per year — not life-changing, but better than $0.
 
 ## Step 3: Invest for Your Future (Yes, Even Now)
 
@@ -148,7 +148,7 @@ If your employer does not offer affordable health insurance, check HealthCare.go
 
 ### Life Insurance Is Not Optional
 
-As a single parent, you are the only financial safety net your children have. Term life insurance is surprisingly affordable:
+As a single parent, you are the only financial safety net your children have. Term [life insurance](/blog/do-you-need-life-insurance/) is surprisingly affordable:
 
 - A healthy 35-year-old woman can get a $500,000 20-year term policy for $25-35 per month
 - That is enough to replace years of income if something happens to you

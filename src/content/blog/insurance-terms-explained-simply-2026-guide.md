@@ -15,7 +15,7 @@ The first time I read an insurance policy, I felt like I was decoding another la
 - Insurance jargon is confusing on purpose sometimes, but the core terms are actually easy once you break them down.
 - The most important words to understand are polis, premi, manfaat, klaim, pengecualian, deductible, and waiting period.
 - I’ll show you how to read an insurance policy without getting trapped by hidden exclusions or confusing wording.
-- You’ll also see real Indonesian examples, including practical differences between health, life, motor, and home insurance.
+- You’ll also see real Indonesian examples, including practical differences between health, life, motor, and [home insurance](/blog/home-insurance-guide-and-comparison/).
 - By the end, you’ll know which terms matter most before you buy, renew, or file a claim.
 
 ## What Are the Most Important Insurance Terms?
@@ -58,7 +58,7 @@ Penanggung is the insurance company that provides the coverage. In plain terms, 
 
 ### 5. Manfaat
 
-Manfaat is the benefit you receive from the policy. For health insurance, this could be hospitalization coverage. For life insurance, it could be a payout to your family. For motor insurance, it could be repair costs after an accident.
+Manfaat is the benefit you receive from the policy. For health insurance, this could be hospitalization coverage. For [life insurance](/blog/do-you-need-life-insurance/), it could be a payout to your family. For motor insurance, it could be repair costs after an accident.
 
 ### 6. Klaim
 
@@ -128,7 +128,7 @@ When I read a policy, I do it in this order:
 
 I personally think this is where most people should slow down. If a policy is too hard to understand, that’s not a small issue. It’s a warning sign. A good insurance product should be explainable in plain language.
 
-If you’re trying to get your monthly budget under control while still paying for protection, my guide on [how to create a monthly spending plan Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/) can help you figure out how much insurance you can realistically afford without making your cash flow miserable.
+If you’re trying to get your [monthly budget](/blog/how-to-create-a-monthly-spending-plan/) under control while still paying for protection, my guide on [how to create a monthly spending plan Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/) can help you figure out how much insurance you can realistically afford without making your cash flow miserable.
 
 ## Which Insurance Terms Matter Most by Product Type?
 

@@ -58,7 +58,7 @@ You do not need to save an entire month of expenses overnight. Here is a realist
 
 ### Where to Keep the Buffer
 
-Open a high-yield savings account at an online bank. As of 2026, accounts at banks like Marcus by Goldman Sachs, Ally, or Capital One 360 are paying 4-5 percent APY. Your buffer earns a little interest while sitting there ready for you.
+Open a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account at an online bank. As of 2026, accounts at banks like Marcus by Goldman Sachs, Ally, or Capital One 360 are paying 4-5 percent APY. Your buffer earns a little interest while sitting there ready for you.
 
 Do not keep the buffer in your checking account. You will spend it. It needs to be one transfer away but not immediately accessible.
 
@@ -150,7 +150,7 @@ You stop saying yes to overtime you do not want. You stop losing sleep over a $4
 
 ### Unexpected Expenses
 
-They will happen. That is what your buffer and emergency fund are for. Use them without guilt, then rebuild.
+They will happen. That is what your buffer and [emergency fund](/blog/emergency-fund-guide/) are for. Use them without guilt, then rebuild.
 
 ### Social Pressure
 
@@ -164,7 +164,7 @@ If you cut too aggressively, you will snap and blow your budget. Keep some fun m
 
 ### How long does it take to stop living paycheck to paycheck?
 
-For most people, 3-6 months of consistent effort is enough to build a one-month buffer and break the cycle. The timeline depends on your income, expenses, and how aggressively you can save. Even if you can only save $100-$200 per month, you will notice a significant reduction in financial stress within 90 days.
+For most people, 3-6 months of consistent effort is enough to build a one-month buffer and break the cycle. The timeline depends on your income, expenses, and how aggressively you can save. Even if you can only save $100-$200 per month, you will notice a significant reduction in [financial stress](/blog/how-to-deal-with-financial-stress-and-anxiety/) within 90 days.
 
 ### Is it possible to break the cycle on minimum wage?
 
@@ -180,4 +180,4 @@ This is one of the biggest challenges. Start by sharing the numbers without judg
 
 ### What budgeting method works best for paycheck-to-paycheck households?
 
-I recommend zero-based budgeting, where every dollar is assigned a job before the month starts. YNAB is the gold standard app for this approach. If you prefer something free, EveryDollar has a solid free tier. The envelope method (using cash for variable spending categories) also works extremely well for people who tend to overspend with cards.
+I recommend [zero-based budget](/blog/zero-based-budgeting-method-explained/)ing, where every dollar is assigned a job before the month starts. YNAB is the gold standard app for this approach. If you prefer something free, EveryDollar has a solid free tier. The [envelope method](/blog/the-envelope-budgeting-method-for-beginners/) (using cash for variable spending categories) also works extremely well for people who tend to overspend with cards.

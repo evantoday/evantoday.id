@@ -15,7 +15,7 @@ I’ve seen a lot of people in Indonesia treat credit card debt like it’s “j
 - In Indonesia, credit card bunga can easily make a small debt feel much bigger if you only pay the minimum.
 - A structured plan using the avalanche or snowball method can save you money and keep you motivated.
 - You can speed things up by negotiating with your bank, cutting recurring expenses, and using extra income directly for repayment.
-- If your debt is already stressing your cash flow, you need to fix your monthly spending plan first, not just “pay harder.”
+- If your debt is already stressing your cash flow, you need to fix your [monthly spending plan](/blog/how-to-create-a-monthly-spending-plan/) first, not just “pay harder.”
 
 ## Why does credit card debt get expensive so fast?
 
@@ -129,7 +129,7 @@ I wouldn’t wait until you’re completely behind. The earlier you contact the 
 
 When I talk to readers about this, I always say: be polite, be clear, and be specific. Don’t just say “I’m having trouble.” Say how much you can pay per month and ask what options exist. For example, “I can pay Rp 1,5 juta per month consistently. Is there a restructuring option for my card balance?”
 
-Some banks may be more flexible than others, and the details change based on your account history. But asking costs nothing, and silence costs money. If you’re also using digital wallets heavily, I’d be careful with linked cards and payments. My article on [digital wallet security tips Indonesia](/blog/7-smart-digital-wallet-security-tips-indonesia-2026-guide/) is useful if you want to avoid accidental overspending while you’re trying to recover.
+Some banks may be more flexible than others, and the details change based on your account history. But asking costs nothing, and silence costs money. If you’re also using [digital wallet](/blog/7-smart-digital-wallet-security-tips-2026-guide/)s heavily, I’d be careful with linked cards and payments. My article on [digital wallet security tips Indonesia](/blog/7-smart-digital-wallet-security-tips-indonesia-2026-guide/) is useful if you want to avoid accidental overspending while you’re trying to recover.
 
 ### What to ask the bank
 
@@ -142,9 +142,9 @@ Ask these questions:
 
 ## Should you use savings or emergency funds to pay debt?
 
-Use some savings if the credit card interest is high, but don’t wipe out your emergency fund completely. I think this is where people go too extreme in both directions.
+Use some savings if the credit card interest is high, but don’t wipe out your [emergency fund](/blog/emergency-fund-guide/) completely. I think this is where people go too extreme in both directions.
 
-If you have Rp 20 juta sitting in low-yield savings and Rp 15 juta in credit card debt charging heavy interest, it often makes sense to use part of that savings to reduce the balance. Why keep paying expensive bunga while your savings earn almost nothing? But I still want you to keep a basic emergency buffer. If you drain everything and then face a medical bill or job loss, you may end up back on the card.
+If you have Rp 20 juta sitting in low-yield savings and Rp 15 juta in credit card debt charging heavy interest, it often makes sense to use part of that savings to reduce the balance. Why keep paying expensive bunga while your savings earn almost nothing? But I still want you to keep a basic emergency buffer. If you drain everything and then face a medical bill or [job loss](/blog/7-smart-ways-to-survive-a-job-loss/), you may end up back on the card.
 
 A practical approach:
 - Keep at least 1 month of essential expenses as cash buffer.
@@ -221,7 +221,7 @@ Here’s the exact process I’d use if I were starting from zero with credit ca
 8. **Track progress weekly**
    - Watching the balance drop keeps you consistent.
 
-If you want a broader system for rebuilding your finances after debt, [how to diversify your investment portfolio Indonesia](/blog/7-smart-ways-to-diversify-your-investment-portfolio-indonesia/) is a good next read once you’re debt-free and ready to grow again.
+If you want a broader system for rebuilding your finances after debt, [how to diversify your investment portfolio Indonesia](/blog/7-smart-ways-to-diversify-your-investment-portfolio-indonesia/) is a good next read once you’re [debt-free](/blog/debt-free-journey-tips/) and ready to grow again.
 
 ## Frequently Asked Questions
 

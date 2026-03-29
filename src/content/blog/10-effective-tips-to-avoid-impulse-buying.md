@@ -1,6 +1,6 @@
 ---
 title: "10 Ways to Stop Impulse Buying (Save $5,000/Year)"
-description: "Impulse buys drain $5,000+/year for the average American. These 10 proven tactics kill the urge before checkout—your wallet and credit score will thank you."
+description: "Impulse buys drain $5,000+/year for the average American. These 10 proven tactics kill the urge before checkout."
 pubDate: 2026-03-01
 category: "personal-finance"
 tags: ["impulse buying", "stop impulse spending", "save money", "shopping addiction", "spending habits"]
@@ -141,8 +141,8 @@ But when you have specific, exciting goals, every impulse purchase has an opport
 ### Powerful Goal Examples
 
 - "I am saving $5,000 for a trip to Europe next June"
-- "I am paying off $8,000 in credit card debt by December"
-- "I am building a $15,000 emergency fund this year"
+- "I am paying off $8,000 in [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) by December"
+- "I am building a $15,000 [emergency fund](/blog/emergency-fund-guide/) this year"
 - "I am maxing my Roth IRA at $7,000 for tax-free retirement growth"
 
 Put your goal somewhere visible—your phone lock screen, a sticky note on your monitor, a photo on your wallet. When the impulse strikes, that visual reminder asks: "Is this $40 gadget more important than your Europe trip?"
@@ -168,7 +168,7 @@ These ten tactics work best when combined into a system:
 
 1. **Prevention**: Unsubscribe from marketing, delete shopping apps, remove saved cards
 2. **Pause**: Apply the 24-hour rule and cost-per-use calculation
-3. **Planning**: Set financial goals, create a fun money category, track spending
+3. **Planning**: [financial goals](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/), create a fun money category, track spending
 4. **Physical barriers**: Use cash, leave cards at home, add friction
 
 You do not need to implement all ten at once. Start with the 24-hour rule and the email unsubscribe purge. Those two alone can cut impulse spending by 30-40%. Add more tactics as you build momentum.
@@ -179,7 +179,7 @@ You do not need to implement all ten at once. Start with the 24-hour rule and th
 - Build a solid emergency fund
 - Pay off a credit card balance
 - Fund a real vacation instead of accumulating stuff
-- Invest in index funds that grow for decades
+- Invest in [index funds](/blog/index-fund-investing-guide/) that grow for decades
 
 The things you do not buy can be more valuable than the things you do.
 
@@ -187,7 +187,7 @@ The things you do not buy can be more valuable than the things you do.
 
 ### Is impulse buying a sign of a deeper problem?
 
-Occasional impulse buys are normal—everyone does it. But if impulse spending is causing financial stress, relationship conflict, or you feel unable to stop despite wanting to, it might be worth exploring the emotional triggers. Compulsive buying disorder affects an estimated 5-8% of Americans. A financial therapist or counselor can help if the behavior feels out of control.
+Occasional impulse buys are normal—everyone does it. But if impulse spending is causing [financial stress](/blog/how-to-deal-with-financial-stress-and-anxiety/), relationship conflict, or you feel unable to stop despite wanting to, it might be worth exploring the emotional triggers. Compulsive buying disorder affects an estimated 5-8% of Americans. A financial therapist or counselor can help if the behavior feels out of control.
 
 ### How do I handle impulse buying at the grocery store?
 

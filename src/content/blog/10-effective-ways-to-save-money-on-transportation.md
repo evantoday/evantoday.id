@@ -43,7 +43,7 @@ Stack these for maximum savings. Use GasBuddy to find the cheapest station, then
 
 ## 2. Shop Auto Insurance Every Year
 
-Auto insurance is one of the most overpriced recurring expenses for Americans who do not shop around. Rates vary by 30-50% between insurers for the exact same coverage.
+[Auto insurance](/blog/car-insurance-comparison-2026/) is one of the most overpriced recurring expenses for Americans who do not shop around. Rates vary by 30-50% between insurers for the exact same coverage.
 
 ### How to Save on Auto Insurance
 
@@ -162,7 +162,7 @@ Small changes to how and when you drive can reduce fuel costs and wear significa
 
 ## 9. Consider Downsizing Your Vehicle
 
-If you are driving a large SUV or truck primarily for commuting, you are paying a premium in gas, insurance, and maintenance that a smaller vehicle would eliminate.
+If you are driving a large SUV or truck primarily for commuting, you are paying a [premium](/blog/insurance-terms-explained-simply-2026-guide/) in gas, insurance, and maintenance that a smaller vehicle would eliminate.
 
 ### The Numbers
 

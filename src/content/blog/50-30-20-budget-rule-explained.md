@@ -48,7 +48,7 @@ Let's say you earn $60,000 per year before taxes. After federal and state taxes,
 | Wants | 30% | $1,125 |
 | Savings | 20% | $750 |
 
-That $750 per month in savings adds up to $9,000 a year—enough to build a solid emergency fund in about seven months or max out a Roth IRA ($7,000 limit in 2026) with room to spare.
+That $750 per month in savings adds up to $9,000 a year—enough to build a solid [emergency fund](/blog/emergency-fund-guide/) in about seven months or max out a Roth IRA ($7,000 limit in 2026) with room to spare.
 
 ## Step 2: Sort Your Expenses Into the Three Buckets
 
@@ -62,7 +62,7 @@ Needs are expenses that keep your life running. If you skipped them, your health
 - Utilities (electricity, water, gas, internet—yes, internet counts in 2026)
 - Groceries (not dining out)
 - Health insurance premiums and copays
-- Car payment and auto insurance
+- Car payment and [auto insurance](/blog/car-insurance-comparison-2026/)
 - Gas or public transit for commuting
 - Minimum debt payments (student loans, credit cards)
 - Childcare
@@ -155,10 +155,10 @@ When I committed to the 50-30-20 rule for one month, here is what changed:
 
 - I canceled four subscriptions I had forgotten about ($67/month saved)
 - I cooked dinner at home four nights a week instead of two ($240/month saved)
-- I set up an automatic $750 transfer to my high-yield savings account on payday
+- I set up an automatic $750 transfer to my [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account on payday
 - My stress about money dropped because I had a simple system that worked
 
-After six months, I had $4,500 in my emergency fund—more than I had saved in the previous two years combined. After a year, my Roth IRA was maxed and I was investing an extra $200/month in index funds.
+After six months, I had $4,500 in my emergency fund—more than I had saved in the previous two years combined. After a year, my Roth IRA was maxed and I was investing an extra $200/month in [index funds](/blog/index-fund-investing-guide/).
 
 The 50-30-20 rule is not magic. It is just math plus consistency. But that combination is powerful enough to transform your financial life.
 
@@ -178,7 +178,7 @@ The employer match is free money, but I would not count it toward your 20%. Your
 
 ### Can I adjust the percentages for my situation?
 
-Absolutely. The 50/30/20 split is a starting framework, not a rigid law. If you are aggressively paying off student loans, try 50/20/30 (with 30% going to debt). If you are already debt-free and want to retire early, aim for 50/20/30 savings. The percentages should serve your goals, not the other way around.
+Absolutely. The 50/30/20 split is a starting framework, not a rigid law. If you are aggressively paying off student loans, try 50/20/30 (with 30% going to debt). If you are already debt-free and want to [retire early](/blog/achieving-financial-independence-and-early-retirement-fire-movement/), aim for 50/20/30 savings. The percentages should serve your goals, not the other way around.
 
 ### How do I handle expenses that blur the line between needs and wants?
 

@@ -1,6 +1,6 @@
 ---
 title: "Treasury Bonds & I Bonds: Safe 4-5% Returns [2026]"
-description: "US Treasury bonds and I Bonds pay 4-5% with zero default risk. See the types (T-Bills, TIPS, I Bonds), how to buy on TreasuryDirect, and minimum investments."
+description: "US Treasury bonds and I Bonds pay 4-5% with zero default risk. Types, how to buy on TreasuryDirect, and minimums."
 pubDate: 2026-03-16
 category: "investing"
 tags: ["Treasury bonds", "I Bonds", "TIPS", "government bonds", "safe investments"]
@@ -33,7 +33,7 @@ T-Bills are short-term securities that mature in one year or less.
 - **How they work**: Sold at a discount to face value. You buy a $1,000 T-Bill for $960 and receive $1,000 at maturity. The $40 difference is your interest.
 - **Current yields**: Approximately 4.2-4.5% (as of early 2026)
 
-T-Bills are perfect for parking money you will need within the next year. I use them as an alternative to high-yield savings accounts because the yields are often slightly better and the interest is exempt from state and local taxes.
+T-Bills are perfect for parking money you will need within the next year. I use them as an alternative to [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) accounts because the yields are often slightly better and the interest is exempt from state and local taxes.
 
 ### Treasury Notes (T-Notes)
 
@@ -137,7 +137,7 @@ Here is my current allocation of Treasury securities and why:
 
 ### Emergency Fund: T-Bills and I Bonds
 
-I keep my emergency fund split between:
+I keep my [emergency fund](/blog/emergency-fund-guide/) split between:
 
 - **I Bonds**: About $40,000 accumulated over several years. These are my inflation-protected emergency reserve.
 - **4-week T-Bills on auto-roll**: An additional $10,000 that earns better than my savings account while remaining almost as liquid.
@@ -191,7 +191,7 @@ After years of investing in Treasuries, here are the pitfalls I see most often:
 
 - Long-term wealth building (stocks historically outperform over 20+ years)
 - Maximizing returns in a bull market
-- Tax-deferred accounts (the state tax benefit is wasted inside an IRA or 401(k))
+- Tax-deferred accounts (the state tax benefit is wasted inside an [IRA](/blog/how-to-financially-prepare-for-retirement/) or 401(k))
 
 ## Frequently Asked Questions
 

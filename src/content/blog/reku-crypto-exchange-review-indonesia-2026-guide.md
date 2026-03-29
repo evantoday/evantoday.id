@@ -35,7 +35,7 @@ Reku is best for:
 - People who prefer local IDR deposits and withdrawals
 - Users who want a platform that feels less intimidating than a global exchange
 
-I wouldn’t call Reku the best choice for ultra-active traders who want deep charting, complex order types, or the lowest possible trading costs. If your style is more serious technical analysis, I’d rather pair your research with a platform that gives you better chart visibility, like what I usually recommend when people learn [how to read stock charts for beginners in Indonesia](/blog/how-to-read-stock-charts-for-beginners-in-indonesia/). Crypto chart habits are different, but the discipline is similar.
+I wouldn’t call Reku the best choice for ultra-active traders who want deep charting, complex order types, or the lowest possible trading costs. If your style is more serious [technical analysis](/blog/how-to-read-stock-charts-for-beginners/), I’d rather pair your research with a platform that gives you better chart visibility, like what I usually recommend when people learn [how to read stock charts for beginners in Indonesia](/blog/how-to-read-stock-charts-for-beginners-in-indonesia/). Crypto chart habits are different, but the discipline is similar.
 
 ## Is Reku Safe to Use in Indonesia?
 
@@ -134,7 +134,7 @@ If you’re also exploring other investing platforms, I’d suggest reading my [
 
 ## Which Coins and Features Does Reku Offer?
 
-Reku offers a range of crypto assets that are suitable for Indonesian retail users, though the exact list can change over time. In general, you’ll find the major names people usually start with, along with a selection of other assets for diversification.
+Reku offers a range of crypto assets that are suitable for Indonesian retail users, though the exact list can change over time. In general, you’ll find the major names people usually start with, along with a selection of other assets for [diversification](/blog/7-smart-ways-to-diversify-your-investment-portfolio/).
 
 For most beginners, the important thing is not whether an app lists 300 coins. It’s whether the platform gives you access to the assets you actually understand.
 
@@ -184,7 +184,7 @@ My personal stance is that Reku competes well on usability, but if you’re comp
 - **How much you lose to spread and fees**
 - **Whether the app helps you stay disciplined**
 
-If your goal is broader financial control, not just crypto, I’d also read [how to stop living paycheck to paycheck Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/). Crypto investing should never come before your emergency fund, debt payments, or basic monthly cash flow.
+If your goal is broader financial control, not just crypto, I’d also read [how to stop living paycheck to paycheck Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/). Crypto investing should never come before your [emergency fund](/blog/emergency-fund-guide/), debt payments, or basic monthly cash flow.
 
 ## How to Use Reku the Smart Way
 
@@ -208,7 +208,7 @@ Here’s the method I’d recommend.
 
 4. **Track your allocation**
    - Crypto should be one part of your portfolio, not the whole thing.
-   - If you already invest in reksadana or ETFs, keep crypto as a smaller satellite position.
+   - If you already invest in reksadana or [ETFs](/blog/etf-investing-explained/), keep crypto as a smaller satellite position.
 
 5. **Review every 3 months**
    - Ask whether the app still fits your needs.

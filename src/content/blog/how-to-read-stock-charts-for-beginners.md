@@ -89,7 +89,7 @@ A trend line is simply a straight line drawn on a chart connecting a series of p
 
 **Downtrend:** Draw a line connecting the series of lower highs (the top of each bounce). As long as the stock stays below this line, the downtrend continues.
 
-**Sideways (range-bound):** The stock bounces between a ceiling and a floor without making progress in either direction.
+**[Sid](/blog/how-to-start-a-sid-for-investing-in-indonesia-2026-guide/)eways (range-bound):** The stock bounces between a ceiling and a floor without making progress in either direction.
 
 **The most important rule about trends:** "The trend is your friend." Buying stocks in uptrends and avoiding stocks in downtrends is one of the simplest ways to improve your results.
 
@@ -217,7 +217,7 @@ Chart reading is a tool, not a crystal ball. Use it to improve your timing, not 
 
 ### Do I need to learn stock charts to invest?
 
-No. If you're investing in index funds for the long term, you don't need technical analysis at all. Just invest consistently and ignore short-term price movements. Chart reading is most useful for people who trade individual stocks and want to improve their entry and exit timing. For buy-and-hold investors, understanding basic charts is helpful but not essential.
+No. If you're investing in [index funds](/blog/index-fund-investing-guide/) for the long term, you don't need technical analysis at all. Just invest consistently and ignore short-term price movements. Chart reading is most useful for people who trade individual stocks and want to improve their entry and exit timing. For buy-and-hold investors, understanding basic charts is helpful but not essential.
 
 ### What's the best chart type for beginners?
 

@@ -103,7 +103,7 @@ Your first card is the default. To change it, open Google Wallet, tap the card y
 
 ## Where Can You Use Mobile Payments?
 
-Contactless payments are accepted at the vast majority of US merchants, including:
+[Contactless payment](/blog/best-contactless-payment-apps-2026/)s are accepted at the vast majority of US merchants, including:
 
 - **Grocery stores**: Whole Foods, Trader Joe's, Kroger, Safeway, Publix, Aldi, Costco.
 - **Restaurants**: McDonald's, Starbucks, Subway, Chipotle, Panera, most sit-down restaurants.

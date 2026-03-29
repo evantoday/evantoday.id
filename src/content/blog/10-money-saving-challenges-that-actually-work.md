@@ -42,11 +42,11 @@ The beauty is the gradual ramp-up. The first few months feel effortless. By the 
 
 ### Where to Keep the Money
 
-Open a separate high-yield savings account (Ally, Marcus, SoFi) so the challenge money is out of sight and earning 4%+ APY.
+Open a separate [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account (Ally, Marcus, SoFi) so the challenge money is out of sight and earning 4%+ APY.
 
 ## 2. The No-Spend Challenge
 
-A no-spend challenge means you spend nothing on non-essentials for a set period. You still pay bills, buy groceries, and fill the gas tank. But dining out, shopping, entertainment, and impulse purchases are off-limits.
+A no-spend challenge means you spend nothing on non-essentials for a set period. You still pay bills, buy groceries, and fill the gas tank. But dining out, shopping, entertainment, and [impulse buying](/blog/10-effective-tips-to-avoid-impulse-buying/) are off-limits.
 
 ### Options
 
@@ -86,7 +86,7 @@ With 40-60 transactions per month, round-up savings typically total $30-$80/mont
 
 ### Automate It
 
-Apps like Acorns ($3-$12/month) and Chime (free) automate round-ups on every debit card purchase. If you prefer manual, use a cash jar at home—every time you break a bill, the coins and small bills go in the jar.
+Apps like Acorns ($3-$12/month) and [Chime](/blog/chime-review-features-and-fees/) (free) automate round-ups on every debit card purchase. If you prefer manual, use a cash jar at home—every time you break a bill, the coins and small bills go in the jar.
 
 ## 4. The $5 Bill Challenge
 
@@ -286,4 +286,4 @@ Yes, with a modification. If you have high-interest debt (credit cards at 20%+ A
 
 ### How do I stay motivated for a full year?
 
-Track your progress visually—a chart on the fridge, a progress bar in a spreadsheet, or a savings tracker app. Celebrate milestones ($500, $1,000, $2,500) with small, budgeted rewards. Tell a friend or partner about your challenge so you have accountability. And remember why you started—whether it is an emergency fund, a vacation, or debt freedom, keep that goal visible.
+Track your progress visually—a chart on the fridge, a progress bar in a spreadsheet, or a savings tracker app. Celebrate milestones ($500, $1,000, $2,500) with small, budgeted rewards. Tell a friend or partner about your challenge so you have accountability. And remember why you started—whether it is an [emergency fund](/blog/emergency-fund-guide/), a vacation, or [debt free](/blog/debt-free-journey-tips/)dom, keep that goal visible.

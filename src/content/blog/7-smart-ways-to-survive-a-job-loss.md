@@ -1,5 +1,5 @@
 ---
-title: "7 Smart Ways to Survive a Job Loss"
+title: "Lost Your Job? 7 Steps to Protect Your Money [2026]"
 description: "Lost your job? Here's how to stretch cash, cut bills, and protect your savings for 3-6 months. #4 saved me money."
 pubDate: 2026-03-26
 updatedDate: 2026-03-26
@@ -15,7 +15,7 @@ I still remember the first time a close friend called me after being laid off. H
 
 **Key Takeaways**
 - The first 72 hours matter most: freeze spending, count cash, and protect essentials.
-- Your emergency fund should be mapped against real monthly survival costs, not your old lifestyle.
+- Your [emergency fund](/blog/emergency-fund-guide/) should be mapped against real monthly survival costs, not your old lifestyle.
 - You can usually stretch runway by 20–40% just by cutting subscriptions, debt leakage, and non-essentials.
 - Government support, unemployment benefits, COBRA, and side income can buy you time while you job hunt.
 - The goal isn't just penny-pinching, but to build a survival plan you can execute fast.
@@ -41,7 +41,7 @@ Pause all discretionary spending right away. That means no online shopping, no f
 List:
 - Cash at home
 - Balances in all bank accounts
-- Digital wallet balances
+- [Digital wallet](/blog/7-smart-digital-wallet-security-tips-2026-guide/) balances
 - Deposits or savings you can liquidate
 - Severance pay if it's already scheduled
 - Any freelance income you can realistically collect
@@ -162,7 +162,7 @@ If you receive a lump sum severance, split it immediately into buckets:
 
 That split isn't perfect for everyone, but it's a solid starting point. If you already have debt, increase the debt bucket. If you're in a tight job market, increase the transition bucket.
 
-I also think it's smart to keep your emergency fund in a liquid account, not something hard to access. A decent high-yield savings account or online bank balance is better than locking everything into products you can't touch quickly. If you want to compare options, my [best neobanks 2026](/blog/best-neobanks-2026/) review explains which accounts are actually useful for parking emergency cash.
+I also think it's smart to keep your emergency fund in a liquid account, not something hard to access. A decent [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account or online bank balance is better than locking everything into products you can't touch quickly. If you want to compare options, my [best neobanks 2026](/blog/best-neobanks-2026/) review explains which accounts are actually useful for parking emergency cash.
 
 ## How do you handle debt after losing your job?
 
@@ -253,7 +253,7 @@ The best financial plan fails if your emotions take over. Job loss is stressful,
 
 I personally think accountability matters more than motivation. Motivation disappears. A system stays.
 
-If you're the type who spirals when money feels tight, I'd also read [how to stop living paycheck to paycheck](/blog/how-to-stop-living-paycheck-to-paycheck/). It's not just for people with low income. I've seen high earners fall apart financially because they never built habits for pressure.
+If you're the type who spirals when money feels tight, I'd also read [how to stop living paycheck to paycheck](/blog/how-to-stop-living-paycheck-to-paycheck/). It's not just for people with [low income](/blog/how-to-save-money-on-a-low-salary/). I've seen high earners fall apart financially because they never built habits for pressure.
 
 ### A simple weekly review
 Every Sunday, ask yourself:

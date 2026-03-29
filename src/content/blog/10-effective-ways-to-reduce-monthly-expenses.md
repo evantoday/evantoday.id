@@ -32,7 +32,7 @@ Housing is the largest expense for most Americans, averaging 33% of income. Even
 
 ### The 28/36 Rule
 
-Financial advisors recommend keeping housing costs under 28% of gross income, and total debt payments under 36%. If you are above these thresholds, housing is your highest-impact area to address.
+Financial advisors recommend keeping [housing costs](/blog/how-much-should-you-spend-on-rent/) under 28% of gross income, and total debt payments under 36%. If you are above these thresholds, housing is your highest-impact area to address.
 
 ## 2. Reduce Transportation Costs
 
@@ -201,7 +201,7 @@ Here is what a realistic monthly savings plan looks like using these ten strateg
 | Cash back (credit cards + apps) | $30-$80 |
 | **Total Potential Savings** | **$610-$1,620** |
 
-Even the conservative end saves over $7,000 per year. That is real money—enough to fund retirement accounts, pay off debt, or build an emergency fund.
+Even the conservative end saves over $7,000 per year. That is real money—enough to fund retirement accounts, [pay off debt](/blog/debt-free-journey-tips/), or build an [emergency fund](/blog/emergency-fund-guide/).
 
 ## Frequently Asked Questions
 

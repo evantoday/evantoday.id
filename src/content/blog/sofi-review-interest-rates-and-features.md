@@ -1,6 +1,6 @@
 ---
 title: "SoFi Bank Review [2026]: 4%+ APY Worth It?"
-description: "SoFi pays 4%+ APY on savings with no fees and $2M FDIC insurance. Full review of checking, savings, investing integration, and the fine print you should know."
+description: "SoFi pays 4%+ APY with no fees and $2M FDIC insurance. Full review of checking, savings, investing, and fine print."
 pubDate: 2026-03-12
 category: "digital-banking"
 tags: ["SoFi", "SoFi review", "high-yield savings", "SoFi checking", "online bank"]
@@ -47,7 +47,7 @@ The qualifying direct deposit does not have a minimum amount. Even a small recur
 
 Vaults are SoFi's version of savings buckets. You can create multiple vaults within your savings to organize money for different goals:
 
-- Emergency fund
+- [Emergency fund](/blog/emergency-fund-guide/)
 - Vacation
 - New car
 - Holiday gifts
@@ -56,7 +56,7 @@ Each vault earns the same APY, and you can name them whatever you want. It is a 
 
 ## $2 Million FDIC Insurance
 
-This is one of SoFi's biggest advantages. Through their deposit sweep program with partner banks, SoFi provides up to $2 million in FDIC insurance for individual accounts and $4 million for joint accounts. That is eight times the standard $250,000 limit.
+This is one of SoFi's biggest advantages. Through their deposit sweep program with partner banks, SoFi provides up to $2 million in FDIC insurance for individual accounts and $4 million for [joint accounts](/blog/how-to-manage-money-as-a-couple/). That is eight times the standard $250,000 limit.
 
 ### How the Sweep Program Works
 
@@ -103,7 +103,7 @@ One of SoFi's strongest selling points is the seamless connection between your b
 
 ### My Take on SoFi Invest
 
-For casual investors and beginners, SoFi Invest is solid. The zero-fee automated investing is hard to beat, and fractional shares make it easy to start with small amounts. However, if you are a serious investor, the research tools, fund selection, and advanced features at Fidelity, Schwab, or Vanguard are substantially better.
+For casual investors and beginners, SoFi Invest is solid. The zero-fee automated investing is hard to beat, and fractional shares make it easy to start with small amounts. However, if you are a serious investor, the research tools, fund selection, and advanced features at [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/), Schwab, or Vanguard are substantially better.
 
 I use SoFi Invest for casual stock purchases and crypto, but my main retirement accounts are at Fidelity.
 
@@ -114,7 +114,7 @@ SoFi Relay is a free financial dashboard that shows:
 - Your credit score (updated weekly)
 - All your financial accounts in one place (bank accounts, credit cards, loans, investments)
 - Spending breakdowns and trends
-- Net worth tracking over time
+- [Net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/) tracking over time
 
 It works like a simplified version of Mint or Personal Capital, and since it is built into the SoFi app, you do not need another app. I check my credit score through Relay every week and find the net worth tracking motivating.
 
@@ -205,7 +205,7 @@ If you already use SoFi for loans or investing, adding the bank account is a no-
 
 ### Is SoFi a real bank?
 
-Yes. SoFi Bank, N.A. received its national bank charter in January 2022. Unlike Chime and other fintech companies that partner with banks, SoFi is a fully chartered bank supervised by the OCC (Office of the Comptroller of the Currency). Your deposits are directly FDIC insured.
+Yes. SoFi Bank, N.A. received its national bank charter in January 2022. Unlike Chime and other [fintech](/blog/how-fintech-is-changing-banking/) companies that partner with banks, SoFi is a fully chartered bank supervised by the OCC (Office of the Comptroller of the Currency). Your deposits are directly FDIC insured.
 
 ### Do you need direct deposit for the high APY?
 

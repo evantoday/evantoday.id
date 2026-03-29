@@ -32,7 +32,7 @@ In this review, I am going to break down everything you need to know about Ally 
 
 ## Ally High-Yield Savings Account
 
-This is the product that put Ally on the map, and it is still their strongest offering. The high-yield savings account pays 4.25% APY with zero minimum balance requirements and zero monthly maintenance fees.
+This is the product that put Ally on the map, and it is still their strongest offering. The [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account pays 4.25% APY with zero minimum balance requirements and zero monthly maintenance fees.
 
 ### What I Like About Ally Savings
 
@@ -101,7 +101,7 @@ Ally is not just a bank. They also have a brokerage arm called Ally Invest that 
 
 ### Should You Use Ally Invest?
 
-If you already bank with Ally, the convenience of having your bank and brokerage under one roof is nice. But if you are a serious investor, platforms like Fidelity, Schwab, or Vanguard offer more research tools, better fund options, and lower expense ratios on index funds. I keep my brokerage at Fidelity and my savings at Ally.
+If you already bank with Ally, the convenience of having your bank and brokerage under one roof is nice. But if you are a serious investor, platforms like Fidelity, Schwab, or Vanguard offer more research tools, better fund options, and lower expense ratios on [index funds](/blog/index-fund-investing-guide/). I keep my brokerage at Fidelity and my savings at Ally.
 
 ## Ally Bank Mobile App and Technology
 
@@ -132,7 +132,7 @@ I have contacted Ally support three times over the past five years:
 - **Debit card replacement**: Ordered through the app, arrived in four business days.
 - **Account verification for mortgage**: Ally sent a verification letter within 48 hours of my request.
 
-Overall, I would rate their customer service as above average for an online bank. They are not perfect, but they are significantly better than the horror stories I have heard from some neobanks.
+Overall, I would rate their customer service as above average for an online bank. They are not perfect, but they are significantly better than the horror stories I have heard from some [neobanks](/blog/best-neobanks-2026/).
 
 ## Ally Bank Security
 
@@ -186,7 +186,7 @@ But if you want a reliable, well-rounded online bank that does almost everything
 
 ### Is Ally Bank safe for large deposits?
 
-Yes. Ally Bank is FDIC insured, which means your deposits are protected up to $250,000 per depositor, per account ownership category. If you have more than $250,000, you can increase your coverage by opening joint accounts or accounts in different ownership categories. Ally has been in operation since 2009 and holds tens of billions in deposits.
+Yes. Ally Bank is FDIC insured, which means your deposits are protected up to $250,000 per depositor, per account ownership category. If you have more than $250,000, you can increase your coverage by opening [joint accounts](/blog/how-to-manage-money-as-a-couple/) or accounts in different ownership categories. Ally has been in operation since 2009 and holds tens of billions in deposits.
 
 ### Does Ally Bank have physical branches?
 
@@ -198,7 +198,7 @@ Most people can open an Ally account in about five to ten minutes. You will need
 
 ### Can I use Ally Bank for direct deposit?
 
-Absolutely. Ally supports direct deposit for paychecks, government benefits, and tax refunds. You can find your account and routing numbers in the app or on the website. Many users report that direct deposits hit their Ally account up to two days early, depending on when the employer sends the payment file.
+Absolutely. Ally supports direct deposit for paychecks, government benefits, and [tax refund](/blog/how-to-spend-your-tax-refund-wisely/)s. You can find your account and routing numbers in the app or on the website. Many users report that direct deposits hit their Ally account up to two days early, depending on when the employer sends the payment file.
 
 ### Does Ally charge any hidden fees?
 

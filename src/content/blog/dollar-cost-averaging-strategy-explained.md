@@ -1,6 +1,6 @@
 ---
 title: "Dollar Cost Averaging: Beat Market Volatility [2026]"
-description: "Stop timing the market and losing sleep. DCA lets you invest $500/month through crashes and rallies—and historically outperforms lump-sum for most investors."
+description: "Stop timing the market. DCA lets you invest $500/month through crashes and rallies -- and often outperforms lump sums."
 pubDate: 2026-03-20
 category: "investing"
 tags: ["dollar cost averaging", "DCA", "investing strategy", "market volatility", "automatic investing"]
@@ -148,7 +148,7 @@ This is one reason why 401(k) investors tend to outperform individual brokerage 
 **Maximize this advantage:**
 
 - Contribute at least enough to get your full employer match (free money)
-- Choose low-cost index funds in your 401(k) lineup
+- Choose low-cost [index funds](/blog/index-fund-investing-guide/) in your 401(k) lineup
 - Increase your contribution by 1% every time you get a raise
 - Don't take 401(k) loans or early withdrawals if you can avoid it
 
@@ -195,7 +195,7 @@ For virtually all individual investors, yes. Academic research consistently show
 
 ### How much should I dollar cost average each month?
 
-Start with an amount you won't miss — even $50 or $100/month. The ideal amount is 15-20% of your gross income, but don't let perfection prevent you from starting. A common approach is to invest $583/month to max out a Roth IRA ($7,000/year) or $1,875/month to max out a 401(k) ($23,000/year for those under 50 in 2026).
+Start with an amount you won't miss — even $50 or $100/month. The ideal amount is 15-20% of your gross income, but don't let perfection prevent you from starting. A common approach is to invest $583/month to max out a [Roth IRA](/blog/how-to-financially-prepare-for-retirement/) ($7,000/year) or $1,875/month to max out a 401(k) ($23,000/year for those under 50 in 2026).
 
 ### Should I DCA into stocks or bonds?
 

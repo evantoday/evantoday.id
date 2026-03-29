@@ -55,7 +55,7 @@ YNAB isn't just an expense tracker — it's a complete money management philosop
 
 **The downside:** The learning curve is steeper than other apps. It took me about two weeks to fully grasp the "roll with the punches" methodology. And $99/year isn't cheap — though YNAB argues it pays for itself many times over.
 
-**My experience:** I've been using YNAB for three years now. The first month was frustrating. By month three, I'd paid off $2,400 in credit card debt I'd been ignoring. It genuinely changed how I think about spending.
+**My experience:** I've been using YNAB for three years now. The first month was frustrating. By month three, I'd paid off $2,400 in [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) I'd been ignoring. It genuinely changed how I think about spending.
 
 ### 2. Copilot — Best for iPhone Users
 
@@ -91,7 +91,7 @@ After Intuit shut down the original Mint in early 2024, Credit Karma absorbed it
 - **Bill reminders** — Alerts before due dates to avoid late fees
 - **Wide bank support** — Connects to most US banks and credit unions
 
-**Who it's best for:** Anyone who wants basic expense tracking without paying a dime. Great for college students and people just starting to get their finances organized.
+**Who it's best for:** Anyone who wants basic expense tracking without paying a dime. Great for [college students](/blog/saving-money-tips-for-college-students/) and people just starting to get their finances organized.
 
 **The downside:** The Credit Karma integration means you'll see ads for financial products (credit cards, loans, insurance). The categorization isn't as accurate as paid apps. And the budgeting features are more basic.
 
@@ -169,7 +169,7 @@ Pick one category and set a realistic limit. Not aggressive — realistic. If yo
 
 ### Week 4: Automate and Forget
 
-Set up automatic savings transfers so money leaves your checking account before you can spend it. Let the expense tracker run in the background and send you weekly summaries. Check in for 5 minutes each Sunday.
+Set up [automatic savings](/blog/10-automatic-savings-tips-and-tricks/) transfers so money leaves your checking account before you can spend it. Let the expense tracker run in the background and send you weekly summaries. Check in for 5 minutes each Sunday.
 
 ## The Real Cost of Not Tracking Expenses
 

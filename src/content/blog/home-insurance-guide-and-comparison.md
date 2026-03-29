@@ -11,7 +11,7 @@ heroImageAlt: 'Homeowners Insurance Guide [2026]: Save author: "Evan",000+'
 
 ---
 
-A neighbor of mine had a kitchen fire last year that caused $45,000 in damage. His homeowners insurance covered every dollar above his $1,000 deductible. Another friend skipped coverage on his paid-off condo and ate a $12,000 water damage bill out of pocket. The difference between those two outcomes is what I want to help you navigate.
+A neighbor of mine had a kitchen fire last year that caused $45,000 in damage. His homeowners insurance covered every dollar above his $1,000 [deductible](/blog/insurance-terms-explained-simply-2026-guide/). Another friend skipped coverage on his paid-off condo and ate a $12,000 water damage bill out of pocket. The difference between those two outcomes is what I want to help you navigate.
 
 The average US homeowner pays roughly $1,900 per year for insurance, but I've seen that number range from $800 to over $4,000 depending on where you live, what you own, and which insurer you choose. In this guide, I'll show you how to get the right coverage without overpaying.
 
@@ -130,11 +130,11 @@ Amica consistently ranks at the top for customer satisfaction. As a mutual compa
 
 ### 1. Bundle Your Policies
 
-Bundling home and auto insurance saves 15-25% with most insurers. On a $1,900 premium, that's $285-475 per year. This is the easiest money you'll ever save on insurance.
+Bundling home and [auto insurance](/blog/car-insurance-comparison-2026/) saves 15-25% with most insurers. On a $1,900 premium, that's $285-475 per year. This is the easiest money you'll ever save on insurance.
 
 ### 2. Raise Your Deductible
 
-Moving from a $500 to a $2,500 deductible can save 15-30% on your premium. Just make sure you have enough liquid savings to cover the higher deductible if you need to file a claim.
+Moving from a $500 to a $2,500 deductible can save 15-30% on your premium. Just make sure you have enough liquid savings to cover the higher deductible if you need to [file a claim](/blog/7-proven-steps-to-claim-insurance-2026-guide/).
 
 ### 3. Improve Your Home's Safety
 
@@ -162,7 +162,7 @@ Here's my framework for determining the right coverage:
 
 **Personal property:** Do a home inventory. Most people need $50,000-150,000 in personal property coverage. Make sure it's replacement cost, not actual cash value.
 
-**Liability:** At minimum $300,000. If your net worth exceeds $300,000, get an umbrella policy ($1 million umbrella typically costs $200-300/year).
+**Liability:** At minimum $300,000. If your [net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/) exceeds $300,000, get an umbrella policy ($1 million umbrella typically costs $200-300/year).
 
 **Deductible:** $1,000-2,500 is the sweet spot for most homeowners. Higher deductibles save on premiums but require more out-of-pocket when you claim.
 

@@ -68,7 +68,7 @@ The downside is that you need to pay attention to terms. Some cashback is credit
 
 DANA is strong for practical spending. I like it for bill payments, transfers, and selected merchant cashback because it feels more utility-focused than hype-driven. If you’re paying internet, electricity, or buying digital products, DANA often has decent promo rotations.
 
-What makes DANA useful is that it sits in the middle between a wallet and a payment tool. That means the cashback opportunities are often tied to real financial routines, not just shopping. For people trying to reduce monthly expenses, that’s a big plus.
+What makes DANA useful is that it sits in the middle between a wallet and a payment tool. That means the cashback opportunities are often tied to real financial routines, not just shopping. For people trying to [reduce monthly expenses](/blog/10-effective-ways-to-reduce-monthly-expenses/), that’s a big plus.
 
 If you’re trying to compare e-wallet options, I’d also read my breakdown of [best QR payment apps Indonesia 2026](/blog/best-qr-payment-apps-indonesia-2026/), because cashback often depends on where and how you scan.
 

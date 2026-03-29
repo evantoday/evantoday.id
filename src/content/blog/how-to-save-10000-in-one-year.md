@@ -54,7 +54,7 @@ January is about establishing the system, not perfection.
 
 **Do these five things right away:**
 
-1. **Open a high-yield savings account** at a separate bank. As of 2026, Marcus, Ally, and Capital One 360 all pay 4-5 percent APY. Keep it separate from your checking so you cannot easily transfer money back.
+1. **Open a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account** at a separate bank. As of 2026, Marcus, Ally, and Capital One 360 all pay 4-5 percent APY. Keep it separate from your checking so you cannot easily transfer money back.
 
 2. **Set up automatic transfers.** Schedule a weekly transfer of $138 from checking to savings every Monday (or whatever your slowest spending day is).
 
@@ -62,7 +62,7 @@ January is about establishing the system, not perfection.
 
 4. **Delete food delivery apps.** DoorDash, Uber Eats, Grubhub. These services charge 15-30 percent markups plus delivery fees. Average savings: $100-$300 per month.
 
-5. **Set a grocery budget.** Plan meals for the week, make a list, and stick to it. Use store pickup to avoid impulse buys.
+5. **Set a [grocery budget](/blog/how-to-save-money-on-groceries/).** Plan meals for the week, make a list, and stick to it. Use store pickup to avoid impulse buys.
 
 ### Months 2-4: Build Momentum
 
@@ -163,11 +163,11 @@ If you do not have 3-6 months of expenses saved, keep going. Your $10,000 might 
 
 ### Option 2: Pay Off High-Interest Debt
 
-If you have credit card debt at 20-25 percent interest, using some of your savings to pay it off can save you thousands. Keep at least $2,000-$3,000 as an emergency cushion.
+If you have [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) at 20-25 percent interest, using some of your savings to pay it off can save you thousands. Keep at least $2,000-$3,000 as an emergency cushion.
 
 ### Option 3: Start Investing
 
-Open a Roth IRA (income limits apply, but most people qualify) and start investing. In 2026, you can contribute up to $7,000 per year. Invest in low-cost index funds like VTSAX or VTI and let compound interest do its work.
+Open a Roth IRA (income limits apply, but most people qualify) and [start investing](/blog/how-much-money-do-you-need-to-start-investing/). In 2026, you can contribute up to $7,000 per year. Invest in low-cost index funds like VTSAX or VTI and let compound interest do its work.
 
 ### Option 4: Save for a Down Payment
 
@@ -193,7 +193,7 @@ For a one-year goal, keep the money in a high-yield savings account. Investing i
 
 ### What if I have debt? Should I still try to save $10,000?
 
-If you have high-interest debt (credit cards at 20 percent+), paying that off first gives you a guaranteed 20 percent return. Save a $1,000-$2,000 starter emergency fund, then aggressively pay off high-interest debt, then pivot to the savings challenge. If your debt is low-interest (under 7 percent, like student loans or a car), you can save and pay debt simultaneously.
+If you have high-interest debt (credit cards at 20 percent+), paying that off first gives you a guaranteed 20 percent return. Save a $1,000-$2,000 starter [emergency fund](/blog/emergency-fund-guide/), then aggressively pay off high-interest debt, then pivot to the savings challenge. If your debt is low-interest (under 7 percent, like student loans or a car), you can save and pay debt simultaneously.
 
 ### How do I stay motivated when progress feels slow?
 

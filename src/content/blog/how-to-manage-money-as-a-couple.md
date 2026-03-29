@@ -1,5 +1,5 @@
 ---
-title: "Money Management for Couples: 5 Proven Habits"
+title: "Money Management for Couples: 5 Proven Habits [2026]"
 description: "Joint or separate accounts? How to split bills fairly? 5 proven money habits that couples use to build wealth together—without the money fights."
 pubDate: 2026-01-24
 category: "personal-finance"
@@ -12,7 +12,7 @@ heroImageAlt: 'Money Management for Couples: 5 Proven Habits'
 
 ## Why Money Is the Number One Thing Couples Fight About
 
-Let me start with a stat that should get your attention: money disagreements are the number one predictor of divorce, according to a study from Kansas State University. Not infidelity, not communication issues — money.
+Let me start with a stat that should get your attention: money disagreements are the number one predictor of divorce, according to a study from Kansas State University. Not in[fidelity](/blog/fidelity-review-for-stock-and-fund-investing/), not communication issues — money.
 
 And it makes sense. Money touches every part of your life together. Where you live, what you eat, when you retire, how you raise your kids. If you and your partner are not aligned on finances, friction is inevitable.
 
@@ -79,7 +79,7 @@ Monthly money meetings are the sweet spot. They are frequent enough to catch pro
 Your monthly money meeting should follow this agenda:
 
 1. **Review last month's spending** (10 minutes): Pull up your bank statements or budgeting app. Did you stay within budget? Where did you overspend?
-2. **Check on goals** (10 minutes): How much did you save toward the house down payment? Is the emergency fund on track? Did you max out 401(k) contributions?
+2. **Check on goals** (10 minutes): How much did you save toward the house down payment? Is the [emergency fund](/blog/emergency-fund-guide/) on track? Did you max out 401(k) contributions?
 3. **Plan for the coming month** (10 minutes): Any unusual expenses ahead? Birthday gifts, car registration, annual subscriptions? Adjust the budget accordingly.
 
 ### Make It Enjoyable
@@ -90,7 +90,7 @@ Order takeout. Open a bottle of wine. Put on background music. The goal is to as
 
 ### Tackle Debt as a Team
 
-In the US, the average household carries $7,000 in credit card debt and $30,000 in student loans. If one or both of you brings debt into the relationship, you need a joint strategy.
+In the US, the average household carries $7,000 in [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) and $30,000 in student loans. If one or both of you brings debt into the relationship, you need a joint strategy.
 
 Two popular methods:
 
@@ -101,7 +101,7 @@ Neither is wrong. Pick the one that keeps both of you motivated.
 
 ### Set Savings Goals Together
 
-Having shared financial goals creates accountability. Write them down:
+Having shared [financial goals](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/) creates accountability. Write them down:
 
 - **Emergency fund**: 3-6 months of shared expenses (if your monthly expenses are $5,000, aim for $15,000-$30,000)
 - **House down payment**: 20% of your target home price avoids PMI. For a $350,000 home, that is $70,000.
@@ -197,4 +197,4 @@ Approach it as a team challenge, not a judgment. Discuss the total amount, inter
 
 ### How do couples save for retirement together?
 
-Both partners should contribute to their employer 401(k) at least up to the full company match — that is free money. Beyond that, consider opening Roth IRAs for each partner (up to $7,000 each in 2026). If one partner does not work, a spousal IRA allows contributions based on the working partner's income. Aim to save 15% of your combined household income for retirement.
+Both partners should contribute to their employer 401(k) at least up to the full company match — that is free money. Beyond that, consider opening [Roth IRA](/blog/how-to-financially-prepare-for-retirement/)s for each partner (up to $7,000 each in 2026). If one partner does not work, a spousal IRA allows contributions based on the working partner's income. Aim to save 15% of your combined household income for retirement.

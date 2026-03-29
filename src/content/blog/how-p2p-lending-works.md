@@ -39,7 +39,7 @@ Let me break down exactly how P2P lending works in the US, which platforms are w
 4. Receive monthly payments of principal plus interest
 5. Reinvest payments or withdraw to your bank account
 
-The beauty of the $25 minimum is diversification. With $2,500, you can spread your investment across 100 different loans. If one borrower defaults, you lose $25 instead of $2,500.
+The beauty of the $25 minimum is [diversification](/blog/7-smart-ways-to-diversify-your-investment-portfolio/). With $2,500, you can spread your investment across 100 different loans. If one borrower defaults, you lose $25 instead of $2,500.
 
 ## Major US P2P Lending Platforms
 
@@ -76,7 +76,7 @@ However, LendingClub still matters because:
 | PeerStreet | Real estate debt | $1,000 | Yes |
 | Percent | Private credit | $500 | Yes |
 
-Note that several of these platforms require accredited investor status (generally $200K+ income or $1M+ net worth excluding primary residence). Prosper remains the most accessible option for everyday investors.
+Note that several of these platforms require accredited investor status (generally $200K+ income or $1M+ [net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/) excluding primary residence). Prosper remains the most accessible option for everyday investors.
 
 ## Realistic Return Expectations
 
@@ -120,7 +120,7 @@ P2P lending income is taxed as ordinary income, not capital gains. This means:
 - Interest earned is taxed at your marginal income tax rate (up to 37%)
 - Defaulted loans can be written off as short-term capital losses
 - You receive a 1099-OID or 1099-INT at tax time
-- Consider holding P2P investments in a tax-advantaged account if your platform allows it (some Roth IRA options exist through Prosper)
+- Consider holding P2P investments in a tax-advantaged account if your platform allows it (some [Roth IRA](/blog/how-to-financially-prepare-for-retirement/) options exist through Prosper)
 
 ## My P2P Lending Strategy
 
@@ -172,7 +172,7 @@ During recessions, default rates spike dramatically. P2P lending platforms have 
 
 ### Opportunity Cost
 
-The 4-6% net return from P2P lending is decent, but the S&P 500 has historically returned about 10% annually. Every dollar in P2P lending is a dollar not in index funds.
+The 4-6% net return from P2P lending is decent, but the S&P 500 has historically returned about 10% annually. Every dollar in P2P lending is a dollar not in [index funds](/blog/index-fund-investing-guide/).
 
 ## P2P Lending vs. Other Investments
 
@@ -209,7 +209,7 @@ Looking at this table honestly, P2P lending occupies an awkward middle ground. I
 
 ### Is P2P lending safe in the US?
 
-P2P lending is regulated by the SEC, which provides transparency and disclosure requirements. However, your principal is not FDIC insured, and borrower defaults are a real and expected part of the experience. Think of it as a medium-risk investment, safer than individual stocks but riskier than government bonds.
+P2P lending is regulated by the SEC, which provides transparency and disclosure requirements. However, your principal is not FDIC insured, and borrower defaults are a real and expected part of the experience. Think of it as a medium-risk investment, safer than individual stocks but riskier than [government bonds](/blog/treasury-bonds-explained/).
 
 ### How much money do I need to start P2P lending?
 

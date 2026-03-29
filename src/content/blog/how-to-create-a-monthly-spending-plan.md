@@ -16,7 +16,7 @@ A monthly spending plan is not a budget. I know that sounds weird, but stick wit
 
 The difference is mindset. A budget says "you cannot spend more than $300 on dining out." A spending plan says "I am choosing to spend $300 on dining out because that is what matters to me this month." Same number, completely different energy.
 
-According to a Gallup poll, only 32% of American households maintain any kind of written budget or spending plan. The other 68% are winging it—and they are the ones most likely to carry credit card debt, have no emergency fund, and feel stressed about money.
+According to a Gallup poll, only 32% of American households maintain any kind of written budget or spending plan. The other 68% are winging it—and they are the ones most likely to carry [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/), have no [emergency fund](/blog/emergency-fund-guide/), and feel stressed about money.
 
 I was in that 68% for years. Creating a monthly spending plan took me from constantly overdrafting to saving over $800 per month. Here is exactly how I did it, step by step.
 
@@ -103,7 +103,7 @@ These sinking funds eliminate financial surprises and keep your spending plan on
 
 ## Step 4: Set Your Savings and Debt Goals
 
-This is the part that actually builds wealth. After covering fixed and variable expenses, allocate the remaining money to financial goals.
+This is the part that actually builds wealth. After covering fixed and variable expenses, allocate the remaining money to [financial goals](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/).
 
 ### Priority Order for Most Americans
 
@@ -183,7 +183,7 @@ Before any non-essential purchase over $50, wait 24 hours. Write it down and rev
 ### Automate What You Can
 
 Set up automatic transfers on payday:
-- Savings: auto-transfer to high-yield savings account
+- Savings: auto-transfer to [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account
 - Investments: auto-transfer to Roth IRA or brokerage
 - Sinking funds: auto-transfer to separate savings buckets
 
@@ -210,7 +210,7 @@ What a spending plan looks like varies dramatically by income. Here are rough be
 - Savings: $300 (10%)
 - Everything else: $600 (20%)
 
-At this income, the margins are tight. Focus on keeping housing and transportation costs low to protect your savings rate.
+At this income, the margins are tight. Focus on keeping housing and [transportation costs](/blog/10-effective-ways-to-save-money-on-transportation/) low to protect your savings rate.
 
 ### $5,000/Month Take-Home
 

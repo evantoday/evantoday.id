@@ -1,5 +1,5 @@
 ---
-title: "7 Smart Ways to Budget for Ramadan and Lebaran"
+title: "7 Proven Ways to Budget for Ramadan and Lebaran"
 description: "Ramadan and Lebaran can drain Rp 5 juta faster than you think. Here's my exact budgeting system to stay in control."
 pubDate: 2026-03-29
 updatedDate: 2026-03-29
@@ -8,7 +8,7 @@ tags: ["ramadan budget", "lebaran expenses", "budgeting", "indonesia", "money ma
 author: "Evan"
 ---
 
-Ramadan always feels like a financial trap if you’re not careful. I’ve seen my own spending jump hard from extra groceries, buka puasa treats, hampers, mudik, and all the “sekali setahun” purchases that somehow show up every year. If you’re searching for **how to budget for Ramadan and Lebaran expenses**, the short answer is this: you need a separate budget bucket for Ramadan, a realistic cap for Lebaran, and a plan that starts before the first day of fasting.
+Ramadan always feels like a financial trap if you’re not careful. I’ve seen my own spending jump hard from extra groceries, buka puasa treats, hampers, mudik, and all the “sekali setahun” purchases that somehow show up every year. If you’re searching for **[how to budget](/blog/how-to-budget-money/) for Ramadan and Lebaran expenses**, the short answer is this: you need a separate budget bucket for Ramadan, a realistic cap for Lebaran, and a plan that starts before the first day of fasting.
 
 ## Key Takeaways
 
@@ -32,7 +32,7 @@ That’s the dangerous part. A Rp 35.000 takjil order, Rp 120.000 buka puasa wit
 
 For a single working adult in Jakarta, I’d say a realistic Ramadan-Lebaran budget can range from **Rp 2,5 juta to Rp 10 juta+**, depending on whether you mudik, buy gifts, and host family. For a married couple with kids, it can go much higher. That’s why I think budgeting for Ramadan isn’t about being stingy. It’s about deciding in advance what kind of Ramadan you actually want.
 
-If your money has been tight lately, I’d also suggest reading my guide on [how to stop living paycheck to paycheck in Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/). Ramadan is exactly the kind of season that exposes weak money habits.
+If your money has been tight lately, I’d also suggest reading my guide on [how to stop living paycheck to paycheck in Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/). Ramadan is exactly the kind of season that exposes weak [money habits](/blog/smart-money-habits-of-wealthy-people/).
 
 ## How much should you budget for Ramadan and Lebaran?
 

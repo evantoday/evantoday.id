@@ -12,7 +12,7 @@ heroImageAlt: 'NYC vs LA vs Austin: Cost of Living Compared [2026]'
 
 ## Three Cities, Three Very Different Price Tags
 
-Choosing where to live in America is one of the biggest financial decisions you will ever make. The difference between a high-cost city and a moderate-cost city can mean tens of thousands of dollars per year — money that could go toward savings, investing, or simply living without financial stress.
+Choosing where to live in America is one of the biggest financial decisions you will ever make. The difference between a high-cost city and a moderate-cost city can mean tens of thousands of dollars per year — money that could go toward savings, investing, or simply living without [financial stress](/blog/how-to-deal-with-financial-stress-and-anxiety/).
 
 I have dug into the real numbers for three cities that represent different tiers of the US cost-of-living spectrum: New York City (the expensive benchmark), Los Angeles (high-cost but different from NYC), and Austin, Texas (the fast-growing Sun Belt alternative).
 
@@ -89,7 +89,7 @@ Grocery prices reflect the overall cost of living in each city:
 | Loaf of bread | $4.00-$5.50 | $3.50-$5.00 | $3.00-$4.00 |
 | Monthly total (1 person) | $500-$650 | $400-$550 | $350-$450 |
 
-NYC grocery costs are 30-40% higher than Austin largely due to real estate costs passed on to stores, transportation costs for goods, and limited competition in dense neighborhoods.
+NYC [grocery costs](/blog/how-to-save-money-on-groceries/) are 30-40% higher than Austin largely due to real estate costs passed on to stores, [transportation costs](/blog/10-effective-ways-to-save-money-on-transportation/) for goods, and limited competition in dense neighborhoods.
 
 ### Dining Out
 
@@ -204,7 +204,7 @@ A $75,000 salary in Austin gives you roughly the same purchasing power as $110,0
 
 **Pros**: Perfect weather year-round, beach access, entertainment industry hub, diverse food scene, more space than NYC, outdoor lifestyle
 
-**Cons**: Traffic is genuinely terrible (average commute is 30+ minutes), car-dependent, air quality issues, wildfire risk, very high housing costs, income inequality is visible
+**Cons**: Traffic is genuinely terrible (average commute is 30+ minutes), car-dependent, air quality issues, wildfire risk, very high [housing costs](/blog/how-much-should-you-spend-on-rent/), income inequality is visible
 
 ### Austin Pros and Cons
 

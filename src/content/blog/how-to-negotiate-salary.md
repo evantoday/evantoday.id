@@ -205,7 +205,7 @@ Let me show you why a single negotiation matters so much:
 
 The difference between accepting $85,000 and negotiating $105,000 is $20,000 per year initially, which grows to $48,000 per year by year 30. Over 30 years, assuming 3% annual raises, that single negotiation is worth approximately $600,000 in cumulative additional earnings.
 
-And that does not count the additional 401(k) matches, Social Security benefits, and investment returns on those extra earnings.
+And that does not count the additional [401(k)](/blog/how-to-financially-prepare-for-retirement/) matches, Social Security benefits, and investment returns on those extra earnings.
 
 ## Frequently Asked Questions
 

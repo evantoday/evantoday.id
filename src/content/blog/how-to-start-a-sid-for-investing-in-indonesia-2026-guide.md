@@ -242,9 +242,9 @@ Transfer money from your bank account to your RDN or platform balance. Many begi
 
 You can start with:
 - blue-chip stocks
-- index funds
+- [index funds](/blog/index-fund-investing-guide/)
 - reksadana pasar uang
-- ETFs, if available on your platform
+- [ETFs](/blog/etf-investing-explained/), if available on your platform
 
 ### 4. Place your first order
 
@@ -254,7 +254,7 @@ Don’t overthink the first purchase. The point is to build the habit.
 
 Check your holdings, but don’t obsess over every market move. I think new investors do better when they focus on consistency rather than trying to time the market.
 
-If you’re worried about making impulsive decisions, my guide on [how to diversify your investment portfolio Indonesia](/blog/7-smart-ways-to-diversify-your-investment-portfolio-indonesia/) is a good next read. A SID is just the entry point. Diversification is what keeps you from making dumb concentrated bets.
+If you’re worried about making impulsive decisions, my guide on [how to diversify your investment portfolio Indonesia](/blog/7-smart-ways-to-diversify-your-investment-portfolio-indonesia/) is a good next read. A SID is just the entry point. [Diversification](/blog/7-smart-ways-to-diversify-your-investment-portfolio/) is what keeps you from making dumb concentrated bets.
 
 ## How to Start a SID for Investing in Indonesia: My Practical Checklist
 

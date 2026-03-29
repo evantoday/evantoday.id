@@ -16,7 +16,7 @@ If you have ever lain awake at 2 AM doing mental math, wondering if you can cove
 
 And you are far from alone. According to the American Psychological Association, 72 percent of Americans report feeling stressed about money at least some of the time. It is the number one source of stress in the country, ahead of work, health, and relationships.
 
-I have been there. At my worst, I had $38,000 in debt, no emergency fund, and a job that barely covered my bills. The stress was not just emotional. I was sleeping poorly, snapping at people, and making worse financial decisions because I was too anxious to think clearly. It became a vicious cycle: stress caused bad decisions, bad decisions caused more stress.
+I have been there. At my worst, I had $38,000 in debt, no [emergency fund](/blog/emergency-fund-guide/), and a job that barely covered my bills. The stress was not just emotional. I was sleeping poorly, snapping at people, and making worse financial decisions because I was too anxious to think clearly. It became a vicious cycle: stress caused bad decisions, bad decisions caused more stress.
 
 Here are seven strategies that helped me break that cycle. They are not magic, but they work.
 
@@ -57,7 +57,7 @@ Financial stress often comes with paralysis. You know you need to do something, 
 - Check your bank balance right now.
 - Cancel one subscription you do not use.
 - Call one creditor and ask about hardship options.
-- Set up a $25 per week automatic savings transfer.
+- Set up a $25 per week [automatic savings](/blog/10-automatic-savings-tips-and-tricks/) transfer.
 - Pull your free credit report at AnnualCreditReport.com.
 - Write down your three highest-interest debts.
 - Apply for one assistance program you might qualify for.
@@ -125,12 +125,12 @@ Financial stress becomes toxic when you start believing your bank balance define
 
 ### Common Thought Patterns to Recognize
 
-- "I am such a failure because I have credit card debt."
+- "I am such a failure because I have [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/)."
 - "Everyone else my age is doing better than me."
 - "I will never be good with money."
 - "I do not deserve nice things because I am in debt."
 
-These thoughts are not facts. They are anxiety distortions. Plenty of brilliant, hardworking people have financial struggles. Your worth is not your net worth.
+These thoughts are not facts. They are anxiety distortions. Plenty of brilliant, hardworking people have financial struggles. Your worth is not your [net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/).
 
 ### Practical Ways to Break the Pattern
 
@@ -206,7 +206,7 @@ Set up automatic transfers on payday. Start small. Even $25 per week adds up to 
 
 ### Build an Emergency Fund
 
-Work toward 3-6 months of essential expenses in a high-yield savings account. This is your long-term stress reducer.
+Work toward 3-6 months of essential expenses in a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account. This is your long-term stress reducer.
 
 ### Create a Debt Payoff Plan
 

@@ -1,6 +1,6 @@
 ---
 title: "How Much Money to Start Investing? [2026 Guide]"
-description: "Think you need $10K to invest? Apps like Fidelity and Schwab let you start with $1. See minimum amounts by investment type and the best account to open first."
+description: "Think you need $10K to invest? Apps like Fidelity let you start with $1. See minimums by type and the best account."
 pubDate: 2026-03-14
 category: "investing"
 tags: ["start investing", "minimum investment", "Fidelity", "Charles Schwab", "beginner investing"]
@@ -24,7 +24,7 @@ If you've been putting off investing because you think you need thousands of dol
 - The minimum amount depends on the investment type (stocks, ETFs, mutual funds, etc.)
 - Starting small and early beats waiting to invest a large sum later
 - A Roth IRA is the best first account for most beginners
-- The real minimum isn't about money — it's about having an emergency fund first
+- The real minimum isn't about money — it's about having an [emergency fund](/blog/emergency-fund-guide/) first
 
 ## The Real Minimums by Investment Type
 
@@ -69,7 +69,7 @@ If $3,000 feels like a lot, use Fidelity or Schwab's zero-minimum funds. Or buy 
 **Minimum: $1 (bond ETFs) to $1,000 (individual Treasury bonds)**
 
 - Bond ETFs like BND can be purchased as fractional shares for $1
-- Individual Treasury bonds on TreasuryDirect.gov start at $100
+- Individual [Treasury bonds](/blog/treasury-bonds-explained/) on TreasuryDirect.gov start at $100
 - Corporate bonds typically require $1,000 minimum per bond
 
 ### Real Estate (REITs)
@@ -109,7 +109,7 @@ While you can invest with $1, there are a few things you should do before invest
 
 ### 1. Build a Small Emergency Fund First
 
-Before investing a single dollar, save at least $1,000 in a high-yield savings account. This prevents you from having to sell investments at a loss when an unexpected expense hits.
+Before investing a single dollar, save at least $1,000 in a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account. This prevents you from having to sell investments at a loss when an unexpected expense hits.
 
 Current high-yield savings accounts paying 4-5% APY:
 - Marcus by Goldman Sachs
@@ -119,7 +119,7 @@ Current high-yield savings accounts paying 4-5% APY:
 
 ### 2. Pay Off High-Interest Debt
 
-If you're carrying credit card debt at 20-25% APR, paying that off is a guaranteed 20-25% return on your money. No investment can reliably beat that.
+If you're carrying [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) at 20-25% APR, paying that off is a guaranteed 20-25% return on your money. No investment can reliably beat that.
 
 **Exception:** If your employer matches 401(k) contributions, contribute enough to get the full match even while paying off debt. A 100% match is a 100% return — better than any debt interest rate.
 
@@ -169,7 +169,7 @@ Here's why:
 
 ### If You Just Want to Start Investing Today
 
-**Open a taxable brokerage account.** No income limits, no contribution limits, no withdrawal restrictions. Just start buying index funds. You can always open tax-advantaged accounts later and transfer assets.
+**Open a taxable brokerage account.** No income limits, no contribution limits, no withdrawal restrictions. Just start buying [index funds](/blog/index-fund-investing-guide/). You can always open tax-advantaged accounts later and transfer assets.
 
 ## Step-by-Step: Start Investing Today With $100
 

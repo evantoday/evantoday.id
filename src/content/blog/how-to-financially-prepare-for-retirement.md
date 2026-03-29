@@ -1,6 +1,6 @@
 ---
 title: "Retirement Planning: 401(k), IRA, and Beyond [2026]"
-description: "Most Americans have less than $100K saved for retirement at 40. These 5 moves—starting with your 401(k) match—build a fund that actually lasts through your 90s."
+description: "Most Americans have less than $100K saved at 40. These 5 moves starting with your 401(k) match build a fund that lasts."
 pubDate: 2026-03-08
 category: "investing"
 tags: ["retirement planning", "401k", "IRA", "Roth IRA", "retirement savings"]
@@ -62,7 +62,7 @@ The 2026 contribution limit is $7,000, or $8,000 if you are 50 or older.
 
 ### Where to Open a Roth IRA
 
-I personally use Fidelity, but here are the top options:
+I personally use [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/), but here are the top options:
 
 - **Fidelity**: Zero-fee index funds, no minimums, excellent research tools
 - **Vanguard**: Pioneer of low-cost index investing, slightly dated interface
@@ -74,7 +74,7 @@ Any of these three will serve you well. The most important thing is to open the 
 
 Here is where a lot of people mess up. They open their retirement accounts and then either leave the money in cash or pick random individual stocks. Neither approach works well long-term.
 
-The data is overwhelming: low-cost index funds outperform the vast majority of actively managed funds over any 20+ year period. Warren Buffett himself bet $1 million that an S&P 500 index fund would beat a collection of hedge funds over 10 years. He won easily.
+The data is overwhelming: low-cost [index funds](/blog/index-fund-investing-guide/) outperform the vast majority of actively managed funds over any 20+ year period. Warren Buffett himself bet $1 million that an S&P 500 index fund would beat a collection of hedge funds over 10 years. He won easily.
 
 ### My Recommended Portfolio Approach
 
@@ -118,7 +118,7 @@ One of the biggest advantages of the US retirement system is the tax benefits. B
 
 If your income is too high for direct Roth IRA contributions, the backdoor Roth strategy lets you get around the income limits:
 
-1. Contribute to a traditional IRA (non-deductible)
+1. Contribute to a traditional IRA (non-[deductible](/blog/insurance-terms-explained-simply-2026-guide/))
 2. Convert to a Roth IRA shortly after
 3. Pay taxes only on any gains between contribution and conversion
 

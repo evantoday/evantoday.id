@@ -51,7 +51,7 @@ Chime calls its checking account the "Spending Account," which is a little confu
 
 ## Chime Savings Account
 
-Chime's savings account is straightforward. It pays 2.00% APY, which is decent but nowhere near the top of the market. Ally, SoFi, and Marcus all pay significantly more.
+Chime's savings account is straightforward. It pays 2.00% APY, which is decent but nowhere near the top of the market. Ally, [SoFi](/blog/sofi-review-interest-rates-and-features/), and Marcus all pay significantly more.
 
 ### Automatic Savings Features
 
@@ -63,7 +63,7 @@ Where Chime's savings account shines is in its automation:
 
 ### Why the APY Disappoints
 
-At 2.00% APY, Chime's savings account is not competitive in 2026. High-yield savings accounts at other online banks are paying over 4%. If you keep significant savings at Chime, you are leaving money on the table. My approach is to use Chime for daily spending and automatic savings, then sweep larger balances to a higher-yield account.
+At 2.00% APY, Chime's savings account is not competitive in 2026. [High-yield savings](/blog/best-high-yield-savings-accounts-2026/) accounts at other online banks are paying over 4%. If you keep significant savings at Chime, you are leaving money on the table. My approach is to use Chime for daily spending and [automatic savings](/blog/10-automatic-savings-tips-and-tricks/), then sweep larger balances to a higher-yield account.
 
 ## SpotMe Overdraft Protection
 
@@ -182,7 +182,7 @@ Chime is probably not right if:
 
 Chime is an excellent checking account for people who want simplicity, zero fees, and early paycheck access. The SpotMe overdraft feature and Credit Builder card add genuine value that most competitors do not match.
 
-But Chime is not a complete banking solution. The low savings rate, lack of wire transfers, no joint accounts, and inconsistent customer service mean you will likely need a second bank for certain needs.
+But Chime is not a complete banking solution. The low savings rate, lack of wire transfers, no [joint accounts](/blog/how-to-manage-money-as-a-couple/), and inconsistent customer service mean you will likely need a second bank for certain needs.
 
 My recommendation: use Chime for your daily spending and paycheck, but keep your serious savings at a high-yield account like Ally or SoFi. That combination gives you the best of both worlds.
 

@@ -93,7 +93,7 @@ At 4.4 percent, a $15,000 emergency fund earns about $660 per year in interest. 
 
 ### Acceptable Alternative: Money Market Account
 
-Money market accounts function similarly to savings accounts but sometimes offer check-writing privileges. Rates are comparable to HYSAs. Good options include Vanguard Federal Money Market and Fidelity Government Money Market.
+Money market accounts function similarly to savings accounts but sometimes offer check-writing privileges. Rates are comparable to HYSAs. Good options include Vanguard Federal Money Market and [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/) Government Money Market.
 
 ### Where NOT to Keep Your Emergency Fund
 
@@ -131,7 +131,7 @@ Review your monthly expenses and redirect savings directly to your emergency fun
 
 - Cancel unused subscriptions ($50-$150 per month)
 - Switch to a cheaper phone plan ($30-$80 per month savings)
-- Refinance or shop for cheaper car insurance ($40-$100 per month savings)
+- Refinance or shop for cheaper [car insurance](/blog/car-insurance-comparison-2026/) ($40-$100 per month savings)
 - Reduce dining out by half ($100-$300 per month savings)
 - Cut one streaming service ($10-$20 per month)
 
@@ -168,7 +168,7 @@ Not every unexpected expense is an emergency. Here is a clear framework:
 
 ### Yes, Use Your Fund For:
 
-- Job loss or significant income reduction
+- [Job loss](/blog/7-smart-ways-to-survive-a-job-loss/) or significant income reduction
 - Medical emergencies (ER visits, surgery, urgent dental)
 - Critical car repairs (you need your car to get to work)
 - Essential home repairs (burst pipe, broken furnace in winter)

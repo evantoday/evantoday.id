@@ -149,7 +149,7 @@ Create a simple Google Sheet or Excel spreadsheet with columns for each asset an
 
 **Personal Capital (now Empower):**
 
-Free app that links to your financial accounts and calculates your net worth automatically. Also provides investment analysis and retirement planning tools. The trade-off is that they will try to sell you financial advisory services.
+Free app that links to your financial accounts and calculates your net worth automatically. Also provides investment analysis and [retirement planning](/blog/how-to-financially-prepare-for-retirement/) tools. The trade-off is that they will try to sell you financial advisory services.
 
 **Mint/Credit Karma:**
 
@@ -250,7 +250,7 @@ Any debt above 7-8% should be attacked aggressively before investing beyond your
 
 Your home is an asset, but it also comes with ongoing costs: property taxes, insurance, maintenance (typically 1-2% of home value annually), and utilities. Some financial planners recommend excluding your primary home from net worth calculations entirely and focusing on "investable net worth" instead.
 
-I include my home but track "net worth excluding primary residence" as a separate number. This gives me a clearer picture of my financial independence progress.
+I include my home but track "net worth excluding primary residence" as a separate number. This gives me a clearer picture of my [financial independence](/blog/achieving-financial-independence-and-early-retirement-fire-movement/) progress.
 
 ### Overvaluing Depreciating Assets
 

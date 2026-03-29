@@ -1,6 +1,6 @@
 ---
 title: "How to Invest in Gold in 2026 (5 Best Ways)"
-description: "Gold hit $2,500/oz and keeps climbing. US investors can buy physical gold, ETFs, or mining stocks—compare all 5 methods with real costs and expected returns."
+description: "Gold hit $2,500/oz and keeps climbing. Compare all 5 ways to buy -- physical, ETFs, mining stocks -- with real costs."
 pubDate: 2026-03-13
 category: "investing"
 tags: ["gold investing", "gold ETF", "precious metals", "GLD", "gold IRA"]
@@ -19,7 +19,7 @@ But how should you actually invest in gold? There are five main methods, and eac
 ## Key Takeaways
 
 - Gold is a hedge against inflation and economic uncertainty, not a growth investment
-- Gold ETFs (like GLD or IAU) are the easiest and cheapest way for most investors
+- Gold [ETFs](/blog/etf-investing-explained/) (like GLD or IAU) are the easiest and cheapest way for most investors
 - Physical gold has emotional appeal but comes with storage costs and markup
 - A Gold IRA offers tax advantages but has strict rules and fees
 - Most financial advisors recommend allocating 5-10% of your portfolio to gold
@@ -142,7 +142,7 @@ Gold mining companies offer leveraged exposure to gold prices. When gold rises 1
 - **Franco-Nevada (FNV)** — Gold royalty/streaming company. Lower risk than traditional miners.
 - **Agnico Eagle Mines (AEM)** — Canadian miner with a strong track record and growing production.
 
-**Gold mining ETFs** (for diversification across multiple miners):
+**Gold mining ETFs** (for [diversification](/blog/7-smart-ways-to-diversify-your-investment-portfolio/) across multiple miners):
 
 - **GDX** (VanEck Gold Miners ETF) — Large-cap miners, expense ratio: 0.51%
 - **GDXJ** (VanEck Junior Gold Miners ETF) — Small/mid-cap miners, expense ratio: 0.52%
@@ -193,7 +193,7 @@ A Gold IRA is a self-directed Individual Retirement Account that holds physical 
 - Roth Gold IRA: After-tax contributions, tax-free withdrawals in retirement
 
 **Pros:**
-- Tax advantages (Traditional or Roth IRA benefits)
+- Tax advantages (Traditional or [Roth IRA](/blog/how-to-financially-prepare-for-retirement/) benefits)
 - Physical gold ownership within a tax shelter
 - Protection against dollar devaluation in retirement
 - Diversification beyond traditional retirement assets

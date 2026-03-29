@@ -93,7 +93,7 @@ These focus on specific industries or investment themes — technology, healthca
 
 **Expense Ratio:** 0.07%
 **Holdings:** 8,500+ international stocks
-**Why it matters:** Diversification beyond the US. When American stocks underperform, international stocks sometimes pick up the slack.
+**Why it matters:** [Diversification](/blog/7-smart-ways-to-diversify-your-investment-portfolio/) beyond the US. When American stocks underperform, international stocks sometimes pick up the slack.
 
 ### 4. BND — Vanguard Total Bond Market ETF
 
@@ -105,7 +105,7 @@ These focus on specific industries or investment themes — technology, healthca
 
 **Expense Ratio:** 0.06%
 **Holdings:** 100+ dividend-paying US stocks
-**Why it's popular:** SCHD focuses on high-quality dividend stocks with strong fundamentals. Great for investors who want income alongside growth.
+**Why it's popular:** SCHD focuses on high-quality [dividend stocks](/blog/best-dividend-stocks-for-beginners/) with strong fundamentals. Great for investors who want income alongside growth.
 
 ## How to Buy Your First ETF
 
@@ -193,7 +193,7 @@ Here are three model portfolios based on age and risk tolerance:
 - 10% VXUS (International)
 - 60% BND (Bonds)
 
-These are simplified examples. Your actual allocation should reflect your personal risk tolerance, financial goals, and timeline.
+These are simplified examples. Your actual allocation should reflect your personal risk tolerance, [financial goals](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/), and timeline.
 
 ## Common ETF Mistakes to Avoid
 
@@ -213,7 +213,7 @@ ETFs have a structural advantage over mutual funds when it comes to taxes:
 - **Capital gains** — Only triggered when you sell. If you hold, you don't pay.
 - **Tax-loss harvesting** — You can sell an ETF at a loss and buy a similar (but not identical) ETF to claim the tax deduction while staying invested
 
-**Pro tip:** Hold your ETFs in a Roth IRA if possible. All growth and dividends are completely tax-free.
+**Pro tip:** Hold your ETFs in a [Roth IRA](/blog/how-to-financially-prepare-for-retirement/) if possible. All growth and dividends are completely tax-free.
 
 ## Frequently Asked Questions
 
@@ -231,7 +231,7 @@ A common guideline is to invest 15-20% of your gross income for retirement. But 
 
 ### Should I invest a lump sum or dollar cost average into ETFs?
 
-Research shows that lump-sum investing outperforms dollar cost averaging about two-thirds of the time because markets tend to go up. However, DCA reduces the risk of buying at a peak and is psychologically easier. If you have a large sum and are nervous, a reasonable compromise is to invest it over 3-6 months in equal installments.
+Research shows that lump-sum investing outperforms [dollar cost averaging](/blog/dollar-cost-averaging-strategy-explained/) about two-thirds of the time because markets tend to go up. However, DCA reduces the risk of buying at a peak and is psychologically easier. If you have a large sum and are nervous, a reasonable compromise is to invest it over 3-6 months in equal installments.
 
 ### Do ETFs pay dividends?
 

@@ -11,7 +11,7 @@ heroImageAlt: 'Critical Illness Insurance: Do You Really Need It?'
 
 ---
 
-A coworker of mine was diagnosed with stage 2 colon cancer at 38. His health insurance covered the hospital bills—mostly. But what blindsided him was everything else: three months of unpaid leave, a $6,000 deductible, parking at the cancer center, meal delivery because he was too exhausted to cook, and the mortgage that didn't care about his diagnosis.
+A coworker of mine was diagnosed with stage 2 colon cancer at 38. His health insurance covered the hospital bills—mostly. But what blindsided him was everything else: three months of unpaid leave, a $6,000 [deductible](/blog/insurance-terms-explained-simply-2026-guide/), parking at the cancer center, meal delivery because he was too exhausted to cook, and the mortgage that didn't care about his diagnosis.
 
 That's the gap critical illness insurance is designed to fill. It's not about hospital bills. It's about staying financially alive while you're fighting to stay physically alive.
 
@@ -146,7 +146,7 @@ Can you claim again if you're diagnosed with a different critical illness later?
 
 ### 4. Return of Premium Option
 
-Some policies offer a return of premium rider—if you never file a claim, you get some or all of your premiums back after 20-30 years. It costs more, but it eliminates the "wasted money" concern. In my experience, this rider is usually overpriced relative to the benefit.
+Some policies offer a return of premium rider—if you never [file a claim](/blog/7-proven-steps-to-claim-insurance-2026-guide/), you get some or all of your premiums back after 20-30 years. It costs more, but it eliminates the "wasted money" concern. In my experience, this rider is usually overpriced relative to the benefit.
 
 ### 5. Benefit Amount
 

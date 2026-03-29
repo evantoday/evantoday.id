@@ -76,7 +76,7 @@ Check with your HR department or 401(k) plan administrator to enable this featur
 
 ## 5. Use a High-Yield Savings Account
 
-This is not technically an "automatic" trick, but it supercharges all the other tricks on this list. A high-yield savings account (HYSA) earns 4-5% APY in the current rate environment, compared to 0.01-0.05% at traditional big banks.
+This is not technically an "automatic" trick, but it supercharges all the other tricks on this list. A [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account (HYSA) earns 4-5% APY in the current rate environment, compared to 0.01-0.05% at traditional big banks.
 
 ### Top High-Yield Savings Accounts (2026)
 
@@ -106,7 +106,7 @@ You can set up automatic monthly contributions to your Roth IRA, just like auto-
 4. Choose your investment—a target-date fund or total stock market index fund is a great default
 5. Enable automatic investment so your contributions are invested immediately, not sitting in cash
 
-Dollar-cost averaging through automatic monthly contributions removes the temptation to time the market. You buy more shares when prices are low and fewer when prices are high—automatically.
+[Dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) through automatic monthly contributions removes the temptation to time the market. You buy more shares when prices are low and fewer when prices are high—automatically.
 
 ## 7. Set Up Automatic Bill Negotiation
 
@@ -137,7 +137,7 @@ A sinking fund is money you save monthly for predictable future expenses. Automa
 
 ### How to Set Up Automatic Sinking Funds
 
-1. List your irregular but predictable expenses: car insurance (every 6 months), holiday gifts, vacation, car maintenance, medical copays, home repairs
+1. List your irregular but predictable expenses: [car insurance](/blog/car-insurance-comparison-2026/) (every 6 months), holiday gifts, vacation, car maintenance, medical copays, home repairs
 2. Estimate the annual cost of each
 3. Divide by 12 to get the monthly contribution
 4. Set up automatic transfers to labeled savings buckets
@@ -165,7 +165,7 @@ If you have a high-deductible health plan, an HSA is the most tax-efficient acco
 
 - 2026 contribution limit: $4,300 (individual) / $8,550 (family)
 - Set up automatic payroll deductions or monthly transfers
-- After building a cash buffer for near-term medical costs, invest the rest in index funds
+- After building a cash buffer for near-term medical costs, invest the rest in [index funds](/blog/index-fund-investing-guide/)
 
 ### 529 College Savings Plan
 
@@ -205,7 +205,7 @@ Start with whatever you can afford without going into debt—even $50/month is a
 
 ### What if I need the money I have automated into savings?
 
-That is what your emergency fund is for. Keep 3-6 months of expenses in an accessible high-yield savings account before locking money into investments. For sinking funds, the money is meant to be spent—just on planned expenses rather than impulse buys.
+That is what your [emergency fund](/blog/emergency-fund-guide/) is for. Keep 3-6 months of expenses in an accessible high-yield savings account before locking money into investments. For sinking funds, the money is meant to be spent—just on planned expenses rather than impulse buys.
 
 ### Are round-up apps like Acorns worth the fees?
 

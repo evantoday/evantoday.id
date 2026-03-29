@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Halving Impact on Price: 7 Things to Expect"
+title: "Bitcoin Halving 2026: 7 Price Predictions to Watch"
 description: "Bitcoin halving can move prices fast. I break down what usually happens, what to watch, and how Indonesians can prepare."
 pubDate: 2026-03-29
 updatedDate: 2026-03-29
@@ -117,7 +117,7 @@ When rates are high and liquidity is tight, speculative assets usually struggle.
 
 ### 2. ETF and institutional demand
 
-Spot Bitcoin ETFs have changed the game because they can bring large, persistent demand. If new buyers keep entering through regulated products, the halving supply reduction can become more meaningful. That’s one reason I think recent cycles may behave differently from older ones.
+Spot Bitcoin [ETFs](/blog/etf-investing-explained/) have changed the game because they can bring large, persistent demand. If new buyers keep entering through regulated products, the halving supply reduction can become more meaningful. That’s one reason I think recent cycles may behave differently from older ones.
 
 ### 3. Regulation and local access
 
@@ -166,7 +166,7 @@ Yes, but only if you already understand your risk and timeline. Halving can be a
 ### When buying makes sense
 
 - You have a long-term horizon of at least 1 to 3 years.
-- Your emergency fund is already in place.
+- Your [emergency fund](/blog/emergency-fund-guide/) is already in place.
 - You can tolerate big swings, including 20% to 40% drawdowns.
 - You’re buying in small, repeatable amounts.
 
@@ -177,7 +177,7 @@ Yes, but only if you already understand your risk and timeline. Halving can be a
 - You don’t know where to store the asset safely.
 - You’re already overexposed to crypto.
 
-If you’re still building your financial base, I’d honestly prioritize cash flow and savings first. My guide on [money management for fresh graduates Indonesia](/blog/7-smart-money-management-tips-for-fresh-graduates-2026-guide/) can help if you’re early in your career and still figuring out your monthly budget.
+If you’re still building your financial base, I’d honestly prioritize cash flow and savings first. My guide on [money management for fresh graduates Indonesia](/blog/7-smart-money-management-tips-for-fresh-graduates-2026-guide/) can help if you’re early in your career and still figuring out your [monthly budget](/blog/how-to-create-a-monthly-spending-plan/).
 
 ## What Are the Biggest Mistakes People Make Around Halving?
 

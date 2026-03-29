@@ -14,7 +14,7 @@ heroImageAlt: 'FIRE Movement: How to Retire Before 40 [2026]'
 
 I am 34 years old, and if everything goes according to plan, I will stop working a traditional job in about 8 years. Not because I hate my work, but because I want the freedom to choose how I spend my time without a paycheck dictating my decisions.
 
-This is the core idea behind the FIRE movement: Financial Independence, Retire Early. It is not really about sitting on a beach doing nothing. It is about reaching a point where work becomes optional, where your investment portfolio generates enough income to cover your living expenses indefinitely.
+This is the core idea behind the FIRE movement: Financial Independence, Retire Early. It is not really about sitting on a beach doing nothing. It is about reaching a point where work becomes optional, where your investment portfolio generates enough income to cover your living expenses in[defi](/blog/defi-explained-in-simple-terms-for-beginners/)nitely.
 
 The FIRE community has exploded in the US over the past decade. Subreddits like r/financialindependence have over 2 million members. Blogs like Mr. Money Mustache and the Mad Fientist have influenced millions more. And the math behind FIRE is surprisingly simple once you understand it.
 
@@ -151,7 +151,7 @@ The order of operations for FIRE savers:
 
 1. **401(k) up to employer match** (free money)
 2. **HSA** if eligible ($4,300 individual / $8,550 family in 2026) - triple tax advantage
-3. **Roth IRA** ($7,000 / $8,000 if 50+)
+3. **[Roth IRA](/blog/how-to-financially-prepare-for-retirement/)** ($7,000 / $8,000 if 50+)
 4. **401(k) up to max** ($23,500 / $31,000 if 50+)
 5. **Taxable brokerage account** (for any remaining savings)
 

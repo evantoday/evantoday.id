@@ -16,7 +16,7 @@ What surprised me was how many Indonesians still think sukuk is only for retiree
 
 - Sukuk is a sharia-compliant investment that gives you periodic returns, usually with lower volatility than stocks.
 - In Indonesia, you can start with relatively small amounts, often from Rp 1 juta for retail government sukuk.
-- I think sukuk is best for emergency fund parking, medium-term goals, and portfolio diversification.
+- I think sukuk is best for [emergency fund](/blog/emergency-fund-guide/) parking, medium-term goals, and [portfolio diversification](/blog/7-smart-ways-to-diversify-your-investment-portfolio/).
 - You need to understand the difference between ORI, SBR, SR, and retail sukuk before buying.
 - The biggest mistakes are chasing yield blindly, ignoring tenor, and investing money you may need too soon.
 
@@ -44,7 +44,7 @@ If you want to build a broader investing foundation first, I also recommend read
 
 ## Why I Think Sukuk Is Worth Considering
 
-Sukuk isn’t exciting in the same way stocks are. That’s exactly why I like it. It can give your portfolio a steadier base, especially if you’re already exposed to equity risk through mutual funds, ETFs, or direct stocks.
+Sukuk isn’t exciting in the same way stocks are. That’s exactly why I like it. It can give your portfolio a steadier base, especially if you’re already exposed to equity risk through mutual funds, [ETFs](/blog/etf-investing-explained/), or direct stocks.
 
 ### The main benefits for Indonesian investors
 
@@ -116,7 +116,7 @@ Ask yourself one question: what is this money for?
 - Medium-term savings
 - Portfolio diversification
 
-I think sukuk works best for goals with a time horizon of about 1 to 5 years. If your money needs to grow aggressively for 15 years, stocks or index funds may be more suitable.
+I think sukuk works best for goals with a time horizon of about 1 to 5 years. If your money needs to grow aggressively for 15 years, stocks or [index funds](/blog/index-fund-investing-guide/) may be more suitable.
 
 ### Step 2: Check your cash flow
 
@@ -175,7 +175,7 @@ A quick example:
 
 That’s not life-changing money, but it’s useful, especially if the alternative is leaving the cash idle in a low-interest account.
 
-If your real problem is saving consistently, I’d actually work on your monthly budget first. My guide on [how to create a monthly spending plan in Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/) is the exact system I’d use before increasing investment size.
+If your real problem is saving consistently, I’d actually work on your [monthly budget](/blog/how-to-create-a-monthly-spending-plan/) first. My guide on [how to create a monthly spending plan in Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/) is the exact system I’d use before increasing investment size.
 
 ## How Do Returns and Risks Work?
 

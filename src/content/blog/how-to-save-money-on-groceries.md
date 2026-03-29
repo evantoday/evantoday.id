@@ -125,7 +125,7 @@ The Amex Blue Cash Preferred alone saves $360/year if you spend $500/month on gr
 
 ### Why Seasonal Produce Is Cheaper and Better
 
-Out-of-season produce is shipped thousands of miles, stored in cold warehouses, and priced at a premium. In-season produce is abundant, local, and significantly cheaper.
+Out-of-season produce is shipped thousands of miles, stored in cold warehouses, and priced at a [premium](/blog/insurance-terms-explained-simply-2026-guide/). In-season produce is abundant, local, and significantly cheaper.
 
 **Spring (March-May)**: Asparagus, strawberries, artichokes, peas, lettuce
 **Summer (June-August)**: Tomatoes, corn, berries, peaches, zucchini, watermelon
@@ -269,11 +269,11 @@ For bulk staples (chicken, eggs, dairy, rice, olive oil, paper products), Costco
 
 ### Are grocery delivery services worth the extra cost?
 
-Services like Instacart, Walmart+, and Amazon Fresh charge delivery fees and sometimes mark up prices 10-15%. However, some people save money with delivery because they avoid impulse purchases in-store. If you are disciplined about sticking to a list in-store, shopping yourself is cheaper. If you tend to impulse-buy, delivery might actually save you money despite the fees.
+Services like Instacart, Walmart+, and Amazon Fresh charge delivery fees and sometimes mark up prices 10-15%. However, some people save money with delivery because they avoid [impulse buying](/blog/10-effective-tips-to-avoid-impulse-buying/) in-store. If you are disciplined about sticking to a list in-store, shopping yourself is cheaper. If you tend to impulse-buy, delivery might actually save you money despite the fees.
 
 ### How do I save on groceries without couponing?
 
-Traditional couponing is time-intensive and often promotes buying processed foods you would not normally purchase. Better alternatives: switch to store brands (saves 30-50%), use cashback apps like Ibotta (5 minutes of effort), buy seasonal produce, reduce food waste, and shop at discount grocers like Aldi or Lidl. These strategies save more than coupons for most families.
+Traditional couponing is time-intensive and often promotes buying processed foods you would not normally purchase. Better alternatives: switch to store brands (saves 30-50%), use [cashback apps](/blog/7-best-cashback-apps-and-programs-indonesia-2026/) like Ibotta (5 minutes of effort), buy seasonal produce, reduce food waste, and shop at discount grocers like Aldi or Lidl. These strategies save more than coupons for most families.
 
 ### What is the cheapest healthy food to buy?
 

@@ -189,7 +189,7 @@ Both platforms are legitimate, regulated, and safe to use. I have never had a tr
 
 ### Western Union
 
-Still the largest money transfer network in the world, but fees and exchange rates are typically the worst among all options. Useful if the recipient needs cash pickup in a remote area where Remitly does not have partners.
+Still the largest [money transfer](/blog/best-money-transfer-apps-comprehensive-review/) network in the world, but fees and exchange rates are typically the worst among all options. Useful if the recipient needs cash pickup in a remote area where Remitly does not have partners.
 
 ### OFX
 

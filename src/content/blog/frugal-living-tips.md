@@ -16,7 +16,7 @@ When most people hear "frugal living," they picture clipping coupons for hours, 
 
 Real frugal living is about intentional spending. You spend freely on what matters to you and ruthlessly cut what does not. It is not about spending less on everything. It is about spending nothing on things that add zero value to your life so you can spend more on things that do.
 
-I started practicing frugal living three years ago, not because I was broke—I had a decent income—but because I realized I was spending $6,200/month while only truly enjoying about $3,800 of it. The other $2,400 was going to things I barely noticed: convenience fees, unused subscriptions, premium versions of things where the basic version worked fine, and social spending I did out of obligation rather than enjoyment.
+I started practicing frugal living three years ago, not because I was broke—I had a decent income—but because I realized I was spending $6,200/month while only truly enjoying about $3,800 of it. The other $2,400 was going to things I barely noticed: convenience fees, unused subscriptions, [premium](/blog/insurance-terms-explained-simply-2026-guide/) versions of things where the basic version worked fine, and social spending I did out of obligation rather than enjoyment.
 
 Today I live on about $4,000/month and feel like I have a better quality of life than when I spent $6,200. The difference goes to investments that are building my financial freedom.
 
@@ -190,7 +190,7 @@ The language matters. Deprivation creates resistance. Choice creates empowerment
 
 ## The Math: What Frugal Living Can Build
 
-If the seven strategies above save you $1,000/month (a conservative estimate based on what I have seen), here is what that money does over time, invested in a total stock market index fund averaging 8% annual returns:
+If the seven strategies above save you $1,000/month (a conservative estimate based on what I have seen), here is what that money does over time, invested in a total stock market [index fund](/blog/index-fund-investing-guide/) averaging 8% annual returns:
 
 | Timeline | Total Invested | Portfolio Value |
 |----------|---------------|----------------|
@@ -218,7 +218,7 @@ Cheap people prioritize spending the least amount possible, regardless of qualit
 
 ### How do I get my partner on board with frugal living?
 
-Start with shared goals, not restrictions. Agree on what you are saving for—a house down payment, early retirement, a dream vacation—and let the goal drive the behavior. Give each person a no-questions-asked fun money category so neither feels controlled. And lead by example rather than lecturing.
+Start with shared goals, not restrictions. Agree on what you are saving for—a house down payment, [early retirement](/blog/achieving-financial-independence-and-early-retirement-fire-movement/), a dream vacation—and let the goal drive the behavior. Give each person a no-questions-asked fun money category so neither feels controlled. And lead by example rather than lecturing.
 
 ### Can frugal living work with kids?
 

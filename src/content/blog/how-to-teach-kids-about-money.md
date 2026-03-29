@@ -1,6 +1,6 @@
 ---
 title: "How to Teach Kids About Money (5 Age-Based Lessons)"
-description: "Kids who learn money skills early earn 25% more as adults. 5 age-appropriate lessons parents can start at home this week—from allowance to compound interest."
+description: "Kids who learn money skills early earn 25% more as adults. 5 age-appropriate lessons parents can start this week."
 pubDate: 2026-01-27
 category: "personal-finance"
 tags: ["teach kids money", "financial literacy kids", "allowance", "kids and money", "parenting finance"]
@@ -12,11 +12,11 @@ heroImageAlt: 'How to Teach Kids About Money (5 Age-Based Lessons)'
 
 ## Why Most American Kids Graduate Without Basic Money Skills
 
-Here is something that should make every parent uncomfortable: only 23 states in the US require a personal finance course for high school graduation. That means more than half of American teenagers enter adulthood without ever learning how to budget, save, invest, or understand debt.
+Here is something that should make every parent uncomfortable: only 23 states in the US require a personal finance course for high school graduation. That means more than half of American teenagers enter adulthood without ever learning [how to budget](/blog/how-to-budget-money/), save, invest, or understand debt.
 
 The results are predictable. The average American household carries over $100,000 in total debt. Student loan borrowers owe $1.7 trillion collectively. Credit card balances are at record highs.
 
-But kids who learn money skills early have dramatically different outcomes. A University of Cambridge study found that money habits are formed by age 7. Research from the Financial Industry Regulatory Authority shows that people with financial literacy training earn more, save more, and carry less debt throughout their lives.
+But kids who learn money skills early have dramatically different outcomes. A University of Cambridge study found that [money habits](/blog/smart-money-habits-of-wealthy-people/) are formed by age 7. Research from the Financial Industry Regulatory Authority shows that people with financial literacy training earn more, save more, and carry less debt throughout their lives.
 
 The school system may or may not teach your kids about money. But you can. And the lessons are simpler than you think.
 
@@ -66,7 +66,7 @@ This is critical. If your 7-year-old blows their entire allowance on candy and t
 
 ### Create Their First Budget
 
-By this age, kids can manage a monthly budget. Give them a monthly allowance ($20-40) and let them be responsible for certain discretionary purchases — snacks with friends, small entertainment, gifts for friends' birthdays.
+By this age, kids can manage a [monthly budget](/blog/how-to-create-a-monthly-spending-plan/). Give them a monthly allowance ($20-40) and let them be responsible for certain discretionary purchases — snacks with friends, small entertainment, gifts for friends' birthdays.
 
 Help them create a simple written budget:
 
@@ -112,7 +112,7 @@ This is a natural conversation starter about what taxes fund and why financial p
 
 ### Open a Custodial Roth IRA
 
-If your teenager has earned income, they can contribute to a Roth IRA (you open it as custodian). This is one of the most powerful financial moves a young person can make:
+If your teenager has earned income, they can contribute to a [Roth IRA](/blog/how-to-financially-prepare-for-retirement/) (you open it as custodian). This is one of the most powerful financial moves a young person can make:
 
 - A 15-year-old who contributes $2,000 per year until age 18 and then stops entirely will have that money grow tax-free for 47+ years
 - At 8% average returns, that $8,000 invested by age 18 grows to over **$250,000** by age 65 without adding another cent
@@ -193,4 +193,4 @@ Around age 10-13, when they can understand the concept of interest and balances.
 
 ### How do you teach teenagers about investing?
 
-Start by opening a custodial Roth IRA if they have earned income from a job, babysitting, or freelance work. Then buy one or two shares of companies they already know and use — Nike, Apple, Disney, or a simple index fund like VTI (Vanguard Total Stock Market ETF). Show them how to check their portfolio, explain what dividends are, and most importantly, let them experience both gains and losses over time.
+Start by opening a custodial Roth IRA if they have earned income from a job, babysitting, or freelance work. Then buy one or two shares of companies they already know and use — Nike, Apple, Disney, or a simple [index fund](/blog/index-fund-investing-guide/) like VTI (Vanguard Total Stock Market ETF). Show them how to check their portfolio, explain what dividends are, and most importantly, let them experience both gains and losses over time.

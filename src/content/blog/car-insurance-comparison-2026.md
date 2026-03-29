@@ -138,7 +138,7 @@ This is non-negotiable. I've seen the same driver get quotes ranging from $1,200
 
 ### 2. Raise Your Deductible
 
-Bumping your deductible from $500 to $1,000 typically saves 15-25% on your premium. Just make sure you have enough in your emergency fund to cover it.
+Bumping your [deductible](/blog/insurance-terms-explained-simply-2026-guide/) from $500 to $1,000 typically saves 15-25% on your premium. Just make sure you have enough in your [emergency fund](/blog/emergency-fund-guide/) to cover it.
 
 ### 3. Bundle Auto + Home
 
@@ -193,7 +193,7 @@ Your state matters. A lot. Here's a quick look:
 - New York: $2,650
 - Nevada: $2,500
 
-If you've recently moved, definitely reshop your insurance. I've seen people save hundreds just by updating their address.
+If you've recently moved, [defi](/blog/defi-explained-in-simple-terms-for-beginners/)nitely reshop your insurance. I've seen people save hundreds just by updating their address.
 
 ## When to Switch Insurers
 

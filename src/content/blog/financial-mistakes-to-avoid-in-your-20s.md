@@ -1,5 +1,5 @@
 ---
-title: "10 Money Mistakes in Your 20s That Cost Thousands"
+title: "10 Money Mistakes in Your 20s That Cost Thousands [2026]"
 description: "These 10 financial mistakes cost 20-somethings $100K+ by age 35. Most don't realize until it's too late—check how many you're making right now."
 pubDate: 2026-03-09
 category: "personal-finance"
@@ -32,7 +32,7 @@ This is the most expensive mistake on the list, and it is the one I regret the m
 
 ### The Math That Should Scare You
 
-If you invest $200 per month starting at age 22 in a simple S&P 500 index fund averaging 10 percent returns:
+If you invest $200 per month starting at age 22 in a simple S&P 500 [index fund](/blog/index-fund-investing-guide/) averaging 10 percent returns:
 
 - By age 35: $61,000
 - By age 45: $190,000
@@ -60,7 +60,7 @@ Credit card companies love targeting young adults. You get pre-approved offers i
 ### What to Do Instead
 
 - Pay your full balance every month, no exceptions.
-- If you already have credit card debt, stop using the cards immediately and throw every extra dollar at the highest-rate card.
+- If you already have [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/), stop using the cards immediately and throw every extra dollar at the highest-rate card.
 - If you cannot trust yourself, use a debit card for daily spending and keep one credit card only for building credit with small recurring charges like a streaming subscription.
 - Never carry a balance to "build credit." That is a myth. You build credit by using the card and paying it off.
 
@@ -83,7 +83,7 @@ On a standard 10-year repayment plan at 5.5 percent interest, a $37,000 student 
 
 ## Mistake 4: No Emergency Fund
 
-Without an emergency fund, every surprise becomes a crisis that goes on a credit card. And credit card debt at 22 percent interest turns a $800 car repair into a $1,200 problem.
+Without an [emergency fund](/blog/emergency-fund-guide/), every surprise becomes a crisis that goes on a credit card. And credit card debt at 22 percent interest turns a $800 car repair into a $1,200 problem.
 
 ### The Cycle
 
@@ -91,7 +91,7 @@ No savings leads to credit card usage for emergencies, which leads to debt, whic
 
 ### What to Do Instead
 
-Save $1,000 as fast as you can. Sell stuff, cut spending, pick up extra hours. Then build to $2,000-$5,000, which covers most common emergencies in your 20s. Keep it in a high-yield savings account earning 4-5 percent APY, separate from your checking account.
+Save $1,000 as fast as you can. Sell stuff, cut spending, pick up extra hours. Then build to $2,000-$5,000, which covers most common emergencies in your 20s. Keep it in a [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account earning 4-5 percent APY, separate from your checking account.
 
 ## Mistake 5: Lifestyle Inflation
 
@@ -190,7 +190,7 @@ These are conservative estimates. The real cost, when you factor in compound gro
 
 You do not have to fix all ten things at once. Start with the biggest impact items:
 
-1. **Start investing today.** Even $50 per month. Open a Roth IRA and buy an index fund.
+1. **[Start investing](/blog/how-much-money-do-you-need-to-start-investing/) today.** Even $50 per month. Open a Roth IRA and buy an index fund.
 2. **Build a $1,000 emergency fund.** This stops the credit card debt cycle.
 3. **Pay your credit card in full every month.** If you already have debt, make a payoff plan.
 4. **Negotiate your next salary.** Whether at your current job or your next one.

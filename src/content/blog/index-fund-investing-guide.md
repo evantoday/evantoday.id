@@ -1,5 +1,5 @@
 ---
-title: "Index Fund Investing: Beat 80% of Fund Managers"
+title: "Index Fund Investing: Beat 80% of Managers [2026]"
 description: "Why pick stocks when index funds beat 80% of active managers over 15 years? Start investing from $1 with Fidelity or Vanguard—3-step beginner guide inside."
 pubDate: 2026-03-25
 updatedDate: 2026-03-25
@@ -111,7 +111,7 @@ These hold thousands of US government and corporate bonds, providing stability a
 The most popular index fund strategy among long-term investors is the "3-fund portfolio." It was popularized by Bogleheads (followers of Vanguard founder Jack Bogle) and requires just three funds:
 
 1. **US Total Stock Market Index Fund** — Your growth engine
-2. **International Stock Market Index Fund** — Global diversification
+2. **International Stock Market Index Fund** — Global [diversification](/blog/7-smart-ways-to-diversify-your-investment-portfolio/)
 3. **US Bond Market Index Fund** — Stability and income
 
 That's the entire portfolio. Three funds. Total annual cost: about $30-$50 per $100,000 invested.
@@ -141,14 +141,14 @@ The general rule: subtract your age from 110 to get your stock allocation percen
 
 The three best brokerages for index fund investing:
 
-**Fidelity:**
+**[Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/):**
 - $0 account minimum
 - $0 minimums on index mutual funds
 - Zero expense ratio funds available (FZROX, FZILX)
 - Excellent mobile app and research tools
 
 **Vanguard:**
-- $0 account minimum for ETFs
+- $0 account minimum for [ETFs](/blog/etf-investing-explained/)
 - $3,000 minimum for Admiral Shares mutual funds
 - Pioneer of index investing — Jack Bogle founded Vanguard
 - Unique ownership structure means profits benefit fund holders
@@ -166,7 +166,7 @@ The three best brokerages for index fund investing:
 - **401(k)** — If your employer offers one with index fund options, contribute at least enough to get the full employer match.
 - **Taxable brokerage** — No contribution limits, but you'll pay taxes on dividends and capital gains annually.
 
-**Priority order:** 401(k) match > Roth IRA > additional 401(k) > taxable brokerage.
+**Priority order:** 401(k) match > [Roth IRA](/blog/how-to-financially-prepare-for-retirement/) > additional 401(k) > taxable brokerage.
 
 ### Step 3: Automate and Forget
 
@@ -205,7 +205,7 @@ The S&P 500 has survived the Great Depression, World War II, the dot-com bust, t
 
 ### "Shouldn't I wait for a dip to invest?"
 
-Time in the market beats timing the market. Research from Vanguard shows that investing a lump sum immediately outperforms waiting for a dip about two-thirds of the time. And if you're dollar cost averaging monthly, you'll automatically buy more when prices are low.
+Time in the market beats timing the market. Research from Vanguard shows that investing a lump sum immediately outperforms waiting for a dip about two-thirds of the time. And if you're [dollar cost averaging](/blog/dollar-cost-averaging-strategy-explained/) monthly, you'll automatically buy more when prices are low.
 
 ## Index Fund Investing and US Taxes
 

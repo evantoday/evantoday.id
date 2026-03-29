@@ -1,5 +1,5 @@
 ---
-title: "How to Get Debt-Free: 3-Step Plan That Works"
+title: "How to Get Debt-Free: 3-Step Plan [2026]"
 description: "Average American carries $104K in debt. These 3 proven steps helped thousands eliminate credit cards, student loans, and medical debt within 2-3 years."
 pubDate: 2026-03-08
 category: "personal-finance"
@@ -39,7 +39,7 @@ Pull up statements for every account that carries a balance:
 - Auto loans
 - Medical bills
 - Personal loans
-- Buy-now-pay-later balances like Affirm or Klarna
+- Buy-now-pay-later balances like [Affirm](/blog/affirm-review-features-fees-and-safety/) or Klarna
 - Money owed to family or friends
 
 ### Create Your Debt Inventory
@@ -110,7 +110,7 @@ Set up autopay for every minimum payment so you never miss one. Then set up a se
 
 ### Freeze Your Credit Cards
 
-I do not mean cancel them because closing accounts can hurt your credit score. I mean literally freeze them. Put them in a ziplock bag of water in the freezer. Remove them from your Amazon account and Apple Pay. Make it inconvenient to add new debt.
+I do not mean cancel them because closing accounts can hurt your credit score. I mean literally freeze them. Put them in a ziplock bag of water in the freezer. Remove them from your Amazon account and [Apple Pay](/blog/how-to-use-apple-pay-and-google-pay/). Make it inconvenient to add new debt.
 
 ### Track Your Progress Weekly
 
@@ -155,7 +155,7 @@ Medical debt in the US often has zero interest and hospitals frequently offer pa
 
 ### Using Debt Consolidation Loans Without Fixing the Behavior
 
-Consolidation loans can be useful, but if you consolidate your credit card debt and then run the cards back up, you are in a worse position than before. Only consolidate if you have a strict plan to avoid new debt.
+Consolidation loans can be useful, but if you consolidate your [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) and then run the cards back up, you are in a worse position than before. Only consolidate if you have a strict plan to avoid new debt.
 
 ## Tools and Resources for Your Debt-Free Journey
 
@@ -181,7 +181,7 @@ It depends on your total debt, interest rates, and how much extra you can pay. M
 
 ### Should I save money while paying off debt?
 
-Yes, but start small. Keep a starter emergency fund of $1,000-$2,000 so unexpected expenses do not derail your progress. Once your debt is paid off, shift your focus to building a full 3-6 month emergency fund. Trying to save aggressively and pay off high-interest debt at the same time usually slows both goals.
+Yes, but start small. Keep a starter [emergency fund](/blog/emergency-fund-guide/) of $1,000-$2,000 so unexpected expenses do not derail your progress. Once your debt is paid off, shift your focus to building a full 3-6 month emergency fund. Trying to save aggressively and pay off high-interest debt at the same time usually slows both goals.
 
 ### Will paying off debt hurt my credit score?
 

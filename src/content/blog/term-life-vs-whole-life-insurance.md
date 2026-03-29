@@ -16,7 +16,7 @@ I've spent years researching both products, talking to insurance agents, financi
 
 ## Term Life Insurance: The Basics
 
-Term life insurance is pure death benefit protection for a set period. You pay premiums, and if you die during the term, your beneficiaries receive the payout. If you outlive the term, the policy expires with no value.
+Term [life insurance](/blog/do-you-need-life-insurance/) is pure death benefit protection for a set period. You pay premiums, and if you die during the term, your beneficiaries receive the payout. If you outlive the term, the policy expires with no value.
 
 ### How It Works
 
@@ -90,7 +90,7 @@ This is the strategy most financial advisors I respect recommend, and I agree wi
 
 **Instead of:** Paying $420/month for a $500,000 whole life policy
 
-**Do this:** Pay $26/month for a $500,000 term life policy and invest the $394/month difference in a low-cost index fund
+**Do this:** Pay $26/month for a $500,000 term life policy and invest the $394/month difference in a low-cost [index fund](/blog/index-fund-investing-guide/)
 
 ### The Math Over 30 Years
 
@@ -122,7 +122,7 @@ If money is tight, term life lets you get adequate coverage without breaking the
 
 ### People Who Will Actually Invest the Difference
 
-The "buy term and invest the difference" strategy only works if you actually invest the difference. If you know you'll invest consistently in a 401(k), IRA, or brokerage account, term life is almost certainly the better financial decision.
+The "buy term and invest the difference" strategy only works if you actually invest the difference. If you know you'll invest consistently in a [401(k)](/blog/how-to-financially-prepare-for-retirement/), IRA, or brokerage account, term life is almost certainly the better financial decision.
 
 ### Anyone Who Needs Coverage for a Specific Period
 
@@ -160,7 +160,7 @@ Technically, whole life has an investment component. But the returns are poor co
 
 ### "Term life is throwing money away"
 
-You don't say your car insurance premiums were "thrown away" because you didn't have an accident. Insurance is about risk transfer, not return on investment. Term life did its job if it protected your family during your highest-risk years.
+You don't say your [car insurance](/blog/car-insurance-comparison-2026/) premiums were "thrown away" because you didn't have an accident. Insurance is about risk transfer, not return on investment. Term life did its job if it protected your family during your highest-risk years.
 
 ### "You'll be uninsurable when your term ends"
 

@@ -1,5 +1,5 @@
 ---
-title: "7 Smart Steps to Create a Crypto Investment Strategy"
+title: "7 Steps to Build a Crypto Strategy [2026]"
 description: "Stop buying crypto randomly. Build a strategy that fits your budget, risk, and goals in 30 minutes — step #4 changed how I invest."
 pubDate: 2026-03-28
 updatedDate: 2026-03-28
@@ -15,7 +15,7 @@ I used to think crypto investing was just about picking the “next coin” befo
 - A good crypto investment strategy starts with your goal, time horizon, and risk tolerance — not with the coin you want to buy.
 - For most Indonesians, a simple structure like 70/20/10 or 60/30/10 is easier to stick to than chasing altcoins.
 - DCA, position sizing, and a clear exit plan matter more than trying to time the market.
-- You should only use money you can afford to lock up for years, especially if your tabungan and emergency fund aren’t solid yet.
+- You should only use money you can afford to lock up for years, especially if your tabungan and [emergency fund](/blog/emergency-fund-guide/) aren’t solid yet.
 - Security matters as much as returns. If you can’t protect your account, your strategy is weak from the start.
 
 ## What Is a Crypto Investment Strategy?
@@ -34,7 +34,7 @@ A real strategy answers five basic questions:
 
 That’s it. If you can answer those five questions honestly, you’re already ahead of most retail investors.
 
-I also think crypto should sit inside a broader financial plan. If your cash flow is messy, start with [how to stop living paycheck to paycheck Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/) first. If you’re just beginning to invest, I’d even argue index funds should come before crypto for many people, because they’re easier to understand and less brutal on your emotions. You can compare that mindset with my [index fund investing in Indonesia guide](/blog/index-fund-investing-in-indonesia-guide/).
+I also think crypto should sit inside a broader financial plan. If your cash flow is messy, start with [how to stop living paycheck to paycheck Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/) first. If you’re just beginning to invest, I’d even argue [index funds](/blog/index-fund-investing-guide/) should come before crypto for many people, because they’re easier to understand and less brutal on your emotions. You can compare that mindset with my [index fund investing in Indonesia guide](/blog/index-fund-investing-in-indonesia-guide/).
 
 ### Why strategy matters more in crypto than in stocks
 
@@ -79,7 +79,7 @@ I personally think most new investors in Indonesia should start with the “very
 
 ## How Do You Build a Crypto Investment Strategy Step by Step?
 
-The best way to create a crypto investment strategy is to define your goal, choose your allocation, automate your buying, and set exit rules before you buy anything. That keeps emotion out of the process.
+The best way to create a crypto investment strategy is to [defi](/blog/defi-explained-in-simple-terms-for-beginners/)ne your goal, choose your allocation, automate your buying, and set exit rules before you buy anything. That keeps emotion out of the process.
 
 Here’s the exact framework I’d use if I were starting from zero today.
 
@@ -123,7 +123,7 @@ If you’re still learning the basics of wallet safety and custody, I’d read [
 
 ### 4) Pick your buying method
 
-I strongly prefer DCA — dollar-cost averaging — for most people. In plain English, that means buying a fixed amount regularly, like Rp 100.000 every week or Rp 500.000 every month.
+I strongly prefer DCA — [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) — for most people. In plain English, that means buying a fixed amount regularly, like Rp 100.000 every week or Rp 500.000 every month.
 
 Why I like DCA:
 - It reduces the pressure of timing the market
@@ -245,7 +245,7 @@ When you review, ask:
 
 Use this checklist every 6 months:
 
-1. Check total crypto allocation as a percentage of net worth.
+1. Check total crypto allocation as a percentage of [net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/).
 2. Compare current allocation with your target.
 3. Rebalance if any asset is too large.
 4. Remove coins you no longer understand.

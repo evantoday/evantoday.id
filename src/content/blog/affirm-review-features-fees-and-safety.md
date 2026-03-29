@@ -163,7 +163,7 @@ Based on my experience, here are the situations where Affirm makes sense:
 
 1. **Always choose the shortest term with the lowest APR** — Pay in 4 at 0% should be your default
 2. **Set up autopay immediately** — Don't rely on remembering payment dates
-3. **Never use Affirm for impulse purchases** — Sleep on it for 24 hours first
+3. **Never use Affirm for [impulse buying](/blog/10-effective-tips-to-avoid-impulse-buying/)** — Sleep on it for 24 hours first
 4. **Track all your BNPL commitments** — Add payment dates to your calendar or budget app
 5. **Calculate the total cost** — Compare what you'll pay with Affirm vs. buying outright or using a credit card
 
