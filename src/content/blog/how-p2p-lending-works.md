@@ -1,6 +1,6 @@
 ---
 title: "P2P Lending: Imbal Hasil 5-10% di 2026"
-description: "Platform P2P bisa kasih imbal hasil 5-10%, tapi gagal bayar nyata. Ini cara kerjanya dan cara mengurangi risikonya."
+description: "Platform P2P bisa memberi imbal hasil 5-10%, tapi gagal bayar itu nyata. Ini cara kerjanya dan cara mengurangi risikonya."
 pubDate: 2026-03-15
 category: "investing"
 tags: ["P2P lending", "Prosper", "LendingClub", "peer to peer", "alternative investments"]
