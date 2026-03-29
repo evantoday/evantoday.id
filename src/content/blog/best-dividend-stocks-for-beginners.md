@@ -1,6 +1,6 @@
 ---
-title: "7 Best Dividend Stocks for Beginners [2026]"
-description: "Earn 3-6% passive income from blue-chip dividend stocks. 7 beginner picks with 10+ years of dividend growth."
+title: "7 Saham Dividen Terbaik untuk Pemula [2026]"
+description: "Raih penghasilan pasif 3-6% dari saham dividen blue-chip. 7 pilihan pemula dengan pertumbuhan dividen 10+ tahun."
 pubDate: 2026-03-14
 category: "investing"
 tags: ["dividend stocks", "passive income", "S&P 500", "dividend investing", "beginner investing"]
@@ -10,247 +10,248 @@ heroImageAlt: '7 Best Dividend Stocks for Beginners [2026]'
 
 ---
 
-The first dividend payment I ever received was $3.42. I know that sounds laughable, but I still remember the feeling of seeing money appear in my brokerage account that I didn't have to work for. It was passive income in its purest form — a company paying me just for owning a tiny piece of it.
+The first dividend payment I ever received was Rp 51 ribu. I know that sounds laughable, but I still remember the feeling of seeing money appear in my brokerage account that I didn't have to work for. It was passive income in its purest form — a company paying me just for owning a tiny piece of it.
 
 Fast forward three years, and those quarterly dividend payments have grown into a meaningful income stream. Not "quit your job" money yet, but enough to cover my monthly streaming subscriptions with room to spare. And every quarter, the snowball gets a little bigger.
 
-If you're a beginner looking to start building passive income through dividend stocks, these are the 7 companies I'd point you to first — all blue-chip, S&P 500 stocks with long track records of paying and growing their dividends.
+If you're a beginner looking to start building passive income through dividend stocks, these are the 7 companies I'd point you to first — all blue-chip, saham S&P 500 dengan rekam jejak panjang dalam membayar dan menaikkan dividen.
 
 ## Key Takeaways
 
-- Dividend stocks pay you cash regularly just for owning shares
-- Focus on **Dividend Aristocrats** — companies that have raised dividends 25+ consecutive years
-- Reinvesting dividends through DRIP accelerates compounding dramatically
-- A realistic starting yield is 2-5% — anything above 7% deserves skepticism
-- You can start with as little as $1 through fractional shares on most US brokerages
+- Saham dividen membayar kamu uang tunai secara rutin hanya karena kamu punya sahamnya
+- Fokus ke **Dividend Aristocrats** — perusahaan yang sudah menaikkan dividen 25+ tahun berturut-turut
+- Reinvestasi dividen lewat DRIP mempercepat efek compounding secara signifikan
+- Yield awal yang realistis ada di kisaran 2-5% — kalau di atas 7%, patut dicurigai
+- Kamu bisa mulai dari hanya Rp 15 ribu lewat fractional shares di banyak broker
 
 ## What Are Dividend Stocks?
 
-Dividend stocks are shares in companies that return a portion of their profits to shareholders as cash payments, usually quarterly. When you own dividend stocks, you get paid just for holding them — regardless of whether the stock price goes up or down.
+Saham dividen adalah saham perusahaan yang mengembalikan sebagian keuntungan mereka ke pemegang saham dalam bentuk pembayaran tunai, biasanya setiap kuartal. Saat kamu punya saham dividen, kamu tetap dibayar hanya karena memegangnya — terlepas dari harga sahamnya naik atau turun.
 
-Here's how it works in practice:
+Begini cara kerjanya dalam praktik:
 
-- You buy 100 shares of a company trading at $50/share ($5,000 total)
-- The company pays a $2.00 annual dividend per share
-- You receive $200 per year ($50 per quarter) in passive income
-- That's a **4% dividend yield** ($200 / $5,000)
+- Kamu beli 100 lembar saham perusahaan yang harganya Rp 750 ribu per saham (total Rp 75 juta)
+- Perusahaan membayar dividen tahunan Rp 30 ribu per saham
+- Kamu menerima Rp 3 juta per tahun (Rp 750 ribu per kuartal) sebagai penghasilan pasif
+- Itu berarti **dividend yield 4%** (Rp 3 juta / Rp 75 juta)
 
-The real magic happens when you reinvest those dividends to buy more shares, which then generate their own dividends. This compounding effect is how small investments grow into substantial income streams over time.
+Keajaiban sebenarnya terjadi saat kamu menginvestasikan ulang dividen itu untuk membeli lebih banyak saham, yang kemudian menghasilkan dividen lagi. Efek compounding inilah yang membuat investasi kecil bisa tumbuh menjadi aliran pendapatan yang besar seiring waktu.
 
 ## How I Selected These 7 Stocks
 
-I used five criteria to build this beginner-friendly list:
+Saya memakai lima kriteria untuk menyusun daftar yang ramah pemula ini:
 
-1. **Dividend consistency** — Must have paid dividends for at least 10 consecutive years
-2. **Dividend growth** — Must have raised the dividend in most of those years
-3. **Reasonable payout ratio** — The company shouldn't be paying out more than 75% of earnings as dividends
-4. **Financial stability** — Strong balance sheet, manageable debt, consistent revenue
-5. **Accessibility** — All available on major US brokerages with fractional share options
+1. **Konsistensi dividen** — Harus sudah membayar dividen setidaknya 10 tahun berturut-turut
+2. **Pertumbuhan dividen** — Harus menaikkan dividen di sebagian besar tahun tersebut
+3. **Payout ratio yang wajar** — Perusahaan tidak boleh membagikan lebih dari 75% laba sebagai dividen
+4. **Stabilitas keuangan** — Neraca kuat, utang terkendali, pendapatan konsisten
+5. **Aksesibilitas** — Semua tersedia di broker besar dengan opsi fractional shares
 
-I'm not including speculative high-yield stocks. Every pick on this list is a boring, reliable company that has weathered recessions, pandemics, and market crashes while continuing to pay shareholders.
+Saya tidak memasukkan saham spekulatif dengan yield tinggi. Semua pilihan di daftar ini adalah perusahaan yang membosankan tapi andal, yang sudah melewati resesi, pandemi, dan kejatuhan pasar sambil tetap membayar pemegang saham.
 
 ## The 7 Best Dividend Stocks for Beginners
 
 ### 1. Johnson & Johnson (JNJ)
 
-**Dividend Yield:** ~3.1%
+**Dividend Yield:** ~3,1%
 **Consecutive Years of Dividend Increases:** 62+
 **Sector:** Healthcare
 
-Johnson & Johnson is the ultimate "sleep well at night" dividend stock. This healthcare giant has increased its dividend for over six decades — through every recession, market crash, and global crisis since the 1960s.
+Johnson & Johnson adalah saham dividen tipe “tidur nyenyak di malam hari.” Raksasa kesehatan ini sudah menaikkan dividennya selama lebih dari enam dekade — melewati setiap resesi, crash pasar, dan krisis global sejak 1960-an.
 
 **Why it's great for beginners:**
 
-- Diversified revenue across pharmaceuticals, medical devices, and consumer health
-- Essential products that people buy regardless of economic conditions
-- AAA credit rating — one of only two US companies with this distinction
-- Consistent earnings growth supports continued dividend increases
+- Pendapatan terdiversifikasi di farmasi, alat kesehatan, dan produk konsumen kesehatan
+- Produk esensial yang tetap dibeli orang apa pun kondisi ekonominya
+- Peringkat kredit AAA — salah satu dari hanya dua perusahaan AS dengan status ini
+- Pertumbuhan laba yang konsisten mendukung kenaikan dividen berkelanjutan
 
-**What to watch:** JNJ completed its consumer health spinoff (Kenvue) in 2023 and is now a focused pharma/medtech company. This actually strengthens the dividend story by concentrating on higher-margin businesses.
+**What to watch:** JNJ menyelesaikan pemisahan bisnis consumer health-nya (Kenvue) pada 2023 dan kini lebih fokus ke farmasi/medtech. Ini justru memperkuat cerita dividennya karena perusahaan lebih terkonsentrasi pada bisnis dengan margin lebih tinggi.
 
 ### 2. Procter & Gamble (PG)
 
-**Dividend Yield:** ~2.4%
+**Dividend Yield:** ~2,4%
 **Consecutive Years of Dividend Increases:** 68+
 **Sector:** Consumer Staples
 
-You use P&G products every day — Tide, Gillette, Pampers, Charmin, Crest, Bounty. That's what makes this stock so resilient. People don't stop buying toilet paper and toothpaste during recessions.
+Kamu pakai produk P&G setiap hari — Tide, Gillette, Pampers, Charmin, Crest, Bounty. Itulah yang membuat saham ini begitu tangguh. Orang tidak berhenti beli tisu toilet dan pasta gigi saat resesi.
 
 **Why it's great for beginners:**
 
-- 68+ consecutive years of dividend increases (Dividend King status)
-- Portfolio of brands with incredible pricing power
-- Consistent revenue even during economic downturns
-- Strong global presence across 180+ countries
+- 68+ tahun berturut-turut menaikkan dividen (status Dividend King)
+- Portofolio merek dengan pricing power yang luar biasa
+- Pendapatan konsisten bahkan saat ekonomi melambat
+- Kehadiran global yang kuat di 180+ negara
 
-**What to watch:** Growth is slower than tech stocks, and the yield is below 3%. But for stability and reliability, few companies match P&G.
+**What to watch:** Pertumbuhannya lebih lambat daripada saham teknologi, dan yield-nya di bawah 3%. Tapi untuk stabilitas dan keandalan, sedikit perusahaan yang bisa menandingi P&G.
 
 ### 3. Coca-Cola (KO)
 
-**Dividend Yield:** ~3.0%
+**Dividend Yield:** ~3,0%
 **Consecutive Years of Dividend Increases:** 62+
 **Sector:** Consumer Staples
 
-Warren Buffett has held Coca-Cola since 1988, and his cost basis is so low that his annual dividend yield on his original investment exceeds 50%. That's the power of buying quality dividend stocks and holding them for decades.
+Warren Buffett sudah memegang Coca-Cola sejak 1988, dan harga belinya sangat murah sehingga dividend yield tahunan atas modal awalnya melebihi 50%. Itulah kekuatan membeli saham dividen berkualitas dan menahannya selama puluhan tahun.
 
 **Why it's great for beginners:**
 
-- One of the most recognized brands on Earth
-- 62+ consecutive years of dividend increases
-- Enormous distribution network that competitors can't easily replicate
-- Expanding beyond soda into water, coffee, energy drinks, and sports drinks
+- Salah satu merek paling dikenal di dunia
+- 62+ tahun berturut-turut menaikkan dividen
+- Jaringan distribusi raksasa yang sulit ditiru pesaing
+- Ekspansi ke luar soda: air mineral, kopi, minuman energi, dan minuman olahraga
 
-**What to watch:** Health-conscious trends could pressure soda sales long-term, but KO's [diversification](/blog/7-smart-ways-to-diversify-your-investment-portfolio/) into other beverages and markets mitigates this risk.
+**What to watch:** Tren hidup sehat bisa menekan penjualan soda dalam jangka panjang, tapi [diversifikasi](/blog/7-smart-ways-to-diversify-your-investment-portfolio/) KO ke minuman dan pasar lain membantu mengurangi risiko ini.
 
 ### 4. Realty Income (O)
 
-**Dividend Yield:** ~5.3%
+**Dividend Yield:** ~5,3%
 **Consecutive Years of Dividend Increases:** 29+
 **Sector:** Real Estate (REIT)
 
-Realty Income is unique on this list because it pays dividends **monthly**, not quarterly. The company literally calls itself "The Monthly Dividend Company." If you want regular income hitting your account, this is your stock.
+Realty Income unik di daftar ini karena membayar dividen **bulanan**, bukan kuartalan. Perusahaan ini bahkan menyebut dirinya “The Monthly Dividend Company.” Kalau kamu ingin arus kas rutin masuk ke rekening, ini saham yang menarik.
 
 **Why it's great for beginners:**
 
-- Monthly dividend payments for consistent cash flow
-- Over 15,400 commercial properties across the US and Europe
-- Triple-net lease model means tenants pay most property expenses
-- Diversified across retail, industrial, and gaming properties
-- 29+ consecutive years of dividend increases
+- Pembayaran dividen bulanan untuk arus kas yang konsisten
+- Lebih dari 15.400 properti komersial di AS dan Eropa
+- Model triple-net lease berarti penyewa menanggung sebagian besar biaya properti
+- Terdiversifikasi di ritel, industri, dan properti gaming
+- 29+ tahun berturut-turut menaikkan dividen
 
-**What to watch:** As a REIT, Realty Income is sensitive to interest rate changes. When rates rise, REIT prices often fall. However, the monthly income and long-term growth story remain compelling for patient investors.
+**What to watch:** Sebagai REIT, Realty Income sensitif terhadap perubahan suku bunga. Saat suku bunga naik, harga REIT sering turun. Namun, pendapatan bulanan dan cerita pertumbuhan jangka panjangnya tetap menarik bagi investor yang sabar.
 
 ### 5. Microsoft (MSFT)
 
-**Dividend Yield:** ~0.8%
+**Dividend Yield:** ~0,8%
 **Consecutive Years of Dividend Increases:** 21+
 **Sector:** Technology
 
-Microsoft's yield looks small compared to others on this list, but here's why it belongs: dividend growth. MSFT has been increasing its dividend by 10-15% annually, and the stock price appreciation adds substantial total returns.
+Yield Microsoft terlihat kecil dibanding yang lain di daftar ini, tapi inilah alasannya layak masuk: pertumbuhan dividen. MSFT sudah menaikkan dividennya sekitar 10-15% per tahun, dan kenaikan harga sahamnya menambah total return yang besar.
 
 **Why it's great for beginners:**
 
-- Dominant position in cloud computing (Azure), enterprise software, and AI
-- 21+ consecutive years of dividend increases with aggressive growth rates
-- Massive cash reserves ($75B+) ensure dividend safety
-- AI integration across products creates new revenue streams
-- Total return (dividends + price appreciation) has been exceptional
+- Posisi dominan di cloud computing (Azure), software enterprise, dan AI
+- 21+ tahun berturut-turut menaikkan dividen dengan laju agresif
+- Cadangan kas sangat besar (Rp 1.100 triliun+) memastikan keamanan dividen
+- Integrasi AI di berbagai produk menciptakan sumber pendapatan baru
+- Total return (dividen + kenaikan harga) sangat luar biasa
 
-**What to watch:** The yield is low today, but if you buy now and hold for 10-15 years, your yield on cost could be 3-5% based on dividend growth rates. Think long-term.
+**What to watch:** Yield-nya memang kecil sekarang, tapi kalau kamu beli lalu tahan 10-15 tahun, yield on cost kamu bisa jadi 3-5% berkat pertumbuhan dividen. Pikirkan jangka panjang.
 
 ### 6. Verizon Communications (VZ)
 
-**Dividend Yield:** ~6.5%
+**Dividend Yield:** ~6,5%
 **Consecutive Years of Dividend Increases:** 19+
 **Sector:** Telecommunications
 
-Verizon offers one of the highest yields on this list. Telecom stocks aren't glamorous, but people pay their phone bills even when times are tough. That reliability translates into consistent dividend payments.
+Verizon menawarkan salah satu yield tertinggi di daftar ini. Saham telekomunikasi memang tidak glamor, tapi orang tetap bayar tagihan ponsel bahkan saat kondisi sulit. Keandalan itu diterjemahkan menjadi pembayaran dividen yang konsisten.
 
 **Why it's great for beginners:**
 
-- High current yield for immediate income
-- Essential service with sticky customer base
-- 5G network buildout creates future growth opportunities
-- Consistent cash flow from 143+ million wireless subscribers
-- Trading at historically low valuations
+- Yield tinggi untuk pendapatan langsung
+- Layanan esensial dengan basis pelanggan yang lengket
+- Pembangunan jaringan 5G membuka peluang pertumbuhan di masa depan
+- Arus kas konsisten dari 143+ juta pelanggan nirkabel
+- Diperdagangkan pada valuasi yang secara historis rendah
 
-**What to watch:** Verizon carries significant debt from 5G infrastructure investment. Growth is slow, and competition from T-Mobile is real. Buy this for income, not price appreciation.
+**What to watch:** Verizon membawa utang yang cukup besar dari investasi infrastruktur 5G. Pertumbuhannya lambat, dan persaingan dari T-Mobile nyata. Beli ini untuk pendapatan, bukan untuk kenaikan harga.
 
 ### 7. PepsiCo (PEP)
 
-**Dividend Yield:** ~3.4%
+**Dividend Yield:** ~3,4%
 **Consecutive Years of Dividend Increases:** 52+
 **Sector:** Consumer Staples
 
-PepsiCo is more diversified than most people realize. Yes, they make Pepsi, but they also own Frito-Lay (the dominant US snack company), Quaker Oats, Gatorade, and dozens of other food and beverage brands.
+PepsiCo jauh lebih terdiversifikasi daripada yang banyak orang kira. Ya, mereka membuat Pepsi, tapi mereka juga memiliki Frito-Lay (perusahaan snack dominan di AS), Quaker Oats, Gatorade, dan puluhan merek makanan serta minuman lainnya.
 
 **Why it's great for beginners:**
 
-- 52+ consecutive years of dividend increases (Dividend King)
-- More diversified than Coca-Cola with food + beverage portfolio
-- Frito-Lay generates enormous profit margins
-- Strong international growth opportunities
-- Consistent share buyback program boosts per-share returns
+- 52+ tahun berturut-turut menaikkan dividen (Dividend King)
+- Lebih terdiversifikasi daripada Coca-Cola dengan portofolio makanan + minuman
+- Frito-Lay menghasilkan margin laba yang sangat besar
+- Peluang pertumbuhan internasional yang kuat
+- Program buyback saham yang konsisten meningkatkan return per saham
 
-**What to watch:** Like KO, PepsiCo faces headwinds from health-conscious consumer trends. But the snack division provides a profit engine that pure beverage companies don't have.
+**What to watch:** Seperti KO, PepsiCo menghadapi tekanan dari tren konsumen yang lebih peduli kesehatan. Tapi divisi snack memberi mesin laba yang tidak dimiliki perusahaan minuman murni.
 
 ## Quick Comparison Table
 
 | Stock | Yield | Div Growth Streak | Sector | Min Investment |
 |-------|-------|-------------------|--------|----------------|
-| **JNJ** | 3.1% | 62+ years | Healthcare | $1 (fractional) |
-| **PG** | 2.4% | 68+ years | Consumer Staples | $1 (fractional) |
-| **KO** | 3.0% | 62+ years | Consumer Staples | $1 (fractional) |
-| **O** | 5.3% | 29+ years | Real Estate | $1 (fractional) |
-| **MSFT** | 0.8% | 21+ years | Technology | $1 (fractional) |
-| **VZ** | 6.5% | 19+ years | Telecom | $1 (fractional) |
-| **PEP** | 3.4% | 52+ years | Consumer Staples | $1 (fractional) |
+| **JNJ** | 3,1% | 62+ years | Healthcare | Rp 15 ribu (fractional) |
+| **PG** | 2,4% | 68+ years | Consumer Staples | Rp 15 ribu (fractional) |
+| **KO** | 3,0% | 62+ years | Consumer Staples | Rp 15 ribu (fractional) |
+| **O** | 5,3% | 29+ years | Real Estate | Rp 15 ribu (fractional) |
+| **MSFT** | 0,8% | 21+ years | Technology | Rp 15 ribu (fractional) |
+| **VZ** | 6,5% | 19+ years | Telecom | Rp 15 ribu (fractional) |
+| **PEP** | 3,4% | 52+ years | Consumer Staples | Rp 15 ribu (fractional) |
 
 ## How to Start Investing in Dividend Stocks
 
 ### Step 1: Open a Brokerage Account
 
-You need a brokerage account to buy stocks. For beginners, I recommend:
+Kamu perlu rekening sekuritas untuk membeli saham. Untuk pemula, saya rekomendasikan:
 
-- **Fidelity** — No minimums, fractional shares, excellent research tools, no commissions
-- **Charles Schwab** — Same benefits as Fidelity with strong customer service
-- **Vanguard** — Great for long-term investors, strong reputation
+- **BCA** — Tanpa minimum besar, bisa fractional shares, alat riset bagus, tanpa komisi
+- **Mandiri** — Keunggulan mirip BCA dengan layanan pelanggan yang kuat
+- **Jago** — Cocok untuk investor jangka panjang, reputasi bagus
+- **Seabank** — Mudah dipakai dan praktis untuk mulai investasi
 
-All three offer commission-free stock trading and fractional shares (meaning you can buy $10 worth of a $150 stock).
+Semua ini menawarkan trading saham tanpa komisi dan fractional shares (artinya kamu bisa beli Rp 150 ribu dari saham seharga Rp 2,25 juta).
 
 ### Step 2: Decide Between Taxable and Tax-Advantaged Accounts
 
-- **Roth IRA** — Dividends grow tax-free and withdrawals in retirement are tax-free. Best for young investors.
-- **Traditional IRA** — Tax deduction now, pay taxes on withdrawals later.
-- **Taxable brokerage** — No tax advantages but no withdrawal restrictions. Qualified dividends are taxed at 0-20% depending on your income bracket.
+- **DPLK/dana pensiun** — Dividen tumbuh bebas pajak dan penarikan saat pensiun juga bisa lebih efisien pajak. Cocok untuk investor muda.
+- **Rekening investasi biasa** — Tidak ada keuntungan pajak khusus, tapi juga tidak ada batasan penarikan.
+- **Rekening investasi kena pajak** — Tidak ada keuntungan pajak, tapi dividen yang memenuhi syarat biasanya dikenakan pajak sesuai ketentuan yang berlaku.
 
-For most beginners, I recommend starting with a [Roth IRA](/blog/how-to-financially-prepare-for-retirement/). Your dividends compound completely tax-free.
+Untuk kebanyakan pemula, saya sarankan mulai dari [reksadana/investasi](/blog/how-to-financially-prepare-for-retirement/) yang berfokus pada tujuan pensiun. Dividen kamu bisa bertumbuh dengan efisien.
 
 ### Step 3: Enable DRIP (Dividend Reinvestment Plan)
 
-Turn on automatic dividend reinvestment in your brokerage settings. This means every dividend payment automatically buys more shares, which then generate more dividends. It's the single most important thing you can do to accelerate your dividend growth.
+Aktifkan reinvestasi dividen otomatis di pengaturan broker kamu. Artinya, setiap pembayaran dividen langsung dipakai untuk membeli lebih banyak saham, yang kemudian menghasilkan dividen lagi. Ini adalah satu langkah paling penting untuk mempercepat pertumbuhan dividen kamu.
 
 ### Step 4: Invest Consistently
 
-Don't try to time the market. Set up automatic monthly investments and buy your chosen dividend stocks regularly. [Dollar cost averaging](/blog/dollar-cost-averaging-strategy-explained/) into quality dividend stocks is one of the most reliable wealth-building strategies available.
+Jangan coba-coba menebak timing pasar. Atur investasi bulanan otomatis dan beli saham dividen pilihanmu secara rutin. [Dollar cost averaging](/blog/dollar-cost-averaging-strategy-explained/) ke saham dividen berkualitas adalah salah satu strategi membangun kekayaan yang paling andal.
 
 ## Common Mistakes Beginners Make
 
-- **Chasing high yields** — A 12% yield usually means the company is in trouble and may cut the dividend. Stick with 2-6% yields from established companies.
-- **Not diversifying** — Don't put everything into one stock. Spread across sectors.
-- **Selling during downturns** — Stock prices drop, but dividends usually don't. Down markets are actually great for dividend investors because reinvested dividends buy more shares.
-- **Ignoring tax implications** — Dividends in taxable accounts are taxable income. Consider holding dividend stocks in tax-advantaged accounts.
-- **Forgetting to check payout ratios** — If a company pays out 95% of earnings as dividends, there's no room for growth or safety margin.
+- **Mengejar yield tinggi** — Yield 12% biasanya berarti perusahaan sedang bermasalah dan dividennya bisa dipotong. Tetap di kisaran 2-6% dari perusahaan mapan.
+- **Tidak diversifikasi** — Jangan taruh semuanya di satu saham. Sebar ke beberapa sektor.
+- **Menjual saat pasar turun** — Harga saham turun, tapi dividen biasanya tidak. Pasar turun justru bagus untuk investor dividen karena dividen yang diinvestasikan ulang bisa membeli lebih banyak saham.
+- **Mengabaikan implikasi pajak** — Dividen di rekening kena pajak tetap merupakan penghasilan kena pajak. Pertimbangkan menyimpan saham dividen di rekening yang lebih efisien pajak.
+- **Lupa cek payout ratio** — Kalau perusahaan membayar 95% laba sebagai dividen, tidak ada ruang untuk pertumbuhan atau margin keamanan.
 
 ## US Tax Treatment of Dividends
 
-Understanding dividend taxation helps you keep more of your income:
+Memahami pajak dividen membantu kamu menyimpan lebih banyak pendapatan:
 
-- **Qualified dividends** (most US stock dividends held 60+ days): Taxed at 0%, 15%, or 20% depending on your income bracket
-- **Ordinary dividends**: Taxed at your regular income tax rate
-- **Dividends in a Roth IRA**: Completely tax-free
-- **Dividends in a Traditional IRA**: Tax-deferred until withdrawal
+- **Qualified dividends** (sebagian besar dividen saham AS yang dipegang 60+ hari): Dikenakan pajak 0%, 15%, atau 20% tergantung bracket pendapatan
+- **Ordinary dividends**: Dikenakan pajak sesuai tarif pajak penghasilan biasa
+- **Dividen di DPLK/dana pensiun**: Bebas pajak atau ditangguhkan pajaknya, tergantung jenis akun
+- **Dividen di rekening biasa**: Pajak dikenakan saat dividen diterima
 
-For most Americans in the 22-24% tax bracket, qualified dividends are taxed at just 15% — a significant advantage over ordinary income.
+Untuk sebagian besar orang dengan bracket pajak menengah, dividen yang memenuhi syarat biasanya dikenakan pajak lebih ringan dibanding penghasilan biasa.
 
 ## Frequently Asked Questions
 
 ### How much money do I need to start investing in dividend stocks?
 
-You can start with as little as $1 thanks to fractional shares offered by [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/), Schwab, and other major US brokerages. There are no minimums for most brokerage accounts. That said, to generate meaningful income, you'll need to build your positions over time. A $10,000 portfolio yielding 3.5% generates about $350/year in passive income.
+Kamu bisa mulai dari hanya Rp 15 ribu berkat fractional shares yang ditawarkan oleh [BCA](/blog/fidelity-review-for-stock-and-fund-investing/), Schwab, dan broker besar lainnya. Hampir tidak ada minimum untuk sebagian besar rekening investasi. Meski begitu, untuk menghasilkan pendapatan yang terasa, kamu perlu membangun posisi secara bertahap. Portofolio Rp 150 juta dengan yield 3,5% menghasilkan sekitar Rp 5,25 juta per tahun sebagai penghasilan pasif.
 
 ### Are dividend stocks better than growth stocks?
 
-Neither is inherently better — they serve different purposes. Dividend stocks provide current income and tend to be less volatile. Growth stocks (like high-growth tech companies) reinvest all profits into expansion and offer higher potential price appreciation. Most balanced portfolios include both. For beginners who want to see tangible returns while learning, dividend stocks are an excellent starting point.
+Tidak ada yang secara mutlak lebih baik — keduanya punya fungsi berbeda. Saham dividen memberi pendapatan saat ini dan cenderung lebih stabil. Saham growth (seperti perusahaan teknologi dengan pertumbuhan tinggi) menginvestasikan semua laba untuk ekspansi dan menawarkan potensi kenaikan harga yang lebih besar. Sebagian besar portofolio seimbang berisi keduanya. Untuk pemula yang ingin melihat hasil nyata sambil belajar, saham dividen adalah titik awal yang sangat bagus.
 
 ### Can a company cut or eliminate its dividend?
 
-Yes, companies can reduce or eliminate dividends at any time. This is why I focus on Dividend Aristocrats and Kings — companies with 25+ or 50+ years of consecutive increases. While past performance doesn't guarantee future results, a 60-year track record of dividend increases is about as close to a guarantee as you'll find in investing.
+Ya, perusahaan bisa menurunkan atau menghapus dividen kapan saja. Karena itu saya fokus ke Dividend Aristocrats dan Kings — perusahaan dengan 25+ atau 50+ tahun kenaikan berturut-turut. Walaupun kinerja masa lalu tidak menjamin hasil masa depan, rekam jejak 60 tahun kenaikan dividen adalah salah satu sinyal paling kuat yang bisa kamu temukan di dunia investasi.
 
 ### Should I buy individual dividend stocks or a dividend ETF?
 
-For beginners, a dividend ETF like Vanguard's VYM (Vanguard High Dividend Yield ETF) or SCHD (Schwab US Dividend Equity ETF) provides instant diversification across dozens of dividend-paying stocks. As you learn more and develop preferences, you can add individual stocks. Many investors do both — an ETF as a core holding with individual stocks as supplemental positions.
+Untuk pemula, ETF dividen seperti Vanguard VYM (Vanguard High Dividend Yield ETF) atau SCHD (Schwab US Dividend Equity ETF) memberi diversifikasi instan ke puluhan saham pembayar dividen. Saat kamu belajar lebih banyak dan mulai punya preferensi, kamu bisa menambah saham individual. Banyak investor melakukan keduanya — ETF sebagai inti portofolio, saham individual sebagai posisi tambahan.
 
 ### How often do dividend stocks pay?
 
-Most US stocks pay dividends quarterly (every three months). Some REITs like Realty Income pay monthly. A few companies pay semi-annually or annually, but quarterly is the standard. You can build a portfolio where different stocks pay in different months, creating a steady monthly income stream even from quarterly payers.
+Sebagian besar saham AS membayar dividen kuartalan (setiap tiga bulan). Beberapa REIT seperti Realty Income membayar bulanan. Ada juga yang membayar dua kali setahun atau setahun sekali, tapi kuartalan adalah standar. Kamu bisa membangun portofolio di mana saham-saham berbeda membayar di bulan yang berbeda, sehingga tercipta aliran pendapatan bulanan yang stabil meski sebagian besar saham membayar kuartalan.

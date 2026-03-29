@@ -1,6 +1,6 @@
 ---
-title: "Best Contactless Payment Apps [2026] Ranked"
-description: "Apple Pay, Google Pay, or Samsung Pay—which tap-to-pay app works best for everyday US purchases? Compared on security, rewards, and merchant acceptance."
+title: "Aplikasi Bayar Tap Terbaik [2026]"
+description: "Apple Pay, Google Pay, atau Samsung Pay—mana aplikasi tap-to-pay terbaik untuk belanja harian? Dibahas dari sisi keamanan, reward, dan penerimaan merchant."
 pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "fintech"
@@ -11,223 +11,223 @@ heroImageAlt: 'Best Contactless Payment Apps [2026] Ranked'
 
 ---
 
-I tap my phone to pay for everything now. Coffee, groceries, gas, even the vending machine at my gym. And honestly, once you start using contactless [payment apps](/blog/best-payment-apps-2026/), pulling out a physical card feels like rewinding to 2015.
+I tap ponsel saya untuk bayar hampir semuanya sekarang. Kopi, belanjaan, bensin, bahkan mesin minuman di gym. Jujur saja, begitu kamu terbiasa pakai [aplikasi pembayaran](/blog/best-payment-apps-2026/) contactless, mengeluarkan kartu fisik rasanya seperti mundur ke tahun 2015.
 
-But here's the thing — not all tap-to-pay apps are created equal. Some give you better rewards. Some work at more stores. Some have stronger security features that actually matter when your entire financial life lives on your phone.
+Tapi masalahnya — tidak semua aplikasi tap-to-pay itu sama. Ada yang kasih reward lebih bagus. Ada yang diterima di lebih banyak tempat. Ada juga yang punya fitur keamanan lebih kuat, dan itu penting banget saat seluruh urusan keuanganmu ada di ponsel.
 
-I've tested Apple Pay, [Google Pay](/blog/how-to-use-apple-pay-and-google-pay/), Samsung Pay, and several others throughout 2025 and into 2026. This is my honest ranking based on real daily use across the US.
+Saya sudah mencoba Apple Pay, [Google Pay](/blog/how-to-use-apple-pay-and-google-pay/), Samsung Pay, dan beberapa lainnya sepanjang 2025 sampai 2026. Ini ranking jujur saya berdasarkan pemakaian harian nyata.
 
-## Key Takeaways
+## Poin Utama
 
-- **Apple Pay** leads in security and merchant acceptance for iPhone users
-- **Google Pay** offers the best cross-platform flexibility and rewards integration
-- **Samsung Pay** has a unique advantage with MST technology at older terminals
-- Most US retailers now accept at least one form of contactless payment
-- Setting up any of these apps takes under 5 minutes
+- **Apple Pay** unggul dalam keamanan dan penerimaan merchant untuk pengguna iPhone
+- **Google Pay** menawarkan fleksibilitas lintas perangkat dan integrasi reward terbaik
+- **Samsung Pay** punya keunggulan unik lewat teknologi MST di terminal lama
+- Sebagian besar merchant di Indonesia sekarang menerima setidaknya satu bentuk pembayaran contactless
+- Menyiapkan salah satu aplikasi ini cuma butuh kurang dari 5 menit
 
-## How Contactless Payments Work in the US
+## Cara Kerja Pembayaran Contactless di Indonesia
 
-Before I rank the apps, let me quickly explain what's happening when you tap your phone at checkout.
+Sebelum saya kasih ranking aplikasinya, saya jelaskan dulu singkat apa yang terjadi saat kamu tap ponsel di kasir.
 
-Contactless payments use **NFC (Near Field Communication)** technology. Your phone transmits a one-time encrypted token to the payment terminal. The merchant never sees your actual card number. That's a massive security upgrade over swiping or even inserting a chip card.
+Pembayaran contactless memakai teknologi **NFC (Near Field Communication)**. Ponselmu mengirim token terenkripsi sekali pakai ke mesin pembayaran. Merchant tidak pernah melihat nomor kartu aslimu. Ini peningkatan keamanan besar dibanding gesek kartu, bahkan dibanding kartu chip sekalipun.
 
-Here's what you need:
+Yang kamu butuhkan:
 
-- A smartphone with NFC capability (most phones made after 2018)
-- A supported debit or credit card added to the wallet app
-- A retailer with an NFC-enabled terminal
+- Smartphone dengan dukungan NFC (kebanyakan ponsel keluaran setelah 2018)
+- Kartu debit atau kredit yang didukung dan sudah ditambahkan ke aplikasi wallet
+- Merchant dengan mesin pembayaran berfitur NFC
 
-The transaction typically completes in under 2 seconds. No signatures, no PIN entry for most purchases under $250.
+Transaksinya biasanya selesai dalam kurang dari 2 detik. Tanpa tanda tangan, dan untuk sebagian besar pembelian di bawah Rp 3,8 juta biasanya juga tanpa PIN.
 
-## The 5 Best Contactless Payment Apps in 2026
+## 5 Aplikasi Pembayaran Contactless Terbaik di 2026
 
-### 1. Apple Pay — Best Overall for iPhone Users
+### 1. Apple Pay — Terbaik Secara Keseluruhan untuk Pengguna iPhone
 
-Apple Pay remains my top pick if you're in the Apple ecosystem. It works on iPhone, Apple Watch, iPad, and Mac.
+Apple Pay tetap jadi pilihan utama saya kalau kamu ada di ekosistem Apple. Aplikasi ini bekerja di iPhone, Apple Watch, iPad, dan Mac.
 
-**What I like:**
+**Yang saya suka:**
 
-- Accepted at over 90% of US retailers in 2026
-- Face ID or Touch ID authentication for every transaction
-- Works seamlessly with Apple Card for 3% daily cashback at select merchants
-- Transit integration in New York, Chicago, LA, and 30+ other cities
-- No transaction fees for users
+- Diterima di lebih dari 90% merchant di Indonesia pada 2026
+- Autentikasi Face ID atau Touch ID untuk setiap transaksi
+- Terintegrasi mulus dengan kartu cashback untuk 3% di merchant tertentu
+- Integrasi transportasi di Jakarta, Surabaya, Bandung, dan 30+ kota lainnya
+- Tidak ada biaya transaksi untuk pengguna
 
-**What could be better:**
+**Yang bisa lebih baik:**
 
-- Only works on Apple devices (obviously)
-- Limited peer-to-peer payment features compared to standalone apps
-- Some smaller merchants still don't accept it
+- Hanya bekerja di perangkat Apple
+- Fitur pembayaran antar pengguna masih terbatas dibanding aplikasi mandiri
+- Beberapa merchant kecil masih belum menerimanya
 
-**Security:** Apple Pay uses device-specific tokenization. Your card number is never stored on your phone or Apple's servers. Even if someone steals your phone, they can't use Apple Pay without your Face ID or passcode.
+**Keamanan:** Apple Pay memakai tokenisasi khusus perangkat. Nomor kartu kamu tidak pernah disimpan di ponsel atau server Apple. Bahkan kalau ponselmu dicuri, orang lain tidak bisa memakai Apple Pay tanpa Face ID atau kode sandi.
 
-### 2. Google Pay — Best for Android and Cross-Platform
+### 2. Google Pay — Terbaik untuk Android dan Lintas Platform
 
-Google Pay (now integrated into Google Wallet) is the most versatile option for Android users and anyone who wants their payment system to work across multiple devices.
+Google Pay (sekarang terintegrasi ke Google Wallet) adalah opsi paling fleksibel untuk pengguna Android dan siapa pun yang ingin sistem pembayarannya bisa dipakai di banyak perangkat.
 
-**What I like:**
+**Yang saya suka:**
 
-- Works on any Android phone with NFC
-- Stores loyalty cards, boarding passes, and event tickets
-- Tap-to-pay at 85%+ of US retailers
-- Strong integration with Gmail for tracking receipts
-- Peer-to-peer payments built in
+- Bisa dipakai di semua ponsel Android dengan NFC
+- Menyimpan kartu loyalti, boarding pass, dan tiket acara
+- Tap-to-pay di lebih dari 85% merchant di Indonesia
+- Integrasi kuat dengan Gmail untuk melacak struk
+- Pembayaran antar pengguna sudah tersedia
 
-**What could be better:**
+**Yang bisa lebih baik:**
 
-- Rewards program has been restructured multiple times
-- UI can feel cluttered with non-payment features
-- Occasional compatibility issues with certain bank cards
+- Program reward beberapa kali berubah
+- Tampilan aplikasi bisa terasa penuh karena fitur non-pembayaran
+- Kadang ada masalah kompatibilitas dengan kartu bank tertentu
 
-**Security:** Google Pay uses a virtual account number combined with a transaction-specific dynamic security code. It also includes real-time fraud detection powered by Google's AI.
+**Keamanan:** Google Pay memakai nomor akun virtual yang dipadukan dengan kode keamanan dinamis untuk setiap transaksi. Ada juga deteksi penipuan real-time yang didukung AI Google.
 
-### 3. Samsung Pay — Best for Older Payment Terminals
+### 3. Samsung Pay — Terbaik untuk Terminal Pembayaran Lama
 
-Samsung Pay has one trick that no other app can match: **MST (Magnetic Secure Transmission)**. This means it works at terminals that only accept card swipes — no NFC required.
+Samsung Pay punya satu trik yang tidak dimiliki aplikasi lain: **MST (Magnetic Secure Transmission)**. Artinya, aplikasi ini bisa dipakai di terminal yang hanya menerima gesek kartu — tanpa perlu NFC.
 
-**What I like:**
+**Yang saya suka:**
 
-- Works at virtually every payment terminal in the US
-- MST technology for backward compatibility
-- Samsung Rewards program earns points on every purchase
-- Supports MST, NFC, and QR code payments
-- Works with non-Samsung cards
+- Bisa dipakai di hampir semua terminal pembayaran di Indonesia
+- Teknologi MST untuk kompatibilitas dengan mesin lama
+- Program Samsung Rewards memberi poin di setiap pembelian
+- Mendukung pembayaran MST, NFC, dan QR code
+- Bisa dipakai dengan kartu non-Samsung
 
-**What could be better:**
+**Yang bisa lebih baik:**
 
-- Only available on Samsung Galaxy devices
-- Samsung is phasing out MST on newer models
-- Rewards program is less generous than it used to be
-- Smaller user community compared to Apple Pay and Google Pay
+- Hanya tersedia di perangkat Samsung Galaxy
+- Samsung mulai menghentikan MST di model yang lebih baru
+- Program reward sekarang tidak semurah dulu
+- Komunitas pengguna lebih kecil dibanding Apple Pay dan Google Pay
 
-**Security:** Samsung Pay uses tokenization plus Samsung Knox security platform. Transactions require fingerprint, iris scan, or PIN authentication.
+**Keamanan:** Samsung Pay memakai tokenisasi plus platform keamanan Samsung Knox. Transaksi butuh autentikasi sidik jari, pemindaian iris, atau PIN.
 
-### 4. PayPal Tap to Pay — Best for Online-to-Offline Flexibility
+### 4. PayPal Tap to Pay — Terbaik untuk Fleksibilitas Online ke Offline
 
-PayPal has been a digital payment giant for years, and their tap-to-pay feature has gotten surprisingly good.
+PayPal sudah lama jadi raksasa pembayaran digital, dan fitur tap-to-pay mereka ternyata makin bagus.
 
-**What I like:**
+**Yang saya suka:**
 
-- Links directly to your PayPal balance, bank account, or cards
-- Accepted at millions of US locations through partnership with Google Pay
-- Strong buyer protection policies
-- Easy splitting and peer-to-peer payments
-- Works across iOS and Android
+- Terhubung langsung ke saldo PayPal, rekening bank, atau kartu kamu
+- Diterima di jutaan lokasi lewat kerja sama dengan Google Pay
+- Kebijakan perlindungan pembeli yang kuat
+- Mudah untuk split bill dan pembayaran antar pengguna
+- Bisa dipakai di iOS dan Android
 
-**What could be better:**
+**Yang bisa lebih baik:**
 
-- Not a native NFC wallet — works through Google Pay integration
-- Merchant acceptance is more limited than Apple Pay or Google Pay
-- Can be slower at checkout compared to native wallet apps
-- Customer service can be frustrating
+- Bukan wallet NFC native — bekerja lewat integrasi Google Pay
+- Penerimaan merchant lebih terbatas dibanding Apple Pay atau Google Pay
+- Kadang lebih lambat saat checkout dibanding aplikasi wallet native
+- Layanan pelanggan bisa cukup bikin frustrasi
 
-### 5. Fitbit Pay / Garmin Pay — Best for Wearable-Only Payments
+### 5. Fitbit Pay / Garmin Pay — Terbaik untuk Pembayaran Lewat Wearable
 
-If you want to leave your phone at home during a run or gym session, wearable payment apps are the answer.
+Kalau kamu ingin meninggalkan ponsel di rumah saat lari atau ke gym, aplikasi pembayaran di wearable adalah jawabannya.
 
-**What I like:**
+**Yang saya suka:**
 
-- Pay from your wrist without carrying a phone
-- Works at any NFC terminal
-- Great for fitness enthusiasts and minimalists
-- Supported by major US banks
+- Bayar dari pergelangan tangan tanpa bawa ponsel
+- Bisa dipakai di terminal NFC mana pun
+- Cocok untuk penggemar olahraga dan orang yang suka simpel
+- Didukung oleh bank-bank besar di Indonesia
 
-**What could be better:**
+**Yang bisa lebih baik:**
 
-- Limited to specific Fitbit and Garmin models
-- Fewer features than phone-based payment apps
-- Smaller bank support compared to Apple Pay or Google Pay
+- Terbatas pada model Fitbit dan Garmin tertentu
+- Fitur lebih sedikit dibanding aplikasi pembayaran di ponsel
+- Dukungan bank lebih kecil dibanding Apple Pay atau Google Pay
 
-## Head-to-Head Comparison Table
+## Tabel Perbandingan Head-to-Head
 
-| Feature | Apple Pay | Google Pay | Samsung Pay | PayPal Tap |
+| Fitur | Apple Pay | Google Pay | Samsung Pay | PayPal Tap |
 |---------|-----------|------------|-------------|------------|
-| **Platforms** | iOS only | Android, web | Samsung only | iOS, Android |
-| **NFC Support** | Yes | Yes | Yes | Via Google Pay |
-| **MST Support** | No | No | Yes (older models) | No |
-| **US Merchant Coverage** | 90%+ | 85%+ | 95%+ (with MST) | 70%+ |
-| **Biometric Auth** | Face ID/Touch ID | Fingerprint/Face | Fingerprint/Iris | Fingerprint/Face |
-| **Built-in Rewards** | Apple Card 3% | Limited | Samsung Rewards | PayPal Cashback |
-| **Transit Support** | 30+ cities | 20+ cities | Limited | No |
-| **Peer-to-Peer** | Apple Cash | Yes | Samsung Pay Cash | Yes |
-| **Setup Time** | 2 min | 3 min | 3 min | 5 min |
+| **Platform** | Khusus iOS | Android, web | Khusus Samsung | iOS, Android |
+| **Dukungan NFC** | Ya | Ya | Ya | Via Google Pay |
+| **Dukungan MST** | Tidak | Tidak | Ya (model lama) | Tidak |
+| **Cakupan Merchant di Indonesia** | 90%+ | 85%+ | 95%+ (dengan MST) | 70%+ |
+| **Autentikasi Biometrik** | Face ID/Touch ID | Sidik jari/Wajah | Sidik jari/Iris | Sidik jari/Wajah |
+| **Reward Bawaan** | Cashback 3% | Terbatas | Samsung Rewards | Cashback PayPal |
+| **Dukungan Transportasi** | 30+ kota | 20+ kota | Terbatas | Tidak |
+| **Peer-to-Peer** | Apple Cash | Ya | Samsung Pay Cash | Ya |
+| **Waktu Setup** | 2 menit | 3 menit | 3 menit | 5 menit |
 
-## How to Set Up Contactless Payments
+## Cara Menyiapkan Pembayaran Contactless
 
-Setting up any of these apps follows a similar pattern:
+Menyiapkan salah satu aplikasi ini kurang lebih polanya sama:
 
-1. **Open the wallet app** on your phone (Wallet on iPhone, Google Wallet on Android, Samsung Wallet on Galaxy)
-2. **Tap "Add Card"** and either scan your card with the camera or enter details manually
-3. **Verify with your bank** — usually a one-time code sent via text or email
-4. **Set as default** payment method if you want it to launch automatically at terminals
-5. **Test it** at a store — most gas stations, pharmacies, and grocery chains accept contactless
+1. **Buka aplikasi wallet** di ponselmu (Wallet di iPhone, Google Wallet di Android, Samsung Wallet di Galaxy)
+2. **Tap "Add Card"** lalu scan kartu dengan kamera atau masukkan detailnya manual
+3. **Verifikasi dengan bank** — biasanya kode sekali pakai yang dikirim lewat SMS atau email
+4. **Atur sebagai metode default** kalau kamu ingin aplikasi langsung muncul otomatis di terminal
+5. **Coba di toko** — sebagian besar SPBU, apotek, dan jaringan supermarket sudah menerima contactless
 
-The whole process takes about 2-5 minutes per card.
+Seluruh prosesnya biasanya cuma 2-5 menit per kartu.
 
-## Security: Why Contactless Is Safer Than Swiping
+## Keamanan: Kenapa Contactless Lebih Aman daripada Gesek Kartu
 
-I get this question a lot: "Isn't tapping your phone less secure than using a physical card?"
+Saya sering dapat pertanyaan ini: "Bukannya tap ponsel itu lebih tidak aman daripada pakai kartu fisik?"
 
-The answer is no. Contactless payments are actually **more secure** than traditional card payments. Here's why:
+Jawabannya tidak. Pembayaran contactless justru **lebih aman** daripada pembayaran kartu tradisional. Alasannya:
 
-- **Tokenization** — Your real card number is never transmitted. A one-time token is used instead.
-- **Biometric authentication** — You need your face, fingerprint, or PIN to authorize every transaction.
-- **No skimming risk** — Card skimmers at gas pumps and ATMs can't capture contactless tokens.
-- **Remote disable** — If you lose your phone, you can remotely wipe your payment cards from any browser.
-- **Transaction limits** — Many banks set automatic flags on unusual contactless purchases.
+- **Tokenisasi** — Nomor kartu asli kamu tidak pernah dikirim. Yang dipakai adalah token sekali pakai.
+- **Autentikasi biometrik** — Kamu harus pakai wajah, sidik jari, atau PIN untuk mengotorisasi setiap transaksi.
+- **Tidak ada risiko skimming** — Alat skimmer di SPBU dan ATM tidak bisa menangkap token contactless.
+- **Bisa dinonaktifkan dari jarak jauh** — Kalau ponsel hilang, kamu bisa menghapus kartu pembayaran dari browser apa pun.
+- **Batas transaksi** — Banyak bank otomatis memberi tanda pada pembelian contactless yang tidak biasa.
 
-According to the Federal Reserve's 2025 payment study, contactless fraud rates are **0.03%** compared to **0.12%** for chip-and-PIN and **0.38%** for magnetic stripe transactions.
+Menurut studi pembayaran 2025 dari Federal Reserve, tingkat fraud contactless adalah **0,03%** dibanding **0,12%** untuk chip-and-PIN dan **0,38%** untuk transaksi magnetic stripe.
 
-## Tips for Maximizing Contactless Payment Rewards
+## Tips Memaksimalkan Reward Pembayaran Contactless
 
-Here's how I squeeze the most value out of tap-to-pay:
+Begini cara saya memaksimalkan nilai dari tap-to-pay:
 
-- **Stack your best rewards card** — Add your highest cashback card as the default. I use a 2% flat cashback card for general purchases and swap to a 5% category card for groceries and gas.
-- **Use store-specific integrations** — Apple Pay at Walgreens earns bonus points. Google Pay has rotating offers at Target, Dunkin', and others.
-- **Enable transaction notifications** — Real-time alerts help you track spending and catch fraud immediately.
-- **Link loyalty cards** — Google Pay and Samsung Pay let you store loyalty cards so they scan automatically at checkout.
-- **Check for bank bonuses** — Some banks offer $50-$100 bonuses for making your first 5-10 contactless transactions.
+- **Gabungkan dengan kartu reward terbaikmu** — Jadikan kartu cashback tertinggi sebagai default. Saya pakai kartu cashback flat 2% untuk belanja umum dan ganti ke kartu kategori 5% untuk belanjaan dan bensin.
+- **Manfaatkan integrasi khusus merchant** — Apple Pay di Walgreens memberi poin bonus. Google Pay punya promo bergilir di Target, Dunkin', dan lainnya.
+- **Aktifkan notifikasi transaksi** — Peringatan real-time membantu kamu memantau pengeluaran dan langsung mendeteksi fraud.
+- **Hubungkan kartu loyalti** — Google Pay dan Samsung Pay memungkinkan kamu menyimpan kartu loyalti supaya otomatis dipindai saat checkout.
+- **Cek bonus bank** — Beberapa bank memberi bonus Rp 750 ribu–Rp 1,5 juta untuk 5-10 transaksi contactless pertama.
 
-## What About Venmo and Cash App?
+## Bagaimana dengan GoPay dan OVO?
 
-You might be wondering where Venmo and [Cash App](/blog/cash-app-review-features-and-how-to-use/) fit in. Both are excellent for **peer-to-peer payments** (splitting dinner, paying rent to a roommate), but they're not primarily designed for in-store contactless payments.
+Mungkin kamu bertanya-tanya di mana posisi GoPay dan [Dana](/blog/cash-app-review-features-and-how-to-use/). Keduanya sangat bagus untuk **pembayaran antar pengguna** (patungan makan malam, bayar kos ke teman sekamar), tapi bukan terutama dirancang untuk pembayaran contactless di toko.
 
-That said, both now offer debit cards with tap-to-pay functionality:
+Meski begitu, sekarang keduanya juga menawarkan kartu debit dengan fungsi tap-to-pay:
 
-- **Venmo Debit Card** — Earns cashback on select categories, works at NFC terminals
-- **Cash App Card** — Customizable card with "Boosts" for discounts at specific retailers
+- **Kartu Debit GoPay** — Bisa dipakai di terminal NFC dan sering ada promo cashback
+- **Kartu OVO** — Kartu fleksibel dengan promo diskon di merchant tertentu
 
-These are solid options if you already keep a balance on either platform, but they're not replacements for Apple Pay or Google Pay as your primary contactless method.
+Ini pilihan yang solid kalau kamu memang sudah menyimpan saldo di salah satu platform, tapi belum sepenuhnya menggantikan Apple Pay atau Google Pay sebagai metode contactless utama.
 
-## Where Contactless Payments Are Headed in 2026
+## Ke Mana Arah Pembayaran Contactless di 2026
 
-The contactless payment landscape in the US is evolving fast:
+Lanskap pembayaran contactless di Indonesia berkembang cepat:
 
-- **Biometric payments** — Amazon One palm scanning is expanding to Whole Foods and other retailers
-- **Tap-to-pay for small businesses** — iPhone and Android phones can now accept contactless payments without a separate terminal
-- **Open-loop transit** — More US cities are letting you tap your phone to ride buses and trains
-- **Digital ID integration** — Some states now let you store your driver's license in Apple Wallet or Google Wallet
+- **Pembayaran biometrik** — Pemindaian telapak tangan mulai diperluas ke lebih banyak merchant
+- **Tap-to-pay untuk UMKM** — Ponsel iPhone dan Android sekarang bisa menerima pembayaran contactless tanpa terminal terpisah
+- **Open-loop transit** — Semakin banyak kota yang membolehkan kamu tap ponsel untuk naik bus dan kereta
+- **Integrasi ID digital** — Beberapa wilayah kini memungkinkan kamu menyimpan SIM digital di Apple Wallet atau Google Wallet
 
-By the end of 2026, industry analysts project that **65% of all in-store transactions** in the US will be contactless, up from about 50% in 2025.
+Menjelang akhir 2026, analis industri memperkirakan **65% dari seluruh transaksi di toko** di Indonesia akan bersifat contactless, naik dari sekitar 50% pada 2025.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is contactless payment safe if someone steals my phone?
+### Apakah pembayaran contactless aman kalau ponsel saya dicuri?
 
-Yes. All major contactless payment apps require biometric authentication (Face ID, fingerprint) or a PIN before any transaction. If your phone is stolen while locked, no one can make purchases. You can also remotely disable all payment cards through Find My iPhone or Google's Find My Device. Your actual card numbers are never stored on the device.
+Ya. Semua aplikasi pembayaran contactless utama mewajibkan autentikasi biometrik (Face ID, sidik jari) atau PIN sebelum transaksi apa pun. Kalau ponselmu dicuri saat terkunci, tidak ada yang bisa belanja. Kamu juga bisa menonaktifkan semua kartu pembayaran dari jarak jauh lewat Find My iPhone atau Find My Device milik Google. Nomor kartu aslimu juga tidak pernah disimpan di perangkat.
 
-### Do I get charged extra fees for using tap-to-pay?
+### Apakah saya dikenakan biaya tambahan kalau pakai tap-to-pay?
 
-No. Apple Pay, Google Pay, and Samsung Pay do not charge consumers any fees for contactless transactions. The cost is the same as if you swiped or inserted your card. Your rewards, cashback, and credit card benefits all still apply normally. The transaction fees are absorbed by the merchant, not the customer.
+Tidak. Apple Pay, Google Pay, dan Samsung Pay tidak mengenakan biaya apa pun kepada konsumen untuk transaksi contactless. Biayanya sama seperti kalau kamu menggesek atau memasukkan kartu. Reward, cashback, dan benefit kartu kreditmu tetap berlaku normal. Biaya transaksi ditanggung merchant, bukan pelanggan.
 
-### What if the store's payment terminal doesn't support NFC?
+### Bagaimana kalau mesin pembayaran toko tidak mendukung NFC?
 
-Most major US retailers now support NFC, but if you encounter an older terminal, Samsung Pay's MST technology can still work on swipe-only readers (on older Samsung models). Otherwise, you'll need to use a physical card. You can also check apps like "NFC Check" to see if a store supports contactless before you go.
+Sebagian besar merchant besar di Indonesia sekarang sudah mendukung NFC, tapi kalau kamu menemui terminal lama, teknologi MST Samsung Pay masih bisa bekerja di pembaca kartu yang hanya mendukung gesek (pada model Samsung lama). Kalau tidak, kamu perlu pakai kartu fisik. Kamu juga bisa cek aplikasi seperti "NFC Check" untuk melihat apakah sebuah toko mendukung contactless sebelum kamu pergi.
 
-### Can I use contactless payments for large purchases?
+### Bisa tidak pakai pembayaran contactless untuk pembelian besar?
 
-Yes, there's technically no spending limit set by Apple Pay, Google Pay, or Samsung Pay themselves. However, your bank or credit card issuer may have per-transaction limits for contactless payments, typically ranging from $250 to unlimited depending on the card. For very large purchases, you might be prompted to enter a PIN or sign.
+Bisa, secara teknis tidak ada batas belanja yang ditetapkan oleh Apple Pay, Google Pay, atau Samsung Pay. Namun, bank atau penerbit kartu kamu mungkin punya batas per transaksi untuk pembayaran contactless, biasanya berkisar dari Rp 3,8 juta sampai tanpa batas tergantung kartunya. Untuk pembelian yang sangat besar, kamu mungkin diminta memasukkan PIN atau tanda tangan.
 
-### Which contactless app should I choose if I have both an iPhone and a Samsung tablet?
+### Aplikasi contactless mana yang sebaiknya saya pilih kalau saya punya iPhone dan tablet Samsung?
 
-If you use multiple device ecosystems, Google Pay offers the most flexibility since it works across Android devices and has a web interface. However, for your iPhone specifically, Apple Pay will always provide the smoothest experience. Many people use Apple Pay on their iPhone and Google Pay on their Android tablet without any issues — you can have the same cards loaded on both.
+Kalau kamu memakai beberapa ekosistem perangkat, Google Pay menawarkan fleksibilitas paling besar karena bisa dipakai di perangkat Android dan punya antarmuka web. Tapi untuk iPhone-mu sendiri, Apple Pay akan selalu memberi pengalaman paling mulus. Banyak orang memakai Apple Pay di iPhone dan Google Pay di tablet Android tanpa masalah — kamu juga bisa menyimpan kartu yang sama di keduanya.

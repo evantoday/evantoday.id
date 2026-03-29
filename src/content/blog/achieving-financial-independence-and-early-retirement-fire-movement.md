@@ -1,6 +1,6 @@
 ---
-title: "FIRE Movement: How to Retire Before 40 [2026]"
-description: "Americans are retiring in their 30s with $1M+ saved. Learn the FIRE formula, the 25x rule, safe withdrawal rates, and how to calculate your FIRE number."
+title: "Gerakan FIRE: Pensiun Sebelum 40"
+description: "Orang Amerika pensiun di usia 30-an dengan tabungan Rp 15 miliar+. Pelajari rumus FIRE, aturan 25x, dan cara hitung angka FIRE."
 pubDate: 2026-03-10
 category: "financial-tips"
 tags: ["FIRE movement", "early retirement", "financial independence", "retire early", "FIRE number"]
@@ -10,210 +10,209 @@ heroImageAlt: 'FIRE Movement: How to Retire Before 40 [2026]'
 
 ---
 
-## I Plan to Retire at 42. Here Is My Exact Plan.
+## Saya Berencana Pensiun di Usia 42. Ini Rencana Lengkap Saya.
 
-I am 34 years old, and if everything goes according to plan, I will stop working a traditional job in about 8 years. Not because I hate my work, but because I want the freedom to choose how I spend my time without a paycheck dictating my decisions.
+Saya berusia 34 tahun, dan kalau semuanya berjalan sesuai rencana, saya akan berhenti bekerja di pekerjaan kantoran biasa dalam sekitar 8 tahun. Bukan karena saya benci pekerjaan saya, tapi karena saya ingin kebebasan untuk memilih bagaimana saya menghabiskan waktu tanpa harus menunggu gaji untuk menentukan keputusan saya.
 
-This is the core idea behind the FIRE movement: Financial Independence, Retire Early. It is not really about sitting on a beach doing nothing. It is about reaching a point where work becomes optional, where your investment portfolio generates enough income to cover your living expenses in[defi](/blog/defi-explained-in-simple-terms-for-beginners/)nitely.
+Inilah inti dari gerakan FIRE: Financial Independence, Retire Early. Ini sebenarnya bukan soal duduk santai di pantai tanpa melakukan apa-apa. Ini soal mencapai titik di mana bekerja jadi pilihan, dan portofolio investasi saya menghasilkan cukup uang untuk menutup biaya hidup saya secara berkelanjutan.
 
-The FIRE community has exploded in the US over the past decade. Subreddits like r/financialindependence have over 2 million members. Blogs like Mr. Money Mustache and the Mad Fientist have influenced millions more. And the math behind FIRE is surprisingly simple once you understand it.
+Komunitas FIRE meledak di Amerika dalam satu dekade terakhir. Subreddit seperti r/financialindependence punya lebih dari 2 juta anggota. Blog seperti Mr. Money Mustache dan Mad Fientist juga memengaruhi jutaan orang lainnya. Dan matematika di balik FIRE ternyata cukup sederhana kalau kamu sudah paham dasarnya.
 
-Let me walk you through everything: the formula, the different FIRE variations, how to calculate your number, and the strategies that make early retirement actually achievable on a normal American salary.
+Saya akan jelaskan semuanya: rumusnya, variasi FIRE yang berbeda, cara menghitung angka FIRE kamu, dan strategi yang bikin pensiun dini benar-benar bisa dicapai dengan gaji normal.
 
-## The FIRE Formula Explained
+## Rumus FIRE Dijelaskan
 
-FIRE comes down to three variables:
+FIRE bergantung pada tiga variabel:
 
-1. **Your annual expenses** (how much you spend per year)
-2. **Your savings rate** (what percentage of your income you save and invest)
-3. **Your FIRE number** (how much you need invested to retire)
+1. **Pengeluaran tahunan kamu** (berapa banyak yang kamu habiskan per tahun)
+2. **Tingkat tabungan kamu** (persentase penghasilan yang kamu simpan dan investasikan)
+3. **Angka FIRE kamu** (berapa besar investasi yang dibutuhkan untuk pensiun)
 
-### The 25x Rule
+### Aturan 25x
 
-The foundation of FIRE math is the 25x rule: you need 25 times your annual expenses invested to retire safely.
+Dasar dari matematika FIRE adalah aturan 25x: kamu perlu investasi sebesar 25 kali pengeluaran tahunan agar bisa pensiun dengan aman.
 
-**Examples:**
+**Contoh:**
 
-| Annual Expenses | FIRE Number (25x) |
-|----------------|-------------------|
-| $30,000 | $750,000 |
-| $40,000 | $1,000,000 |
-| $50,000 | $1,250,000 |
-| $60,000 | $1,500,000 |
-| $80,000 | $2,000,000 |
+| Pengeluaran Tahunan | Angka FIRE (25x) |
+|--------------------|------------------|
+| Rp 450 juta | Rp 11,25 miliar |
+| Rp 600 juta | Rp 15 miliar |
+| Rp 750 juta | Rp 18,75 miliar |
+| Rp 900 juta | Rp 22,5 miliar |
+| Rp 1,2 miliar | Rp 30 miliar |
 
-Notice something powerful here: reducing your expenses by just $10,000 per year reduces your FIRE number by $250,000. Expenses are the most important variable in the equation because they affect both how much you need and how quickly you can save. Knowing [how to budget money](/blog/how-to-budget-money/) is the foundation of any FIRE plan.
+Perhatikan hal penting di sini: menurunkan pengeluaran hanya Rp 150 juta per tahun bisa memangkas angka FIRE kamu sebesar Rp 3,75 miliar. Pengeluaran adalah variabel paling penting dalam rumus ini karena memengaruhi berapa banyak yang kamu butuhkan dan seberapa cepat kamu bisa menabung. Mengetahui [cara membuat anggaran](/blog/how-to-budget-money/) adalah fondasi dari setiap rencana FIRE.
 
-### The 4% Rule (Safe Withdrawal Rate)
+### Aturan 4% (Safe Withdrawal Rate)
 
-The 25x rule comes from the 4% safe withdrawal rate, which originates from the Trinity Study conducted at Trinity University. The researchers found that withdrawing 4% of your portfolio in year one of retirement, then adjusting for inflation each subsequent year, had a 95%+ success rate of lasting 30 years across all historical market conditions.
+Aturan 25x berasal dari safe withdrawal rate 4%, yang berakar dari Trinity Study yang dilakukan di Trinity University. Para peneliti menemukan bahwa menarik 4% dari portofolio pada tahun pertama pensiun, lalu menyesuaikannya dengan inflasi setiap tahun berikutnya, punya tingkat keberhasilan lebih dari 95% untuk bertahan 30 tahun di berbagai kondisi pasar historis.
 
-**How it works in practice:**
+**Cara kerjanya dalam praktik:**
 
-- You have $1,000,000 invested
-- Year 1: Withdraw $40,000 (4%)
-- Year 2: Withdraw $41,200 (adjusted for 3% inflation)
-- Year 3: Withdraw $42,436 (adjusted again)
-- And so on, for 30+ years
+- Kamu punya investasi Rp 15 miliar
+- Tahun 1: Tarik Rp 600 juta (4%)
+- Tahun 2: Tarik Rp 618 juta (disesuaikan dengan inflasi 3%)
+- Tahun 3: Tarik Rp 636,5 juta (disesuaikan lagi)
+- Dan seterusnya, selama 30+ tahun
 
-For early retirees who need their money to last 40-50+ years instead of 30, some FIRE practitioners use a more conservative 3.5% or even 3.25% withdrawal rate.
+Untuk pensiunan dini yang butuh uangnya bertahan 40-50+ tahun, bukan cuma 30 tahun, sebagian praktisi FIRE memakai tingkat penarikan yang lebih konservatif, seperti 3,5% atau bahkan 3,25%.
 
-### Your Savings Rate Determines Your Timeline
+### Tingkat Tabungan Menentukan Timeline Kamu
 
-This is the most powerful insight in FIRE: your savings rate, not your income, determines how quickly you can retire.
+Ini adalah wawasan paling kuat dalam FIRE: tingkat tabungan kamu, bukan penghasilan kamu, yang menentukan seberapa cepat kamu bisa pensiun.
 
-| Savings Rate | Years to FIRE (starting from $0) |
-|-------------|--------------------------------|
-| 10% | 51 years |
-| 20% | 37 years |
-| 30% | 28 years |
-| 40% | 22 years |
-| 50% | 17 years |
-| 60% | 12.5 years |
-| 70% | 8.5 years |
-| 80% | 5.5 years |
+| Tingkat Tabungan | Waktu ke FIRE (mulai dari Rp 0) |
+|------------------|----------------------------------|
+| 10% | 51 tahun |
+| 20% | 37 tahun |
+| 30% | 28 tahun |
+| 40% | 22 tahun |
+| 50% | 17 tahun |
+| 60% | 12,5 tahun |
+| 70% | 8,5 tahun |
+| 80% | 5,5 tahun |
 
-These numbers assume a 5% real (inflation-adjusted) investment return. The jump from a 20% savings rate to a 50% savings rate cuts your working career roughly in half.
+Angka ini mengasumsikan imbal hasil riil 5% per tahun, yaitu setelah disesuaikan dengan inflasi. Lonjakan dari tingkat tabungan 20% ke 50% bisa memangkas masa kerja kamu hampir separuhnya.
 
-## Types of FIRE
+## Jenis-Jenis FIRE
 
-Not everyone pursues FIRE the same way. The community has developed several variations:
+Tidak semua orang mengejar FIRE dengan cara yang sama. Komunitas ini punya beberapa variasi:
 
 ### Lean FIRE
 
-- **Target**: Minimalist lifestyle, typically under $40,000/year spending
-- **FIRE number**: Under $1,000,000
-- **Who it is for**: People who are naturally frugal and do not need luxury
-- **Pros**: Achievable much faster, even on modest incomes
-- **Cons**: Less margin for error, harder to adjust if expenses increase
+- **Target**: Gaya hidup minimalis, biasanya pengeluaran di bawah Rp 600 juta/tahun
+- **Angka FIRE**: Di bawah Rp 15 miliar
+- **Cocok untuk**: Orang yang memang hemat dan tidak butuh kemewahan
+- **Kelebihan**: Bisa dicapai jauh lebih cepat, bahkan dengan penghasilan yang tidak terlalu besar
+- **Kekurangan**: Ruang aman lebih kecil, lebih sulit menyesuaikan diri kalau pengeluaran naik
 
 ### Fat FIRE
 
-- **Target**: Comfortable to luxurious lifestyle, typically $80,000-$150,000+/year spending
-- **FIRE number**: $2,000,000-$4,000,000+
-- **Who it is for**: High earners who want to maintain their lifestyle
-- **Pros**: More comfortable, more flexibility for unexpected expenses
-- **Cons**: Requires high income and many years of aggressive saving
+- **Target**: Gaya hidup nyaman sampai mewah, biasanya pengeluaran Rp 1,2 miliar-Rp 2,25 miliar+/tahun
+- **Angka FIRE**: Rp 30 miliar-Rp 60 miliar+
+- **Cocok untuk**: Orang berpenghasilan tinggi yang ingin mempertahankan gaya hidupnya
+- **Kelebihan**: Lebih nyaman, lebih fleksibel untuk biaya tak terduga
+- **Kekurangan**: Butuh penghasilan tinggi dan bertahun-tahun menabung agresif
 
 ### Barista FIRE
 
-- **Target**: Reach partial financial independence, then work a low-stress part-time job
-- **FIRE number**: Smaller (only need investments to cover the gap between part-time income and expenses)
-- **Who it is for**: People who want some work structure but not a demanding career
-- **Pros**: Achievable faster, maintains social connections and purpose
-- **Cons**: Still requires some work income
+- **Target**: Mencapai kebebasan finansial sebagian, lalu bekerja paruh waktu yang tidak terlalu stres
+- **Angka FIRE**: Lebih kecil (investasi hanya perlu menutup selisih antara penghasilan paruh waktu dan pengeluaran)
+- **Cocok untuk**: Orang yang masih ingin punya struktur kerja, tapi tidak mau karier yang menuntut
+- **Kelebihan**: Lebih cepat dicapai, tetap punya koneksi sosial dan rasa tujuan
+- **Kekurangan**: Tetap butuh penghasilan dari kerja
 
 ### Coast FIRE
 
-- **Target**: Save aggressively early, then stop contributing and let compound interest do the rest
-- **Who it is for**: Young savers who want to reduce pressure later
-- **Example**: A 30-year-old with $250,000 invested can stop contributing and still hit $2,000,000+ by 60 through market growth alone
-- **Pros**: Reduces savings pressure in your 30s and 40s
-- **Cons**: Does not achieve early retirement, just a relaxed glide path to traditional retirement
+- **Target**: Menabung agresif di awal, lalu berhenti menambah dan biarkan bunga berbunga yang bekerja
+- **Cocok untuk**: Penabung muda yang ingin mengurangi tekanan di masa depan
+- **Contoh**: Orang usia 30 tahun dengan investasi Rp 3,75 miliar bisa berhenti menambah dana dan tetap mencapai Rp 30 miliar+ di usia 60 hanya dari pertumbuhan pasar
+- **Kelebihan**: Mengurangi tekanan menabung di usia 30-an dan 40-an
+- **Kekurangan**: Bukan pensiun dini, hanya jalur santai menuju pensiun tradisional
 
-## The FIRE Strategy: Step by Step
+## Strategi FIRE: Langkah demi Langkah
 
-### Step 1: Calculate Your Current Spending
+### Langkah 1: Hitung Pengeluaran Saat Ini
 
-Track every dollar for 2-3 months. I use a free spreadsheet, but [expense tracking apps](/blog/best-ways-to-track-expenses-comprehensive-guide/) like YNAB ($99/year) or Mint (free) work too. Be honest and include everything:
+Catat setiap rupiah selama 2-3 bulan. Saya pakai spreadsheet gratis, tapi [aplikasi pencatat pengeluaran](/blog/best-ways-to-track-expenses-comprehensive-guide/) seperti YNAB atau Mint juga bisa. Jujurlah dan masukkan semuanya:
 
-- Housing (rent/mortgage, property taxes, insurance, maintenance)
-- Transportation (car payment, insurance, gas, maintenance, or public transit)
-- Food (groceries and dining out, separate them)
-- Healthcare (premiums, out-of-pocket costs)
-- Insurance (beyond health and auto)
-- Utilities and subscriptions
-- Personal spending
-- Travel and entertainment
+- Tempat tinggal (sewa/KPR, pajak properti, asuransi, perawatan)
+- Transportasi (cicilan mobil, asuransi, bensin, perawatan, atau transportasi umum)
+- Makanan (belanja bulanan dan makan di luar, pisahkan)
+- Kesehatan (premi, biaya di luar tanggungan)
+- Asuransi (di luar kesehatan dan kendaraan)
+- Tagihan utilitas dan langganan
+- Pengeluaran pribadi
+- Liburan dan hiburan
 
-### Step 2: Optimize Your Three Biggest Expenses
+### Langkah 2: Optimalkan Tiga Pengeluaran Terbesar
 
-For most Americans, 60-70% of spending falls into three categories:
+Bagi kebanyakan orang, 60-70% pengeluaran masuk ke tiga kategori ini:
 
-**Housing** (typically 25-35% of spending):
-- Consider house hacking: buy a duplex, live in one unit, rent the other
-- Move to a lower cost-of-living area (the FIRE community calls this geoarbitrage)
-- Downsize if your current home is larger than you need
+**Tempat tinggal** (biasanya 25-35% dari pengeluaran):
+- Pertimbangkan house hacking: beli properti dua unit, tinggal di satu unit, sewakan unit lainnya
+- Pindah ke daerah dengan biaya hidup lebih rendah
+- Kecilkan ukuran tempat tinggal kalau rumah sekarang terlalu besar
 
-**Transportation** (typically 15-20%):
-- Drive a reliable used car (Toyota Corolla, Honda Civic) instead of financing a new one
-- Consider going down to one car if you have two
-- Bike or use public transit when possible
+**Transportasi** (biasanya 15-20%):
+- Pakai mobil bekas yang andal daripada kredit mobil baru
+- Pertimbangkan hanya punya satu mobil kalau sekarang dua
+- Naik sepeda atau pakai transportasi umum kalau memungkinkan
 
-**Food** (typically 10-15%):
-- Meal prep and cook at home (saves $300-$600/month for most families)
-- Reduce restaurant spending to 1-2 times per week maximum
-- Buy in bulk and plan meals around sales
+**Makanan** (biasanya 10-15%):
+- Meal prep dan masak di rumah (bisa hemat Rp 4,5 juta-Rp 9 juta per bulan untuk banyak keluarga)
+- Batasi makan di restoran maksimal 1-2 kali per minggu
+- Beli grosir dan rencanakan menu berdasarkan promo
 
-### Step 3: Maximize Tax-Advantaged Accounts
+### Langkah 3: Maksimalkan Akun yang Dapat Keuntungan Pajak
 
-The order of operations for FIRE savers:
+Urutan prioritas untuk penabung FIRE:
 
-1. **401(k) up to employer match** (free money)
-2. **HSA** if eligible ($4,300 individual / $8,550 family in 2026) - triple tax advantage
-3. **[Roth IRA](/blog/how-to-financially-prepare-for-retirement/)** ($7,000 / $8,000 if 50+)
-4. **401(k) up to max** ($23,500 / $31,000 if 50+)
-5. **Taxable brokerage account** (for any remaining savings)
+1. **DPLK/dana pensiun sampai match dari perusahaan** (uang gratis)
+2. **HSA** jika memenuhi syarat - keuntungan pajak tiga kali
+3. **[reksadana/investasi](/blog/how-to-financially-prepare-for-retirement/)** yang setara akun pensiun
+4. **DPLK/dana pensiun sampai batas maksimal**
+5. **Rekening investasi biasa** (untuk sisa tabungan)
 
-### Step 4: Invest Simply and Consistently
+### Langkah 4: Investasi Sederhana dan Konsisten
 
-The FIRE community overwhelmingly favors a simple portfolio:
+Komunitas FIRE umumnya menyukai portofolio yang sederhana:
 
-- **VTSAX or VTI** (US total stock market): 60-80%
-- **VTIAX or VXUS** (international): 10-20%
-- **VBTLX or BND** (bonds): 0-20% depending on risk tolerance
+- **VTSAX atau VTI** (pasar saham AS total): 60-80%
+- **VTIAX atau VXUS** (internasional): 10-20%
+- **VBTLX atau BND** (obligasi): 0-20% tergantung toleransi risiko
 
-Do not overthink this. The difference between a "perfect" portfolio and a "good enough" portfolio is negligible compared to the impact of your savings rate.
+Jangan terlalu dipikirkan berlebihan. Bedanya portofolio yang “sempurna” dan yang “cukup baik” sangat kecil dibanding dampak tingkat tabungan kamu.
 
-### Step 5: Bridge the Gap to 59.5
+### Langkah 5: Jembatani Sampai Usia 59,5
 
-A common objection to early retirement: "But my money is locked in retirement accounts until age 59.5!" There are several legal ways to access retirement funds early:
+Keberatan yang sering muncul soal pensiun dini: “Tapi uang saya terkunci di akun pensiun sampai usia 59,5!” Sebenarnya ada beberapa cara legal untuk mengakses dana pensiun lebih awal:
 
-- **Roth IRA contributions**: Can be withdrawn at any time, tax and penalty-free
-- **Roth conversion ladder**: Convert traditional IRA funds to Roth, wait 5 years, then withdraw penalty-free
-- **Rule of 55**: Leave a job at 55+ and access that employer's 401(k) penalty-free
-- **72(t) / SEPP distributions**: Take substantially equal periodic payments from an IRA at any age
-- **Taxable brokerage accounts**: No age restrictions, just capital gains tax
+- **Kontribusi reksadana/investasi yang setara Roth IRA**: Bisa ditarik kapan saja, tanpa pajak dan penalti
+- **Roth conversion ladder**: Pindahkan dana dari akun pensiun tradisional ke akun setara Roth, tunggu 5 tahun, lalu tarik tanpa penalti
+- **Rule of 55**: Keluar dari pekerjaan di usia 55+ dan akses dana pensiun perusahaan tanpa penalti
+- **72(t) / SEPP distributions**: Ambil pembayaran berkala yang jumlahnya sama dari akun pensiun pada usia berapa pun
+- **Rekening investasi biasa**: Tidak ada batas usia, hanya kena pajak capital gain
 
-Most FIRE retirees use a combination of taxable accounts and the Roth conversion ladder to fund early retirement years.
+Sebagian besar pensiunan FIRE memakai kombinasi rekening investasi biasa dan Roth conversion ladder untuk membiayai tahun-tahun awal pensiun dini.
 
-## My Personal FIRE Plan
+## Rencana FIRE Pribadi Saya
 
-I will share my actual numbers because I think real examples are more useful than theory:
+Saya akan membagikan angka saya yang sebenarnya karena menurut saya contoh nyata lebih berguna daripada teori:
 
-- **Current age**: 34
-- **Target retirement age**: 42
-- **Current annual spending**: $48,000
-- **Target FIRE number**: $1,200,000 (25x expenses)
-- **Current net worth**: $520,000 (invested)
-- **Annual savings**: $55,000
-- **Savings rate**: 53%
+- **Usia sekarang**: 34
+- **Target usia pensiun**: 42
+- **Pengeluaran tahunan saat ini**: Rp 720 juta
+- **Angka FIRE target**: Rp 18 miliar (25x pengeluaran)
+- **Kekayaan bersih saat ini**: Rp 7,8 miliar (diinvestasikan)
+- **Tabungan tahunan**: Rp 825 juta
+- **Tingkat tabungan**: 53%
 
-At a 7% average annual return, my projections show I will hit $1,200,000 around age 41-43, depending on market performance.
+Dengan imbal hasil rata-rata 7% per tahun, proyeksi saya menunjukkan bahwa saya akan mencapai Rp 18 miliar sekitar usia 41-43 tahun, tergantung performa pasar.
 
-### My Post-FIRE Plan
+### Rencana Saya Setelah FIRE
 
-- Continue living in my current city (mid-cost metro)
-- Maintain a 3.5% withdrawal rate ($42,000/year) for extra safety margin
-- Pursue freelance writing and consulting for supplemental income (not required, but likely)
-- Travel during off-peak seasons
-- Health insurance through ACA marketplace (a major FIRE consideration)
+- Tetap tinggal di kota saya sekarang (biaya hidup menengah)
+- Mempertahankan tingkat penarikan 3,5% (Rp 630 juta/tahun) untuk margin keamanan ekstra
+- Menjalani freelance writing dan konsultasi sebagai penghasilan tambahan (tidak wajib, tapi kemungkinan besar)
+- Bepergian di luar musim ramai
+- Asuransi kesehatan melalui marketplace setara ACA (pertimbangan besar dalam FIRE)
 
-## Common FIRE Objections (and My Responses)
+## Keberatan Umum soal FIRE (dan Jawaban Saya)
 
-**"What about healthcare?"**
+**“Kalau soal kesehatan gimana?”**
 
-This is the #1 concern for American FIRE retirees. Options include ACA marketplace plans (often subsidized at early retirement income levels), health sharing ministries, spouse's employer plan, or COBRA for short-term coverage. Healthcare costs should be factored into your annual expense estimate.
+Ini adalah kekhawatiran nomor satu bagi pensiunan FIRE di Amerika. Pilihannya termasuk paket asuransi di marketplace, program berbagi biaya kesehatan, paket dari perusahaan pasangan, atau COBRA untuk perlindungan jangka pendek. Biaya kesehatan harus dimasukkan ke estimasi pengeluaran tahunan.
 
-**"What if the market crashes right after I retire?"**
+**“Kalau pasar jatuh tepat setelah saya pensiun?”**
 
-This is called sequence-of-returns risk. Mitigations include: keeping 2-3 years of expenses in cash or bonds, using a flexible withdrawal rate (spend less in down years), and maintaining some part-time income in early retirement years.
+Ini disebut sequence-of-returns risk. Cara menguranginya termasuk: menyimpan 2-3 tahun pengeluaran dalam bentuk tunai atau obligasi, memakai tingkat penarikan yang fleksibel (belanja lebih sedikit saat pasar turun), dan tetap punya penghasilan paruh waktu di awal masa pensiun.
 
-**"Will I be bored?"**
+**“Nanti saya bosan nggak?”**
 
-Most FIRE retirees report being busier than ever. Without a 9-5 job consuming your best hours, you fill time with hobbies, travel, volunteering, passion projects, and relationships. The question is not "what will I do?" but "how will I choose among all the things I want to do?"
+Kebanyakan pensiunan FIRE bilang mereka justru lebih sibuk dari sebelumnya. Tanpa pekerjaan 9-5 yang menyita jam terbaik, kamu akan mengisi waktu dengan hobi, perjalanan, relawan, proyek passion, dan hubungan sosial. Pertanyaannya bukan “saya akan ngapain?”, tapi “saya mau pilih yang mana dari semua hal yang ingin saya lakukan?”
 
-**"This only works for high earners."**
+**“Ini cuma bisa untuk orang bergaji tinggi.”**
 
-Lean FIRE is achievable on median incomes, especially if you adopt [frugal living](/blog/frugal-living-tips/) habits. A couple earning a combined $80,000 who reduces expenses to $30,000/year and invests $50,000 annually can reach FIRE in about 12-15 years. It requires sacrifice, but it is mathematically possible.
-
+Lean FIRE tetap bisa dicapai dengan penghasilan menengah, apalagi kalau kamu menerapkan kebiasaan [hidup hemat](/blog/frugal-living-tips/). Pasangan dengan total penghasilan Rp 1,2 miliar per tahun yang menurunkan pengeluaran ke Rp 450 juta per tahun dan menginvestasikan Rp 750 juta per tahun bisa mencapai FIRE dalam sekitar 12-15 tahun. Butuh pengorbanan, tapi secara matematika itu mungkin.

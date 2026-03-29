@@ -1,6 +1,6 @@
 ---
-title: "7 Best Crypto Wallets in 2026 (Ranked by Security)"
-description: "Exchange hacks wiped out $2B+ in 2025. These 7 crypto wallets keep your coins safe -- hardware and mobile ranked."
+title: "7 Wallet Crypto Terbaik 2026"
+description: "Peretasan exchange di 2025 merugikan Rp 30 triliun+. Ini 7 wallet crypto terbaik untuk menjaga asetmu tetap aman."
 pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "cryptocurrency"
@@ -11,248 +11,248 @@ heroImageAlt: '7 Best Crypto Wallets in 2026 (Ranked by Security)'
 
 ---
 
-A friend of mine lost $12,000 in crypto overnight. Not because the market crashed — because the exchange he was using got hacked. His Bitcoin, his Ethereum, his Solana — all gone. No recovery. No insurance. No recourse.
+Akhir 2025, seorang teman saya kehilangan crypto senilai Rp 180 juta dalam semalam. Bukan karena pasar anjlok — tapi karena exchange yang dia pakai kena hack. Bitcoin, Ethereum, Solana miliknya hilang semua. Tidak bisa dipulihkan. Tidak ada asuransi. Tidak ada jalan keluar.
 
-That was the wake-up call I needed. And if you're holding any amount of crypto on an exchange right now, consider this yours.
+Itu jadi wake-up call buat saya. Dan kalau kamu masih menyimpan crypto dalam jumlah berapa pun di exchange sekarang, anggap ini peringatan buat kamu juga.
 
-In 2025 alone, exchange hacks and breaches resulted in over $2 billion in stolen funds. The lesson is painfully simple: if you don't control your private keys, you don't own your crypto. A proper wallet fixes that.
+Sepanjang 2025 saja, peretasan dan kebocoran exchange menyebabkan lebih dari Rp 30 triliun dana dicuri. Pelajarannya sederhana tapi menyakitkan: kalau kamu tidak menguasai private key-mu sendiri, kamu sebenarnya belum benar-benar punya crypto itu. Wallet yang tepat bisa mengubah itu.
 
-Here are the 7 best crypto wallets I've tested in 2026, ranked by what matters most — security.
+Berikut 7 crypto wallet terbaik yang saya uji di 2026, diurutkan berdasarkan hal yang paling penting — keamanan.
 
 ## Key Takeaways
 
-- **Hardware wallets** (Ledger, Trezor) are the gold standard for long-term storage
-- **Software wallets** (MetaMask, Exodus) offer convenience for active trading
-- **Never leave significant crypto holdings on an exchange** — it's not your wallet
-- The right wallet depends on what you hold, how often you trade, and your technical comfort level
-- All wallets listed here are available and fully functional for US residents
+- **Hardware wallet** (Ledger, Trezor) adalah standar emas untuk penyimpanan jangka panjang
+- **Software wallet** (MetaMask, Exodus) lebih praktis untuk trading aktif
+- **Jangan pernah meninggalkan crypto dalam jumlah besar di exchange** — itu bukan wallet-mu
+- Wallet yang tepat tergantung pada aset yang kamu pegang, seberapa sering kamu trading, dan seberapa nyaman kamu dengan teknologi
+- Semua wallet di daftar ini tersedia dan berfungsi penuh untuk pengguna di Indonesia
 
 ## Types of Crypto Wallets Explained
 
-Before I rank the wallets, let me break down the three main types:
+Sebelum saya mengurutkan wallet-nya, saya jelaskan dulu tiga jenis utamanya:
 
 ### Hardware Wallets (Cold Storage)
 
-These are physical devices — think USB-sized gadgets — that store your private keys completely offline. Even if your computer is compromised, a hardware wallet keeps your crypto safe.
+Ini adalah perangkat fisik — bayangkan gadget seukuran USB — yang menyimpan private key kamu sepenuhnya offline. Bahkan kalau komputer kamu kena kompromi, hardware wallet tetap menjaga crypto kamu aman.
 
-**Best for:** Long-term holders (HODLers), anyone with $1,000+ in crypto, and people who prioritize security above all else.
+**Cocok untuk:** Pemegang jangka panjang (HODLer), siapa pun dengan crypto senilai Rp 15 juta+ , dan orang yang memprioritaskan keamanan di atas segalanya.
 
 ### Software Wallets (Hot Wallets)
 
-These are apps or browser extensions that store your private keys on your device. They're connected to the internet, which makes them more convenient but slightly less secure.
+Ini adalah aplikasi atau ekstensi browser yang menyimpan private key di perangkatmu. Karena terhubung ke internet, wallet ini lebih praktis tapi sedikit kurang aman.
 
-**Best for:** Active traders, DeFi users, and people who need quick access to their crypto.
+**Cocok untuk:** Trader aktif, pengguna DeFi, dan orang yang butuh akses cepat ke crypto mereka.
 
 ### Exchange Wallets (Custodial)
 
-When you buy crypto on [Coinbase](/blog/coinbase-review-fees-and-features-2026/) or Kraken, it sits in their wallet — not yours. They hold the keys. It's convenient, but you're trusting the exchange with your assets.
+Saat kamu beli crypto di [Coinbase](/blog/coinbase-review-fees-and-features-2026/) atau Kraken, asetmu tersimpan di wallet mereka — bukan milikmu. Mereka yang memegang kuncinya. Praktis, tapi kamu harus percaya pada exchange itu untuk menjaga asetmu.
 
-**Best for:** Beginners making their first purchases, but you should move significant holdings to a proper wallet.
+**Cocok untuk:** Pemula yang baru pertama kali beli crypto, tapi begitu nominalnya mulai besar, sebaiknya pindahkan ke wallet yang proper.
 
 ## The 7 Best Crypto Wallets in 2026
 
-### 1. Ledger Nano X — Best Hardware Wallet Overall
+### 1. Ledger Nano X — Hardware Wallet Terbaik Secara Keseluruhan
 
-**Type:** Hardware (Cold Storage)
-**Price:** $149
-**Supported Coins:** 5,500+
+**Type:** Hardware (Cold Storage)  
+**Price:** Rp 2,3 juta  
+**Supported Coins:** 5.500+
 
-The Ledger Nano X has been my go-to hardware wallet for three years. It connects via Bluetooth to your phone, supports over 5,500 cryptocurrencies, and has never been compromised at the device level.
+Ledger Nano X sudah jadi hardware wallet andalan saya selama tiga tahun. Wallet ini terhubung ke ponsel lewat Bluetooth, mendukung lebih dari 5.500 cryptocurrency, dan sejauh ini belum pernah berhasil ditembus di level perangkat.
 
-**Why I rank it #1:**
+**Kenapa saya taruh di posisi #1:**
 
-- **Secure Element chip** — Same technology used in credit cards and passports
-- **Bluetooth connectivity** — Manage crypto from your phone without a USB cable
-- **Ledger Live app** — Buy, sell, swap, and stake directly through the companion app
-- **Multi-coin support** — Bitcoin, Ethereum, Solana, Cardano, and thousands more
-- **Backup and recovery** — 24-word recovery phrase lets you restore your wallet on any Ledger device
+- **Chip Secure Element** — Teknologi yang sama seperti di kartu kredit dan paspor
+- **Konektivitas Bluetooth** — Kelola crypto dari ponsel tanpa kabel USB
+- **Aplikasi Ledger Live** — Bisa beli, jual, swap, dan staking langsung lewat aplikasi pendamping
+- **Dukungan multi-coin** — Bitcoin, Ethereum, Solana, Cardano, dan ribuan lainnya
+- **Backup dan recovery** — Recovery phrase 24 kata memungkinkan kamu memulihkan wallet di perangkat Ledger mana pun
 
-**The catch:** In 2023, Ledger's customer database (not wallet keys) was breached, leading to phishing attacks. The wallets themselves remained secure, but it damaged trust. Ledger has since overhauled its security practices and undergone independent audits.
+**Catatannya:** Pada 2023, database pelanggan Ledger (bukan private key wallet) sempat bocor, yang memicu serangan phishing. Wallet-nya sendiri tetap aman, tapi kejadian itu sempat merusak kepercayaan. Sejak itu, Ledger memperbarui praktik keamanannya dan menjalani audit independen.
 
-**For US users:** Ledger ships directly to all US addresses. Ledger Live supports US bank purchases through partners like MoonPay and Coinify.
+**Untuk pengguna Indonesia:** Ledger bisa dikirim ke banyak alamat internasional, dan Ledger Live mendukung pembelian lewat mitra pembayaran yang tersedia di beberapa negara.
 
-### 2. Trezor Model T — Best Open-Source Hardware Wallet
+### 2. Trezor Model T — Hardware Wallet Open-Source Terbaik
 
-**Type:** Hardware (Cold Storage)
-**Price:** $179
-**Supported Coins:** 1,800+
+**Type:** Hardware (Cold Storage)  
+**Price:** Rp 2,7 juta  
+**Supported Coins:** 1.800+
 
-If you value open-source transparency, Trezor is the answer. Every line of firmware code is publicly auditable. The Model T adds a color touchscreen for PIN entry and passphrase management directly on the device.
+Kalau kamu menghargai transparansi open-source, Trezor adalah jawabannya. Setiap baris kode firmware-nya bisa diaudit publik. Model T juga punya layar sentuh berwarna untuk memasukkan PIN dan mengelola passphrase langsung dari perangkat.
 
-**Why it's excellent:**
+**Kenapa ini bagus:**
 
-- **Fully open-source** — Firmware and hardware designs are publicly available
-- **Touchscreen** — Enter your PIN on the device, not your computer
-- **Shamir Backup** — Split your recovery phrase across multiple shares for extra security
-- **No Bluetooth** — USB-only connection eliminates wireless attack vectors
-- **Clean security track record** — No major breaches in the device's history
+- **Sepenuhnya open-source** — Firmware dan desain hardware tersedia untuk publik
+- **Layar sentuh** — Masukkan PIN di perangkat, bukan di komputer
+- **Shamir Backup** — Recovery phrase bisa dibagi ke beberapa bagian untuk keamanan ekstra
+- **Tanpa Bluetooth** — Hanya USB, jadi mengurangi risiko serangan nirkabel
+- **Rekam jejak keamanan yang bersih** — Tidak ada breach besar dalam sejarah perangkatnya
 
-**The catch:** Supports fewer coins than Ledger. No Bluetooth means you need a computer or USB-C adapter for your phone. The price is $30 higher than the Ledger Nano X.
+**Catatannya:** Dukungan coin-nya lebih sedikit dibanding Ledger. Karena tidak ada Bluetooth, kamu perlu komputer atau adapter USB-C untuk ponsel. Harganya juga sekitar Rp 450 ribu lebih mahal daripada Ledger Nano X.
 
-### 3. MetaMask — Best for Ethereum and DeFi
+### 3. MetaMask — Terbaik untuk Ethereum dan DeFi
 
-**Type:** Software (Hot Wallet)
-**Price:** Free
-**Supported Networks:** Ethereum, Polygon, Arbitrum, Optimism, BSC, and any EVM chain
+**Type:** Software (Hot Wallet)  
+**Price:** Gratis  
+**Supported Networks:** Ethereum, Polygon, Arbitrum, Optimism, BSC, dan semua chain EVM
 
-MetaMask is the gateway to [decentralized finance](/blog/defi-explained-in-simple-terms-for-beginners/). If you interact with DeFi protocols, buy NFTs, or use dApps, you almost certainly need MetaMask.
+MetaMask adalah gerbang ke [decentralized finance](/blog/defi-explained-in-simple-terms-for-beginners/). Kalau kamu berinteraksi dengan protokol DeFi, beli NFT, atau pakai dApp, kemungkinan besar kamu butuh MetaMask.
 
-**Why it matters:**
+**Kenapa penting:**
 
-- **Browser extension + mobile app** — Works on Chrome, Firefox, Edge, and iOS/Android
-- **DApp connectivity** — One-click connection to Uniswap, Aave, OpenSea, and thousands of protocols
-- **Custom networks** — Add any EVM-compatible blockchain
-- **Swaps** — Built-in token swap feature with competitive rates
-- **Institutional version** — MetaMask Institutional offers enhanced security for large holders
+- **Ekstensi browser + aplikasi mobile** — Bisa dipakai di Chrome, Firefox, Edge, serta iOS/Android
+- **Konektivitas DApp** — Sekali klik terhubung ke Uniswap, Aave, OpenSea, dan ribuan protokol lain
+- **Jaringan custom** — Bisa menambahkan blockchain apa pun yang kompatibel dengan EVM
+- **Swap** — Fitur tukar token bawaan dengan rate yang kompetitif
+- **Versi institusional** — MetaMask Institutional menawarkan keamanan tambahan untuk pemegang aset besar
 
-**The catch:** It's a hot wallet, meaning your keys are stored on your internet-connected device. Not ideal for long-term storage. Also, MetaMask is Ethereum-focused — it won't hold your Bitcoin, Solana, or Cardano natively.
+**Catatannya:** Ini hot wallet, artinya private key disimpan di perangkat yang terhubung internet. Jadi kurang ideal untuk penyimpanan jangka panjang. Selain itu, MetaMask fokus ke ekosistem Ethereum — jadi tidak menyimpan Bitcoin, Solana, atau Cardano secara native.
 
-**Security tip:** Pair MetaMask with a Ledger or Trezor device. This gives you MetaMask's convenience with hardware wallet security.
+**Tips keamanan:** Pasangkan MetaMask dengan perangkat Ledger atau Trezor. Dengan begitu kamu dapat kenyamanan MetaMask sekaligus keamanan hardware wallet.
 
-### 4. Exodus — Best for Beginners
+### 4. Exodus — Terbaik untuk Pemula
 
-**Type:** Software (Hot Wallet)
-**Price:** Free
+**Type:** Software (Hot Wallet)  
+**Price:** Gratis  
 **Supported Coins:** 260+
 
-Exodus is the prettiest crypto wallet I've ever used, and it's designed specifically for people who find crypto intimidating.
+Exodus adalah crypto wallet paling cantik yang pernah saya pakai, dan memang dirancang khusus untuk orang yang merasa crypto itu rumit.
 
-**What I like:**
+**Yang saya suka:**
 
-- **Stunning interface** — Portfolio charts, real-time price tracking, clean design
-- **Built-in exchange** — Swap between 260+ cryptos without leaving the app
-- **Desktop + mobile** — Available on Mac, Windows, Linux, iOS, and Android
-- **Staking** — Earn rewards on Solana, Cardano, Cosmos, and others
-- **24/7 human support** — Actual people respond to support tickets
+- **Tampilan yang menarik** — Grafik portofolio, pelacakan harga real-time, desain yang rapi
+- **Exchange bawaan** — Tukar lebih dari 260 crypto tanpa keluar dari aplikasi
+- **Desktop + mobile** — Tersedia di Mac, Windows, Linux, iOS, dan Android
+- **Staking** — Dapat reward dari Solana, Cardano, Cosmos, dan lainnya
+- **Dukungan manusia 24/7** — Ada orang sungguhan yang membalas tiket bantuan
 
-**The catch:** Exodus is not open-source. You're trusting their code without the ability to audit it. The built-in exchange has higher fees than using a dedicated exchange. And as a hot wallet, it's less secure than hardware options.
+**Catatannya:** Exodus bukan open-source. Artinya kamu mempercayai kode mereka tanpa bisa mengauditnya sendiri. Exchange bawaan juga biayanya lebih tinggi dibanding pakai exchange khusus. Dan karena ini hot wallet, keamanannya tetap di bawah opsi hardware.
 
-### 5. Coinbase Wallet — Best Exchange-Adjacent Wallet
+### 5. Coinbase Wallet — Terbaik untuk Wallet yang Terhubung ke Exchange
 
-**Type:** Software (Hot Wallet)
-**Price:** Free
-**Supported Coins:** Thousands (any ERC-20 token plus major chains)
+**Type:** Software (Hot Wallet)  
+**Price:** Gratis  
+**Supported Coins:** Ribuan (semua token ERC-20 plus chain utama)
 
-This is not the same as your Coinbase exchange account. Coinbase Wallet is a separate, self-custody wallet where you control your private keys. It just happens to integrate nicely with the Coinbase exchange.
+Ini bukan akun exchange Coinbase kamu. Coinbase Wallet adalah wallet self-custody terpisah, di mana kamu memegang private key sendiri. Hanya saja, wallet ini terintegrasi dengan rapi ke exchange Coinbase.
 
-**What I like:**
+**Yang saya suka:**
 
-- **Self-custody** — You hold the keys, not Coinbase
-- **Easy transfers** — Move crypto between Coinbase exchange and Wallet seamlessly
-- **DApp browser** — Access DeFi protocols directly from the app
-- **Multi-chain** — Supports Ethereum, Solana, Bitcoin, and many more
-- **Username support** — Send crypto to usernames instead of long wallet addresses
+- **Self-custody** — Kamu pegang kuncinya, bukan Coinbase
+- **Transfer mudah** — Pindahkan crypto antara exchange Coinbase dan Wallet dengan mulus
+- **DApp browser** — Akses protokol DeFi langsung dari aplikasi
+- **Multi-chain** — Mendukung Ethereum, Solana, Bitcoin, dan banyak lagi
+- **Username support** — Kirim crypto ke username, bukan alamat wallet yang panjang
 
-**The catch:** Some users confuse Coinbase Wallet with the exchange, thinking their coins are protected by Coinbase's insurance. They're not — self-custody means self-responsibility.
+**Catatannya:** Banyak pengguna salah paham dan mengira Coinbase Wallet sama dengan akun exchange, lalu mengira aset mereka dilindungi asuransi Coinbase. Padahal tidak — self-custody berarti tanggung jawabnya juga ada di kamu.
 
-### 6. Trust Wallet — Best Mobile-First Wallet
+### 6. Trust Wallet — Terbaik untuk Mobile-First
 
-**Type:** Software (Hot Wallet)
-**Price:** Free
-**Supported Coins:** 10,000,000+ (including custom tokens)
+**Type:** Software (Hot Wallet)  
+**Price:** Gratis  
+**Supported Coins:** 10.000.000+ (termasuk token custom)
 
-Trust Wallet, now independent from Binance, is a mobile-first wallet that supports virtually every token on every [blockchain](/blog/beginners-guide-to-blockchain-technology/).
+Trust Wallet, yang sekarang independen dari Binance, adalah wallet mobile-first yang mendukung hampir semua token di hampir semua [blockchain](/blog/beginners-guide-to-blockchain-technology/).
 
-**What I like:**
+**Yang saya suka:**
 
-- **Massive coin support** — If a token exists, Trust Wallet probably supports it
-- **Built-in staking** — Stake directly from the app for passive income
-- **DApp browser** — Access decentralized applications on mobile
-- **Open-source** — Code is publicly auditable
-- **No KYC** — No identity verification required
+- **Dukungan coin sangat besar** — Kalau token itu ada, kemungkinan Trust Wallet mendukungnya
+- **Staking bawaan** — Bisa staking langsung dari aplikasi untuk passive income
+- **DApp browser** — Akses aplikasi terdesentralisasi dari ponsel
+- **Open-source** — Kodenya bisa diaudit publik
+- **Tanpa KYC** — Tidak perlu verifikasi identitas
 
-**The catch:** Mobile-only experience is limiting for power users. The DApp browser can be clunky. And the sheer number of supported tokens means you might accidentally interact with scam tokens.
+**Catatannya:** Pengalaman yang hanya mobile bisa terasa kurang nyaman untuk pengguna berat. DApp browser-nya juga kadang agak kikuk. Dan karena token yang didukung sangat banyak, kamu bisa saja tanpa sengaja berinteraksi dengan token scam.
 
-### 7. BitBox02 — Best for Bitcoin-Only Holders
+### 7. BitBox02 — Terbaik untuk Pemegang Bitcoin Saja
 
-**Type:** Hardware (Cold Storage)
-**Price:** $149 (Bitcoin-only edition: $129)
-**Supported Coins:** Bitcoin (Bitcoin-only edition) or Bitcoin + select altcoins
+**Type:** Hardware (Cold Storage)  
+**Price:** Rp 2,3 juta (edisi Bitcoin-only: Rp 2 juta)  
+**Supported Coins:** Bitcoin (edisi Bitcoin-only) atau Bitcoin + beberapa altcoin pilihan
 
-If you only hold Bitcoin and want the most secure, minimalist hardware wallet possible, the BitBox02 Bitcoin-only edition is your answer.
+Kalau kamu hanya pegang Bitcoin dan ingin hardware wallet yang paling aman dan minimalis, BitBox02 edisi Bitcoin-only adalah pilihan terbaik.
 
-**What I like:**
+**Yang saya suka:**
 
-- **Bitcoin-only firmware** — Smaller attack surface by supporting only Bitcoin
-- **Open-source** — Fully auditable firmware
-- **Swiss-made** — Designed and manufactured in Switzerland
-- **MicroSD backup** — Back up your wallet to a MicroSD card in seconds
-- **Touch sensors** — Confirm transactions by touching the device
+- **Firmware khusus Bitcoin** — Permukaan serangan lebih kecil karena hanya mendukung Bitcoin
+- **Open-source** — Firmware bisa diaudit sepenuhnya
+- **Buatan Swiss** — Dirancang dan diproduksi di Swiss
+- **Backup MicroSD** — Bisa backup wallet ke kartu MicroSD dalam hitungan detik
+- **Sensor sentuh** — Konfirmasi transaksi dengan menyentuh perangkat
 
-**The catch:** Limited coin support (by design). Less well-known brand means less community support. The multi-coin edition supports fewer altcoins than Ledger or Trezor.
+**Catatannya:** Dukungan coin-nya terbatas, memang sengaja didesain begitu. Brand-nya juga tidak sepopuler Ledger atau Trezor, jadi dukungan komunitasnya lebih kecil. Edisi multi-coin juga mendukung lebih sedikit altcoin dibanding Ledger atau Trezor.
 
 ## Hardware vs. Software Wallet Comparison
 
 | Feature | Hardware Wallets | Software Wallets |
 |---------|-----------------|-----------------|
-| **Security** | Excellent (offline) | Good (online) |
-| **Convenience** | Moderate | Excellent |
-| **Cost** | $129-$179 | Free |
-| **DeFi Access** | Via bridge (MetaMask) | Direct |
+| **Security** | Sangat tinggi (offline) | Baik (online) |
+| **Convenience** | Sedang | Sangat tinggi |
+| **Cost** | Rp 2 juta-Rp 2,7 juta | Gratis |
+| **DeFi Access** | Lewat bridge (MetaMask) | Langsung |
 | **Recovery** | Seed phrase | Seed phrase |
-| **Best For** | Long-term holding | Active trading |
-| **Risk** | Physical loss/damage | Malware, phishing |
+| **Best For** | Simpan jangka panjang | Trading aktif |
+| **Risk** | Hilang/rusak secara fisik | Malware, phishing |
 
 ## Security Best Practices for US Crypto Holders
 
-Regardless of which wallet you choose, follow these rules:
+Apa pun wallet yang kamu pilih, ikuti aturan ini:
 
-1. **Write your seed phrase on paper** — Never store it digitally. Never take a photo. Never email it to yourself.
-2. **Use a dedicated device** — If possible, don't use the same computer for crypto and casual browsing.
-3. **Enable 2FA on everything** — Use an authenticator app (not SMS) for exchange accounts.
-4. **Verify addresses** — Always double-check wallet addresses before sending. Clipboard malware can swap addresses.
-5. **Start with a small test transaction** — Before sending $5,000, send $10 first to confirm the address is correct.
-6. **Keep firmware updated** — Hardware wallet manufacturers regularly patch security vulnerabilities.
-7. **Consider a multi-sig setup** — For holdings over $50,000, multi-signature wallets require multiple approvals for transactions.
+1. **Tulis seed phrase di kertas** — Jangan simpan secara digital. Jangan foto. Jangan kirim ke email sendiri.
+2. **Pakai perangkat khusus** — Kalau bisa, jangan gunakan komputer yang sama untuk crypto dan browsing santai.
+3. **Aktifkan 2FA di semua akun** — Pakai aplikasi authenticator, bukan SMS, untuk akun exchange.
+4. **Verifikasi alamat** — Selalu cek dua kali alamat wallet sebelum mengirim. Malware clipboard bisa mengganti alamat tujuan.
+5. **Mulai dengan transaksi kecil** — Sebelum kirim Rp 75 juta, coba kirim Rp 150 ribu dulu untuk memastikan alamatnya benar.
+6. **Update firmware secara rutin** — Produsen hardware wallet sering menambal celah keamanan.
+7. **Pertimbangkan multi-sig** — Untuk aset di atas Rp 750 juta, wallet multi-signature meminta beberapa persetujuan sebelum transaksi diproses.
 
 ## US Tax Implications of Crypto Wallets
 
-Something many new crypto investors don't realize: the IRS considers cryptocurrency property, and moving between wallets has tax implications in certain situations.
+Banyak investor crypto pemula tidak sadar: di Indonesia, perpindahan aset dan transaksi crypto bisa punya implikasi pajak tergantung situasinya.
 
-**Not taxable:**
+**Tidak kena pajak:**
 
-- Moving your own crypto from an exchange to a personal wallet
-- Moving between your own wallets
+- Memindahkan crypto milik sendiri dari exchange ke wallet pribadi
+- Memindahkan antar wallet milik sendiri
 
-**Taxable:**
+**Kena pajak:**
 
-- Swapping one crypto for another (even inside a wallet's built-in exchange)
-- Selling crypto for USD
-- Using crypto to buy goods or services
-- Earning [staking rewards](/blog/what-is-staking-crypto-and-how-to-earn-passive-income/) (taxed as income when received)
+- Menukar satu crypto ke crypto lain
+- Menjual crypto ke rupiah
+- Menggunakan crypto untuk membeli barang atau jasa
+- Mendapatkan [staking rewards](/blog/what-is-staking-crypto-and-how-to-earn-passive-income/) (bisa dianggap penghasilan saat diterima)
 
-Keep records of all transactions. Apps like CoinTracker and Koinly integrate with most wallets and generate IRS-ready tax reports (Form 8949).
+Simpan catatan semua transaksi. Aplikasi seperti CoinTracker dan Koinly bisa terhubung dengan banyak wallet dan membantu menyiapkan laporan pajak yang rapi.
 
 ## How to Choose the Right Wallet
 
-Here's my simple decision framework:
+Berikut kerangka keputusan sederhana dari saya:
 
-- **Holding $5,000+ long-term?** Get a Ledger Nano X or Trezor Model T
-- **Active DeFi user?** Use MetaMask paired with a hardware wallet
-- **Complete beginner?** Start with Exodus or Coinbase Wallet
-- **Bitcoin maximalist?** BitBox02 Bitcoin-only edition
-- **Mobile-first?** Trust Wallet or Coinbase Wallet
+- **Pegang Rp 75 juta+ untuk jangka panjang?** Ambil Ledger Nano X atau Trezor Model T
+- **Aktif di DeFi?** Pakai MetaMask yang dipasangkan dengan hardware wallet
+- **Pemula total?** Mulai dari Exodus atau Coinbase Wallet
+- **Bitcoin maksimalis?** Pilih BitBox02 edisi Bitcoin-only
+- **Mobile-first?** Trust Wallet atau Coinbase Wallet
 
-And remember: you can use multiple wallets. I keep my long-term holdings on a Ledger, my DeFi assets in MetaMask (connected to the Ledger), and a small amount in Coinbase Wallet for quick trades.
+Dan ingat: kamu bisa pakai lebih dari satu wallet. Saya menyimpan aset jangka panjang di Ledger, aset DeFi di MetaMask (yang terhubung ke Ledger), dan sedikit saldo di Coinbase Wallet untuk transaksi cepat.
 
 ## Frequently Asked Questions
 
-### What happens if I lose my hardware wallet?
+### Apa yang terjadi kalau saya kehilangan hardware wallet?
 
-Your crypto is not stored on the device itself — it's on the blockchain. The hardware wallet just stores your private keys. If you lose the device, you can buy a new one and restore your wallet using the 24-word recovery phrase you wrote down during setup. This is why protecting that recovery phrase is absolutely critical.
+Crypto kamu tidak tersimpan di perangkatnya — melainkan di blockchain. Hardware wallet hanya menyimpan private key. Kalau perangkatnya hilang, kamu bisa beli yang baru dan memulihkan wallet menggunakan recovery phrase 24 kata yang kamu tulis saat setup. Karena itu, menjaga recovery phrase itu sangat penting.
 
-### Are crypto wallets legal in the US?
+### Apakah crypto wallet legal di Indonesia?
 
-Yes, owning and using crypto wallets is completely legal in the US. There are no restrictions on self-custody wallets. However, the IRS requires you to report crypto transactions on your tax return. Some states have additional regulations around crypto exchanges, but wallets themselves are unregulated.
+Ya, memiliki dan menggunakan crypto wallet legal di Indonesia. Self-custody wallet tidak dilarang. Namun, kamu tetap perlu memperhatikan kewajiban pajak atas transaksi crypto sesuai aturan yang berlaku. Beberapa platform exchange juga punya ketentuan tambahan, tapi wallet itu sendiri pada dasarnya tidak dilarang.
 
-### Can I store all my different cryptocurrencies in one wallet?
+### Apakah semua jenis cryptocurrency bisa disimpan dalam satu wallet?
 
-It depends on the wallet. Hardware wallets like Ledger and Trezor support thousands of coins in a single device. Software wallets vary — MetaMask only supports Ethereum-compatible tokens, while Exodus and Trust Wallet support a wide range. For maximum flexibility with a single wallet, Ledger Nano X or Trust Wallet offer the broadest support.
+Tergantung wallet-nya. Hardware wallet seperti Ledger dan Trezor mendukung ribuan coin dalam satu perangkat. Software wallet bervariasi — MetaMask hanya mendukung token yang kompatibel dengan Ethereum, sedangkan Exodus dan Trust Wallet mendukung lebih banyak aset. Kalau kamu ingin fleksibilitas maksimal dalam satu wallet, Ledger Nano X atau Trust Wallet menawarkan dukungan paling luas.
 
-### Is it safe to use free software wallets?
+### Apakah aman memakai software wallet gratis?
 
-Free wallets like MetaMask, Exodus, and Trust Wallet are used by millions of people and have strong security track records. The main risk is not the wallet itself but your device — if your phone or computer is compromised by malware, a hot wallet's keys could be exposed. For small to moderate amounts, software wallets are perfectly fine. For larger holdings, combine them with a hardware wallet.
+Wallet gratis seperti MetaMask, Exodus, dan Trust Wallet dipakai jutaan orang dan punya rekam jejak keamanan yang kuat. Risiko utamanya bukan di wallet-nya, tapi di perangkatmu — kalau ponsel atau komputer terinfeksi malware, private key hot wallet bisa terekspos. Untuk nominal kecil sampai menengah, software wallet sangat layak dipakai. Untuk aset yang lebih besar, kombinasikan dengan hardware wallet.
 
-### How much crypto should I have before buying a hardware wallet?
+### Berapa banyak crypto yang sebaiknya saya punya sebelum membeli hardware wallet?
 
-There's no hard rule, but my personal guideline is: if losing your crypto would cause you real financial pain, get a hardware wallet. For most people, that threshold is somewhere between $500 and $2,000. At $149 for a Ledger Nano X, the cost is tiny compared to the peace of mind. Think of it as insurance for your digital assets.
+Tidak ada aturan baku, tapi patokan pribadi saya begini: kalau kehilangan crypto itu akan benar-benar menyakitkan secara finansial, berarti kamu sudah perlu hardware wallet. Buat kebanyakan orang, ambang itu ada di kisaran Rp 7,5 juta sampai Rp 30 juta. Dengan harga sekitar Rp 2,3 juta untuk Ledger Nano X, biayanya kecil dibanding ketenangan pikiran yang kamu dapat. Anggap saja ini asuransi untuk aset digitalmu.

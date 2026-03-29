@@ -1,6 +1,6 @@
 ---
 title: "7 Cara Terbukti Diversifikasi Portofolio [2026]"
-description: "Jangan taruh semua uang di satu tempat. Saya akan tunjukkan cara diversifikasi dengan Rp 7,5 juta, 3 kelas aset, dan rencana sederhana."
+description: "Jangan taruh semua uang di satu tempat. Saya tunjukkan cara diversifikasi dengan Rp 7,5 juta, 3 kelas aset, dan rencana sederhana."
 pubDate: 2026-03-26
 updatedDate: 2026-03-26
 category: "investing"

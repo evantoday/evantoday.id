@@ -1,6 +1,6 @@
 ---
-title: "Best High-Yield Savings Accounts [2026] Ranked"
-description: "Your bank pays 0.01% while high-yield accounts pay 4.5%+. Compare the best HYSA and CD rates from Ally, Marcus, Discover, and more—updated for 2026."
+title: "Rekening Tabungan Bunga Tinggi Terbaik [2026]"
+description: "Bank kamu cuma kasih 0,01%, sementara HYSA bisa 4,5%+. Bandingkan HYSA dan deposito terbaik untuk 2026."
 pubDate: 2026-03-17
 category: "digital-banking"
 tags: ["high-yield savings", "CD rates", "savings accounts", "Ally Bank", "Marcus"]
@@ -10,227 +10,227 @@ heroImageAlt: 'Best High-Yield Savings Accounts [2026] Ranked'
 
 ---
 
-If your savings are sitting in a big bank checking or savings account earning 0.01% APY, you're essentially giving the bank free money. On a $10,000 balance, that's $1 per year. The same $10,000 in a high-yield savings account earning 4.50% APY would generate $450 per year.
+Kalau tabunganmu masih nganggur di rekening giro atau tabungan bank besar yang cuma kasih bunga 0,01% APY, sebenarnya kamu sedang “meminjamkan” uang gratis ke bank. Dengan saldo Rp 150 juta, itu cuma sekitar Rp 15 ribu per tahun. Tapi kalau Rp 150 juta itu disimpan di rekening tabungan bunga tinggi dengan APY 4,50%, hasilnya bisa sekitar Rp 6,75 juta per tahun.
 
-That's a $449 difference for doing nothing more than opening an account and transferring your money. I've had a high-yield savings account since 2019, and the extra earnings have added up to thousands of dollars with zero additional risk.
+Selisihnya sekitar Rp 6,7 juta hanya karena kamu membuka rekening dan memindahkan uang. Saya sudah punya rekening tabungan bunga tinggi sejak 2019, dan tambahan bunganya sudah terkumpul jadi jutaan rupiah tanpa risiko tambahan.
 
-In this guide, I'll rank the best high-yield savings accounts (HYSAs) and certificates of deposit (CDs) for 2026, covering rates, features, fees, and which one fits your situation best.
+Di panduan ini, saya akan mengurutkan rekening tabungan bunga tinggi (HYSA) dan deposito berjangka terbaik untuk 2026, lengkap dengan bunga, fitur, biaya, dan mana yang paling cocok untuk situasimu.
 
-## How High-Yield Savings Accounts Work
+## Cara Kerja Rekening Tabungan Bunga Tinggi
 
-A high-yield savings account works exactly like a regular savings account—your deposits are FDIC-insured up to $250,000, you can withdraw money anytime, and there's no risk to your principal. The only difference is the interest rate, which is typically 10-50x higher at online banks than traditional brick-and-mortar banks.
+Rekening tabungan bunga tinggi bekerja sama persis seperti tabungan biasa—simpananmu dijamin LPS sampai Rp 2 miliar, kamu bisa tarik uang kapan saja, dan tidak ada risiko ke pokok dana. Bedanya cuma di suku bunga, yang biasanya 10-50 kali lebih tinggi di bank digital dibanding bank konvensional.
 
-Online banks can offer higher rates because they don't have the overhead of physical branches. That cost savings gets passed to you in the form of better APYs.
+Bank digital bisa kasih bunga lebih tinggi karena mereka tidak punya biaya operasional cabang fisik. Penghematan itu diteruskan ke kamu dalam bentuk APY yang lebih menarik.
 
-### Why Rates Are High Right Now
+### Kenapa Bunganya Tinggi Saat Ini
 
-As of early 2026, the Federal Reserve's benchmark rate is still elevated following the rate hike cycle that peaked in 2023-2024. While the Fed has begun cutting rates, they've done so gradually, and high-yield savings rates remain attractive at 4.00-5.00% APY. However, rates have come down from the 5.25%+ peaks of 2024, and they'll likely continue drifting lower as the Fed eases further.
+Per awal 2026, suku bunga acuan bank sentral masih relatif tinggi setelah siklus kenaikan bunga yang memuncak pada 2023-2024. Walaupun bank sentral sudah mulai menurunkan bunga, penurunannya masih bertahap, dan bunga tabungan tinggi masih menarik di kisaran 4,00-5,00% APY. Namun, bunga sudah turun dari puncak 5,25%+ pada 2024, dan kemungkinan akan terus melandai seiring pelonggaran kebijakan.
 
-This means now is still a great time to lock in CD rates if you want to guarantee a return for 1-5 years.
+Artinya, sekarang masih waktu yang bagus untuk mengunci bunga deposito kalau kamu ingin memastikan imbal hasil selama 1-5 tahun.
 
-## Best High-Yield Savings Accounts in 2026
+## Rekening Tabungan Bunga Tinggi Terbaik di 2026
 
 ### 1. Marcus by Goldman Sachs
 
-**APY:** 4.40%
-**Minimum deposit:** $0
-**Monthly fee:** None
+**APY:** 4,40%
+**Setoran minimum:** Rp 0
+**Biaya bulanan:** Tidak ada
 
-Marcus has been one of my go-to recommendations for years. The rate is consistently competitive, the interface is clean, and Goldman Sachs has the financial backing you'd expect. No minimum balance, no fees, and they've never played the "teaser rate that drops after 3 months" game.
+Marcus sudah lama jadi salah satu rekomendasi utama saya. Bunganya konsisten kompetitif, tampilannya rapi, dan Goldman Sachs punya dukungan finansial yang kuat. Tidak ada saldo minimum, tidak ada biaya, dan mereka juga tidak main trik “bunga promo yang turun setelah 3 bulan”.
 
-**Pros:**
-- Consistently top-tier rates
-- No fees whatsoever
-- Easy-to-use app and website
-- No minimum balance
-- Can link to external bank accounts for easy transfers
+**Kelebihan:**
+- Bunga konsisten di level atas
+- Tidak ada biaya apa pun
+- Aplikasi dan situs web mudah dipakai
+- Tidak ada saldo minimum
+- Bisa terhubung ke rekening bank lain untuk transfer mudah
 
-**Cons:**
-- No checking account (savings and CDs only)
-- No ATM access
-- Transfers to external banks take 1-3 business days
+**Kekurangan:**
+- Tidak ada rekening giro (hanya tabungan dan deposito)
+- Tidak ada akses ATM
+- Transfer ke bank lain butuh 1-3 hari kerja
 
 ### 2. Ally Bank
 
-**APY:** 4.25%
-**Minimum deposit:** $0
-**Monthly fee:** None
+**APY:** 4,25%
+**Setoran minimum:** Rp 0
+**Biaya bulanan:** Tidak ada
 
-Ally is the most complete online bank I've used. Beyond the high-yield savings account, they offer checking, CDs, money market accounts, and even investment services—all under one roof.
+Ally adalah bank digital paling lengkap yang pernah saya pakai. Selain rekening tabungan bunga tinggi, mereka juga punya rekening giro, deposito, money market, bahkan layanan investasi—semuanya dalam satu tempat.
 
-**Pros:**
-- Full banking ecosystem (checking, savings, CDs, investing)
-- Buckets feature to organize savings goals
-- 24/7 customer support (phone, chat, email)
-- No minimum balance or fees
-- ATM reimbursement on checking account
+**Kelebihan:**
+- Ekosistem perbankan lengkap (giro, tabungan, deposito, investasi)
+- Fitur Buckets untuk mengatur tujuan tabungan
+- Layanan pelanggan 24/7 (telepon, chat, email)
+- Tidak ada saldo minimum atau biaya
+- Penggantian biaya ATM untuk rekening giro
 
-**Cons:**
-- APY slightly lower than some competitors
-- No physical branches
-- External transfers can take 1-3 days
+**Kekurangan:**
+- APY sedikit lebih rendah dari beberapa pesaing
+- Tidak ada cabang fisik
+- Transfer ke rekening luar bisa 1-3 hari
 
-I personally use Ally as my primary savings bank because the Buckets feature makes it easy to separate [emergency fund](/blog/emergency-fund-guide/)s, vacation savings, and other goals without opening multiple accounts.
+Saya pribadi memakai Ally sebagai bank tabungan utama karena fitur Buckets memudahkan saya memisahkan dana darurat, tabungan liburan, dan tujuan lain tanpa harus buka banyak rekening.
 
 ### 3. Discover Online Savings
 
-**APY:** 4.30%
-**Minimum deposit:** $0
-**Monthly fee:** None
+**APY:** 4,30%
+**Setoran minimum:** Rp 0
+**Biaya bulanan:** Tidak ada
 
-Discover is a solid all-around option with competitive rates and good customer service. If you already have a Discover credit card, keeping your savings here simplifies your financial life.
+Discover adalah pilihan yang solid secara keseluruhan, dengan bunga kompetitif dan layanan pelanggan yang bagus. Kalau kamu sudah punya kartu kredit Discover, menyimpan tabungan di sini bisa bikin urusan keuangan lebih simpel.
 
-**Pros:**
-- Competitive APY
-- No fees or minimums
-- Cashback debit card option on their checking account
-- Strong mobile app
-- Same-day transfers between Discover accounts
+**Kelebihan:**
+- APY kompetitif
+- Tidak ada biaya atau saldo minimum
+- Opsi kartu debit cashback untuk rekening giro
+- Aplikasi mobile yang kuat
+- Transfer antar rekening Discover di hari yang sama
 
-**Cons:**
-- Fewer features than Ally
-- External transfers can be slow
-- Limited branch access (only in Delaware)
+**Kekurangan:**
+- Fitur lebih sedikit dibanding Ally
+- Transfer ke bank luar bisa lambat
+- Akses cabang terbatas
 
 ### 4. SoFi Savings
 
-**APY:** 4.50% (with direct deposit)
-**Minimum deposit:** $0
-**Monthly fee:** None
+**APY:** 4,50% (dengan direct deposit)
+**Setoran minimum:** Rp 0
+**Biaya bulanan:** Tidak ada
 
-[SoFi](/blog/sofi-review-interest-rates-and-features/) offers one of the highest rates available, but there's a catch: you need to set up direct deposit to get the top APY. Without direct deposit, the rate drops to around 1.20%.
+[SoFi](/blog/sofi-review-interest-rates-and-features/) menawarkan salah satu bunga tertinggi yang tersedia, tapi ada syaratnya: kamu harus mengaktifkan direct deposit untuk mendapatkan APY terbaik. Tanpa direct deposit, bunganya turun ke sekitar 1,20%.
 
-**Pros:**
-- Top-tier APY with direct deposit
-- Checking and savings in one account
-- No fees or minimums
-- Up to $2 million FDIC coverage through partner banks
-- Cash bonuses for new members
+**Kelebihan:**
+- APY sangat tinggi dengan direct deposit
+- Rekening giro dan tabungan dalam satu akun
+- Tidak ada biaya atau saldo minimum
+- Perlindungan hingga Rp 30 miliar melalui bank mitra
+- Bonus tunai untuk anggota baru
 
-**Cons:**
-- Must have direct deposit for the best rate
-- The "one account for everything" model isn't for everyone
-- Newer bank, shorter track record than Ally or Discover
+**Kekurangan:**
+- Harus punya direct deposit untuk bunga terbaik
+- Model “satu akun untuk semuanya” tidak cocok untuk semua orang
+- Bank yang lebih baru, rekam jejaknya lebih pendek dibanding Ally atau Discover
 
 ### 5. Wealthfront Cash Account
 
-**APY:** 4.25%
-**Minimum deposit:** $0
-**Monthly fee:** None
+**APY:** 4,25%
+**Setoran minimum:** Rp 0
+**Biaya bulanan:** Tidak ada
 
-Wealthfront is primarily a [robo-advisor](/blog/robo-advisor-indonesia-review-2026-guide/), but their cash account offers excellent savings rates with FDIC coverage up to $8 million through partner banks.
+Wealthfront utamanya adalah [robo-advisor](/blog/robo-advisor-indonesia-review-2026-guide/), tapi rekening cash mereka menawarkan bunga tabungan yang sangat menarik dengan perlindungan LPS hingga sekitar Rp 120 miliar melalui bank mitra.
 
-**Pros:**
-- Up to $8 million in FDIC coverage
-- Integrates with Wealthfront's investment platform
-- Autopilot feature for [automatic savings](/blog/10-automatic-savings-tips-and-tricks/)
-- No fees or minimums
+**Kelebihan:**
+- Perlindungan hingga sekitar Rp 120 miliar
+- Terintegrasi dengan platform investasi Wealthfront
+- Fitur autopilot untuk [tabungan otomatis](/blog/10-automatic-savings-tips-and-tricks/)
+- Tidak ada biaya atau saldo minimum
 
-**Cons:**
-- Not a traditional bank
-- Limited banking features (no checks, limited bill pay)
-- Best suited as a complement to a primary bank
+**Kekurangan:**
+- Bukan bank tradisional
+- Fitur perbankan terbatas (tidak ada cek, pembayaran tagihan terbatas)
+- Lebih cocok sebagai pelengkap bank utama
 
-## High-Yield Savings Comparison Table
+## Tabel Perbandingan Rekening Tabungan Bunga Tinggi
 
-| Bank | APY | Min. Balance | Monthly Fee | FDIC Coverage | Checking Available |
+| Bank | APY | Saldo Min. | Biaya Bulanan | Perlindungan LPS | Tersedia Rekening Giro |
 |------|-----|-------------|-------------|---------------|-------------------|
-| SoFi | 4.50%* | $0 | $0 | $2M | Yes |
-| Marcus | 4.40% | $0 | $0 | $250K | No |
-| Discover | 4.30% | $0 | $0 | $250K | Yes |
-| Ally | 4.25% | $0 | $0 | $250K | Yes |
-| Wealthfront | 4.25% | $0 | $0 | $8M | Limited |
+| SoFi | 4,50%* | Rp 0 | Rp 0 | Rp 30 miliar | Ya |
+| Marcus | 4,40% | Rp 0 | Rp 0 | Rp 2 miliar | Tidak |
+| Discover | 4,30% | Rp 0 | Rp 0 | Rp 2 miliar | Ya |
+| Ally | 4,25% | Rp 0 | Rp 0 | Rp 2 miliar | Ya |
+| Wealthfront | 4,25% | Rp 0 | Rp 0 | Rp 120 miliar | Terbatas |
 
-*SoFi rate requires direct deposit
+*Bunga SoFi mensyaratkan direct deposit
 
-## Best CD Rates in 2026
+## Bunga Deposito Terbaik di 2026
 
-If you have money you won't need for a set period, CDs can lock in today's rates before they drop further. Here are the best CD rates I've found:
+Kalau kamu punya uang yang tidak akan dipakai dalam jangka waktu tertentu, deposito bisa mengunci bunga saat ini sebelum turun lagi. Berikut bunga deposito terbaik yang saya temukan:
 
-### Short-Term CDs (3-6 Months)
+### Deposito Jangka Pendek (3-6 Bulan)
 
-| Bank | 3-Month APY | 6-Month APY | Minimum |
+| Bank | APY 3 Bulan | APY 6 Bulan | Minimum |
 |------|-------------|-------------|---------|
-| Marcus | 4.30% | 4.40% | $500 |
-| Ally | 4.25% | 4.35% | $0 |
-| Discover | 4.20% | 4.30% | $2,500 |
-| Bread Savings | 4.40% | 4.50% | $1,500 |
+| Marcus | 4,30% | 4,40% | Rp 7,5 juta |
+| Ally | 4,25% | 4,35% | Rp 0 |
+| Discover | 4,20% | 4,30% | Rp 37,5 juta |
+| Bread Savings | 4,40% | 4,50% | Rp 22,5 juta |
 
-### Long-Term CDs (1-5 Years)
+### Deposito Jangka Panjang (1-5 Tahun)
 
-| Bank | 1-Year APY | 3-Year APY | 5-Year APY | Minimum |
-|------|-----------|-----------|-----------|---------|
-| Marcus | 4.25% | 3.90% | 3.70% | $500 |
-| Ally | 4.20% | 3.85% | 3.65% | $0 |
-| Discover | 4.15% | 3.80% | 3.60% | $2,500 |
-| Bread Savings | 4.35% | 4.00% | 3.80% | $1,500 |
-| Barclays | 4.30% | 3.95% | 3.75% | $0 |
+| Bank | APY 1 Tahun | APY 3 Tahun | APY 5 Tahun | Minimum |
+|------|-----------|-----------|-----------|-----------|
+| Marcus | 4,25% | 3,90% | 3,70% | Rp 7,5 juta |
+| Ally | 4,20% | 3,85% | 3,65% | Rp 0 |
+| Discover | 4,15% | 3,80% | 3,60% | Rp 37,5 juta |
+| Bread Savings | 4,35% | 4,00% | 3,80% | Rp 22,5 juta |
+| Barclays | 4,30% | 3,95% | 3,75% | Rp 0 |
 
-### CD Strategies
+### Strategi Deposito
 
-**CD Ladder:** Instead of putting all your money in one CD, spread it across multiple terms. For example, split $10,000 into five $2,000 CDs with 1, 2, 3, 4, and 5-year terms. Each year when one matures, reinvest it in a new 5-year CD. This gives you annual access to a portion of your money while capturing longer-term rates.
+**CD Ladder:** Daripada menaruh semua uang di satu deposito, bagi ke beberapa tenor. Misalnya, pecah Rp 150 juta jadi lima deposito masing-masing Rp 30 juta dengan tenor 1, 2, 3, 4, dan 5 tahun. Setiap tahun saat satu deposito jatuh tempo, kamu reinvest ke deposito 5 tahun yang baru. Dengan begitu, kamu tetap punya akses ke sebagian dana tiap tahun sambil menikmati bunga jangka panjang.
 
-**No-Penalty CDs:** Ally and Marcus offer no-penalty CDs that let you withdraw early without fees. The rates are slightly lower than regular CDs, but the flexibility is worth it if you're unsure about locking up your money.
+**Deposito tanpa penalti:** Ally dan Marcus menawarkan deposito tanpa penalti yang memungkinkan kamu tarik lebih awal tanpa biaya. Bunganya sedikit lebih rendah daripada deposito biasa, tapi fleksibilitasnya layak dipilih kalau kamu belum yakin ingin mengunci dana.
 
-## HYSA vs. CD: Which Should You Choose?
+## HYSA vs. Deposito: Mana yang Harus Dipilih?
 
-| Factor | HYSA | CD |
+| Faktor | HYSA | Deposito |
 |--------|------|-----|
-| Liquidity | Withdraw anytime | Locked for the term (early withdrawal penalty) |
-| Rate | Variable, can change daily | Fixed for the entire term |
-| Best when | Rates are rising or you need access | Rates are falling and you want to lock in |
-| Risk | Rate could drop | Miss out if rates rise |
+| Likuiditas | Bisa tarik kapan saja | Terkunci selama tenor berjalan (ada penalti jika dicairkan lebih awal) |
+| Bunga | Variabel, bisa berubah setiap hari | Tetap selama tenor |
+| Paling cocok saat | Bunga naik atau kamu butuh akses | Bunga turun dan kamu ingin mengunci |
+| Risiko | Bunga bisa turun | Kehilangan peluang kalau bunga naik |
 
-In the current environment (rates elevated but likely declining), I think a mix of both makes sense. Keep 3-6 months of expenses in a HYSA for emergencies and liquidity, then put additional savings into 1-3 year CDs to lock in today's rates.
+Dalam kondisi sekarang (bunga masih tinggi tapi kemungkinan turun), menurut saya kombinasi keduanya paling masuk akal. Simpan 3-6 bulan pengeluaran di HYSA untuk dana darurat dan likuiditas, lalu masukkan tabungan tambahan ke deposito 1-3 tahun untuk mengunci bunga saat ini.
 
-## How to Maximize Your Savings
+## Cara Memaksimalkan Tabunganmu
 
-### 1. Automate Transfers
+### 1. Otomatiskan Transfer
 
-Set up automatic monthly transfers from your checking account to your HYSA. Even $200/month adds up to $2,400/year plus interest. I've found that automation is the single most effective savings strategy because it removes the decision from the equation.
+Atur transfer otomatis bulanan dari rekening giro ke HYSA. Bahkan Rp 3 juta per bulan bisa jadi Rp 36 juta setahun, belum termasuk bunga. Saya merasa otomatisasi adalah strategi menabung paling efektif karena menghilangkan unsur “mau atau tidak” dari keputusan.
 
-### 2. Use Savings Buckets
+### 2. Pakai Buckets atau Kantong Tabungan
 
-Ally's Buckets and similar features at other banks let you mentally segregate your savings without opening multiple accounts. I use separate buckets for emergency fund, vacation, home repairs, and annual insurance premiums.
+Fitur Buckets di Ally dan fitur serupa di bank lain memungkinkan kamu memisahkan tabungan secara mental tanpa harus buka banyak rekening. Saya biasanya punya kantong terpisah untuk dana darurat, liburan, perbaikan rumah, dan premi asuransi tahunan.
 
-### 3. Don't Chase the Highest APY
+### 3. Jangan Mengejar APY Tertinggi Terus-Menerus
 
-Switching banks every time a competitor offers 0.10% more APY isn't worth the hassle. The difference between 4.25% and 4.35% on $10,000 is $10/year. Pick a bank with consistently competitive rates, good features, and stick with it.
+Pindah bank setiap kali ada pesaing yang kasih bunga 0,10% lebih tinggi biasanya tidak sepadan dengan repotnya. Selisih antara 4,25% dan 4,35% pada Rp 150 juta cuma sekitar Rp 150 ribu per tahun. Pilih bank yang bunganya konsisten kompetitif, fiturnya bagus, lalu bertahanlah di sana.
 
-### 4. Understand FDIC Limits
+### 4. Pahami Batas Perlindungan LPS
 
-Standard FDIC coverage is $250,000 per depositor, per bank. If you have more than $250,000, spread it across multiple banks or use a service like Wealthfront or SoFi that partners with multiple banks to extend your coverage.
+Perlindungan LPS standar adalah Rp 2 miliar per nasabah per bank. Kalau kamu punya lebih dari itu, sebar ke beberapa bank atau gunakan layanan yang bekerja sama dengan banyak bank untuk memperluas perlindungan.
 
-### 5. Keep Your Emergency Fund Separate
+### 5. Pisahkan Dana Darurat
 
-Your emergency fund should be in a HYSA—not in CDs, not in investments. The whole point of an emergency fund is instant access. I recommend 3-6 months of expenses for most people, and 6-12 months if you're self-employed or in a volatile industry.
+Dana darurat sebaiknya disimpan di HYSA—bukan deposito, bukan investasi. Tujuan dana darurat adalah akses cepat. Saya menyarankan 3-6 bulan pengeluaran untuk kebanyakan orang, dan 6-12 bulan kalau kamu wiraswasta atau bekerja di industri yang tidak stabil.
 
-## Common Mistakes to Avoid
+## Kesalahan Umum yang Harus Dihindari
 
-- **Leaving money in a big bank at 0.01%** — This is the biggest one. The difference between 0.01% and 4.40% on $25,000 is over $1,000/year
-- **Not reading the fine print on promotional rates** — Some banks offer high teaser rates for 3-6 months, then drop to below-market rates
-- **Ignoring early withdrawal penalties on CDs** — Typical penalties range from 90 days to 6 months of interest. Factor this in before locking up money
-- **Treating savings as an investment strategy** — HYSAs and CDs are for safety and liquidity, not wealth building. For long-term growth, you need investments
-- **Having too much in savings** — Once your emergency fund and short-term goals are covered, excess cash should be invested for better long-term returns
+- **Meninggalkan uang di bank besar dengan bunga 0,01%** — Ini yang paling besar. Selisih antara 0,01% dan 4,40% pada Rp 375 juta bisa lebih dari Rp 15 juta per tahun
+- **Tidak membaca syarat promo bunga** — Beberapa bank memberi bunga tinggi hanya 3-6 bulan, lalu turun ke level di bawah pasar
+- **Mengabaikan penalti pencairan awal pada deposito** — Penalti biasanya setara 90 hari sampai 6 bulan bunga. Pertimbangkan ini sebelum mengunci dana
+- **Menganggap tabungan sebagai strategi investasi** — HYSA dan deposito dibuat untuk keamanan dan likuiditas, bukan untuk membangun kekayaan. Untuk pertumbuhan jangka panjang, kamu butuh investasi
+- **Menaruh terlalu banyak uang di tabungan** — Setelah dana darurat dan tujuan jangka pendek terpenuhi, sisa uang sebaiknya diinvestasikan untuk imbal hasil jangka panjang yang lebih baik
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Are high-yield savings accounts safe?
+### Apakah rekening tabungan bunga tinggi aman?
 
-Yes. High-yield savings accounts at FDIC-insured banks are just as safe as savings accounts at your local bank. Your deposits are insured up to $250,000 per depositor, per bank. Online banks like Ally, Marcus, and Discover are all FDIC-insured. The higher APY comes from lower overhead costs, not higher risk.
+Ya. Rekening tabungan bunga tinggi di bank yang dijamin LPS sama amannya dengan tabungan di bank lokal kamu. Simpananmu dijamin sampai Rp 2 miliar per nasabah per bank. Bank digital seperti Ally, Marcus, dan Discover semuanya dijamin LPS. APY yang lebih tinggi berasal dari biaya operasional yang lebih rendah, bukan dari risiko yang lebih besar.
 
-### How much should I keep in a high-yield savings account?
+### Berapa banyak uang yang sebaiknya saya simpan di rekening tabungan bunga tinggi?
 
-I recommend keeping 3-6 months of essential expenses in a HYSA as your emergency fund, plus any money you'll need within the next 1-2 years (vacation fund, down payment savings, upcoming large purchases). Anything beyond that should generally be invested for better long-term returns. For most people, $10,000-30,000 in a HYSA is a good target.
+Saya merekomendasikan 3-6 bulan pengeluaran pokok di HYSA sebagai dana darurat, plus uang yang akan kamu butuhkan dalam 1-2 tahun ke depan (dana liburan, uang muka rumah, pembelian besar yang sudah direncanakan). Sisanya umumnya lebih baik diinvestasikan untuk imbal hasil jangka panjang yang lebih baik. Bagi kebanyakan orang, Rp 150 juta-450 juta di HYSA adalah target yang masuk akal.
 
-### Will high-yield savings rates go down in 2026?
+### Apakah bunga HYSA akan turun di 2026?
 
-Likely yes, but gradually. HYSA rates track the Federal Reserve's benchmark rate, and the Fed is expected to continue cutting rates through 2026. However, rates are still historically attractive at 4%+. This is also why locking in CD rates now can be smart if you have money you won't need for 1-3 years.
+Kemungkinan iya, tapi bertahap. Bunga HYSA mengikuti suku bunga acuan bank sentral, dan bank sentral diperkirakan masih akan menurunkan bunga sepanjang 2026. Namun, level bunganya masih menarik secara historis di atas 4%. Karena itu, mengunci bunga deposito sekarang bisa jadi langkah cerdas kalau kamu tidak akan memakai uang itu selama 1-3 tahun.
 
-### What's the difference between a money market account and a high-yield savings account?
+### Apa bedanya rekening money market dan rekening tabungan bunga tinggi?
 
-Both offer competitive interest rates and FDIC insurance. Money market accounts sometimes come with check-writing and debit card access, making them slightly more flexible. However, the APY difference is usually minimal. I prefer HYSAs for their simplicity, but money market accounts can be useful if you want limited transaction capability with your savings.
+Keduanya menawarkan bunga kompetitif dan perlindungan LPS. Rekening money market kadang dilengkapi fitur penulisan cek dan akses kartu debit, jadi sedikit lebih fleksibel. Namun, selisih APY biasanya kecil. Saya lebih suka HYSA karena lebih sederhana, tapi money market bisa berguna kalau kamu ingin kemampuan transaksi terbatas dari tabunganmu.
 
-### Do I have to pay taxes on high-yield savings account interest?
+### Apakah saya harus bayar pajak atas bunga rekening tabungan bunga tinggi?
 
-Yes. Interest earned in a HYSA or CD is taxable as ordinary income at the federal level (and in most states). Your bank will send you a 1099-INT form for any interest over $10. If you're in the 22% federal tax bracket, a 4.40% APY effectively becomes about 3.43% after federal taxes. Despite the tax, the returns are still vastly better than earning 0.01% at a traditional bank.
+Ya. Bunga yang diperoleh dari HYSA atau deposito dikenakan pajak sebagai penghasilan biasa di tingkat federal, dan di sebagian besar negara bagian. Bank akan mengirimkan formulir 1099-INT untuk bunga di atas $10. Kalau kamu berada di tarif pajak federal 22%, APY 4,40% secara efektif jadi sekitar 3,43% setelah pajak federal. Meski kena pajak, hasilnya tetap jauh lebih baik daripada cuma dapat 0,01% di bank tradisional.

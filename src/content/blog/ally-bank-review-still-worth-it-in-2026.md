@@ -1,6 +1,6 @@
 ---
-title: "Ally Bank Review [2026]: Best Online Bank?"
-description: "Ally Bank pays 4.25% APY with no minimums and no monthly fees. But is it the best online bank? Full review of savings, checking, CDs, and customer service."
+title: "Review Ally Bank [2026]: Bank Online Terbaik?"
+description: "Ally Bank memberi APY 4,25% tanpa minimum saldo dan tanpa biaya bulanan. Tapi apakah ini bank online terbaik?"
 pubDate: 2026-03-20
 category: "digital-banking"
 tags: ["Ally Bank", "online bank review", "high-yield savings", "Ally Bank review", "best online bank"]
@@ -10,196 +10,196 @@ heroImageAlt: 'Ally Bank Review [2026]: Best Online Bank?'
 
 ---
 
-## Why I Switched to Ally Bank
+## Kenapa Saya Pindah ke Ally Bank
 
-I opened my Ally Bank account in 2021 after getting tired of earning basically nothing at my brick-and-mortar bank. Five years later, I still keep most of my savings there. But the online banking space has gotten a lot more competitive since then, and I wanted to take an honest look at whether Ally Bank still deserves the top spot in 2026.
+Saya membuka rekening Ally Bank pada 2021 setelah bosan mendapatkan bunga yang nyaris nol di bank cabang biasa. Lima tahun kemudian, saya masih menyimpan sebagian besar tabungan saya di sana. Tapi sejak itu, persaingan di dunia perbankan online makin ketat, dan saya ingin melihat secara jujur apakah Ally Bank masih layak jadi pilihan utama di 2026.
 
-In this review, I am going to break down everything you need to know about Ally Bank: the savings rates, checking account perks, CD options, customer service quality, and the few things that genuinely bother me. If you are thinking about opening an Ally account or wondering whether to stay, this is the review I wish I had read before signing up.
+Di ulasan ini, saya akan membahas semua yang perlu kamu tahu tentang Ally Bank: suku bunga tabungan, keunggulan rekening giro, pilihan deposito berjangka, kualitas layanan pelanggan, dan beberapa hal yang benar-benar mengganggu saya. Kalau kamu sedang mempertimbangkan membuka rekening Ally atau ragu untuk tetap bertahan, ini adalah ulasan yang saya sendiri ingin baca sebelum daftar.
 
-## Ally Bank at a Glance
+## Ally Bank Sekilas
 
-| Feature | Details |
+| Fitur | Detail |
 |---|---|
-| Savings APY | 4.25% (as of March 2026) |
-| Checking APY | 0.25% |
-| Monthly fees | $0 |
-| Minimum deposit | $0 |
-| ATM network | 43,000+ Allpoint ATMs |
-| FDIC insured | Yes, up to $250,000 |
-| Mobile app rating | 4.7/5 (App Store), 4.5/5 (Google Play) |
-| Joint accounts | Yes |
-| Customer support | 24/7 phone, chat, email |
+| APY tabungan | 4,25% (per Maret 2026) |
+| APY giro | 0,25% |
+| Biaya bulanan | Rp 0 |
+| Setoran minimum | Rp 0 |
+| Jaringan ATM | 43.000+ ATM Allpoint |
+| Dijamin LPS | Ya, hingga Rp 2,5 miliar |
+| Rating aplikasi mobile | 4,7/5 (App Store), 4,5/5 (Google Play) |
+| Rekening bersama | Ya |
+| Dukungan pelanggan | Telepon, chat, email 24/7 |
 
-## Ally High-Yield Savings Account
+## Rekening Tabungan Bunga Tinggi Ally
 
-This is the product that put Ally on the map, and it is still their strongest offering. The [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account pays 4.25% APY with zero minimum balance requirements and zero monthly maintenance fees.
+Inilah produk yang membuat Ally dikenal, dan sampai sekarang masih jadi andalan mereka. Rekening [tabungan bunga tinggi](/blog/best-high-yield-savings-accounts-2026/) ini memberi APY 4,25% tanpa syarat saldo minimum dan tanpa biaya administrasi bulanan.
 
-### What I Like About Ally Savings
+### Yang Saya Suka dari Tabungan Ally
 
-- **No minimum balance**: You can open the account with literally one dollar. There is no tiered rate structure where you need $10,000 or more to get the advertised APY.
-- **Buckets feature**: Ally lets you create virtual "buckets" within a single savings account. I use these to separate my emergency fund, vacation savings, and house down payment money without opening multiple accounts.
-- **No transfer limits**: After the Fed lifted Regulation D restrictions, Ally removed the six-transfer-per-month cap on savings withdrawals. You can move money in and out as often as you need.
-- **Compound interest**: Interest compounds daily and posts monthly, which means your money grows slightly faster than accounts that compound monthly.
+- **Tanpa saldo minimum**: Kamu bisa buka rekening dengan uang sangat kecil, bahkan setara Rp 15 ribu. Tidak ada struktur bunga bertingkat yang mengharuskan kamu punya Rp 150 juta atau lebih untuk dapat APY yang diiklankan.
+- **Fitur buckets**: Ally memungkinkan kamu membuat “bucket” virtual di dalam satu rekening tabungan. Saya pakai ini untuk memisahkan dana darurat, tabungan liburan, dan uang muka rumah tanpa harus buka banyak rekening.
+- **Tanpa batas transfer**: Setelah pembatasan Regulation D dicabut, Ally menghapus batas enam kali transfer per bulan untuk penarikan tabungan. Kamu bisa keluar-masukin uang sesering yang kamu butuhkan.
+- **Bunga berbunga**: Bunga dihitung setiap hari dan dibayarkan setiap bulan, jadi uangmu tumbuh sedikit lebih cepat dibanding rekening yang menghitung bunga bulanan.
 
-### What Could Be Better
+### Yang Bisa Lebih Baik
 
-- **Rate fluctuations**: Ally's rate follows the federal funds rate. When the Fed cuts rates, your APY drops. This happened in late 2024 and early 2025, and it will happen again eventually.
-- **No sign-up bonus**: Unlike some competitors, Ally rarely offers cash bonuses for new accounts. You are signing up for the rate, not a one-time perk.
+- **Fluktuasi suku bunga**: Suku bunga Ally mengikuti suku bunga acuan. Saat bank sentral menurunkan suku bunga, APY kamu ikut turun. Ini terjadi di akhir 2024 dan awal 2025, dan pasti akan terjadi lagi suatu saat.
+- **Tidak ada bonus pendaftaran**: Berbeda dengan beberapa pesaing, Ally jarang memberi bonus tunai untuk rekening baru. Kamu daftar karena bunganya, bukan karena bonus sekali pakai.
 
-## Ally Interest Checking Account
+## Rekening Giro Bunga Ally
 
-Ally's checking account is surprisingly good for an online bank. It pays 0.25% APY, which is not going to make you rich but is better than the 0.01% most traditional banks offer.
+Rekening giro Ally ternyata cukup bagus untuk bank online. Rekening ini memberi APY 0,25%, yang memang tidak bikin kaya, tapi jauh lebih baik daripada 0,01% yang ditawarkan banyak bank tradisional.
 
-### Key Checking Features
+### Fitur Utama Rekening Giro
 
-- **No monthly fees**: No minimum balance, no direct deposit requirement, no games.
-- **Fee-free ATM access**: Use any of the 43,000+ Allpoint ATMs across the US for free. If you accidentally use an out-of-network ATM, Ally reimburses up to $10 per billing cycle.
-- **Free checks and debit card**: Ally sends you a Visa debit card and a box of checks at no cost.
-- **Overdraft protection**: You can link your savings account to cover overdrafts. Ally also has a $100 buffer on their "CoverDraft" feature for qualifying accounts, meaning they will cover transactions up to $100 over your balance without charging a fee.
-- **Zelle built in**: Send money to friends and family instantly through the Ally app using Zelle.
+- **Tanpa biaya bulanan**: Tidak ada saldo minimum, tidak ada syarat direct deposit, tidak ada trik aneh.
+- **Akses ATM gratis biaya**: Kamu bisa pakai 43.000+ ATM Allpoint di seluruh Indonesia/mitra jaringan tanpa biaya. Kalau tidak sengaja pakai ATM di luar jaringan, Ally mengganti hingga Rp 150 ribu per siklus tagihan.
+- **Buku cek dan kartu debit gratis**: Ally mengirim kartu debit Visa dan buku cek tanpa biaya.
+- **Proteksi overdraft**: Kamu bisa menghubungkan rekening tabungan untuk menutup kekurangan saldo. Ally juga punya buffer Rp 1,5 juta di fitur “CoverDraft” untuk rekening yang memenuhi syarat, artinya transaksi sampai Rp 1,5 juta di atas saldo bisa ditutup tanpa biaya.
+- **Transfer instan**: Kirim uang ke teman dan keluarga langsung lewat aplikasi Ally menggunakan fitur transfer instan seperti GoPay/OVO/Dana-style payment.
 
-### Checking Account Drawbacks
+### Kekurangan Rekening Giro
 
-- **No cash deposits**: This is the biggest limitation of any online bank. You cannot walk into a branch and deposit cash. If you regularly receive cash payments, you will need a workaround like depositing cash at a different bank and transferring it.
-- **ATM deposit limits**: Mobile check deposits have a $50,000 daily limit, which is generous, but ATM deposits through Allpoint are not universally supported at all locations.
+- **Tidak bisa setor tunai**: Ini kelemahan terbesar bank online. Kamu tidak bisa datang ke cabang lalu setor uang tunai. Kalau kamu sering menerima pembayaran cash, kamu perlu cara lain, misalnya setor tunai di bank lain lalu transfer ke Ally.
+- **Batas setor via ATM**: Setoran cek lewat mobile punya batas harian Rp 750 juta, yang sangat besar, tetapi setoran lewat ATM Allpoint tidak selalu didukung di semua lokasi.
 
-## Ally Bank CDs
+## Deposito Berjangka Ally Bank
 
-Ally offers several CD products that are worth considering if you want to lock in a rate.
+Ally menawarkan beberapa produk deposito berjangka yang layak dipertimbangkan kalau kamu ingin mengunci bunga.
 
-### CD Options and Rates
+### Pilihan Deposito dan Suku Bunga
 
-| CD Term | APY (March 2026) | Minimum Deposit |
+| Tenor Deposito | APY (Maret 2026) | Setoran Minimum |
 |---|---|---|
-| 3 months | 4.00% | $0 |
-| 6 months | 4.10% | $0 |
-| 1 year | 4.15% | $0 |
-| 18 months | 4.00% | $0 |
-| 3 years | 3.75% | $0 |
-| 5 years | 3.50% | $0 |
+| 3 bulan | 4,00% | Rp 0 |
+| 6 bulan | 4,10% | Rp 0 |
+| 1 tahun | 4,15% | Rp 0 |
+| 18 bulan | 4,00% | Rp 0 |
+| 3 tahun | 3,75% | Rp 0 |
+| 5 tahun | 3,50% | Rp 0 |
 
-### High-Yield CD vs No-Penalty CD
+### Deposito Bunga Tinggi vs Deposito Tanpa Penalti
 
-Ally also offers a No-Penalty CD that lets you withdraw your full balance after the first six days without paying an early withdrawal penalty. The trade-off is a slightly lower rate, usually around 0.15% to 0.25% less than the standard CD for the same term.
+Ally juga menawarkan Deposito Tanpa Penalti yang memungkinkan kamu menarik seluruh saldo setelah enam hari pertama tanpa kena penalti penarikan awal. Konsekuensinya, bunganya sedikit lebih rendah, biasanya sekitar 0,15% sampai 0,25% di bawah deposito standar dengan tenor yang sama.
 
-I have used the No-Penalty CD as a short-term parking spot for money I might need within a few months. It is a nice middle ground between savings and a traditional CD.
+Saya pernah memakai Deposito Tanpa Penalti sebagai tempat parkir jangka pendek untuk uang yang mungkin saya butuhkan dalam beberapa bulan. Ini jadi jalan tengah yang enak antara tabungan dan deposito biasa.
 
 ### Raise Your Rate CD
 
-This is an interesting product where Ally lets you increase your rate once (for a 2-year term) or twice (for a 4-year term) if rates go up during your CD term. It is useful in a rising-rate environment, but the initial APY is usually lower than a standard CD.
+Ini produk yang menarik, karena Ally membolehkan kamu menaikkan bunga satu kali (untuk tenor 2 tahun) atau dua kali (untuk tenor 4 tahun) kalau suku bunga naik selama masa deposito. Cocok di lingkungan suku bunga naik, tapi APY awalnya biasanya lebih rendah daripada deposito standar.
 
-## Ally Invest: The Brokerage Side
+## Ally Invest: Sisi Investasinya
 
-Ally is not just a bank. They also have a brokerage arm called Ally Invest that lets you trade stocks, ETFs, options, and mutual funds.
+Ally bukan cuma bank. Mereka juga punya layanan investasi bernama Ally Invest yang memungkinkan kamu beli saham, ETF, opsi, dan reksa dana.
 
-### What Ally Invest Offers
+### Apa yang Ditawarkan Ally Invest
 
-- **$0 stock and ETF trades**: Commission-free trading for US-listed stocks and ETFs.
-- **Options trading**: $0.50 per contract, which is competitive but not the cheapest.
-- **Robo portfolio**: Ally's automated investing service charges no advisory fee and requires only a $100 minimum. However, it holds 30% of your portfolio in cash, which drags down overall returns.
-- **Self-directed and managed options**: You can choose to manage your own portfolio or let Ally handle it.
+- **Transaksi saham dan ETF Rp 0**: Trading tanpa komisi untuk saham dan ETF yang terdaftar di AS.
+- **Trading opsi**: Rp 7.500 per kontrak, cukup kompetitif tapi bukan yang termurah.
+- **Portofolio robo-advisor**: Layanan investasi otomatis Ally tidak mengenakan biaya konsultasi dan hanya butuh minimum Rp 1,5 juta. Namun, 30% portofolio disimpan dalam bentuk cash, yang bisa menekan imbal hasil keseluruhan.
+- **Opsi self-directed dan managed**: Kamu bisa kelola portofolio sendiri atau biarkan Ally yang mengurus.
 
-### Should You Use Ally Invest?
+### Perlukah Pakai Ally Invest?
 
-If you already bank with Ally, the convenience of having your bank and brokerage under one roof is nice. But if you are a serious investor, platforms like Fidelity, Schwab, or Vanguard offer more research tools, better fund options, and lower expense ratios on [index funds](/blog/index-fund-investing-guide/). I keep my brokerage at Fidelity and my savings at Ally.
+Kalau kamu sudah jadi nasabah Ally, punya bank dan platform investasi dalam satu tempat memang praktis. Tapi kalau kamu investor serius, platform seperti Fidelity, Schwab, atau Vanguard biasanya menawarkan alat riset yang lebih lengkap, pilihan reksa dana yang lebih baik, dan biaya pengelolaan yang lebih rendah pada [index fund](/blog/index-fund-investing-guide/). Saya sendiri menyimpan investasi di Fidelity dan tabungan di Ally.
 
-## Ally Bank Mobile App and Technology
+## Aplikasi Mobile dan Teknologi Ally Bank
 
-The Ally mobile app is clean, fast, and well-designed. I use it almost daily to check balances, transfer money, and deposit checks.
+Aplikasi mobile Ally bersih, cepat, dan desainnya enak dipakai. Saya hampir setiap hari memakainya untuk cek saldo, transfer uang, dan setor cek.
 
-### App Highlights
+### Keunggulan Aplikasi
 
-- **Mobile check deposit**: Snap a photo of your check and deposit it in seconds. Funds are usually available within one business day.
-- **Spending insights**: The app categorizes your transactions and shows spending trends over time.
-- **Biometric login**: Face ID, Touch ID, and fingerprint support for quick and secure access.
-- **Real-time alerts**: Get push notifications for deposits, withdrawals, large purchases, and low balance warnings.
-- **Dark mode**: A small thing, but I appreciate it for late-night balance checks.
+- **Setor cek lewat HP**: Foto cekmu dan setor dalam hitungan detik. Dana biasanya tersedia dalam satu hari kerja.
+- **Insight pengeluaran**: Aplikasi mengelompokkan transaksi dan menampilkan tren belanja dari waktu ke waktu.
+- **Login biometrik**: Face ID, Touch ID, dan sidik jari didukung untuk akses cepat dan aman.
+- **Peringatan real-time**: Dapat notifikasi push untuk setoran, penarikan, pembelian besar, dan peringatan saldo rendah.
+- **Mode gelap**: Hal kecil, tapi saya suka saat cek saldo malam-malam.
 
-### What the App Lacks
+### Kekurangan Aplikasi
 
-- **No budgeting tools**: Unlike some fintech apps, Ally does not have built-in budgeting or goal-tracking features beyond the savings buckets.
-- **Occasional slowdowns**: During peak times, I have noticed the app can be a bit sluggish when loading transaction history. It is not a dealbreaker, but it happens.
+- **Tidak ada alat budgeting**: Berbeda dengan beberapa aplikasi fintech, Ally tidak punya fitur budgeting atau pelacakan target bawaan selain buckets tabungan.
+- **Kadang lambat**: Saat jam sibuk, saya pernah melihat aplikasi agak lambat saat memuat riwayat transaksi. Bukan masalah besar, tapi memang terjadi.
 
-## Customer Service
+## Layanan Pelanggan
 
-Ally's customer service is available 24/7 by phone, chat, and email. In my experience, phone wait times are usually under five minutes, and the chat support is responsive.
+Layanan pelanggan Ally tersedia 24/7 lewat telepon, chat, dan email. Dari pengalaman saya, waktu tunggu telepon biasanya di bawah lima menit, dan dukungan chat cukup responsif.
 
-### My Customer Service Experiences
+### Pengalaman Saya dengan Layanan Pelanggan
 
-I have contacted Ally support three times over the past five years:
+Saya sudah tiga kali menghubungi dukungan Ally selama lima tahun terakhir:
 
-- **Wire transfer issue**: Resolved in one phone call, about 12 minutes total.
-- **Debit card replacement**: Ordered through the app, arrived in four business days.
-- **Account verification for mortgage**: Ally sent a verification letter within 48 hours of my request.
+- **Masalah transfer antarbank**: Selesai dalam satu panggilan telepon, total sekitar 12 menit.
+- **Penggantian kartu debit**: Dipesan lewat aplikasi, tiba dalam empat hari kerja.
+- **Verifikasi rekening untuk KPR**: Ally mengirim surat verifikasi dalam 48 jam setelah saya minta.
 
-Overall, I would rate their customer service as above average for an online bank. They are not perfect, but they are significantly better than the horror stories I have heard from some [neobanks](/blog/best-neobanks-2026/).
+Secara keseluruhan, saya menilai layanan pelanggan mereka di atas rata-rata untuk bank online. Mereka memang tidak sempurna, tapi jauh lebih baik daripada cerita horor yang pernah saya dengar dari beberapa [neobank](/blog/best-neobanks-2026/).
 
-## Ally Bank Security
+## Keamanan Ally Bank
 
-Security is critical for any online bank, and Ally takes it seriously.
+Keamanan itu penting untuk bank online mana pun, dan Ally menanggapinya dengan serius.
 
-- **FDIC insured**: Your deposits are insured up to $250,000 per depositor, per account category.
-- **Two-factor authentication**: Available via SMS or authenticator app.
-- **Fraud monitoring**: Ally monitors accounts for suspicious activity and will lock your card if something looks off.
-- **Ally Assist**: Their virtual assistant can help with basic account tasks without requiring you to call in.
+- **Dijamin LPS**: Simpanan kamu dilindungi hingga Rp 2,5 miliar per nasabah, per kategori kepemilikan rekening.
+- **Autentikasi dua faktor**: Tersedia lewat SMS atau aplikasi autentikator.
+- **Pemantauan fraud**: Ally memantau akun untuk aktivitas mencurigakan dan akan memblokir kartu kalau ada yang terlihat aneh.
+- **Ally Assist**: Asisten virtual mereka bisa membantu tugas dasar rekening tanpa harus menelepon.
 
-One thing I wish Ally would add is hardware security key support for two-factor authentication. SMS-based 2FA is better than nothing, but it is not the most secure option available.
+Satu hal yang saya harap Ally tambahkan adalah dukungan security key fisik untuk autentikasi dua faktor. 2FA lewat SMS memang lebih baik daripada tidak ada, tapi bukan opsi paling aman.
 
-## Who Should Use Ally Bank?
+## Siapa yang Cocok Pakai Ally Bank?
 
-Ally is an excellent choice for:
+Ally cocok untuk:
 
-- **Savers who want a high APY**: If your main goal is to earn a competitive rate on your savings with zero hassle, Ally delivers.
-- **People who rarely need cash deposits**: If you are paid via direct deposit and rarely handle physical cash, the lack of branches will not bother you.
-- **Anyone tired of bank fees**: No monthly fees, no minimum balance, no nonsense.
-- **Couples or families**: Joint accounts are easy to open, and the buckets feature makes shared saving straightforward.
+- **Penabung yang ingin APY tinggi**: Kalau tujuan utamamu adalah dapat bunga kompetitif tanpa ribet, Ally memenuhi itu.
+- **Orang yang jarang butuh setor tunai**: Kalau gajimu masuk lewat transfer dan kamu jarang pegang uang fisik, ketiadaan cabang bukan masalah.
+- **Siapa pun yang bosan dengan biaya bank**: Tanpa biaya bulanan, tanpa saldo minimum, tanpa drama.
+- **Pasangan atau keluarga**: Rekening bersama mudah dibuka, dan fitur buckets memudahkan menabung bareng.
 
-Ally might not be the best fit if:
+Ally mungkin kurang cocok kalau:
 
-- **You need frequent cash deposits**: Without branches, depositing cash is a pain.
-- **You want the highest possible rate**: Some banks like UFB Direct or Bread Financial occasionally beat Ally by 0.10% to 0.25%, though they may lack Ally's overall feature set.
-- **You want a full-service brokerage**: Ally Invest works, but dedicated platforms are better for active traders.
+- **Kamu sering setor tunai**: Tanpa cabang, setor cash jadi merepotkan.
+- **Kamu ingin bunga setinggi mungkin**: Beberapa bank seperti UFB Direct atau Bread Financial kadang mengalahkan Ally sebesar 0,10% sampai 0,25%, meski fiturnya mungkin tidak selengkap Ally.
+- **Kamu ingin platform investasi lengkap**: Ally Invest cukup bagus, tapi platform khusus biasanya lebih baik untuk trader aktif.
 
-## Ally Bank vs Other Online Banks
+## Ally Bank vs Bank Online Lain
 
-| Feature | Ally Bank | Marcus (Goldman Sachs) | Discover | Capital One 360 |
+| Fitur | Ally Bank | Marcus (Goldman Sachs) | Discover | Capital One 360 |
 |---|---|---|---|---|
-| Savings APY | 4.25% | 4.20% | 4.15% | 4.10% |
-| Checking account | Yes | No | Yes | Yes |
-| Monthly fees | $0 | $0 | $0 | $0 |
-| ATM network | 43,000+ | None | 60,000+ | 70,000+ |
-| CDs | Yes | Yes | Yes | Yes |
-| Brokerage | Yes | No | No | No |
-| Mobile app rating | 4.7/5 | 4.8/5 | 4.6/5 | 4.7/5 |
+| APY tabungan | 4,25% | 4,20% | 4,15% | 4,10% |
+| Rekening giro | Ya | Tidak | Ya | Ya |
+| Biaya bulanan | Rp 0 | Rp 0 | Rp 0 | Rp 0 |
+| Jaringan ATM | 43.000+ | Tidak ada | 60.000+ | 70.000+ |
+| Deposito | Ya | Ya | Ya | Ya |
+| Broker/investasi | Ya | Tidak | Tidak | Tidak |
+| Rating aplikasi mobile | 4,7/5 | 4,8/5 | 4,6/5 | 4,7/5 |
 
-Ally stands out because it offers a complete banking ecosystem: savings, checking, CDs, and investing all in one place. Marcus has a slightly better app experience but no checking account. Discover and Capital One offer larger ATM networks through their retail partnerships but slightly lower savings rates.
+Ally menonjol karena menawarkan ekosistem perbankan yang lengkap: tabungan, giro, deposito, dan investasi dalam satu tempat. Marcus punya pengalaman aplikasi yang sedikit lebih baik, tapi tidak punya rekening giro. Discover dan Capital One menawarkan jaringan ATM yang lebih besar lewat kemitraan ritel, tetapi suku bunga tabungannya sedikit lebih rendah.
 
-## The Bottom Line
+## Kesimpulan
 
-After five years as an Ally customer, I still think it is one of the best online banks in the US. The 4.25% APY on savings, zero fees, and solid mobile app make it a strong default choice for anyone looking to ditch their traditional bank.
+Setelah lima tahun jadi nasabah Ally, saya masih menganggap ini salah satu bank online terbaik. APY tabungan 4,25%, tanpa biaya, dan aplikasi mobile yang solid membuatnya jadi pilihan default yang kuat untuk siapa pun yang ingin pindah dari bank tradisional.
 
-Is it perfect? No. The lack of cash deposit options and the absence of physical branches are real limitations. And if you are chasing the absolute highest APY, you might find a slightly better rate elsewhere for a few months at a time.
+Apakah sempurna? Tidak. Tidak adanya opsi setor tunai dan ketiadaan cabang fisik adalah keterbatasan nyata. Dan kalau kamu mengejar APY setinggi mungkin, kamu mungkin bisa menemukan bunga sedikit lebih tinggi di tempat lain untuk beberapa bulan.
 
-But if you want a reliable, well-rounded online bank that does almost everything well, Ally is hard to beat. I plan on keeping my accounts there for the foreseeable future.
+Tapi kalau kamu ingin bank online yang andal, lengkap, dan hampir semuanya dikerjakan dengan baik, Ally sulit dikalahkan. Saya berencana tetap menyimpan rekening saya di sana untuk waktu yang cukup lama.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is Ally Bank safe for large deposits?
+### Apakah Ally Bank aman untuk simpanan besar?
 
-Yes. Ally Bank is FDIC insured, which means your deposits are protected up to $250,000 per depositor, per account ownership category. If you have more than $250,000, you can increase your coverage by opening [joint accounts](/blog/how-to-manage-money-as-a-couple/) or accounts in different ownership categories. Ally has been in operation since 2009 and holds tens of billions in deposits.
+Ya. Ally Bank dijamin LPS, yang berarti simpanan kamu dilindungi hingga Rp 2,5 miliar per nasabah, per kategori kepemilikan rekening. Kalau kamu punya lebih dari Rp 2,5 miliar, kamu bisa menambah perlindungan dengan membuka [rekening bersama](/blog/how-to-manage-money-as-a-couple/) atau rekening dengan kategori kepemilikan berbeda. Ally sudah beroperasi sejak 2009 dan menyimpan dana deposito dalam jumlah sangat besar.
 
-### Does Ally Bank have physical branches?
+### Apakah Ally Bank punya cabang fisik?
 
-No. Ally is a fully online bank with no physical branch locations. All banking is done through the mobile app, website, or phone. If you need to deposit cash, you will need to use a workaround like depositing at another bank and transferring the funds to Ally.
+Tidak. Ally adalah bank online sepenuhnya tanpa cabang fisik. Semua aktivitas perbankan dilakukan lewat aplikasi mobile, website, atau telepon. Kalau kamu perlu setor tunai, kamu harus pakai cara lain, misalnya setor di bank lain lalu transfer dananya ke Ally.
 
-### How long does it take to open an Ally Bank account?
+### Berapa lama membuka rekening Ally Bank?
 
-Most people can open an Ally account in about five to ten minutes. You will need your Social Security number, a government-issued ID, and your contact information. Funding the account can be done immediately via electronic transfer from another bank, though the transfer may take one to three business days to complete.
+Kebanyakan orang bisa membuka rekening Ally dalam sekitar lima sampai sepuluh menit. Kamu perlu nomor KTP/NIK atau identitas resmi, kartu identitas yang diterbitkan pemerintah, dan informasi kontakmu. Pendanaan rekening bisa dilakukan langsung lewat transfer elektronik dari bank lain, meski transfernya mungkin butuh satu sampai tiga hari kerja untuk selesai.
 
-### Can I use Ally Bank for direct deposit?
+### Apakah Ally Bank bisa dipakai untuk direct deposit?
 
-Absolutely. Ally supports direct deposit for paychecks, government benefits, and [tax refund](/blog/how-to-spend-your-tax-refund-wisely/)s. You can find your account and routing numbers in the app or on the website. Many users report that direct deposits hit their Ally account up to two days early, depending on when the employer sends the payment file.
+Tentu saja. Ally mendukung direct deposit untuk gaji, tunjangan pemerintah, dan [pengembalian pajak](/blog/how-to-spend-your-tax-refund-wisely/). Kamu bisa menemukan nomor rekening dan routing number di aplikasi atau website. Banyak pengguna melaporkan direct deposit masuk ke rekening Ally hingga dua hari lebih cepat, tergantung kapan perusahaan mengirim file pembayaran.
 
-### Does Ally charge any hidden fees?
+### Apakah Ally mengenakan biaya tersembunyi?
 
-Ally is one of the most transparent banks when it comes to fees. There are no monthly maintenance fees, no minimum balance fees, and no incoming wire transfer fees. The main fees to be aware of are outgoing wire transfers ($20 domestic), overnight check delivery ($14.95), and out-of-network ATM fees beyond the $10 monthly reimbursement. Otherwise, it is genuinely fee-free.
+Ally adalah salah satu bank paling transparan soal biaya. Tidak ada biaya administrasi bulanan, tidak ada biaya saldo minimum, dan tidak ada biaya incoming wire transfer. Biaya utama yang perlu diperhatikan adalah outgoing wire transfer (Rp 300 ribu domestik), pengiriman cek kilat (Rp 225 ribu), dan biaya ATM di luar jaringan setelah penggantian Rp 150 ribu per bulan. Selain itu, benar-benar bebas biaya.
