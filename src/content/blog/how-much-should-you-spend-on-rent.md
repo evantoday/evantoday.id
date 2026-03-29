@@ -1,6 +1,6 @@
 ---
-title: "How Much Should You Spend on Rent? (30% Rule)"
-description: "Spending over 30% of income on rent? You're house-poor. See the ideal rent-to-income ratio by US city, salary level, and family size—with real examples."
+title: "Berapa Banyak yang Harus Dikeluarkan untuk Sewa?"
+description: "Jika sewa lebih dari 30% penghasilan, kamu bisa “house-poor”. Ini patokan ideal sewa vs penghasilan."
 pubDate: 2026-03-06
 category: "personal-finance"
 tags: ["rent budget", "30 percent rule", "housing costs", "rent to income ratio", "affordable rent"]
@@ -10,198 +10,197 @@ heroImageAlt: 'How Much Should You Spend on Rent? (30% Rule)'
 
 ---
 
-## The Number One Financial Mistake Americans Make
+## Kesalahan Keuangan Nomor Satu yang Sering Dilakukan Orang Amerika
 
-Here is a reality that millions of Americans are living with right now: they are spending way too much on rent, and it is quietly destroying their ability to save, invest, and build wealth.
+Ini kenyataan yang sedang dialami jutaan orang Amerika saat ini: mereka menghabiskan terlalu banyak uang untuk sewa, dan pelan-pelan itu merusak kemampuan mereka untuk menabung, berinvestasi, dan membangun kekayaan.
 
-According to the Joint Center for Housing Studies at Harvard, nearly half of all US renters are "cost-burdened," meaning they spend more than 30% of their gross income on housing. About 12 million households spend more than 50%.
+Menurut Joint Center for Housing Studies di Harvard, hampir setengah dari penyewa di AS tergolong "cost-burdened", artinya mereka menghabiskan lebih dari 30% penghasilan kotor untuk tempat tinggal. Sekitar 12 juta rumah tangga bahkan menghabiskan lebih dari 50%.
 
-When rent eats up half your paycheck, everything else suffers. Emergency savings? Nonexistent. Retirement contributions? Skipped. [Credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/)? Growing. It becomes a cycle that is incredibly hard to break.
+Kalau sewa memakan setengah gaji, semuanya ikut kena dampaknya. Dana darurat? Tidak ada. Setoran pensiun ke DPLK/dana pensiun? Dilewatkan. [Utang kartu kredit](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/)? Makin menumpuk. Ini jadi siklus yang sangat sulit diputus.
 
-The good news is that understanding the right rent-to-income ratio — and making intentional decisions about housing — can free up hundreds of dollars every month. Let me show you how.
+Kabar baiknya, memahami rasio sewa terhadap penghasilan yang tepat — lalu mengambil keputusan hunian dengan sengaja — bisa membebaskan ratusan dolar setiap bulan. Saya akan tunjukkan caranya.
 
-## The 30% Rule Explained
+## Penjelasan Aturan 30%
 
-### Where It Came From
+### Asal-usulnya
 
-The 30% rule originated from a 1969 federal housing regulation (the Brooke Amendment) that capped public housing rent at 25% of income. It was later raised to 30% in 1981. The idea was simple: if you spend more than 30% of your gross income on housing, you are at financial risk.
+Aturan 30% berasal dari regulasi perumahan federal tahun 1969 (Brooke Amendment) yang membatasi sewa perumahan publik sebesar 25% dari penghasilan. Lalu pada 1981, batas itu dinaikkan menjadi 30%. Idenya sederhana: kalau kamu menghabiskan lebih dari 30% penghasilan kotor untuk tempat tinggal, kamu sedang berada dalam risiko finansial.
 
-### How to Calculate It
+### Cara Menghitungnya
 
-The formula is straightforward:
+Rumusnya sederhana:
 
-**Maximum rent = Gross monthly income x 0.30**
+**Sewa maksimum = Penghasilan kotor bulanan x 0,30**
 
-| Annual Gross Salary | Monthly Gross Income | 30% Max Rent |
-|--------------------|--------------------|-------------|
-| $40,000 | $3,333 | $1,000 |
-| $50,000 | $4,167 | $1,250 |
-| $60,000 | $5,000 | $1,500 |
-| $75,000 | $6,250 | $1,875 |
-| $100,000 | $8,333 | $2,500 |
-| $125,000 | $10,417 | $3,125 |
-| $150,000 | $12,500 | $3,750 |
+| Gaji Kotor Tahunan | Penghasilan Kotor Bulanan | Sewa Maksimum 30% |
+|--------------------|---------------------------|-------------------|
+| Rp 600 juta | Rp 50 juta | Rp 15 juta |
+| Rp 750 juta | Rp 62,5 juta | Rp 18,75 juta |
+| Rp 900 juta | Rp 75 juta | Rp 22,5 juta |
+| Rp 1,125 miliar | Rp 93,75 juta | Rp 28,125 juta |
+| Rp 1,5 miliar | Rp 125 juta | Rp 37,5 juta |
+| Rp 1,875 miliar | Rp 156,25 juta | Rp 46,875 juta |
+| Rp 2,25 miliar | Rp 187,5 juta | Rp 56,25 juta |
 
-If you earn $60,000 per year, the 30% rule says your rent should be no more than $1,500 per month.
+Kalau penghasilanmu Rp 900 juta per tahun, aturan 30% bilang sewa bulanan sebaiknya tidak lebih dari Rp 22,5 juta.
 
-### The Problem: 30% Is Not Always Realistic
+### Masalahnya: 30% Tidak Selalu Realistis
 
-In many US cities, the 30% rule is practically impossible to follow. In New York City, the median one-bedroom rent is $3,500 — you would need to earn $140,000 to hit the 30% target. In San Francisco, the same apartment requires a $130,000 salary.
+Di banyak kota besar, aturan 30% nyaris mustahil diikuti. Di New York City, sewa median apartemen satu kamar setara sekitar Rp 52,5 juta per bulan — kamu perlu penghasilan sekitar Rp 2,1 miliar per tahun untuk memenuhi patokan 30%. Di San Francisco, apartemen yang sama butuh gaji sekitar Rp 1,95 miliar.
 
-This does not mean the rule is useless. It means you need to adapt it to your situation.
+Artinya bukan aturannya tidak berguna. Artinya kamu perlu menyesuaikannya dengan kondisi kamu.
 
-## The Better Framework: Adjusted Rent-to-Income Ratios
+## Kerangka yang Lebih Baik: Rasio Sewa terhadap Penghasilan yang Disesuaikan
 
-### Why Gross Income Is Misleading
+### Kenapa Penghasilan Kotor Bisa Menyesatkan
 
-The 30% rule uses gross income (before taxes), but you actually pay rent with net income (after taxes). For someone earning $60,000 in a high-tax state like California or New York, take-home pay might be around $3,750/month. Thirty percent of gross is $1,500, which is 40% of their actual take-home pay.
+Aturan 30% memakai penghasilan kotor (sebelum pajak), padahal kamu membayar sewa dengan penghasilan bersih (setelah pajak). Untuk orang yang berpenghasilan Rp 900 juta per tahun di daerah pajak tinggi, take-home pay bisa sekitar Rp 56 juta per bulan. Tiga puluh persen dari penghasilan kotor adalah Rp 22,5 juta, yang sebenarnya setara dengan 40% dari penghasilan bersih.
 
-A more realistic approach uses net income:
+Pendekatan yang lebih realistis memakai penghasilan bersih:
 
-| Approach | Percentage | Based On |
-|----------|-----------|----------|
-| Traditional 30% rule | 30% | Gross income |
-| Conservative approach | 25% | Gross income |
-| Net income approach | 30% | Take-home pay |
-| Aggressive savings approach | 20% | Gross income |
+| Pendekatan | Persentase | Berdasarkan |
+|----------|-----------|-------------|
+| Aturan 30% tradisional | 30% | Penghasilan kotor |
+| Pendekatan konservatif | 25% | Penghasilan kotor |
+| Pendekatan penghasilan bersih | 30% | Penghasilan bersih |
+| Pendekatan agresif untuk menabung | 20% | Penghasilan kotor |
 
-### My Recommended Tiers
+### Tingkatan yang Saya Rekomendasikan
 
-Here is a more nuanced framework based on your [financial goals](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/):
+Berikut kerangka yang lebih bernuansa berdasarkan [tujuan keuangan](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/) kamu:
 
-**Under 25% of gross income**: Ideal. You have plenty of room for savings, investing, and lifestyle spending. This is the target if you are aggressively saving for a home down payment or [early retirement](/blog/achieving-financial-independence-and-early-retirement-fire-movement/).
+**Di bawah 25% dari penghasilan kotor**: Ideal. Kamu punya ruang luas untuk menabung, berinvestasi, dan tetap menikmati hidup. Ini target yang cocok kalau kamu sedang agresif menabung untuk DP rumah atau [pensiun dini](/blog/achieving-financial-independence-and-early-retirement-fire-movement/).
 
-**25-30% of gross income**: Healthy. The standard recommendation. You can comfortably cover rent while still saving 15-20% of income.
+**25-30% dari penghasilan kotor**: Sehat. Ini rekomendasi standar. Kamu masih bisa membayar sewa dengan nyaman sambil menabung 15-20% dari penghasilan.
 
-**30-35% of gross income**: Manageable but tight. You will need to be disciplined with other spending categories. Savings rate drops unless you actively manage your budget.
+**30-35% dari penghasilan kotor**: Masih bisa dikelola, tapi ketat. Kamu harus disiplin di pos pengeluaran lain. Tingkat tabungan akan turun kecuali kamu benar-benar mengelola anggaran dengan baik.
 
-**35-40% of gross income**: Stretched. Other financial goals will suffer. Common in high-cost cities, but this should be temporary, not permanent.
+**35-40% dari penghasilan kotor**: Mulai berat. Tujuan keuangan lain akan terdampak. Ini umum di kota berbiaya tinggi, tapi sebaiknya hanya sementara, bukan permanen.
 
-**Over 40% of gross income**: Danger zone. You are house-poor. Credit card debt, skipped retirement contributions, and zero emergency savings are likely consequences.
+**Di atas 40% dari penghasilan kotor**: Zona bahaya. Kamu jadi house-poor. Utang kartu kredit, setoran pensiun yang terlewat, dan tidak punya dana darurat sangat mungkin terjadi.
 
-## What You Can Actually Afford in Major US Cities
+## Apa yang Benar-benar Bisa Kamu Sewa di Kota Besar
 
-### The Salary You Need for a 1BR at 30%
+### Gaji yang Dibutuhkan untuk Apartemen 1 Kamar dengan Patokan 30%
 
-| City | Median 1BR Rent | Required Salary (30% Rule) | Median Actual Salary |
-|------|----------------|---------------------------|---------------------|
-| New York City | $3,500 | $140,000 | $67,000 |
-| San Francisco | $3,200 | $128,000 | $72,000 |
-| Los Angeles | $2,400 | $96,000 | $62,000 |
-| Boston | $2,800 | $112,000 | $65,000 |
-| Miami | $2,200 | $88,000 | $52,000 |
-| Denver | $1,800 | $72,000 | $60,000 |
-| Austin | $1,700 | $68,000 | $58,000 |
-| Chicago | $1,900 | $76,000 | $55,000 |
-| Atlanta | $1,700 | $68,000 | $53,000 |
-| Phoenix | $1,400 | $56,000 | $50,000 |
+| Kota | Sewa Median 1BR | Gaji yang Dibutuhkan (Aturan 30%) | Gaji Median Aktual |
+|------|------------------|-----------------------------------|--------------------|
+| New York City | Rp 52,5 juta | Rp 2,1 miliar | Rp 1 miliar |
+| San Francisco | Rp 48 juta | Rp 1,92 miliar | Rp 1,08 miliar |
+| Los Angeles | Rp 36 juta | Rp 1,44 miliar | Rp 930 juta |
+| Boston | Rp 42 juta | Rp 1,68 miliar | Rp 975 juta |
+| Miami | Rp 33 juta | Rp 1,32 miliar | Rp 780 juta |
+| Denver | Rp 27 juta | Rp 1,08 miliar | Rp 900 juta |
+| Austin | Rp 25,5 juta | Rp 1,02 miliar | Rp 870 juta |
+| Chicago | Rp 28,5 juta | Rp 1,14 miliar | Rp 825 juta |
+| Atlanta | Rp 25,5 juta | Rp 1,02 miliar | Rp 795 juta |
+| Phoenix | Rp 21 juta | Rp 840 juta | Rp 750 juta |
 
-Notice the gap between required salary and median actual salary. In NYC, the gap is enormous — the median earner would need to roughly double their salary to meet the 30% rule. This is why roommates, longer commutes, and creative solutions are standard in expensive cities.
+Perhatikan selisih antara gaji yang dibutuhkan dan gaji median aktual. Di NYC, selisihnya sangat besar — orang dengan penghasilan median harus hampir menggandakan gajinya agar bisa memenuhi aturan 30%. Itulah sebabnya berbagi kamar, perjalanan pulang-pergi yang lebih panjang, dan solusi kreatif jadi hal yang umum di kota mahal.
 
-## Strategies When Rent Exceeds 30%
+## Strategi Kalau Sewa Melebihi 30%
 
-### Option 1: Get a Roommate
+### Opsi 1: Cari Teman Sekamar
 
-The most immediate way to cut housing costs. Sharing a two-bedroom apartment instead of renting a one-bedroom can save 25-40%:
+Ini cara paling cepat untuk menurunkan biaya hunian. Patungan di apartemen dua kamar dibanding menyewa satu kamar sendiri bisa menghemat 25-40%:
 
-| City | 1BR Rent | 2BR Rent (Your Share) | Monthly Savings |
-|------|---------|----------------------|-----------------|
-| NYC | $3,500 | $2,250 (half of $4,500) | $1,250 |
-| LA | $2,400 | $1,500 (half of $3,000) | $900 |
-| Austin | $1,700 | $1,000 (half of $2,000) | $700 |
+| Kota | Sewa 1BR | Sewa 2BR (Porsi Kamu) | Penghematan Bulanan |
+|------|---------|----------------------|---------------------|
+| NYC | Rp 52,5 juta | Rp 33,75 juta (setengah dari Rp 67,5 juta) | Rp 18,75 juta |
+| LA | Rp 36 juta | Rp 22,5 juta (setengah dari Rp 45 juta) | Rp 13,5 juta |
+| Austin | Rp 25,5 juta | Rp 15 juta (setengah dari Rp 30 juta) | Rp 10,5 juta |
 
-Yes, roommates mean less privacy. But saving $700-$1,250 per month is life-changing money. That is $8,400-$15,000 per year that could go toward a house down payment or retirement.
+Ya, teman sekamar berarti privasi lebih sedikit. Tapi hemat Rp 10,5 juta-Rp 18,75 juta per bulan itu uang yang sangat besar. Dalam setahun, itu bisa jadi Rp 126 juta-Rp 225 juta yang bisa dipakai untuk DP rumah atau pensiun.
 
-### Option 2: Move to a Different Neighborhood
+### Opsi 2: Pindah ke Area yang Berbeda
 
-In most metros, a 15-20 minute longer commute can save $300-$800/month in rent:
+Di banyak kota besar, perjalanan kerja 15-20 menit lebih lama bisa menghemat Rp 4,5 juta-Rp 12 juta per bulan:
 
-- **NYC**: Move from Manhattan to Astoria (Queens) and save $1,000+/month
-- **LA**: Move from Santa Monica to Culver City or Glendale and save $500-$700/month
-- **Chicago**: Move from Lincoln Park to Logan Square or Bridgeport and save $400-$600/month
-- **Austin**: Move from downtown to Round Rock and save $400-$500/month
+- **NYC**: Pindah dari Manhattan ke Astoria (Queens) dan hemat lebih dari Rp 15 juta/bulan
+- **LA**: Pindah dari Santa Monica ke Culver City atau Glendale dan hemat Rp 7,5 juta-Rp 10,5 juta/bulan
+- **Chicago**: Pindah dari Lincoln Park ke Logan Square atau Bridgeport dan hemat Rp 6 juta-Rp 9 juta/bulan
+- **Austin**: Pindah dari pusat kota ke Round Rock dan hemat Rp 6 juta-Rp 7,5 juta/bulan
 
-### Option 3: Negotiate Your Rent
+### Opsi 3: Negosiasikan Sewa
 
-Most renters never try this, but landlords would rather keep a good tenant than deal with turnover costs (cleaning, repairs, vacancy, advertising). You have leverage if:
+Banyak penyewa tidak pernah mencoba ini, padahal pemilik properti biasanya lebih suka mempertahankan penyewa yang bagus daripada menanggung biaya pergantian penyewa (bersih-bersih, perbaikan, unit kosong, iklan). Kamu punya posisi tawar kalau:
 
-- You have been a reliable tenant (paying on time, no complaints)
-- The apartment has been vacant or is hard to fill
-- You are willing to sign a longer lease (18-24 months instead of 12)
-- It is the off-season (winter is typically the cheapest time to sign a lease)
+- Kamu penyewa yang andal (bayar tepat waktu, tidak banyak komplain)
+- Unitnya lama kosong atau sulit disewakan
+- Kamu bersedia tanda tangan kontrak lebih panjang (18-24 bulan вместо 12)
+- Sedang bukan musim ramai (biasanya musim hujan/akhir tahun lebih mudah dapat harga lebih baik)
 
-Ask for a $50-$100/month reduction or request that the landlord cover a utility as a concession. The worst they can say is no.
+Minta potongan Rp 750 ribu-Rp 1,5 juta per bulan atau minta pemilik properti menanggung salah satu utilitas sebagai kompensasi. Paling buruk, mereka bilang tidak.
 
-### Option 4: Increase Your Income
+### Opsi 4: Tingkatkan Penghasilan
 
-Sometimes the rent is not the problem — the income is. Consider:
+Kadang masalahnya bukan sewa — tapi penghasilannya. Coba pertimbangkan:
 
-- **Negotiate a raise**: The average American is 30% underpaid according to multiple salary surveys. Research your market rate on Glassdoor, Levels.fyi, or Payscale and make the ask.
-- **Switch jobs**: The fastest way to increase income in 2026 is to change employers. Job-hoppers earn 10-20% more per move.
-- **Start a side hustle**: Even $500-$1,000/month from freelancing, tutoring, or delivery gigs changes your rent-to-income ratio dramatically.
+- **Negosiasi kenaikan gaji**: Banyak survei gaji menunjukkan rata-rata orang Amerika dibayar 30% di bawah nilai pasar. Di Indonesia, kamu juga bisa cek benchmark di Glassdoor, Levels.fyi, atau Payscale lalu ajukan kenaikan.
+- **Pindah kerja**: Cara tercepat menaikkan penghasilan di 2026 adalah ganti perusahaan. Orang yang job-hopping sering dapat kenaikan 10-20% per pindah kerja.
+- **Cari penghasilan sampingan**: Bahkan tambahan Rp 7,5 juta-Rp 15 juta per bulan dari freelance, les privat, atau kerja antar-jemput/delivery bisa mengubah rasio sewa terhadap penghasilan secara drastis.
 
-## The True Cost of Rent: Beyond Monthly Payments
+## Biaya Sewa yang Sebenarnya: Bukan Cuma Bayar Bulanan
 
-### What Landlords Do Not Tell You
+### Yang Sering Tidak Diceritakan Pemilik Properti
 
-Your rent payment is not the only housing cost. Factor in:
+Bayaran sewa bukan satu-satunya biaya tempat tinggal. Perhitungkan juga:
 
-- **Renter's insurance**: $15-$30/month (you should have this)
-- **Utilities not included**: Electricity ($80-$200), gas ($30-$80), water ($20-$50), internet ($50-$80)
-- **Parking**: $50-$300/month in urban areas
-- **Laundry**: $40-$80/month if your building does not have in-unit machines
-- **Moving costs**: $1,000-$3,000 every time you relocate
+- **Asuransi penyewa**: Rp 225 ribu-Rp 450 ribu/bulan (sebaiknya kamu punya ini)
+- **Utilitas yang tidak termasuk**: Listrik (Rp 1,2 juta-Rp 3 juta), gas (Rp 450 ribu-Rp 1,2 juta), air (Rp 300 ribu-Rp 750 ribu), internet (Rp 750 ribu-Rp 1,2 juta)
+- **Parkir**: Rp 750 ribu-Rp 4,5 juta/bulan di area perkotaan
+- **Laundry**: Rp 600 ribu-Rp 1,2 juta/bulan kalau unitmu tidak punya mesin cuci sendiri
+- **Biaya pindahan**: Rp 15 juta-Rp 45 juta setiap kali pindah
 
-Add these up and your "true" housing cost might be $300-$600 more than your base rent. Include everything when calculating your rent-to-income ratio.
+Kalau dijumlah, biaya hunian “asli” kamu bisa Rp 4,5 juta-Rp 9 juta lebih tinggi dari sewa dasar. Masukkan semuanya saat menghitung rasio sewa terhadap penghasilan.
 
-### Application and Move-In Costs
+### Biaya Aplikasi dan Masuk Awal
 
-Moving into a new apartment in the US often requires:
+Pindah ke apartemen baru biasanya membutuhkan:
 
-| Cost | Amount |
+| Biaya | Jumlah |
 |------|--------|
-| Application fee | $25-$75 per application |
-| Security deposit | 1-2 months' rent |
-| First month's rent | Due at signing |
-| Last month's rent (some markets) | Due at signing |
-| Broker fee (NYC, Boston) | 12-15% of annual rent |
+| Biaya aplikasi | Rp 375 ribu-Rp 1,125 juta per aplikasi |
+| Uang jaminan | 1-2 bulan sewa |
+| Sewa bulan pertama | Dibayar saat tanda tangan |
+| Sewa bulan terakhir (di beberapa pasar) | Dibayar saat tanda tangan |
+| Biaya broker (NYC, Boston) | 12-15% dari sewa tahunan |
 
-In NYC, moving into a $3,000/month apartment can cost $10,000-$15,000 upfront. Budget for this well in advance.
+Di NYC, pindah ke apartemen Rp 45 juta/bulan bisa butuh biaya awal Rp 150 juta-Rp 225 juta. Jadi, siapkan dana ini jauh-jauh hari.
 
-## Rent vs. Buy: The 2026 Calculation
+## Sewa vs Beli: Perhitungan 2026
 
-### When Renting Makes More Sense
+### Kapan Menyewa Lebih Masuk Akal
 
-Renting is not "throwing money away" — it is the smarter financial choice when:
+Menyewa bukan berarti “uang terbuang” — justru bisa jadi pilihan finansial yang lebih cerdas ketika:
 
-- You plan to stay less than 5 years (buying costs are too high to recoup quickly)
-- Home prices in your market are extremely elevated relative to rents
-- You do not have 10-20% for a down payment
-- Your job may require relocation
-- You value flexibility over equity building
+- Kamu berencana tinggal kurang dari 5 tahun (biaya beli terlalu tinggi untuk cepat balik modal)
+- Harga rumah di pasar kamu sangat mahal dibandingkan harga sewa
+- Kamu belum punya 10-20% untuk DP
+- Pekerjaanmu mungkin mengharuskan pindah
+- Kamu lebih menghargai fleksibilitas daripada membangun ekuitas
 
-### The Price-to-Rent Ratio
+### Rasio Harga terhadap Sewa
 
-A simple way to compare: divide the median home price by the annual rent for a similar property.
+Cara sederhana untuk membandingkan: bagi harga median rumah dengan sewa tahunan properti serupa.
 
-| City | Median Home Price | Annual Rent (1BR) | Price-to-Rent Ratio | Verdict |
-|------|-------------------|-------------------|---------------------|---------|
-| NYC | $750,000 | $42,000 | 17.8 | Rent is better |
-| LA | $900,000 | $28,800 | 31.2 | Renting much better |
-| Austin | $450,000 | $20,400 | 22.1 | Close call |
-| Phoenix | $380,000 | $16,800 | 22.6 | Close call |
-| Cleveland | $180,000 | $12,000 | 15.0 | Buying wins |
+| Kota | Harga Rumah Median | Sewa Tahunan (1BR) | Rasio Harga terhadap Sewa | Kesimpulan |
+|------|--------------------|--------------------|---------------------------|------------|
+| NYC | Rp 11,25 miliar | Rp 630 juta | 17,8 | Lebih baik sewa |
+| LA | Rp 13,5 miliar | Rp 432 juta | 31,2 | Jauh lebih baik sewa |
+| Austin | Rp 6,75 miliar | Rp 306 juta | 22,1 | Masih perlu dipertimbangkan |
+| Phoenix | Rp 5,7 miliar | Rp 252 juta | 22,6 | Masih perlu dipertimbangkan |
+| Cleveland | Rp 2,7 miliar | Rp 180 juta | 15,0 | Beli lebih unggul |
 
-**Under 15**: Buying is usually better
-**15-20**: Roughly equal, depends on your situation
-**Over 20**: Renting is often the better financial choice
+**Di bawah 15**: Biasanya lebih baik beli  
+**15-20**: Kurang lebih seimbang, tergantung kondisi kamu  
+**Di atas 20**: Menyewa sering kali jadi pilihan finansial yang lebih baik
 
-## How to Lower Your Housing Costs Starting Today
+## Cara Menurunkan Biaya Hunian Mulai Hari Ini
 
-1. **Audit your true housing cost**: Add up rent + utilities + insurance + parking + laundry. Know your real number.
-2. **Calculate your actual ratio**: Divide total housing cost by gross monthly income. If it is over 35%, take action.
-3. **Explore roommates**: Even a short-term roommate situation while you save can be transformative.
-4. **Negotiate at renewal**: Do not just accept a rent increase. Counter-offer.
-5. **Consider a move**: If you work remotely, moving to a lower-cost city could free up $500-$1,500/month.
-6. **Boost income**: A raise, job change, or side hustle directly improves your ratio.
-
+1. **Audit biaya hunian sebenarnya**: Jumlahkan sewa + utilitas + asuransi + parkir + laundry. Ketahui angka realnya.
+2. **Hitung rasio kamu yang sebenarnya**: Bagi total biaya hunian dengan penghasilan kotor bulanan. Kalau lebih dari 35%, segera ambil tindakan.
+3. **Coba opsi teman sekamar**: Bahkan situasi sementara sambil menabung bisa sangat membantu.
+4. **Negosiasi saat perpanjangan kontrak**: Jangan langsung terima kenaikan sewa. Coba ajukan penawaran balik.
+5. **Pertimbangkan pindah**: Kalau kamu kerja remote, pindah ke kota yang lebih murah bisa membebaskan Rp 7,5 juta-Rp 22,5 juta per bulan.
+6. **Naikkan penghasilan**: Kenaikan gaji, pindah kerja, atau side hustle langsung memperbaiki rasio kamu.

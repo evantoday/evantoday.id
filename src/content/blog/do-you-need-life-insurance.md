@@ -10,11 +10,11 @@ heroImageAlt: 'Life Insurance in 2026: Who Actually Needs It?'
 
 ---
 
-I used to think life insurance was something older people bought. Then a close friend passed away at 34 in a car accident, leaving behind a wife and two kids under five. He had no life insurance. His wife had to sell their house within six months.
+Saya dulu mengira asuransi jiwa itu cuma dibeli orang yang sudah tua. Lalu seorang teman dekat meninggal di usia 34 tahun karena kecelakaan mobil, meninggalkan istri dan dua anak yang masih di bawah lima tahun. Dia tidak punya asuransi jiwa. Istrinya terpaksa menjual rumah mereka dalam waktu enam bulan.
 
-That changed my perspective permanently. Life insurance isn't an investment. It's not a savings plan. It's a financial safety net that keeps your family from falling apart if you die too soon.
+Itu mengubah cara pandang saya selamanya. Asuransi jiwa bukan investasi. Bukan juga tabungan. Ini adalah jaring pengaman finansial yang menjaga keluarga kamu agar tidak berantakan kalau kamu meninggal terlalu cepat.
 
-But here's the thing—not everyone needs it. In this guide, I'll help you figure out if you do, how much you need, and where to get the best rates in 2026.
+Tapi begini—tidak semua orang membutuhkannya. Di panduan ini, saya akan bantu kamu menentukan apakah kamu perlu asuransi jiwa, berapa besar yang dibutuhkan, dan di mana mendapatkan tarif terbaik di 2026.
 
 ## Siapa yang Butuh Asuransi Jiwa (dan Siapa yang Tidak)
 

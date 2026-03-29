@@ -1,6 +1,6 @@
 ---
-title: "How Much Life Insurance Coverage Do You Need? [2026 Guide]"
-description: "Need life insurance coverage in Indonesia? I break down the exact formulas, examples, and Rp amounts so you can choose confidently."
+title: "Berapa Cakupan Asuransi Jiwa yang Kamu Butuh?"
+description: "Butuh asuransi jiwa di Indonesia? Saya bahas rumus, contoh, dan nominal Rp agar kamu bisa memilih dengan yakin."
 pubDate: 2026-03-29
 updatedDate: 2026-03-29
 category: "insurance"
@@ -8,369 +8,369 @@ tags: ["life insurance", "coverage", "Indonesia", "financial planning", "family 
 author: "Evan"
 ---
 
-When I first started looking at [life insurance](/blog/do-you-need-life-insurance/), I made the same mistake a lot of people make: I focused on the monthly premium, not the coverage amount. That’s backwards. The real question isn’t “How cheap can I buy it?” It’s **how much life insurance coverage do you need Indonesia** so your family won’t be forced to sell assets or take on debt if something happens to you.
+When I first started looking at [life insurance](/blog/do-you-need-life-insurance/), I made the same mistake a lot of people make: I focused on the monthly premium, not the coverage amount. That’s backwards. The real question isn’t “How cheap can I buy it?” It’s **berapa besar cakupan asuransi jiwa yang kamu butuhkan di Indonesia** supaya keluarga kamu tidak harus menjual aset atau berutang kalau sesuatu terjadi pada kamu.
 
-I’ve seen too many people in their 20s and 30s buy a policy with Rp 100 juta of coverage and feel “safe,” when that number barely covers a few months of living costs, let alone a mortgage, kids, and future education. Let’s fix that properly.
+Saya sudah terlalu sering melihat orang usia 20-an dan 30-an membeli polis dengan pertanggungan Rp 100 juta lalu merasa “aman,” padahal angka itu bahkan cuma cukup untuk beberapa bulan biaya hidup, apalagi KPR, anak, dan pendidikan masa depan. Yuk, kita benahi cara berpikirnya.
 
 ## Key Takeaways
 
-- The right life insurance coverage in Indonesia usually depends on your debts, yearly expenses, income replacement needs, and future goals.
-- A simple rule of thumb is **10–15 times your annual income**, but I think that’s only a starting point, not the final answer.
-- If you have dependents, a mortgage, or young kids, your coverage often needs to be much higher than you think.
-- For many Indonesians aged 20–40, a realistic coverage range is **Rp 500 juta to Rp 2 miliar**, depending on family responsibilities.
-- I’ll show you a practical formula, real Rp examples, and a step-by-step way to calculate your own number.
+- Cakupan asuransi jiwa yang tepat di Indonesia biasanya tergantung pada utang, biaya hidup tahunan, kebutuhan pengganti penghasilan, dan tujuan masa depan.
+- Aturan praktis yang sering dipakai adalah **10–15 kali penghasilan tahunan**, tapi menurut saya itu baru titik awal, bukan jawaban akhir.
+- Kalau kamu punya tanggungan, KPR, atau anak kecil, kebutuhan cakupan biasanya jauh lebih besar dari yang kamu kira.
+- Untuk banyak orang Indonesia usia 20–40 tahun, kisaran realistisnya adalah **Rp 500 juta sampai Rp 2 miliar**, tergantung tanggung jawab keluarga.
+- Saya akan tunjukkan rumus praktis, contoh nominal Rp, dan cara langkah demi langkah untuk menghitung angka kamu sendiri.
 
 ## How Much Life Insurance Coverage Do You Need Indonesia?
 
-The short answer is this: **you need enough coverage to replace your financial value to your family, not just enough to “have insurance.”** In Indonesia, I usually recommend calculating coverage based on four things: debts, living expenses, future goals, and income replacement.
+Jawaban singkatnya begini: **kamu butuh cakupan yang cukup untuk menggantikan nilai finansial kamu bagi keluarga, bukan sekadar cukup untuk “punya asuransi.”** Di Indonesia, saya biasanya menyarankan menghitung kebutuhan berdasarkan empat hal: utang, biaya hidup, tujuan masa depan, dan pengganti penghasilan.
 
-If you’re single with no dependents, your need may be low or even unnecessary beyond funeral costs and any debts. But if you’re married, have children, support parents, or still have KPR and cicilan, your coverage should be much larger.
+Kalau kamu masih lajang dan tidak punya tanggungan, kebutuhan kamu bisa kecil, bahkan mungkin belum terlalu perlu selain untuk biaya pemakaman dan utang yang ada. Tapi kalau kamu sudah menikah, punya anak, menanggung orang tua, atau masih punya KPR dan cicilan, kebutuhan cakupan kamu harus jauh lebih besar.
 
-Here’s the framework I use when I estimate coverage for myself or when friends ask me for help:
+Ini kerangka yang saya pakai saat menghitung kebutuhan untuk diri sendiri atau saat teman minta bantuan:
 
-1. **[Pay off debt](/blog/debt-free-journey-tips/)s**
+1. **[Lunasi utang](/blog/debt-free-journey-tips/)**
    - KPR
    - KTA
-   - Credit card balances
-   - Motor vehicle loans
-   - Any family debt you’d want cleared
+   - Saldo kartu kredit
+   - Pinjaman kendaraan
+   - Utang keluarga apa pun yang ingin kamu bereskan
 
-2. **Cover living expenses**
-   - Monthly household spending
-   - Rent or mortgage
-   - Food, utilities, transport, school fees
+2. **Tutup biaya hidup**
+   - Pengeluaran rumah tangga bulanan
+   - Sewa atau cicilan rumah
+   - Makan, listrik, transportasi, biaya sekolah
 
-3. **Replace income**
-   - How many years would your family need support?
-   - I usually think in 5–10 years, depending on dependents
+3. **Gantikan penghasilan**
+   - Keluarga kamu butuh dukungan berapa lama?
+   - Saya biasanya berpikir 5–10 tahun, tergantung tanggungan
 
-4. **Fund future goals**
-   - Children’s education
-   - [Emergency fund](/blog/emergency-fund-guide/) replacement
-   - Care for parents
-   - Final expenses
+4. **Danai tujuan masa depan**
+   - Biaya pendidikan anak
+   - Pengganti [dana darurat](/blog/emergency-fund-guide/)
+   - Perawatan orang tua
+   - Biaya akhir hayat
 
-A lot of agents will push a neat formula like “10x salary.” I don’t hate that, but I think it’s too blunt. Someone earning Rp 12 juta a month with no dependents doesn’t need the same coverage as someone earning Rp 12 juta a month with two kids and a KPR.
+Banyak agen akan mendorong rumus simpel seperti “10x gaji.” Saya tidak sepenuhnya menolak itu, tapi menurut saya terlalu kasar. Orang yang gajinya Rp 12 juta per bulan tanpa tanggungan tidak butuh cakupan yang sama dengan orang bergaji Rp 12 juta per bulan yang punya dua anak dan KPR.
 
-### A simple rule of thumb
+### Aturan praktis sederhana
 
-If you want a quick starting point, use this:
+Kalau kamu mau titik awal yang cepat, pakai ini:
 
-- **Single, no dependents:** Rp 100 juta–Rp 300 juta
-- **Married, no kids:** Rp 300 juta–Rp 800 juta
-- **Married with 1–2 kids:** Rp 800 juta–Rp 2 miliar+
-- **Main breadwinner with mortgage and kids:** often Rp 1 miliar–Rp 3 miliar
+- **Lajang, tanpa tanggungan:** Rp 100 juta–Rp 300 juta
+- **Menikah, tanpa anak:** Rp 300 juta–Rp 800 juta
+- **Menikah dengan 1–2 anak:** Rp 800 juta–Rp 2 miliar+
+- **Pencari nafkah utama dengan KPR dan anak:** seringnya Rp 1 miliar–Rp 3 miliar
 
-That’s not a magic formula. It’s just a practical range I think makes more sense for Indonesian households than a random low number.
+Ini bukan rumus ajaib. Ini cuma kisaran praktis yang menurut saya lebih masuk akal untuk rumah tangga Indonesia daripada angka kecil yang asal.
 
 ## What Formula Should You Use to Calculate Coverage?
 
-The best formula is the one that reflects your actual life, not a generic brochure. I recommend using this calculation:
+Rumus terbaik adalah yang mencerminkan hidup kamu yang sebenarnya, bukan brosur generik. Saya sarankan pakai perhitungan ini:
 
-**Life insurance coverage needed = Debts + Final expenses + Income replacement + Future goals - Existing assets**
+**Kebutuhan cakupan asuransi jiwa = Utang + Biaya akhir hayat + Pengganti penghasilan + Tujuan masa depan - Aset yang sudah ada**
 
-This is the same structure I’d use if I were helping a friend in Jakarta, Surabaya, or Medan figure out the right number.
+Struktur ini sama seperti yang akan saya pakai kalau saya membantu teman di Jakarta, Surabaya, atau Medan menentukan angka yang tepat.
 
 ### Step-by-step calculation
 
-#### 1) Add up your debts
-Include anything your family would have to pay if you died.
+#### 1) Jumlahkan utang kamu
+Masukkan semua yang harus dibayar keluarga kalau kamu meninggal.
 
-Example:
-- KPR balance: Rp 450 juta
-- Car loan: Rp 80 juta
-- [Credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/): Rp 20 juta
+Contoh:
+- Saldo KPR: Rp 450 juta
+- Pinjaman mobil: Rp 80 juta
+- [Utang kartu kredit](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/): Rp 20 juta
 
-Total debts = **Rp 550 juta**
+Total utang = **Rp 550 juta**
 
-#### 2) Estimate final expenses
-In Indonesia, I’d budget at least:
-- Funeral and burial: Rp 15 juta–Rp 50 juta
-- Medical bills not fully covered: Rp 10 juta–Rp 25 juta
-- Administrative costs and emergency buffer: Rp 10 juta
+#### 2) Perkirakan biaya akhir hayat
+Di Indonesia, saya akan anggarkan minimal:
+- Pemakaman dan penguburan: Rp 15 juta–Rp 50 juta
+- Tagihan medis yang belum tertutup: Rp 10 juta–Rp 25 juta
+- Biaya administrasi dan dana cadangan darurat: Rp 10 juta
 
-A practical total is **Rp 50 juta**.
+Total praktisnya sekitar **Rp 50 juta**.
 
-#### 3) Calculate income replacement
-This is the biggest piece.
+#### 3) Hitung pengganti penghasilan
+Ini biasanya bagian terbesar.
 
-Let’s say you earn Rp 15 juta per month and your family would need 7 years of support.
+Misalnya kamu berpenghasilan Rp 15 juta per bulan dan keluarga kamu butuh dukungan selama 7 tahun.
 
-- Rp 15 juta x 12 months x 7 years = **Rp 1,26 miliar**
+- Rp 15 juta x 12 bulan x 7 tahun = **Rp 1,26 miliar**
 
-That’s the amount needed to replace your income for that period.
+Itulah jumlah yang dibutuhkan untuk menggantikan penghasilan kamu selama periode itu.
 
-#### 4) Add future goals
-Maybe you want to fund:
-- 2 children’s university costs: Rp 300 juta–Rp 800 juta
-- Parent support: Rp 100 juta–Rp 300 juta
-- Emergency fund replacement: Rp 60 juta–Rp 150 juta
+#### 4) Tambahkan tujuan masa depan
+Mungkin kamu ingin mendanai:
+- Biaya kuliah 2 anak: Rp 300 juta–Rp 800 juta
+- Dukungan untuk orang tua: Rp 100 juta–Rp 300 juta
+- Pengganti dana darurat: Rp 60 juta–Rp 150 juta
 
-Let’s say your future goals total **Rp 500 juta**.
+Misalnya total tujuan masa depan kamu **Rp 500 juta**.
 
-#### 5) Subtract existing assets
-If your family already has:
-- Savings: Rp 100 juta
-- Investments: Rp 200 juta
-- Employer life coverage: Rp 100 juta
+#### 5) Kurangi aset yang sudah ada
+Kalau keluarga kamu sudah punya:
+- Tabungan: Rp 100 juta
+- Investasi: Rp 200 juta
+- Perlindungan jiwa dari kantor: Rp 100 juta
 
-That’s **Rp 400 juta** in existing assets.
+Totalnya **Rp 400 juta** aset yang sudah ada.
 
 ### Example final calculation
 
-- Debts: Rp 550 juta
-- Final expenses: Rp 50 juta
-- Income replacement: Rp 1,26 miliar
-- Future goals: Rp 500 juta
-- Existing assets: Rp 400 juta
+- Utang: Rp 550 juta
+- Biaya akhir hayat: Rp 50 juta
+- Pengganti penghasilan: Rp 1,26 miliar
+- Tujuan masa depan: Rp 500 juta
+- Aset yang sudah ada: Rp 400 juta
 
-**Total needed = Rp 1,96 miliar**
+**Total kebutuhan = Rp 1,96 miliar**
 
-That’s why I say many people underestimate their coverage. If you have a family and a mortgage, Rp 1 miliar can disappear faster than you think.
+Makanya saya bilang banyak orang meremehkan kebutuhan cakupan mereka. Kalau kamu punya keluarga dan KPR, Rp 1 miliar bisa habis lebih cepat dari yang kamu bayangkan.
 
 ## How Much Life Insurance Coverage Do You Need by Life Stage?
 
-Your life stage matters more than your age alone. I’ve found that a 29-year-old bachelor and a 29-year-old father of two need completely different coverage amounts.
+Tahap hidup kamu lebih penting daripada usia semata. Saya menemukan bahwa pria lajang usia 29 tahun dan ayah dua anak usia 29 tahun butuh jumlah cakupan yang sangat berbeda.
 
 ### Single, no dependents
 
-If you’re single and no one depends on your income, your need is usually much lower. You mainly need to cover:
-- Outstanding debts
-- Funeral costs
-- Maybe support for parents if you send them money regularly
+Kalau kamu lajang dan tidak ada yang bergantung pada penghasilan kamu, kebutuhan kamu biasanya jauh lebih kecil. Fokus utamanya:
+- Utang yang masih ada
+- Biaya pemakaman
+- Mungkin dukungan untuk orang tua kalau kamu rutin kirim uang
 
-Typical coverage:
+Cakupan yang umum:
 - **Rp 100 juta–Rp 300 juta**
 
-If you have no debt and no dependents, I’d honestly prioritize building emergency savings first. If you’re also investing, you may not need a huge policy yet. My [money management for fresh graduates Indonesia](/blog/7-smart-money-management-tips-for-fresh-graduates-2026-guide/) guide goes deeper on that order of priorities.
+Kalau kamu tidak punya utang dan tidak punya tanggungan, jujur saya lebih menyarankan membangun tabungan darurat dulu. Kalau kamu juga sedang berinvestasi, kamu mungkin belum butuh polis besar. Panduan [money management for fresh graduates Indonesia](/blog/7-smart-money-management-tips-for-fresh-graduates-2026-guide/) saya membahas urutan prioritas ini lebih dalam.
 
 ### Married, no kids
 
-Once you’re married, coverage should increase because your spouse may depend on your income or shared financial planning.
+Begitu kamu menikah, cakupan sebaiknya naik karena pasangan kamu mungkin bergantung pada penghasilan kamu atau perencanaan keuangan bersama.
 
-Typical coverage:
+Cakupan yang umum:
 - **Rp 300 juta–Rp 800 juta**
 
-If you have a KPR, I’d lean toward the higher end. A lot of couples in Indonesia underestimate this because they assume “my spouse will manage.” Sure, maybe. But will they want to manage bills, debt, and rent at the same time?
+Kalau kamu punya KPR, saya cenderung memilih angka di sisi atas. Banyak pasangan di Indonesia meremehkan ini karena mengira “pasangan saya bisa mengurus.” Bisa saja. Tapi apakah dia mau mengurus tagihan, utang, dan sewa sekaligus?
 
 ### Married with kids
 
-This is where coverage really matters. Kids create long-term financial obligations:
-- Daily living expenses
-- School fees
-- University costs
-- Childcare
-- Housing
+Di sinilah cakupan benar-benar penting. Anak membawa kewajiban keuangan jangka panjang:
+- Biaya hidup harian
+- Biaya sekolah
+- Biaya kuliah
+- Pengasuhan anak
+- Tempat tinggal
 
-Typical coverage:
+Cakupan yang umum:
 - **Rp 800 juta–Rp 2 miliar+**
 
-If you’re the main earner, I think you should be much more serious here. I’d rather see a family slightly overinsured than forced to cut school plans or sell property after a loss.
+Kalau kamu pencari nafkah utama, menurut saya kamu harus jauh lebih serius di sini. Saya lebih suka melihat keluarga sedikit kelebihan proteksi daripada terpaksa memotong rencana sekolah atau menjual aset setelah kehilangan.
 
 ### Supporting parents
 
-Many Indonesians support parents financially, and that should absolutely be part of the calculation.
+Banyak orang Indonesia membantu orang tua secara finansial, dan itu harus masuk perhitungan.
 
-Add:
-- Monthly transfer to parents
-- Medical support
-- Home repairs or household expenses
+Tambahkan:
+- Transfer bulanan ke orang tua
+- Dukungan medis
+- Perbaikan rumah atau biaya rumah tangga
 
-If you send Rp 2 juta per month to parents, that’s Rp 24 juta per year. Over 10 years, that alone is **Rp 240 juta**.
+Kalau kamu kirim Rp 2 juta per bulan ke orang tua, itu Rp 24 juta per tahun. Selama 10 tahun, itu saja sudah **Rp 240 juta**.
 
 ## What Coverage Amount Fits Different Income Levels?
 
-Income is not the only factor, but it’s a useful anchor. I like using income bands because they make the decision less abstract.
+Penghasilan bukan satu-satunya faktor, tapi ini patokan yang berguna. Saya suka memakai kelompok penghasilan karena membuat keputusan jadi lebih konkret.
 
 | Monthly Income | Typical Coverage Range | Why |
 |---|---:|---|
-| Rp 5 juta–Rp 10 juta | Rp 100 juta–Rp 500 juta | Basic debt and family support |
-| Rp 10 juta–Rp 20 juta | Rp 500 juta–Rp 1,5 miliar | Income replacement and housing costs |
-| Rp 20 juta–Rp 40 juta | Rp 1 miliar–Rp 3 miliar | Larger lifestyle, kids, mortgages |
-| Rp 40 juta+ | Rp 2 miliar+ | Higher obligations, education, asset planning |
+| Rp 5 juta–Rp 10 juta | Rp 100 juta–Rp 500 juta | Utang dasar dan dukungan keluarga |
+| Rp 10 juta–Rp 20 juta | Rp 500 juta–Rp 1,5 miliar | Pengganti penghasilan dan biaya tempat tinggal |
+| Rp 20 juta–Rp 40 juta | Rp 1 miliar–Rp 3 miliar | Gaya hidup lebih besar, anak, KPR |
+| Rp 40 juta+ | Rp 2 miliar+ | Kewajiban lebih tinggi, pendidikan, perencanaan aset |
 
-I’m not saying higher income automatically means you need gigantic coverage. If you’re high income but single and debt-free, your need can still be moderate. But in real life, higher income usually comes with bigger expenses, bigger responsibilities, and bigger expectations from family.
+Saya tidak bilang penghasilan lebih tinggi otomatis berarti butuh cakupan super besar. Kalau kamu berpenghasilan tinggi tapi lajang dan bebas utang, kebutuhan kamu tetap bisa moderat. Tapi dalam praktiknya, penghasilan lebih tinggi biasanya datang dengan pengeluaran lebih besar, tanggung jawab lebih besar, dan ekspektasi keluarga yang lebih besar.
 
-A useful shortcut I personally like is this:
+Shortcut yang saya pribadi suka adalah ini:
 
-- **No dependents:** 3–5x annual income
-- **Some dependents:** 7–10x annual income
-- **Main breadwinner:** 10–15x annual income
+- **Tanpa tanggungan:** 3–5x penghasilan tahunan
+- **Punya sebagian tanggungan:** 7–10x penghasilan tahunan
+- **Pencari nafkah utama:** 10–15x penghasilan tahunan
 
-If you earn Rp 12 juta per month, your annual income is Rp 144 juta.
+Kalau kamu berpenghasilan Rp 12 juta per bulan, penghasilan tahunan kamu Rp 144 juta.
 
 - 5x = Rp 720 juta
 - 10x = Rp 1,44 miliar
 - 15x = Rp 2,16 miliar
 
-That range is much more realistic than buying a tiny policy just because the premium feels comfortable.
+Rentang itu jauh lebih realistis daripada membeli polis kecil hanya karena premi terasa nyaman.
 
 ## How Do You Balance Coverage and Premium?
 
-The right coverage is the one you can keep paying for. A huge policy you cancel after 18 months is useless.
+Cakupan yang tepat adalah yang masih sanggup kamu bayar terus. Polis besar yang kamu hentikan setelah 18 bulan sama sekali tidak berguna.
 
-I think many Indonesians make the mistake of buying too much coverage too early. They see a premium of Rp 150 ribu per month and think it’s okay, but then the policy only gives Rp 100 juta of protection. That’s not efficient.
+Menurut saya, banyak orang Indonesia salah langkah karena membeli cakupan terlalu besar terlalu cepat. Mereka lihat premi Rp 150 ribu per bulan dan merasa oke, padahal polisnya cuma memberi proteksi Rp 100 juta. Itu tidak efisien.
 
 ### My practical premium rule
 
-I usually recommend keeping life insurance premiums at around:
-- **1%–3% of monthly income** for term life
-- More only if your situation is complex
+Saya biasanya menyarankan premi asuransi jiwa sekitar:
+- **1%–3% dari penghasilan bulanan** untuk term life
+- Lebih dari itu hanya kalau situasi kamu kompleks
 
-For example:
-- Income Rp 10 juta/month
-- Insurance budget: Rp 100 ribu–Rp 300 ribu/month
+Contoh:
+- Penghasilan Rp 10 juta/bulan
+- Anggaran asuransi: Rp 100 ribu–Rp 300 ribu/bulan
 
-If you can get Rp 1 miliar of term coverage for Rp 200 ribu–Rp 400 ribu per month, that’s often a better deal than paying the same premium for a much smaller sum insured.
+Kalau kamu bisa dapat pertanggungan Rp 1 miliar untuk term life dengan premi Rp 200 ribu–Rp 400 ribu per bulan, itu sering kali jauh lebih masuk akal daripada membayar premi yang sama untuk uang pertanggungan yang jauh lebih kecil.
 
 ### Term life vs whole life
 
-Here’s my honest take: for most Indonesians aged 20–40, **term life is usually the smarter choice** if your goal is pure protection.
+Pendapat jujur saya: untuk kebanyakan orang Indonesia usia 20–40 tahun, **term life biasanya pilihan yang lebih cerdas** kalau tujuan kamu murni proteksi.
 
 | Type | Best For | Pros | Cons |
 |---|---|---|---|
-| Term life | Young families, debt protection | Lower premium, higher coverage | No cash value |
-| Whole life | Long-term forced savings mindset | Lifetime coverage, cash value | Much more expensive |
-| Investment-linked | People who want insurance + investing | Flexible features | Often confusing, fees can eat returns |
+| Term life | Keluarga muda, proteksi utang | Premi lebih rendah, cakupan lebih besar | Tidak ada nilai tunai |
+| Whole life | Pola pikir tabungan paksa jangka panjang | Proteksi seumur hidup, ada nilai tunai | Jauh lebih mahal |
+| Investment-linked | Orang yang ingin asuransi + investasi | Fitur fleksibel | Sering membingungkan, biaya bisa menggerus hasil |
 
-If you want a deeper breakdown of policy structures and jargon, I’d also read my [insurance terms and jargon explained simply](/blog/insurance-terms-explained-simply-2026-guide/) guide.
+Kalau kamu ingin penjelasan lebih dalam soal struktur polis dan istilah-istilahnya, saya juga menyarankan membaca panduan [insurance terms and jargon explained simply](/blog/insurance-terms-explained-simply-2026-guide/).
 
-My opinion is simple: if you need protection, buy protection. Don’t mix it with too many promises unless you understand exactly what you’re paying for.
+Pendapat saya sederhana: kalau yang kamu butuhkan adalah proteksi, beli proteksi. Jangan dicampur terlalu banyak janji kalau kamu belum benar-benar paham apa yang kamu bayar.
 
 ## How Do You Decide If Rp 500 Juta Is Enough?
 
-Rp 500 juta is enough for some people and wildly insufficient for others. The number itself means nothing without context.
+Rp 500 juta cukup untuk sebagian orang, tapi sangat kurang untuk orang lain. Angka itu sendiri tidak berarti tanpa konteks.
 
 ### Rp 500 juta may be enough if:
-- You’re single
-- You have no dependents
-- You have no major debt
-- You already have investments and emergency savings
-- You only want to cover final expenses and a short support period
+- Kamu lajang
+- Kamu tidak punya tanggungan
+- Kamu tidak punya utang besar
+- Kamu sudah punya investasi dan tabungan darurat
+- Kamu hanya ingin menutup biaya akhir hayat dan dukungan singkat
 
 ### Rp 500 juta is probably not enough if:
-- You have a KPR
-- You have children
-- You’re the main income earner
-- Your spouse doesn’t work
-- You support parents
-- You want to fund education for kids
+- Kamu punya KPR
+- Kamu punya anak
+- Kamu pencari nafkah utama
+- Pasangan kamu tidak bekerja
+- Kamu menanggung orang tua
+- Kamu ingin mendanai pendidikan anak
 
-Here’s a quick example.
+Berikut contoh cepat.
 
 #### Example 1: Single employee in Bandung
-- Income: Rp 8 juta/month
-- Debt: Rp 20 juta motor loan
-- Savings: Rp 50 juta
-- Dependents: none
+- Penghasilan: Rp 8 juta/bulan
+- Utang: Rp 20 juta pinjaman motor
+- Tabungan: Rp 50 juta
+- Tanggungan: tidak ada
 
-Coverage need might be around **Rp 100 juta–Rp 200 juta**.
+Kebutuhan cakupan mungkin sekitar **Rp 100 juta–Rp 200 juta**.
 
 #### Example 2: Married employee in Jakarta with one child
-- Income: Rp 15 juta/month
+- Penghasilan: Rp 15 juta/bulan
 - KPR: Rp 600 juta
-- Child education target: Rp 300 juta
-- Savings: Rp 100 juta
+- Target biaya pendidikan anak: Rp 300 juta
+- Tabungan: Rp 100 juta
 
-Coverage need might be around **Rp 1,5 miliar–Rp 2 miliar**.
+Kebutuhan cakupan mungkin sekitar **Rp 1,5 miliar–Rp 2 miliar**.
 
-Same country. Same age range. Completely different answer.
+Negaranya sama. Rentang usianya sama. Jawabannya sangat berbeda.
 
 ## What Mistakes Do People Make When Choosing Coverage?
 
-I’ve seen a few recurring mistakes again and again, and honestly, they’re expensive mistakes.
+Saya sering melihat beberapa kesalahan yang berulang, dan jujur saja, ini kesalahan yang mahal.
 
 ### 1) Buying based on premium, not need
-People ask, “What can I afford per month?” before asking, “What does my family actually need?” That’s backwards.
+Orang bertanya, “Saya sanggup bayar berapa per bulan?” sebelum bertanya, “Keluarga saya sebenarnya butuh berapa?” Itu terbalik.
 
 ### 2) Ignoring debt
-If you have KPR or KTA, your life insurance should reflect that. Otherwise, your family may inherit the problem.
+Kalau kamu punya KPR atau KTA, asuransi jiwa kamu harus mencerminkan itu. Kalau tidak, keluarga kamu bisa mewarisi masalahnya.
 
 ### 3) Forgetting inflation
-Rp 500 juta today won’t feel the same in 10 years. Education and living costs keep rising.
+Rp 500 juta hari ini tidak akan terasa sama 10 tahun lagi. Biaya pendidikan dan hidup terus naik.
 
 ### 4) Underestimating education costs
-University fees in Indonesia are not cheap, and if you’re planning private school or overseas education, the number gets big fast.
+Biaya kuliah di Indonesia tidak murah, dan kalau kamu berencana sekolah swasta atau kuliah luar negeri, angkanya cepat membesar.
 
 ### 5) Relying only on employer coverage
-Some companies provide group life insurance, but it often ends when you resign. I treat employer coverage as a bonus, not a core plan.
+Beberapa perusahaan memberi asuransi jiwa grup, tapi biasanya berakhir saat kamu resign. Saya menganggap perlindungan dari kantor sebagai bonus, bukan rencana utama.
 
-If you’re trying to build a broader financial safety net, I’d also look at [critical illness insurance Indonesia do you need it](/blog/critical-illness-insurance-indonesia-do-you-need-it/) because life insurance and health-related protection solve different problems.
+Kalau kamu sedang membangun jaring pengaman keuangan yang lebih luas, saya juga sarankan melihat [critical illness insurance Indonesia do you need it](/blog/critical-illness-insurance-indonesia-do-you-need-it/) karena asuransi jiwa dan proteksi kesehatan menjawab masalah yang berbeda.
 
 ## How to Calculate Your Own Coverage: A Simple 5-Step Method
 
-If you want the fastest practical method, use this.
+Kalau kamu mau cara paling cepat dan praktis, pakai ini.
 
 1. **List all debts**
    - KPR
    - KTA
-   - Credit cards
-   - Family obligations
+   - Kartu kredit
+   - Kewajiban keluarga
 
 2. **Estimate yearly family expenses**
-   - Multiply monthly spending by 12
-   - Then multiply by the number of years of support needed
+   - Kalikan pengeluaran bulanan x 12
+   - Lalu kalikan dengan jumlah tahun dukungan yang dibutuhkan
 
 3. **Add future goals**
-   - Kids’ education
-   - Parent support
-   - Final costs
+   - Pendidikan anak
+   - Dukungan orang tua
+   - Biaya akhir hayat
 
 4. **Subtract assets**
-   - Savings
-   - Investments
-   - Employer coverage
+   - Tabungan
+   - Investasi
+   - Perlindungan dari kantor
 
 5. **Round up to a realistic number**
-   - I usually round up because life is messy and expenses grow
+   - Saya biasanya membulatkan ke atas karena hidup itu tidak rapi dan biaya cenderung naik
 
 ### Quick example
 
-- Monthly household spending: Rp 18 juta
-- Support period: 7 years
-- Expenses: Rp 1,512 miliar
-- Debts: Rp 400 juta
-- Future goals: Rp 300 juta
-- Assets: Rp 250 juta
+- Pengeluaran rumah tangga bulanan: Rp 18 juta
+- Periode dukungan: 7 tahun
+- Biaya: Rp 1,512 miliar
+- Utang: Rp 400 juta
+- Tujuan masa depan: Rp 300 juta
+- Aset: Rp 250 juta
 
-Coverage needed:
+Kebutuhan cakupan:
 **Rp 1,962 miliar**
 
-I’d probably round that to **Rp 2 miliar**.
+Saya mungkin akan membulatkannya menjadi **Rp 2 miliar**.
 
-That’s the number I’d aim for if I were the main breadwinner in that situation.
+Itulah angka yang akan saya incar kalau saya menjadi pencari nafkah utama dalam situasi itu.
 
 ## Frequently Asked Questions
 
 ### How much life insurance coverage do I need in Indonesia?
-A practical starting point is 10–15 times your annual income, but the better method is to add debts, living expenses, income replacement, and future goals. For many Indonesians aged 20–40, that lands between Rp 500 juta and Rp 2 miliar depending on family responsibilities.
+Titik awal yang praktis adalah 10–15 kali penghasilan tahunan, tapi cara yang lebih baik adalah menjumlahkan utang, biaya hidup, pengganti penghasilan, dan tujuan masa depan. Untuk banyak orang Indonesia usia 20–40 tahun, hasilnya biasanya berada di kisaran Rp 500 juta sampai Rp 2 miliar tergantung tanggungan keluarga.
 
 ### Is Rp 1 miliar life insurance enough?
-Rp 1 miliar may be enough if you’re single, debt-light, or only need short-term family support. It is often not enough for a married person with children, a mortgage, or long-term income replacement needs.
+Rp 1 miliar bisa cukup kalau kamu lajang, utangnya sedikit, atau hanya butuh dukungan keluarga jangka pendek. Tapi sering kali itu belum cukup untuk orang yang sudah menikah, punya anak, punya KPR, atau butuh pengganti penghasilan jangka panjang.
 
 ### Should I include KPR in life insurance coverage?
-Yes, I absolutely think you should include KPR if your family would struggle to keep the house without your income. If the mortgage balance is large, it can be one of the biggest reasons your coverage needs to go up.
+Ya, saya sangat menyarankan memasukkan KPR kalau keluarga kamu akan kesulitan mempertahankan rumah tanpa penghasilan kamu. Kalau sisa cicilannya besar, itu bisa jadi salah satu alasan utama kebutuhan cakupan kamu naik.
 
 ### Is term life better than whole life in Indonesia?
-For most people aged 20–40, I think term life is better because it gives much higher coverage for a lower premium. [Whole life](/blog/term-life-vs-whole-life-insurance/) can make sense if you specifically want lifetime coverage and are comfortable paying more.
+Untuk kebanyakan orang usia 20–40 tahun, menurut saya term life lebih baik karena memberi cakupan jauh lebih besar dengan premi lebih rendah. [Whole life](/blog/term-life-vs-whole-life-insurance/) bisa masuk akal kalau kamu memang ingin proteksi seumur hidup dan siap membayar lebih mahal.
 
 ### Do I still need life insurance if I have savings and investments?
-You might still need it if your savings and investments are not enough to cover debts, living expenses, and future goals. Insurance is there to bridge the gap when your assets alone can’t protect your family.
+Mungkin masih perlu kalau tabungan dan investasi kamu belum cukup untuk menutup utang, biaya hidup, dan tujuan masa depan. Asuransi ada untuk menutup celah ketika aset kamu sendiri belum cukup melindungi keluarga.
 
 ### How often should I review my coverage?
-I’d review it at least once a year, and definitely after marriage, having a child, buying a house, or changing jobs. Big life changes usually mean your coverage number should change too.
+Saya akan meninjaunya setidaknya setahun sekali, dan pasti setelah menikah, punya anak, beli rumah, atau ganti pekerjaan. Perubahan besar dalam hidup biasanya berarti angka cakupan kamu juga harus berubah.
 
 ## Final Thoughts: What I’d Recommend
 
-If you want my honest opinion, most people in Indonesia buy life insurance too casually. They pick a number that feels affordable, not a number that actually protects anyone. I’d rather you spend 30 minutes doing the math properly than spend years paying for a policy that won’t help much when it matters.
+Kalau kamu mau pendapat jujur saya, terlalu banyak orang di Indonesia membeli asuransi jiwa dengan santai. Mereka memilih angka yang terasa terjangkau, bukan angka yang benar-benar melindungi siapa pun. Saya lebih suka kamu meluangkan 30 menit untuk menghitung dengan benar daripada bertahun-tahun membayar polis yang tidak banyak membantu saat dibutuhkan.
 
-For most readers, the answer to **how much life insurance coverage do you need Indonesia** is not a tiny Rp 100 juta policy. It’s usually somewhere between **Rp 500 juta and Rp 2 miliar**, depending on debt, dependents, and income.
+Bagi kebanyakan pembaca, jawaban untuk **berapa besar cakupan asuransi jiwa yang kamu butuhkan di Indonesia** bukan polis Rp 100 juta yang kecil. Biasanya ada di kisaran **Rp 500 juta sampai Rp 2 miliar**, tergantung utang, tanggungan, dan penghasilan.
 
-If you want to be practical, do this tonight:
-- List your debts
-- Estimate your family’s annual expenses
-- Decide how many years of support they’d need
-- Subtract your savings and investments
-- Round up to the nearest sensible number
+Kalau kamu mau lebih praktis, lakukan ini malam ini:
+- Catat semua utang kamu
+- Perkirakan pengeluaran tahunan keluarga
+- Tentukan berapa tahun dukungan yang mereka butuhkan
+- Kurangi tabungan dan investasi
+- Bulatkan ke angka yang masuk akal
 
-That’s the number I’d trust. Not the salesperson’s pitch. Not the cheapest premium. Your actual life.
+Itulah angka yang akan saya percaya. Bukan promosi sales. Bukan premi termurah. Tapi kondisi hidup kamu yang sebenarnya.

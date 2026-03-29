@@ -1,6 +1,6 @@
 ---
 title: "Panduan Asuransi Rumah 2026: Hemat Rp 15 Juta+"
-description: "Rata-rata pemilik rumah di AS membayar Rp 29 juta/tahun. Bandingkan provider, jenis perlindungan, dan 5 cara menurunkan premi."
+description: "Rata-rata pemilik rumah bayar Rp 29 juta/tahun. Bandingkan provider, perlindungan, dan 5 cara menurunkan premi."
 pubDate: 2026-03-25
 updatedDate: 2026-03-25
 category: "insurance"
