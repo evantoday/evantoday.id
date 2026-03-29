@@ -5,10 +5,87 @@ import OpenAI from 'openai';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CONTENT_DIR = join(__dirname, '..', 'src', 'content', 'blog');
+const IMAGES_DIR = join(CONTENT_DIR, 'images');
 const KEYWORD_BANK_PATH = join(__dirname, 'keyword-bank.json');
 const PUBLISHED_LOG_PATH = join(__dirname, 'published-log.json');
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+
+const CATEGORY_SEARCH_TERMS = {
+	'personal-finance': 'money budget finance planning',
+	'fintech': 'financial technology mobile banking app',
+	'cryptocurrency': 'bitcoin cryptocurrency digital',
+	'insurance': 'insurance protection family security',
+	'investing': 'stock market investing growth',
+	'digital-banking': 'online banking digital savings',
+	'financial-tips': 'money savings wealth financial',
+};
+
+async function fetchHeroImage(keyword, slug) {
+	const accessKey = process.env.UNSPLASH_ACCESS_KEY;
+	if (!accessKey) {
+		console.log('  No UNSPLASH_ACCESS_KEY — skipping image download');
+		return null;
+	}
+
+	const searchTerms = keyword.keyword
+		.replace(/[^a-zA-Z\s]/g, '')
+		.split(' ')
+		.filter((w) => w.length > 3)
+		.slice(0, 3)
+		.join(' ');
+	const query = searchTerms || CATEGORY_SEARCH_TERMS[keyword.category] || 'finance money';
+
+	try {
+		const url = `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&orientation=landscape&per_page=5&client_id=${accessKey}`;
+		const res = await fetch(url);
+		if (!res.ok) {
+			console.log(`  Unsplash API error: ${res.status} — skipping image`);
+			return null;
+		}
+
+		const data = await res.json();
+		if (!data.results || data.results.length === 0) {
+			// Fallback to category-level search
+			const fallbackUrl = `https://api.unsplash.com/search/photos?query=${encodeURIComponent(CATEGORY_SEARCH_TERMS[keyword.category] || 'finance')}&orientation=landscape&per_page=5&client_id=${accessKey}`;
+			const fallbackRes = await fetch(fallbackUrl);
+			const fallbackData = await fallbackRes.json();
+			if (!fallbackData.results?.length) {
+				console.log('  No Unsplash results found — skipping image');
+				return null;
+			}
+			data.results = fallbackData.results;
+		}
+
+		// Pick a random image from top results to avoid repetition
+		const photo = data.results[Math.floor(Math.random() * data.results.length)];
+		const imageUrl = `${photo.urls.regular}&w=1200&h=630&fit=crop`;
+		const altText = photo.alt_description || photo.description || `Photo by ${photo.user.name} on Unsplash`;
+		const photographer = photo.user.name;
+
+		// Download the image
+		const imgRes = await fetch(imageUrl);
+		if (!imgRes.ok) {
+			console.log(`  Failed to download image: ${imgRes.status}`);
+			return null;
+		}
+
+		const buffer = Buffer.from(await imgRes.arrayBuffer());
+		const imagePath = join(IMAGES_DIR, `${slug}.jpg`);
+		writeFileSync(imagePath, buffer);
+		console.log(`  Image saved: ${slug}.jpg (by ${photographer})`);
+
+		// Trigger Unsplash download endpoint (required by API guidelines)
+		if (photo.links?.download_location) {
+			fetch(`${photo.links.download_location}?client_id=${accessKey}`).catch(() => {});
+		}
+
+		return { path: `./images/${slug}.jpg`, alt: altText, photographer };
+	} catch (err) {
+		console.log(`  Image fetch failed: ${err.message} — skipping`);
+		return null;
+	}
+}
 
 function slugify(text) {
   return text
@@ -171,7 +248,7 @@ Make it the most useful article on this topic for an American reader.`;
   return content;
 }
 
-function saveArticle(content, keyword) {
+function saveArticle(content, keyword, heroImage) {
   const titleMatch = content.match(/title:\s*"(.+?)"/);
   const title = titleMatch ? titleMatch[1] : keyword.keyword;
   const slug = slugify(title);
@@ -180,6 +257,14 @@ function saveArticle(content, keyword) {
   if (existsSync(filePath)) {
     console.log(`File already exists: ${filePath}. Skipping.`);
     return null;
+  }
+
+  // Inject heroImage into frontmatter if we have one
+  if (heroImage) {
+    content = content.replace(
+      /^(---\n[\s\S]*?)(---)/m,
+      `$1heroImage: '${heroImage.path}'\nheroImageAlt: '${heroImage.alt.replace(/'/g, "\\'")}'\n$2`
+    );
   }
 
   writeFileSync(filePath, content, 'utf-8');
@@ -256,7 +341,10 @@ async function main() {
     try {
       console.log(`[${generated + 1}/${keywords.length}] Selected: "${keyword.keyword}" [${keyword.priority}] (${keyword.category})`);
       const content = await generateArticle(keyword);
-      const result = saveArticle(content, keyword);
+      const titleMatch = content.match(/title:\s*"(.+?)"/);
+      const tempSlug = slugify(titleMatch ? titleMatch[1] : keyword.keyword);
+      const heroImage = await fetchHeroImage(keyword, tempSlug);
+      const result = saveArticle(content, keyword, heroImage);
 
       if (result) {
         updatePublishedLog(keyword, result.slug);
