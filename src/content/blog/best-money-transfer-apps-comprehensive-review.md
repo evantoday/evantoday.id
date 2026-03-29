@@ -16,13 +16,13 @@ Whether you're sending money to family abroad, paying international freelancers,
 
 ## Transfer Uang Domestik: Opsi Terbaik
 
-Untuk mengirim uang di dalam negeri, yang paling penting adalah kecepatan dan biaya. Ini perbandingan opsi terbaiknya:
+Untuk kirim uang di dalam negeri, yang paling penting adalah kecepatan dan biaya. Ini perbandingan opsi terbaiknya:
 
 ### Zelle
 
 **Terbaik untuk:** Transfer gratis dan instan antar rekening bank di AS
 
-Zelle adalah cara tercepat dan termurah untuk mengirim uang secara domestik. Transfer masuk dalam hitungan menit, benar-benar gratis, dan sudah terintegrasi di banyak aplikasi bank besar.
+Zelle adalah cara tercepat dan termurah untuk kirim uang secara domestik. Transfer masuk dalam hitungan menit, benar-benar gratis, dan sudah terintegrasi di banyak aplikasi bank besar.
 
 - **Biaya:** Rp 0 (selalu gratis)
 - **Kecepatan:** 1-3 menit

@@ -10,9 +10,9 @@ heroImageAlt: '5 Best Expense Tracking Apps in 2026 (Free & Paid)'
 
 ---
 
-I used to think I was pretty good with money. Then I actually started tracking every rupiah I spent for a month. Turns out I was blowing around Rp 5 juta on subscriptions I barely used, Rp 3 juta on impulse food delivery orders, and another Rp 2 juta on random online purchases I couldn't even remember making.
+Saya dulu merasa cukup pintar soal uang. Lalu saya benar-benar mulai mencatat setiap rupiah yang saya keluarkan selama sebulan. Ternyata, saya habis sekitar Rp 5 juta untuk langganan yang hampir nggak pernah saya pakai, Rp 3 juta untuk pesan antar makanan karena impulsif, dan Rp 2 juta lagi untuk belanja online acak yang bahkan saya sendiri nggak ingat pernah beli.
 
-That single month of expense tracking changed everything for me. And if you're reading this, there's a good chance you’re leaking money too — rata-rata rumah tangga di Amerika membuang lebih dari Rp 23 juta per tahun untuk pengeluaran yang bahkan tidak mereka sadari.
+Satu bulan pencatatan pengeluaran itu mengubah semuanya buat saya. Dan kalau kamu sedang membaca ini, besar kemungkinan kamu juga sedang bocor uang — rata-rata rumah tangga di Amerika membuang lebih dari Rp 23 juta per tahun untuk pengeluaran yang bahkan tidak mereka sadari.
 
 Kabar baiknya? Kamu nggak perlu spreadsheet atau gelar akuntansi. Aplikasi catat pengeluaran yang tepat bisa mengerjakan 90% pekerjaannya untukmu. Berikut lima opsi terbaik yang saya uji di 2026.
 
