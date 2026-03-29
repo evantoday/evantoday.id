@@ -1,6 +1,6 @@
 ---
-title: "P2P Lending: Earn 5-10% Returns in 2026 (Risks)"
-description: "P2P platforms like Prosper offer 5-10% returns—but defaults are real. How peer-to-peer lending works in the US, SEC regulations, and how to limit your risk."
+title: "P2P Lending: Imbal Hasil 5-10% di 2026"
+description: "Platform P2P bisa kasih imbal hasil 5-10%, tapi gagal bayar nyata. Ini cara kerjanya dan cara mengurangi risikonya."
 pubDate: 2026-03-15
 category: "investing"
 tags: ["P2P lending", "Prosper", "LendingClub", "peer to peer", "alternative investments"]
@@ -10,88 +10,88 @@ heroImageAlt: 'P2P Lending: Earn 5-10% Returns in 2026 (Risks)'
 
 ---
 
-## What Peer-to-Peer Lending Actually Is
+## Apa Itu Peer-to-Peer Lending Sebenarnya
 
-I put my first $2,000 into P2P lending back in 2020, thinking I had found a secret goldmine. The promise was seductive: earn 8-12% returns by lending directly to borrowers, cutting out the bank. Six years later, my actual returns have been more like 5-6% after defaults, and I have learned a lot of hard lessons along the way.
+Saya pertama kali menaruh Rp 30 juta ke P2P lending pada 2020, dan saat itu saya merasa seperti menemukan tambang emas rahasia. Janjinya menggoda: dapat imbal hasil 8-12% dengan meminjamkan uang langsung ke peminjam, tanpa bank sebagai perantara. Enam tahun kemudian, hasil nyata saya lebih mirip 5-6% setelah gagal bayar, dan saya belajar banyak pelajaran mahal di sepanjang jalan.
 
-Peer-to-peer lending connects individual borrowers with individual lenders through an online platform. Instead of going to a bank for a personal loan, a borrower applies on a P2P platform. The platform evaluates their creditworthiness, assigns a risk grade, and then investors like you and me fund the loan in small increments.
+Peer-to-peer lending menghubungkan peminjam individu dengan pemberi pinjaman individu lewat platform online. Alih-alih mengajukan pinjaman pribadi ke bank, peminjam mendaftar di platform P2P. Platform menilai kelayakan kredit mereka, memberi peringkat risiko, lalu investor seperti kamu dan saya mendanai pinjaman itu dalam porsi kecil.
 
-The idea is simple: borrowers get lower rates than credit cards, investors get higher returns than savings accounts, and the platform takes a fee for facilitating everything. In practice, it is more complicated than that.
+Idenya sederhana: peminjam dapat bunga lebih rendah daripada kartu kredit, investor mendapat imbal hasil lebih tinggi daripada tabungan, dan platform mengambil biaya untuk memfasilitasi semuanya. Dalam praktiknya, ini jauh lebih rumit.
 
-Let me break down exactly how P2P lending works in the US, which platforms are worth considering, and how to manage the very real risks involved.
+Saya akan jelaskan cara kerja P2P lending di AS, platform mana yang layak dipertimbangkan, dan bagaimana mengelola risiko yang memang nyata.
 
-## How P2P Lending Works Step by Step
+## Cara Kerja P2P Lending Langkah demi Langkah
 
-### For Borrowers
+### Untuk Peminjam
 
-1. Borrower applies for a loan on the platform (typically $1,000-$50,000)
-2. Platform checks credit score, income, employment, and debt-to-income ratio
-3. Loan is assigned a risk grade (A through E or similar)
-4. Loan is listed on the marketplace for investors to fund
-5. If fully funded, borrower receives the money minus an origination fee (1-8%)
-6. Borrower makes monthly payments over 3-5 years
+1. Peminjam mengajukan pinjaman di platform (biasanya Rp 15 juta-Rp 750 juta)
+2. Platform memeriksa skor kredit, penghasilan, pekerjaan, dan rasio utang terhadap pendapatan
+3. Pinjaman diberi grade risiko (A sampai E atau sejenisnya)
+4. Pinjaman dipasang di marketplace untuk didanai investor
+5. Jika pendanaan penuh, peminjam menerima dana dikurangi biaya origination (1-8%)
+6. Peminjam mencicil tiap bulan selama 3-5 tahun
 
-### For Investors
+### Untuk Investor
 
-1. Create an account and deposit funds
-2. Browse available loans filtered by risk grade, purpose, and term
-3. Invest as little as $25 per loan note
-4. Receive monthly payments of principal plus interest
-5. Reinvest payments or withdraw to your bank account
+1. Buat akun dan setor dana
+2. Telusuri pinjaman yang tersedia berdasarkan grade risiko, tujuan, dan tenor
+3. Investasi mulai dari Rp 375 ribu per note pinjaman
+4. Terima pembayaran bulanan berupa pokok plus bunga
+5. Investasikan ulang pembayaran atau tarik ke rekening bank kamu
 
-The beauty of the $25 minimum is [diversification](/blog/7-smart-ways-to-diversify-your-investment-portfolio/). With $2,500, you can spread your investment across 100 different loans. If one borrower defaults, you lose $25 instead of $2,500.
+Keunggulan minimum Rp 375 ribu adalah [diversifikasi](/blog/7-smart-ways-to-diversify-your-investment-portfolio/). Dengan Rp 37,5 juta, kamu bisa menyebar dana ke 100 pinjaman berbeda. Kalau satu peminjam gagal bayar, kerugianmu Rp 375 ribu, bukan Rp 37,5 juta.
 
-## Major US P2P Lending Platforms
+## Platform P2P Lending Besar di AS
 
 ### Prosper
 
-Prosper is the oldest P2P lending platform in the US, founded in 2005.
+Prosper adalah platform P2P lending tertua di AS, didirikan pada 2005.
 
-- **Minimum investment**: $25 per note
-- **Loan amounts**: $2,000-$50,000
-- **Loan terms**: 3 or 5 years
-- **Expected returns**: 3.5-7.5% depending on risk grade
-- **Borrower requirements**: 640+ credit score
-- **Fees for investors**: 1% annual servicing fee
+- **Minimum investasi**: Rp 375 ribu per note
+- **Jumlah pinjaman**: Rp 30 juta-Rp 750 juta
+- **Tenor pinjaman**: 3 atau 5 tahun
+- **Imbal hasil yang diharapkan**: 3,5-7,5% tergantung grade risiko
+- **Syarat peminjam**: skor kredit 640+
+- **Biaya untuk investor**: biaya servis tahunan 1%
 
-Prosper is my primary P2P platform. The interface is straightforward, and they have a long enough track record to give me confidence in their risk grading system. Their auto-invest feature lets you set criteria and automatically fund loans that match your preferences.
+Prosper adalah platform P2P utama saya. Tampilan platformnya sederhana, dan rekam jejaknya cukup panjang untuk membuat saya percaya pada sistem penilaian risikonya. Fitur auto-invest mereka memungkinkan kamu menetapkan kriteria lalu otomatis mendanai pinjaman yang sesuai preferensimu.
 
 ### LendingClub
 
-LendingClub was once the biggest name in P2P lending, but they pivoted to a bank model in 2020 when they acquired Radius Bank. Individual investors can no longer directly invest in loans on LendingClub's platform.
+LendingClub dulu pernah jadi nama terbesar di P2P lending, tetapi mereka beralih ke model bank pada 2020 setelah mengakuisisi Radius Bank. Investor individu tidak bisa lagi berinvestasi langsung ke pinjaman di platform LendingClub.
 
-However, LendingClub still matters because:
+Namun, LendingClub masih penting karena:
 
-- They issue personal loans that may be packaged into investment products
-- Their historical data is widely used to analyze P2P lending performance
-- They demonstrated both the potential and limitations of the P2P model
+- Mereka menerbitkan pinjaman pribadi yang bisa dikemas menjadi produk investasi
+- Data historis mereka banyak dipakai untuk menganalisis performa P2P lending
+- Mereka menunjukkan potensi sekaligus keterbatasan model P2P
 
-### Other Platforms to Consider
+### Platform Lain yang Bisa Dipertimbangkan
 
-| Platform | Focus | Minimum | Accredited Only? |
-|----------|-------|---------|-----------------|
-| Prosper | Personal loans | $25 | No |
-| Fundrise | Real estate | $10 | No |
-| Yieldstreet | Alternative assets | $2,500 | Some products |
-| PeerStreet | Real estate debt | $1,000 | Yes |
-| Percent | Private credit | $500 | Yes |
+| Platform | Fokus | Minimum | Hanya Investor Terakreditasi? |
+|----------|-------|---------|-------------------------------|
+| Prosper | Pinjaman pribadi | Rp 375 ribu | Tidak |
+| Fundrise | Properti | Rp 150 ribu | Tidak |
+| Yieldstreet | Aset alternatif | Rp 37,5 juta | Beberapa produk |
+| PeerStreet | Utang properti | Rp 15 juta | Ya |
+| Percent | Kredit privat | Rp 7,5 juta | Ya |
 
-Note that several of these platforms require accredited investor status (generally $200K+ income or $1M+ [net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/) excluding primary residence). Prosper remains the most accessible option for everyday investors.
+Perlu dicatat, beberapa platform ini mensyaratkan status investor terakreditasi (umumnya penghasilan Rp 3 miliar+ atau kekayaan bersih Rp 15 miliar+ [net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/) tidak termasuk rumah utama). Prosper tetap jadi opsi paling mudah diakses untuk investor harian.
 
-## Realistic Return Expectations
+## Ekspektasi Imbal Hasil yang Realistis
 
-Let me be blunt about returns because the marketing numbers from P2P platforms are often misleading.
+Saya akan blak-blakan soal imbal hasil, karena angka marketing dari platform P2P sering menyesatkan.
 
-### Advertised vs. Actual Returns
+### Klaim vs Hasil Nyata
 
-- **Platform advertises**: 7-12% returns on higher-risk loans
-- **After defaults**: Subtract 2-5% depending on risk grade
-- **After fees**: Subtract another 1%
-- **Actual net returns**: 3-7% for most investors
+- **Platform mengiklankan**: imbal hasil 7-12% untuk pinjaman berisiko lebih tinggi
+- **Setelah gagal bayar**: kurangi 2-5% tergantung grade risiko
+- **Setelah biaya**: kurangi lagi sekitar 1%
+- **Imbal hasil bersih nyata**: 3-7% untuk kebanyakan investor
 
-Here is a more detailed breakdown by risk grade on Prosper:
+Berikut rincian yang lebih detail berdasarkan grade risiko di Prosper:
 
-| Risk Grade | Interest Rate | Default Rate | Net Return (After Fees) |
+| Grade Risiko | Suku Bunga | Tingkat Gagal Bayar | Imbal Hasil Bersih (Setelah Biaya) |
 |-----------|--------------|-------------|----------------------|
 | AA | 6-8% | 1-2% | 4-6% |
 | A | 7-10% | 2-4% | 4-6% |
@@ -100,129 +100,129 @@ Here is a more detailed breakdown by risk grade on Prosper:
 | D | 17-22% | 12-18% | 2-5% |
 | E | 22-30% | 18-25% | 1-4% |
 
-Notice something interesting? The net returns across risk grades are surprisingly similar. Higher interest rates on riskier loans are mostly offset by higher defaults. This is why I stick primarily to A and B grade loans. You get similar net returns with far less volatility and fewer headaches from watching loans go delinquent.
+Lihat sesuatu yang menarik? Imbal hasil bersih di berbagai grade ternyata cukup mirip. Bunga yang lebih tinggi pada pinjaman berisiko biasanya tertutup oleh gagal bayar yang lebih tinggi juga. Karena itu saya lebih banyak memilih pinjaman grade A dan B. Hasil bersihnya mirip, tapi volatilitasnya jauh lebih rendah dan kamu tidak terlalu pusing melihat pinjaman macet.
 
-## SEC Regulation and Investor Protections
+## Regulasi SEC dan Perlindungan Investor
 
-P2P lending in the US is regulated by the Securities and Exchange Commission (SEC). This is important because it provides a level of oversight you will not find in many other countries.
+P2P lending di AS diatur oleh Securities and Exchange Commission (SEC). Ini penting karena memberi lapisan pengawasan yang tidak kamu temukan di banyak negara lain.
 
-### Key Regulatory Points
+### Poin Regulasi Utama
 
-- **P2P loan notes are registered securities**: Platforms must file with the SEC, which means you get prospectuses and regular disclosures
-- **State restrictions**: Some states do not allow P2P investing. Check your state's rules before signing up
-- **No FDIC insurance**: Unlike bank deposits, your P2P investments are not insured. If borrowers default, you lose money
-- **Platform bankruptcy risk**: If the platform itself goes under, a backup servicer is supposed to continue collecting payments, but this is not guaranteed to work smoothly
+- **Note pinjaman P2P adalah efek yang terdaftar**: platform harus melapor ke SEC, jadi kamu akan mendapat prospektus dan pengungkapan rutin
+- **Pembatasan negara bagian**: beberapa negara bagian di AS tidak mengizinkan investasi P2P. Cek aturan wilayahmu sebelum mendaftar
+- **Tidak ada asuransi LPS**: berbeda dengan simpanan bank, investasi P2P tidak dijamin. Kalau peminjam gagal bayar, kamu rugi
+- **Risiko kebangkrutan platform**: kalau platformnya bangkrut, backup servicer seharusnya tetap menagih pembayaran, tapi ini tidak selalu berjalan mulus
 
-### Tax Implications
+### Implikasi Pajak
 
-P2P lending income is taxed as ordinary income, not capital gains. This means:
+Pendapatan dari P2P lending dikenakan pajak sebagai penghasilan biasa, bukan capital gain. Artinya:
 
-- Interest earned is taxed at your marginal income tax rate (up to 37%)
-- Defaulted loans can be written off as short-term capital losses
-- You receive a 1099-OID or 1099-INT at tax time
-- Consider holding P2P investments in a tax-advantaged account if your platform allows it (some [Roth IRA](/blog/how-to-financially-prepare-for-retirement/) options exist through Prosper)
+- Bunga yang kamu terima dikenakan pajak sesuai tarif pajak penghasilan marginal kamu
+- Pinjaman yang gagal bayar bisa dicatat sebagai capital loss jangka pendek
+- Kamu akan menerima formulir pajak saat waktunya lapor
+- Pertimbangkan menyimpan investasi P2P di akun dengan keuntungan pajak jika platform mendukungnya (beberapa opsi [reksadana/investasi](/blog/how-to-financially-prepare-for-retirement/) tersedia lewat Prosper)
 
-## My P2P Lending Strategy
+## Strategi P2P Lending Saya
 
-After six years of trial and error, here is the approach I have settled on:
+Setelah enam tahun trial and error, inilah pendekatan yang saya pakai:
 
-### Diversification Rules
+### Aturan Diversifikasi
 
-- **Minimum 100 notes**: Never put more than 1% of your P2P allocation in any single loan
-- **Target 200+ notes**: My current portfolio has about 250 active notes
-- **Maximum $50 per note**: Even if a loan looks great, I cap my exposure
+- **Minimal 100 note**: jangan taruh lebih dari 1% alokasi P2P kamu di satu pinjaman
+- **Target 200+ note**: portofolio saya sekarang punya sekitar 250 note aktif
+- **Maksimal Rp 750 ribu per note**: meski pinjamannya terlihat bagus, saya tetap membatasi eksposur
 
-### Loan Selection Criteria
+### Kriteria Pemilihan Pinjaman
 
-I use these filters for auto-invest:
+Saya pakai filter ini untuk auto-invest:
 
-- **Credit grade**: A and B only
-- **Debt-to-income ratio**: Below 25%
-- **Credit inquiries**: 3 or fewer in the last 6 months
-- **Loan purpose**: Debt consolidation or home improvement (historically lower default rates)
-- **Employment length**: 3+ years at current employer
+- **Grade kredit**: hanya A dan B
+- **Rasio utang terhadap pendapatan**: di bawah 25%
+- **Inquiry kredit**: 3 atau kurang dalam 6 bulan terakhir
+- **Tujuan pinjaman**: konsolidasi utang atau renovasi rumah (secara historis tingkat gagal bayarnya lebih rendah)
+- **Lama bekerja**: 3+ tahun di perusahaan saat ini
 
-### Portfolio Allocation
+### Alokasi Portofolio
 
-P2P lending should be a small slice of your overall portfolio, not a core holding. Here is how I think about it:
+P2P lending sebaiknya hanya jadi porsi kecil dari portofolio kamu, bukan aset inti. Begini cara saya memikirkannya:
 
-- **Maximum allocation**: 5-10% of investable assets
-- **Not a replacement for**: Index funds, bonds, or emergency savings
-- **Best used as**: A yield-enhancing satellite allocation
+- **Alokasi maksimum**: 5-10% dari aset yang bisa diinvestasikan
+- **Bukan pengganti**: reksadana indeks, obligasi, atau dana darurat
+- **Paling cocok sebagai**: alokasi satelit untuk meningkatkan yield
 
-## Risks You Need to Understand
+## Risiko yang Perlu Kamu Pahami
 
-I want to be completely transparent about the risks because I have experienced several of them firsthand.
+Saya ingin benar-benar transparan soal risikonya karena saya pernah mengalaminya sendiri.
 
-### Default Risk
+### Risiko Gagal Bayar
 
-Borrowers can and do default. Even with A-grade loans, expect 2-4% of your notes to default over their lifetime. This is the cost of doing business in P2P lending.
+Peminjam bisa dan memang gagal bayar. Bahkan untuk pinjaman grade A, harapkan 2-4% note kamu gagal bayar sepanjang masa pinjaman. Ini adalah biaya menjalankan bisnis di P2P lending.
 
-### Illiquidity
+### Risiko Likuiditas
 
-Most P2P notes cannot be easily sold before maturity. Prosper had a secondary market that has been discontinued. Once you invest in a note, you are generally locked in for the full 3-5 year term.
+Sebagian besar note P2P tidak mudah dijual sebelum jatuh tempo. Prosper pernah punya pasar sekunder, tapi sekarang sudah dihentikan. Begitu kamu berinvestasi di satu note, biasanya dana terkunci selama 3-5 tahun penuh.
 
-### Platform Risk
+### Risiko Platform
 
-If the P2P platform goes bankrupt, the process of recovering your money gets messy. While backup servicers are in place, the track record of smooth transitions is limited.
+Kalau platform P2P bangkrut, proses mengambil kembali uangmu jadi rumit. Walaupun ada backup servicer, rekam jejak transisinya belum tentu mulus.
 
-### Economic Downturn Risk
+### Risiko Perlambatan Ekonomi
 
-During recessions, default rates spike dramatically. P2P lending platforms have not been through many full economic cycles, so the real stress-test data is limited.
+Saat resesi, tingkat gagal bayar bisa melonjak tajam. Platform P2P belum melewati banyak siklus ekonomi penuh, jadi data stress test yang benar-benar kuat masih terbatas.
 
-### Opportunity Cost
+### Biaya Kesempatan
 
-The 4-6% net return from P2P lending is decent, but the S&P 500 has historically returned about 10% annually. Every dollar in P2P lending is a dollar not in [index funds](/blog/index-fund-investing-guide/).
+Imbal hasil bersih 4-6% dari P2P lending memang lumayan, tapi S&P 500 secara historis menghasilkan sekitar 10% per tahun. Setiap rupiah di P2P lending adalah rupiah yang tidak masuk ke [reksadana indeks](/blog/index-fund-investing-guide/).
 
-## P2P Lending vs. Other Investments
+## P2P Lending vs Investasi Lain
 
-| Factor | P2P Lending | High-Yield Savings | Treasury Bonds | S&P 500 Index |
+| Faktor | P2P Lending | Tabungan Bunga Tinggi | Obligasi Pemerintah | Indeks S&P 500 |
 |--------|------------|-------------------|---------------|--------------|
-| Expected return | 4-7% | 4.0-4.5% | 4.0-5.0% | 8-10% long-term |
-| Risk level | Medium-high | Very low | Very low | Medium |
-| Liquidity | Low | Immediate | Varies | High |
-| FDIC/govt backing | No | Yes | Yes | No |
-| Tax treatment | Ordinary income | Ordinary income | State exempt | Capital gains |
-| Minimum effort | Moderate | None | Low | None |
+| Imbal hasil yang diharapkan | 4-7% | 4,0-4,5% | 4,0-5,0% | 8-10% jangka panjang |
+| Tingkat risiko | Menengah-tinggi | Sangat rendah | Sangat rendah | Menengah |
+| Likuiditas | Rendah | Langsung | Bervariasi | Tinggi |
+| Dijamin LPS/pemerintah | Tidak | Ya | Ya | Tidak |
+| Perlakuan pajak | Penghasilan biasa | Penghasilan biasa | Bebas pajak daerah tertentu | Capital gain |
+| Usaha minimum | Sedang | Tidak ada | Rendah | Tidak ada |
 
-Looking at this table honestly, P2P lending occupies an awkward middle ground. It does not return enough to compete with stocks, and it is far riskier than bonds or savings accounts. The main case for including it is diversification since P2P returns are not perfectly correlated with stock market returns.
+Kalau dilihat jujur dari tabel ini, P2P lending ada di posisi tengah yang agak canggung. Imbal hasilnya tidak cukup tinggi untuk menyaingi saham, dan risikonya jauh lebih besar daripada obligasi atau tabungan. Alasan utama untuk memasukkannya adalah diversifikasi, karena hasil P2P tidak sepenuhnya berkorelasi dengan pasar saham.
 
-## Who Should and Should Not Invest in P2P Lending
+## Siapa yang Cocok dan Tidak Cocok Investasi di P2P Lending
 
-**Good candidates:**
+**Cocok untuk:**
 
-- You have maxed out your 401(k), IRA, and HSA
-- You want to diversify beyond stocks and bonds
-- You can afford to lock up money for 3-5 years
-- You understand and accept the default risk
-- You enjoy the hands-on aspect of selecting loans
+- Kamu sudah memaksimalkan DPLK, dana pensiun, dan instrumen pajak-efisien lain
+- Kamu ingin diversifikasi di luar saham dan obligasi
+- Kamu sanggup mengunci dana selama 3-5 tahun
+- Kamu paham dan menerima risiko gagal bayar
+- Kamu suka memilih pinjaman secara aktif
 
-**Avoid P2P lending if:**
+**Sebaiknya hindari P2P lending jika:**
 
-- You have not maxed out tax-advantaged retirement accounts
-- You need the money within 1-2 years
-- You cannot handle watching individual loans default
-- You want a purely passive investment
-- Your state does not allow P2P investing
+- Kamu belum memaksimalkan akun pensiun yang diuntungkan pajak
+- Kamu butuh uangnya dalam 1-2 tahun
+- Kamu tidak sanggup melihat pinjaman individu gagal bayar
+- Kamu ingin investasi yang sepenuhnya pasif
+- Negaramu tidak mengizinkan investasi P2P
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is P2P lending safe in the US?
+### Apakah P2P lending aman di AS?
 
-P2P lending is regulated by the SEC, which provides transparency and disclosure requirements. However, your principal is not FDIC insured, and borrower defaults are a real and expected part of the experience. Think of it as a medium-risk investment, safer than individual stocks but riskier than [government bonds](/blog/treasury-bonds-explained/).
+P2P lending diatur oleh SEC, yang memberi transparansi dan kewajiban pengungkapan. Namun, pokok investasimu tidak dijamin LPS, dan gagal bayar peminjam adalah bagian nyata dan memang diharapkan dari pengalaman ini. Anggap saja ini investasi risiko menengah: lebih aman daripada saham individual, tapi lebih berisiko daripada [obligasi pemerintah](/blog/treasury-bonds-explained/).
 
-### How much money do I need to start P2P lending?
+### Berapa modal awal untuk mulai P2P lending?
 
-You can start with as little as $25 on Prosper for a single note. However, I recommend at least $2,500 so you can diversify across 100 notes. With fewer notes, a single default has an outsized impact on your returns.
+Kamu bisa mulai dengan Rp 375 ribu untuk satu note di Prosper. Namun, saya sarankan minimal Rp 37,5 juta supaya bisa diversifikasi ke 100 note. Kalau note-nya terlalu sedikit, satu gagal bayar bisa berdampak terlalu besar pada hasilmu.
 
-### Do I have to pay taxes on P2P lending income?
+### Apakah saya harus bayar pajak atas pendapatan P2P lending?
 
-Yes. Interest earned from P2P lending is taxed as ordinary income at your marginal federal tax rate, plus any applicable state taxes. You will receive tax forms (1099-OID or 1099-INT) from the platform. Defaulted loans can be claimed as capital losses on your tax return.
+Ya. Bunga dari P2P lending dikenakan pajak sebagai penghasilan biasa sesuai tarif pajak penghasilan federal marginal kamu, plus pajak daerah jika berlaku. Kamu akan menerima formulir pajak dari platform. Pinjaman yang gagal bayar bisa diklaim sebagai capital loss di SPT kamu.
 
-### What happens if a P2P lending platform shuts down?
+### Apa yang terjadi kalau platform P2P lending tutup?
 
-Platforms are required to have backup servicing arrangements. In theory, a third-party servicer would continue collecting payments on existing loans. In practice, this process can be slow and uncertain. This is one reason to limit your P2P allocation to 5-10% of your portfolio.
+Platform wajib punya pengaturan backup servicing. Secara teori, pihak ketiga akan tetap menagih pembayaran dari pinjaman yang sudah ada. Dalam praktiknya, proses ini bisa lambat dan tidak pasti. Ini salah satu alasan kenapa alokasi P2P sebaiknya dibatasi 5-10% dari portofolio kamu.
 
-### Can I invest in P2P lending through my IRA?
+### Apakah saya bisa investasi P2P lending lewat IRA?
 
-Some platforms, including Prosper, have offered IRA options in the past. Availability varies and may be limited. If available, holding P2P investments in a Roth IRA eliminates the tax drag on interest income, which is a significant advantage given that P2P income is taxed at ordinary rates.
+Beberapa platform, termasuk Prosper, pernah menawarkan opsi IRA. Ketersediaannya bisa berubah dan mungkin terbatas. Kalau tersedia, menyimpan investasi P2P di Roth IRA menghilangkan beban pajak atas pendapatan bunga, yang merupakan keuntungan besar karena pendapatan P2P dikenakan tarif biasa.

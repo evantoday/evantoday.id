@@ -8,9 +8,9 @@ tags: ["bitcoin halving", "bitcoin price", "crypto investing", "indonesia", "mar
 author: "Evan"
 ---
 
-I still remember the last Bitcoin halving cycle because my group chat turned into a war room overnight. Everyone had a theory, everyone had a chart, and everyone suddenly became a macro expert. The funny part? The real **Bitcoin halving impact on price** was less about instant fireworks and more about how the market behaved over the following months.
+Saya masih ingat siklus halving Bitcoin terakhir karena grup chat saya mendadak berubah jadi ruang perang semalaman. Semua orang punya teori, semua orang punya chart, dan tiba-tiba semua merasa jadi ahli makro. Lucunya, **dampak halving Bitcoin terhadap harga** yang sebenarnya justru lebih sedikit soal ledakan instan, dan lebih banyak soal bagaimana pasar bergerak dalam beberapa bulan setelahnya.
 
-If you’re wondering what to expect, the short answer is this: halving usually doesn’t send Bitcoin straight up the next day, but it often changes the supply story in a way the market starts pricing in before and after the event. That’s where the opportunity — and the trap — usually sits.
+Kalau kamu penasaran apa yang bisa diharapkan, jawaban singkatnya begini: halving biasanya tidak bikin Bitcoin langsung melonjak ke atas keesokan harinya, tapi sering mengubah cerita pasokan dengan cara yang mulai dihitung pasar sebelum dan sesudah event. Di situlah peluang — dan jebakannya — biasanya berada.
 
 ## Key Takeaways
 
@@ -39,7 +39,7 @@ Kalau kamu ingin benar-benar paham Bitcoin, saya juga sarankan baca panduan saya
 
 ## How Does Bitcoin Halving Impact on Price?
 
-**Bitcoin halving impact on price** biasanya datang dari shock pasokan, tapi efeknya tertunda dan dipengaruhi ekspektasi pasar. Dalam bahasa sederhana: halving mengubah aliran BTC baru, dan pasar sering bereaksi sebelum pengurangan itu benar-benar terasa di harga.
+**Dampak halving Bitcoin terhadap harga** biasanya datang dari shock pasokan, tapi efeknya tertunda dan dipengaruhi ekspektasi pasar. Dalam bahasa sederhana: halving mengubah aliran BTC baru, dan pasar sering bereaksi sebelum pengurangan itu benar-benar terasa di harga.
 
 ### The supply side is the main driver
 
@@ -200,7 +200,7 @@ Kalau kamu tergoda terlalu sering trading, saya juga sarankan baca [cara melunas
 
 ## Bitcoin Halving Impact on Price: My Practical Outlook
 
-Pandangan jujur saya adalah **Bitcoin halving impact on price** itu nyata, tapi bekerja lewat waktu, sentimen, dan likuiditas — bukan sihir. Halving memang mengurangi pasokan baru, dan itu menciptakan latar yang lebih baik untuk kenaikan harga kalau permintaan tetap sehat. Tapi pasar tetap bisa terlihat jelek dalam jangka pendek.
+Pandangan jujur saya adalah **dampak halving Bitcoin terhadap harga** itu nyata, tapi bekerja lewat waktu, sentimen, dan likuiditas — bukan sihir. Halving memang mengurangi pasokan baru, dan itu menciptakan latar yang lebih baik untuk kenaikan harga kalau permintaan tetap sehat. Tapi pasar tetap bisa terlihat jelek dalam jangka pendek.
 
 ### What I’d expect, realistically
 

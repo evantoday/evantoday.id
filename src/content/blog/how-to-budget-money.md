@@ -1,6 +1,6 @@
 ---
-title: "How to Budget Money (Beginner Guide for 2026)"
-description: "No budgeting experience? Start here. Build a working budget in 3 steps using the 50-30-20 rule, free apps, and real American salary examples."
+title: "Cara Mengatur Uang: Panduan Pemula 2026"
+description: "Belum pernah bikin anggaran? Mulai dari sini. Bangun budget 3 langkah dengan aturan 50-30-20, aplikasi gratis, dan contoh gaji nyata."
 pubDate: 2026-02-14
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
@@ -10,252 +10,252 @@ category: "personal-finance"
 tags: ["budgeting", "budget for beginners", "50-30-20 rule", "money management", "personal finance"]
 ---
 
-## Why Most Americans Do Not Budget (And Why You Should)
+## Kenapa Banyak Orang Amerika Tidak Punya Budget (Dan Kenapa Kamu Harus Punya)
 
-Here is a stat that still surprises me: only 1 in 3 Americans keeps a detailed budget. The other two-thirds are essentially guessing where their money goes each month.
+Ada satu data yang masih bikin saya heran: cuma 1 dari 3 orang Amerika yang benar-benar punya budget detail. Dua pertiga sisanya pada dasarnya cuma menebak ke mana uang mereka habis tiap bulan.
 
-And it shows. Sixty percent of Americans live [paycheck to paycheck](/blog/how-to-stop-living-paycheck-to-paycheck/). The average household carries $7,000 in [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/). Nearly half cannot cover an unexpected $1,000 expense without borrowing.
+Dan dampaknya kelihatan jelas. Enam puluh persen orang Amerika hidup [dari gaji ke gaji](/blog/how-to-stop-living-paycheck-to-paycheck/). Rata-rata rumah tangga punya utang kartu kredit sekitar Rp 105 juta. Hampir separuh tidak bisa menutup pengeluaran tak terduga sebesar Rp 15 juta tanpa pinjam uang.
 
-These are not problems caused by low income alone. I have seen families earning $150,000 per year who are broke, and individuals earning $45,000 who are steadily building wealth. The difference almost always comes down to one thing: a budget.
+Masalah seperti ini bukan cuma karena penghasilan kecil. Saya pernah lihat keluarga dengan penghasilan Rp 2,3 miliar per tahun yang tetap bangkrut, dan orang dengan penghasilan Rp 690 juta yang pelan-pelan membangun kekayaan. Bedanya hampir selalu satu: budget.
 
-A budget is not about restricting your life. It is about telling your money where to go instead of wondering where it went. And the best part? It does not have to be complicated. You can build a working budget in three steps, starting today.
+Budget bukan soal membatasi hidup kamu. Budget itu soal memberi tahu uangmu harus pergi ke mana, bukan bertanya-tanya uangnya sudah ke mana. Dan kabar baiknya? Ini tidak harus rumit. Kamu bisa bikin budget yang jalan dalam tiga langkah, mulai hari ini.
 
-## Step 1: Know Your Numbers
+## Langkah 1: Kenali Angka Kamu
 
-### Calculate Your Take-Home Pay
+### Hitung Gaji Bersih Kamu
 
-Your budget is based on what actually hits your bank account — not your salary, not your gross pay, but your net income after taxes, health insurance, and retirement contributions are deducted.
+Budget kamu harus berdasarkan uang yang benar-benar masuk ke rekening — bukan gaji kotor, bukan angka di kontrak, tapi penghasilan bersih setelah pajak, asuransi kesehatan, dan iuran pensiun dipotong.
 
-Here is what take-home pay typically looks like for common US salaries:
+Berikut gambaran gaji bersih bulanan untuk beberapa kisaran gaji tahunan:
 
-| Gross Annual Salary | Approximate Monthly Take-Home* |
+| Gaji Kotor Tahunan | Perkiraan Gaji Bersih per Bulan* |
 |--------------------|-----------------------------|
-| $35,000 | $2,400-$2,600 |
-| $45,000 | $3,000-$3,300 |
-| $55,000 | $3,500-$3,900 |
-| $65,000 | $4,100-$4,500 |
-| $75,000 | $4,600-$5,100 |
-| $100,000 | $5,800-$6,500 |
+| Rp 530 juta | Rp 36–39 juta |
+| Rp 680 juta | Rp 45–50 juta |
+| Rp 830 juta | Rp 53–59 juta |
+| Rp 980 juta | Rp 62–68 juta |
+| Rp 1,13 miliar | Rp 69–77 juta |
+| Rp 1,5 miliar | Rp 87–97 juta |
 
-*Varies by state, filing status, deductions, and benefits elections
+*Bisa berbeda tergantung lokasi, status pajak, potongan, dan benefit
 
-If your income is irregular (freelance, gig work, commission-based), use the average of the last 3-6 months as your baseline. Budget based on the lower end to build in a safety margin.
+Kalau penghasilan kamu tidak tetap (freelance, kerja gig, komisi), pakai rata-rata 3–6 bulan terakhir sebagai patokan. Budget berdasarkan angka yang lebih rendah supaya ada ruang aman.
 
-### Track Where Your Money Currently Goes
+### Lacak Ke Mana Uang Kamu Pergi Sekarang
 
-Before you create a budget, spend two weeks tracking every dollar you spend. Every coffee, every subscription, every Amazon order. You can do this manually in a notebook, in a spreadsheet, or by connecting your bank accounts to a tracking app.
+Sebelum bikin budget, habiskan dua minggu untuk mencatat setiap rupiah yang keluar. Kopi, langganan aplikasi, belanja online, semuanya. Kamu bisa catat manual di buku, pakai spreadsheet, atau hubungkan rekening ke aplikasi pelacak.
 
-What you will likely discover:
+Yang biasanya akan kamu temukan:
 
-- You are spending more on food than you thought (dining out is the biggest culprit)
-- You have subscriptions you forgot about
-- Small daily purchases ($5 here, $10 there) add up to hundreds per month
-- Your "I do not spend much on myself" narrative is probably inaccurate
+- Pengeluaran makan ternyata lebih besar dari yang kamu kira (makan di luar biasanya jadi biang kerok)
+- Ada langganan yang sudah kamu lupa
+- Belanja kecil harian (Rp 75 ribu di sini, Rp 150 ribu di sana) bisa jadi jutaan per bulan
+- Narasi “saya nggak banyak belanja buat diri sendiri” sering kali tidak akurat
 
-This reality check is uncomfortable but essential. You cannot fix what you cannot see.
+Cek realita ini memang agak tidak nyaman, tapi penting. Kamu tidak bisa memperbaiki sesuatu yang tidak terlihat.
 
-## Step 2: Choose a Budgeting Method
+## Langkah 2: Pilih Metode Budget
 
-### The 50/30/20 Rule (Best for Beginners)
+### Aturan 50/30/20 (Paling Cocok untuk Pemula)
 
-This is the simplest, most popular budgeting framework in America, and for good reason: it works without requiring you to track every penny.
+Ini framework budget paling sederhana dan paling populer di Amerika, dan alasannya jelas: metode ini bisa jalan tanpa kamu harus melacak setiap rupiah.
 
-**50% — Needs**: Rent/mortgage, utilities, groceries, minimum debt payments, insurance, transportation, childcare. These are expenses you must pay to live.
+**50% — Kebutuhan**: Sewa/KPR, tagihan listrik, belanja kebutuhan pokok, cicilan minimum utang, asuransi, transportasi, biaya anak. Ini pengeluaran yang harus dibayar supaya bisa hidup.
 
-**30% — Wants**: Dining out, entertainment, shopping, hobbies, travel, subscriptions, gym membership. These are things you enjoy but could live without.
+**30% — Keinginan**: Makan di luar, hiburan, belanja, hobi, liburan, langganan, membership gym. Ini hal yang kamu nikmati, tapi sebenarnya bisa hidup tanpa itu.
 
-**20% — Savings and Extra Debt Payment**: Emergency fund contributions, retirement savings, extra payments on credit cards or student loans.
+**20% — Tabungan dan Bayar Utang Tambahan**: Dana darurat, investasi/pensiun, pembayaran ekstra untuk kartu kredit atau pinjaman pendidikan.
 
-### 50/30/20 Applied to Real Salaries
+### Penerapan 50/30/20 pada Gaji Nyata
 
-| Category | $45K Salary ($3,150/mo net) | $65K Salary ($4,300/mo net) | $100K Salary ($6,200/mo net) |
+| Kategori | Gaji Rp 680 Juta/Tahun (Rp 45 Juta/bln net) | Gaji Rp 980 Juta/Tahun (Rp 72 Juta/bln net) | Gaji Rp 1,5 Miliar/Tahun (Rp 104 Juta/bln net) |
 |----------|---------------------------|---------------------------|----------------------------|
-| Needs (50%) | $1,575 | $2,150 | $3,100 |
-| Wants (30%) | $945 | $1,290 | $1,860 |
-| Savings (20%) | $630 | $860 | $1,240 |
+| Kebutuhan (50%) | Rp 22,5 juta | Rp 36 juta | Rp 52 juta |
+| Keinginan (30%) | Rp 13,5 juta | Rp 21,6 juta | Rp 31,2 juta |
+| Tabungan (20%) | Rp 9 juta | Rp 14,4 juta | Rp 20,8 juta |
 
-### When 50/30/20 Does Not Work
+### Kalau 50/30/20 Tidak Cocok
 
-In high-cost cities, your needs might consume 60-65% of your income. That is okay — adjust the ratios:
+Di kota dengan biaya hidup tinggi, kebutuhan kamu bisa makan 60–65% penghasilan. Itu wajar — tinggal sesuaikan rasionya:
 
-- **High-cost city version**: 60% needs / 20% wants / 20% savings
-- **Aggressive saver version**: 50% needs / 20% wants / 30% savings
-- **Debt payoff version**: 50% needs / 20% wants / 30% debt payoff + savings
+- **Versi kota mahal**: 60% kebutuhan / 20% keinginan / 20% tabungan
+- **Versi penabung agresif**: 50% kebutuhan / 20% keinginan / 30% tabungan
+- **Versi fokus lunasi utang**: 50% kebutuhan / 20% keinginan / 30% bayar utang + tabungan
 
-The exact percentages matter less than the habit of consciously allocating every dollar.
+Persentase yang paling penting bukan angka persisnya, tapi kebiasaan mengalokasikan setiap rupiah dengan sadar.
 
-### Zero-Based Budgeting (Best for Detail-Oriented People)
+### Budget Nol-Saldo (Paling Cocok untuk Orang yang Detail)
 
-With [zero-based budget](/blog/zero-based-budgeting-method-explained/)ing, every single dollar gets assigned a job. Income minus all planned spending equals zero.
+Dengan [zero-based budgeting](/blog/zero-based-budgeting-method-explained/), setiap rupiah punya tugas. Penghasilan dikurangi semua rencana pengeluaran hasilnya nol.
 
-For example, if your take-home is $4,300:
+Misalnya, kalau gaji bersih kamu Rp 72 juta:
 
-- Rent: $1,400
-- Utilities: $200
-- Groceries: $400
-- Car payment: $350
-- Car insurance: $150
-- Gas: $100
-- Student loan: $300
-- Phone: $50
-- Subscriptions: $30
-- Dining out: $200
-- Entertainment: $100
-- Clothing: $75
-- Personal care: $50
-- Emergency fund: $300
-- Roth IRA: $300
-- Miscellaneous: $145
-- Leftover to assign: $150
+- Sewa: Rp 23,5 juta
+- Tagihan utilitas: Rp 3,3 juta
+- Belanja kebutuhan pokok: Rp 6,7 juta
+- Cicilan mobil/motor: Rp 5,2 juta
+- Asuransi kendaraan: Rp 2,2 juta
+- Bensin/transport: Rp 1,5 juta
+- Cicilan pinjaman pendidikan: Rp 5 juta
+- Telepon: Rp 850 ribu
+- Langganan: Rp 500 ribu
+- Makan di luar: Rp 3,3 juta
+- Hiburan: Rp 1,7 juta
+- Pakaian: Rp 1,2 juta
+- Perawatan pribadi: Rp 850 ribu
+- Dana darurat: Rp 5 juta
+- Investasi/reksadana: Rp 5 juta
+- Lain-lain: Rp 2,4 juta
+- Sisa untuk dialokasikan: Rp 2,5 juta
 
-Total: $4,300. Every dollar accounted for.
+Total: Rp 72 juta. Semua rupiah sudah punya tujuan.
 
-This method takes more effort but gives you maximum control. The EveryDollar app by Dave Ramsey is built around this approach.
+Metode ini memang butuh usaha lebih, tapi memberi kontrol paling besar. Aplikasi EveryDollar dari Dave Ramsey dibuat berdasarkan pendekatan ini.
 
-### The Envelope System (Best for Overspenders)
+### Sistem Amplop (Paling Cocok untuk yang Sering Boros)
 
-If you struggle with overspending in specific categories (dining out, shopping, entertainment), the envelope system provides a physical barrier:
+Kalau kamu sering kebablasan di kategori tertentu (makan di luar, belanja, hiburan), sistem amplop bisa jadi penghalang fisik:
 
-1. Withdraw cash for your variable spending categories at the start of the month
-2. Put the cash in labeled envelopes (Dining Out: $200, Groceries: $400, Entertainment: $100)
-3. When the envelope is empty, you stop spending in that category
+1. Tarik uang tunai untuk kategori pengeluaran variabel di awal bulan
+2. Masukkan ke amplop berlabel (Makan di Luar: Rp 3 juta, Belanja Kebutuhan: Rp 6 juta, Hiburan: Rp 1,5 juta)
+3. Kalau amplopnya habis, kamu berhenti belanja di kategori itu
 
-This is old-school but remarkably effective. The physical act of handing over cash triggers more spending awareness than tapping a card.
+Cara ini klasik, tapi sangat efektif. Sensasi menyerahkan uang tunai biasanya bikin kamu lebih sadar dibanding cuma tap kartu.
 
-A modern version: apps like Goodbudget create virtual "envelopes" that track spending by category.
+Versi modernnya: aplikasi seperti Goodbudget bikin “amplop” virtual untuk melacak pengeluaran per kategori.
 
-## Step 3: Automate Everything
+## Langkah 3: Otomatiskan Semuanya
 
-### Why Automation Is the Secret to Budget Success
+### Kenapa Otomatisasi Adalah Rahasia Budget yang Berhasil
 
-The biggest reason budgets fail is that they rely on willpower. You intend to save $500 this month, but then there is a sale, or a friend invites you to dinner, or you just feel like you deserve something nice.
+Alasan terbesar budget gagal adalah karena terlalu bergantung pada kemauan. Kamu niat menabung Rp 7,5 juta bulan ini, tapi lalu ada diskon, teman ngajak makan, atau kamu merasa pantas dapat hadiah kecil.
 
-Automation removes willpower from the equation:
+Otomatisasi menghilangkan unsur “niat” dari persamaan:
 
-1. **Day after payday**: Automatic transfer to savings account
-2. **Day after payday**: Automatic transfer to investment account (Roth IRA, brokerage)
-3. **Due dates**: All bills on auto-pay (rent, utilities, insurance, subscriptions)
-4. **What is left**: Your spending money for the month
+1. **Sehari setelah gajian**: transfer otomatis ke rekening tabungan
+2. **Sehari setelah gajian**: transfer otomatis ke rekening investasi/reksadana
+3. **Saat jatuh tempo**: semua tagihan auto-debit (sewa, utilitas, asuransi, langganan)
+4. **Sisanya**: uang belanja kamu untuk bulan itu
 
-When your savings and bills are handled automatically, whatever remains in your checking account is genuinely yours to spend — guilt-free.
+Kalau tabungan dan tagihan sudah beres otomatis, sisa uang di rekening utama benar-benar milik kamu untuk dipakai — tanpa rasa bersalah.
 
-### Setting Up Your Automation Stack
+### Menyusun Sistem Otomatis Kamu
 
-Here is a practical setup:
+Berikut setup yang praktis:
 
-| Day | Action | Where |
+| Hari | Aksi | Ke Mana |
 |-----|--------|-------|
-| 1st (payday) | Paycheck deposits | Checking account |
-| 2nd | $300 transfers to emergency fund | High-yield savings (Ally, Marcus) |
-| 2nd | $300 transfers to Roth IRA | Fidelity, Vanguard, or Schwab |
-| 5th | Rent auto-pay | Checking to landlord |
-| 5th | All utilities auto-pay | Checking to providers |
-| 15th (if biweekly) | Second paycheck deposits | Checking account |
-| 16th | $200 to emergency fund | High-yield savings |
-| 16th | $200 to Roth IRA | Investment account |
+| Tanggal 1 (gajian) | Gaji masuk | Rekening utama |
+| Tanggal 2 | Transfer Rp 4,5 juta ke dana darurat | Tabungan berbunga tinggi (BCA, Jago, Seabank) |
+| Tanggal 2 | Transfer Rp 4,5 juta ke investasi/reksadana | Rekening investasi |
+| Tanggal 5 | Auto-pay sewa/KPR | Rekening utama ke pemilik rumah/bank |
+| Tanggal 5 | Auto-pay semua tagihan utilitas | Rekening utama ke penyedia layanan |
+| Tanggal 15 (kalau gajian dua mingguan) | Gaji kedua masuk | Rekening utama |
+| Tanggal 16 | Rp 3 juta ke dana darurat | Tabungan berbunga tinggi |
+| Tanggal 16 | Rp 3 juta ke investasi/reksadana | Rekening investasi |
 
-After automation, whatever remains in checking is your spending money. No guilt, no tracking every latte.
+Setelah semuanya otomatis, sisa di rekening utama adalah uang belanja kamu. Tidak ada rasa bersalah, tidak perlu menghitung setiap kopi susu.
 
-## The Best Free Budgeting Tools for 2026
+## Alat Budget Gratis Terbaik untuk 2026
 
-### Apps
+### Aplikasi
 
-| App | Best For | Cost | Key Feature |
+| Aplikasi | Cocok Untuk | Biaya | Fitur Utama |
 |-----|---------|------|-------------|
-| Mint (Intuit) | Overall tracking | Free | Auto-categorizes transactions |
-| EveryDollar | Zero-based budgeting | Free (basic) | Simple drag-and-drop interface |
-| Goodbudget | Envelope system | Free (basic) | Virtual envelopes, works for couples |
-| PocketGuard | Showing spendable money | Free | Tells you exactly how much you have left |
-| Copilot | Premium tracking | $10.99/mo | Beautiful design, smart insights |
+| Mint (Intuit) | Pelacakan menyeluruh | Gratis | Otomatis mengelompokkan transaksi |
+| EveryDollar | Budget nol-saldo | Gratis (dasar) | Tampilan drag-and-drop yang simpel |
+| Goodbudget | Sistem amplop | Gratis (dasar) | Amplop virtual, cocok untuk pasangan |
+| PocketGuard | Menunjukkan uang yang bisa dipakai | Gratis | Menunjukkan sisa uang kamu dengan jelas |
+| Copilot | Pelacakan premium | Rp 170 ribu/bulan | Desain cantik, insight pintar |
 
-### Spreadsheets
+### Spreadsheet
 
-If you prefer spreadsheets, these free templates are excellent:
+Kalau kamu lebih suka spreadsheet, template gratis ini bagus:
 
-- **Google Sheets budget template**: Built-in to Google Sheets (File > New > From template)
-- **Tiller Money**: Connects your bank accounts to Google Sheets or Excel. Pulls transactions automatically ($79/year).
-- **Reddit's r/personalfinance template**: Search "budget spreadsheet" in the subreddit for community-built options
+- **Template budget Google Sheets**: Sudah tersedia di Google Sheets (File > New > From template)
+- **Tiller Money**: Menghubungkan rekening bank ke Google Sheets atau Excel. Transaksi masuk otomatis (sekitar Rp 1,2 juta/tahun).
+- **Template Reddit r/personalfinance**: Cari “budget spreadsheet” di subreddit untuk opsi buatan komunitas
 
-## Common Budgeting Mistakes to Avoid
+## Kesalahan Budget yang Sering Terjadi
 
-### Mistake 1: Making It Too Complicated
+### Kesalahan 1: Terlalu Rumit
 
-If your budget has 47 categories and requires 2 hours per week to maintain, you will quit within a month. Start simple. Three categories (needs, wants, savings) is enough for most people. Add detail only if you need it.
+Kalau budget kamu punya 47 kategori dan butuh 2 jam per minggu untuk dirawat, kamu kemungkinan besar akan menyerah dalam sebulan. Mulai sederhana. Tiga kategori (kebutuhan, keinginan, tabungan) sudah cukup untuk kebanyakan orang. Tambahkan detail hanya kalau memang perlu.
 
-### Mistake 2: Not Budgeting for Irregular Expenses
+### Kesalahan 2: Tidak Memasukkan Pengeluaran Tidak Rutin
 
-Car registration, holiday gifts, annual insurance premiums, property taxes — these come every year but people forget to budget for them. Add up all annual and semi-annual expenses, divide by 12, and include that amount in your monthly budget.
+Perpanjangan STNK, hadiah Lebaran/Natal, premi asuransi tahunan, pajak properti — ini memang datang tiap tahun, tapi sering lupa dimasukkan ke budget. Jumlahkan semua pengeluaran tahunan dan semesteran, bagi 12, lalu masukkan ke budget bulanan.
 
-Common irregular expenses Americans forget:
+Pengeluaran tidak rutin yang sering dilupakan:
 
-- Holiday gifts: $500-$1,500/year ($42-$125/month)
-- Car maintenance and registration: $600-$1,200/year ($50-$100/month)
-- Medical copays and prescriptions: $300-$800/year ($25-$67/month)
-- Home maintenance: $1,000-$3,000/year ($83-$250/month)
-- Annual subscriptions (Amazon Prime, software, memberships): $300-$600/year ($25-$50/month)
+- Hadiah hari raya: Rp 7,5–22,5 juta/tahun (Rp 625 ribu–Rp 1,9 juta/bulan)
+- Servis kendaraan dan perpanjangan STNK: Rp 9–18 juta/tahun (Rp 750 ribu–Rp 1,5 juta/bulan)
+- Biaya dokter dan obat: Rp 4,5–12 juta/tahun (Rp 375 ribu–Rp 1 juta/bulan)
+- Perawatan rumah: Rp 15–45 juta/tahun (Rp 1,25–Rp 3,75 juta/bulan)
+- Langganan tahunan (software, membership, layanan): Rp 4,5–9 juta/tahun (Rp 375 ribu–Rp 750 ribu/bulan)
 
-### Mistake 3: No Fun Money
+### Kesalahan 3: Tidak Ada Uang Buat Senang-senang
 
-A budget that cuts all enjoyment is a diet that cuts all food — you will binge eventually. Give yourself a "no questions asked" fun budget every month. Even $50-$100 designated for whatever you want prevents the feeling of deprivation that leads to blowout spending.
+Budget yang menghapus semua kesenangan itu seperti diet yang menghapus semua makanan — ujung-ujungnya kamu bakal kalap. Sisihkan budget “bebas tanya” setiap bulan. Bahkan Rp 750 ribu–Rp 1,5 juta untuk apa pun yang kamu mau bisa mencegah rasa serba kekurangan yang memicu belanja berlebihan.
 
-### Mistake 4: Giving Up After One Bad Month
+### Kesalahan 4: Menyerah Setelah Satu Bulan Buruk
 
-You will go over budget. Everyone does. A bad month does not mean budgeting failed — it means you have data to adjust. Look at where you overspent, figure out why, and adjust next month. Progress, not perfection.
+Kamu pasti akan keluar budget. Semua orang begitu. Satu bulan yang buruk bukan berarti budget gagal — itu berarti kamu punya data untuk menyesuaikan. Lihat di mana kamu overspend, cari penyebabnya, lalu ubah bulan berikutnya. Fokus pada progres, bukan kesempurnaan.
 
-### Mistake 5: Not Adjusting as Life Changes
+### Kesalahan 5: Tidak Menyesuaikan Saat Hidup Berubah
 
-Your budget should change when your life changes: new job, raise, move, baby, marriage, debt paid off. Review and update your budget at least quarterly, or whenever a major financial change happens.
+Budget kamu harus ikut berubah saat hidup berubah: kerja baru, naik gaji, pindah rumah, punya anak, menikah, utang lunas. Tinjau dan perbarui budget setidaknya tiap tiga bulan, atau kapan pun ada perubahan finansial besar.
 
-## Building Your Emergency Fund Into the Budget
+## Membangun Dana Darurat ke Dalam Budget
 
-### Why This Comes Before Investing
+### Kenapa Ini Didahulukan Sebelum Investasi
 
-If you do not have at least $1,000 in emergency savings, that is your first budget priority. Before extra debt payments, before investing, before anything else.
+Kalau kamu belum punya minimal Rp 15 juta dana darurat, itu harus jadi prioritas pertama. Sebelum bayar utang ekstra, sebelum investasi, sebelum yang lain.
 
-Here is the progression:
+Urutannya begini:
 
-1. **$1,000 starter emergency fund** (1-3 months)
-2. **Pay off high-interest debt** (credit cards above 15% APR)
-3. **3-6 months of expenses in emergency savings** ($8,000-$20,000 for most people)
-4. **Invest 15% of income for retirement**
-5. **Attack remaining debt and build wealth**
+1. **Dana darurat awal Rp 15 juta** (1–3 bulan)
+2. **Lunasi utang berbunga tinggi** (kartu kredit di atas 15% per tahun)
+3. **Dana darurat 3–6 bulan biaya hidup** (Rp 120 juta–Rp 300 juta untuk kebanyakan orang)
+4. **Investasikan 15% penghasilan untuk pensiun**
+5. **Kejar sisa utang dan bangun kekayaan**
 
-### Where to Keep Emergency Savings
+### Di Mana Menyimpan Dana Darurat
 
-Not in your checking account — too tempting to spend. Open a separate [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account at an online bank:
+Jangan di rekening utama — terlalu gampang dipakai. Buka rekening terpisah di bank digital atau tabungan berbunga tinggi:
 
-- **Marcus by Goldman Sachs**: 4.0-4.5% APY
-- **Ally Bank**: 4.0-4.5% APY with sub-account "buckets"
-- **Capital One 360**: 3.8-4.0% APY
+- **BCA**: tabungan fleksibel dengan akses mudah
+- **Jago**: fitur kantong/budgeting yang rapi
+- **Seabank**: bunga kompetitif untuk tabungan
+- **Mandiri**: opsi rekening tabungan yang luas jaringannya
 
-Your emergency fund earns money while it protects you. At 4.5% APY, a $10,000 emergency fund earns $450 per year in interest.
+Dana darurat kamu tetap menghasilkan uang sambil melindungi kamu. Dengan bunga 4,5% per tahun, dana darurat Rp 150 juta bisa menghasilkan sekitar Rp 6,75 juta per tahun.
 
-## Your First Month Budget Template
+## Template Budget Bulan Pertama Kamu
 
-Here is a starting template for someone earning $55,000 per year (approximately $3,700/month take-home):
+Berikut template awal untuk orang dengan penghasilan sekitar Rp 830 juta per tahun (kira-kira Rp 55 juta per bulan bersih):
 
-**Needs (55% = $2,035)**
-- Rent: $1,100
-- Utilities (electric, gas, water, internet): $250
-- Groceries: $350
-- Transportation (car payment, gas, insurance): $250
-- Phone: $50
-- Minimum debt payments: $35
+**Kebutuhan (55% = Rp 30,25 juta)**
+- Sewa/KPR: Rp 16,5 juta
+- Utilitas (listrik, gas, air, internet): Rp 3,75 juta
+- Belanja kebutuhan pokok: Rp 5,25 juta
+- Transportasi (cicilan, bensin, asuransi): Rp 3,75 juta
+- Telepon: Rp 750 ribu
+- Cicilan minimum utang: Rp 525 ribu
 
-**Wants (25% = $925)**
-- Dining out: $200
-- Entertainment and subscriptions: $100
-- Shopping and personal: $100
-- Hobbies: $50
-- Miscellaneous: $75
-- Buffer for irregular expenses: $400
+**Keinginan (25% = Rp 13,75 juta)**
+- Makan di luar: Rp 3 juta
+- Hiburan dan langganan: Rp 1,5 juta
+- Belanja pribadi: Rp 1,5 juta
+- Hobi: Rp 750 ribu
+- Lain-lain: Rp 1,125 juta
+- Cadangan untuk pengeluaran tidak rutin: Rp 6 juta
 
-**Savings and Debt (20% = $740)**
-- Emergency fund: $300
-- Roth IRA: $250
-- Extra debt payoff: $190
+**Tabungan dan Utang (20% = Rp 11 juta)**
+- Dana darurat: Rp 4,5 juta
+- Investasi/reksadana: Rp 3,75 juta
+- Bayar utang ekstra: Rp 2,75 juta
 
-**Total**: $3,700
+**Total**: Rp 55 juta
 
-Adjust this based on your actual numbers. The exact categories and amounts matter less than the discipline of assigning every dollar a purpose.
-
+Sesuaikan dengan angka nyata kamu. Yang paling penting bukan kategori atau nominal persisnya, tapi disiplin memberi tujuan untuk setiap rupiah.

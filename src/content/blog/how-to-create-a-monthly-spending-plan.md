@@ -1,6 +1,6 @@
 ---
-title: "Monthly Spending Plan in 5 Steps (Free Template)"
-description: "Stop wondering where your paycheck went. Create a monthly spending plan in 5 steps with real US cost benchmarks and a free template you can copy today."
+title: "Rencana Pengeluaran Bulanan dalam 5 Langkah"
+description: "Berhenti bingung gaji habis ke mana. Buat rencana pengeluaran bulanan dalam 5 langkah dengan template gratis."
 pubDate: 2026-03-15
 category: "personal-finance"
 tags: ["spending plan", "monthly budget", "budget template", "expense planning", "financial planning"]
@@ -10,227 +10,226 @@ heroImageAlt: 'Monthly Spending Plan in 5 Steps (Free Template)'
 
 ---
 
-## Why You Need a Monthly Spending Plan
+## Kenapa Kamu Perlu Rencana Pengeluaran Bulanan
 
-A monthly spending plan is not a budget. I know that sounds weird, but stick with me. A budget feels restrictive—like a diet for your wallet. A spending plan is proactive. It is a written agreement with yourself about how you will use your money before the month starts.
+Rencana pengeluaran bulanan itu bukan anggaran. Saya tahu kedengarannya aneh, tapi dengarkan dulu. Anggaran sering terasa membatasi—seperti diet untuk dompet. Sementara rencana pengeluaran itu lebih proaktif. Ini adalah kesepakatan tertulis dengan diri sendiri tentang bagaimana kamu akan memakai uang sebelum bulan dimulai.
 
-The difference is mindset. A budget says "you cannot spend more than $300 on dining out." A spending plan says "I am choosing to spend $300 on dining out because that is what matters to me this month." Same number, completely different energy.
+Bedanya ada di pola pikir. Anggaran bilang, "kamu tidak boleh belanja lebih dari Rp 4,5 juta untuk makan di luar." Rencana pengeluaran bilang, "saya memilih menghabiskan Rp 4,5 juta untuk makan di luar karena itu yang penting buat saya bulan ini." Angkanya sama, energinya beda jauh.
 
-According to a Gallup poll, only 32% of American households maintain any kind of written budget or spending plan. The other 68% are winging it—and they are the ones most likely to carry [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/), have no [emergency fund](/blog/emergency-fund-guide/), and feel stressed about money.
+Menurut jajak pendapat Gallup, hanya 32% rumah tangga di Amerika yang punya anggaran atau rencana pengeluaran tertulis. Sisanya 68% jalan seadanya—dan merekalah yang paling mungkin punya [utang kartu kredit](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/), tidak punya [dana darurat](/blog/emergency-fund-guide/), dan stres soal uang.
 
-I was in that 68% for years. Creating a monthly spending plan took me from constantly overdrafting to saving over $800 per month. Here is exactly how I did it, step by step.
+Saya juga pernah ada di 68% itu selama bertahun-tahun. Begitu saya mulai bikin rencana pengeluaran bulanan, saya berhenti sering minus saldo dan malah bisa menabung lebih dari Rp 12 juta per bulan. Ini persis cara saya melakukannya, langkah demi langkah.
 
-## Step 1: Calculate Your Total Monthly Income
+## Langkah 1: Hitung Total Penghasilan Bulanan
 
-Before you plan where your money goes, you need to know exactly how much you have. Use your after-tax, take-home pay—the amount that actually hits your bank account.
+Sebelum kamu merencanakan uang akan ke mana, kamu harus tahu dulu berapa yang benar-benar kamu punya. Pakai penghasilan bersih setelah pajak—alias uang yang benar-benar masuk ke rekeningmu.
 
-### For W-2 Employees
+### Untuk Karyawan Tetap
 
-Look at your most recent pay stub. Find the "net pay" line. If you are paid biweekly (every two weeks), multiply by 26 and divide by 12 to get your true monthly average. If paid semi-monthly (1st and 15th), multiply by 2.
+Lihat slip gaji terbaru. Cari baris "gaji bersih". Kalau kamu dibayar dua mingguan, kalikan 26 lalu bagi 12 untuk dapat rata-rata bulanan yang sebenarnya. Kalau dibayar dua kali sebulan (tanggal 1 dan 15), kalikan 2.
 
-Be careful: biweekly and semi-monthly are not the same thing. Biweekly gives you 26 paychecks per year (two months will have three paychecks). Semi-monthly gives you 24.
+Hati-hati: dua mingguan dan dua kali sebulan itu beda. Dua mingguan berarti kamu dapat 26 kali gaji setahun (ada dua bulan yang dapat 3 kali gaji). Dua kali sebulan berarti 24 kali.
 
-### For Freelancers and Self-Employed
+### Untuk Freelancer dan Pekerja Mandiri
 
-Take your average monthly income over the past six months and use the lower end. If you made between $3,500 and $6,000 per month over the past half year, plan based on $3,500-$4,000. Anything extra goes straight to savings or debt.
+Ambil rata-rata penghasilan bulanan selama 6 bulan terakhir, lalu pakai angka yang lebih rendah. Kalau selama setengah tahun terakhir kamu menghasilkan antara Rp 52 juta dan Rp 90 juta per bulan, rencanakan berdasarkan Rp 52–60 juta. Sisanya langsung masuk tabungan atau bayar utang.
 
-Do not forget to account for self-employment tax (15.3%) and estimated quarterly taxes. Your gross freelance income is not what you actually keep.
+Jangan lupa memperhitungkan pajak penghasilan dan angsuran pajak berkala ke Dirjen Pajak. Penghasilan kotor dari freelance bukan uang yang benar-benar kamu simpan.
 
-### Common Income Sources to Include
+### Sumber Penghasilan yang Perlu Dimasukkan
 
-- Primary salary or wages
-- Side hustle income (Etsy, freelance, tutoring, rideshare)
-- Rental income
-- Dividends and interest
-- Child support or alimony received
-- Regular cash gifts (only if truly consistent)
+- Gaji utama
+- Penghasilan sampingan (jualan online, freelance, les privat, ojek online)
+- Pendapatan sewa
+- Dividen dan bunga
+- Tunjangan anak atau nafkah yang diterima
+- Uang tunai rutin dari keluarga, kalau memang konsisten
 
-Add it all up. That is your monthly spending plan starting number.
+Jumlahkan semuanya. Itulah angka awal rencana pengeluaran bulananmu.
 
-## Step 2: List Every Fixed Expense
+## Langkah 2: Catat Semua Pengeluaran Tetap
 
-Fixed expenses are bills that stay roughly the same each month. They are predictable, and most can be set to autopay.
+Pengeluaran tetap adalah tagihan yang jumlahnya relatif sama setiap bulan. Ini bisa diprediksi, dan sebagian besar bisa diatur auto-debit.
 
-| Fixed Expense | Average US Range | Notes |
-|---------------|-----------------|-------|
-| Rent / Mortgage | $1,000 - $2,500 | Keep under 28% of gross income |
-| Car payment | $300 - $734 | Average new car: $734, used: $525 |
-| Auto insurance | $100 - $250 | Shop around annually |
-| Health insurance | $100 - $500 | Your portion after employer contribution |
-| Student loans | $200 - $500 | Federal average: $393/month |
-| Phone bill | $40 - $100 | Mint Mobile and similar can cut this to $15-$30 |
-| Internet | $50 - $100 | Negotiate annually or switch providers |
-| Subscriptions | $30 - $100 | Netflix, Spotify, gym, apps |
-| Renter's / Homeowner's insurance | $50 - $200 | Often bundled for discounts |
+| Pengeluaran Tetap | Kisaran Rata-rata di Indonesia | Catatan |
+|-------------------|-------------------------------|---------|
+| Sewa / KPR | Rp 15 juta - Rp 38 juta | Usahakan di bawah 28% dari penghasilan kotor |
+| Cicilan mobil | Rp 4,5 juta - Rp 11 juta | Rata-rata mobil baru lebih tinggi, mobil bekas lebih rendah |
+| Asuransi mobil | Rp 1,5 juta - Rp 4 juta | Bandingkan tiap tahun |
+| Asuransi kesehatan | Rp 1,5 juta - Rp 7,5 juta | Bagian yang kamu bayar sendiri setelah kontribusi kantor |
+| Cicilan pinjaman | Rp 3 juta - Rp 7,5 juta | Prioritaskan yang bunganya tinggi |
+| Tagihan ponsel | Rp 600 ribu - Rp 1,5 juta | Paket hemat bisa menekan biaya |
+| Internet | Rp 750 ribu - Rp 1,5 juta | Negosiasi atau ganti provider |
+| Langganan | Rp 450 ribu - Rp 1,5 juta | Streaming, gym, aplikasi |
+| Asuransi rumah / sewa | Rp 750 ribu - Rp 3 juta | Sering bisa digabung untuk diskon |
 
-Total these up. This is your non-negotiable baseline—the money that is spoken for before you make any choices.
+Jumlahkan semuanya. Ini adalah dasar yang tidak bisa ditawar—uang yang sudah “terpakai” sebelum kamu membuat pilihan apa pun.
 
-## Step 3: Estimate Your Variable Expenses
+## Langkah 3: Perkirakan Pengeluaran Variabel
 
-Variable expenses change month to month and are where most overspending happens. This is also where you have the most control.
+Pengeluaran variabel berubah-ubah setiap bulan dan di sinilah kebanyakan orang kebablasan. Ini juga area yang paling bisa kamu kendalikan.
 
-### Essential Variable Expenses
+### Pengeluaran Variabel yang Penting
 
-- **Groceries**: $400-$800/month for a single person or couple. Families of four average $900-$1,200.
-- **Gas**: $100-$300 depending on commute distance and vehicle fuel efficiency.
-- **Utilities (electric, gas, water)**: $150-$400. Highest in summer (AC) and winter (heating).
-- **Medical copays and prescriptions**: $0-$200, but budget something even in healthy months.
-- **Home and car maintenance**: Things break. Budget $100-$200/month in a sinking fund.
+- **Belanja dapur**: Rp 6 juta - Rp 12 juta per bulan untuk satu orang atau pasangan. Keluarga empat orang rata-rata bisa Rp 13,5 juta - Rp 18 juta.
+- **Bensin/transportasi**: Rp 1,5 juta - Rp 4,5 juta tergantung jarak kerja dan efisiensi kendaraan.
+- **Tagihan listrik, air, dan gas**: Rp 2,25 juta - Rp 6 juta. Biasanya paling tinggi saat cuaca panas atau musim hujan.
+- **Biaya berobat dan obat**: Rp 0 - Rp 3 juta, tapi tetap sisihkan sesuatu walau bulan itu kamu sehat.
+- **Perawatan rumah dan mobil**: Barang rusak itu pasti ada. Sisihkan Rp 1,5 juta - Rp 3 juta per bulan dalam dana cadangan.
 
-### Discretionary Variable Expenses
+### Pengeluaran Variabel yang Bisa Ditunda
 
-- **Dining out and takeout**: Average American spends $250-$350/month.
-- **Entertainment**: Movies, concerts, sporting events, hobbies.
-- **Clothing**: Budget seasonally—more in spring and fall, less in between.
-- **Personal care**: Haircuts, skincare, gym membership.
-- **Gifts**: Birthdays, holidays, weddings. Spread the cost across all 12 months.
-- **Fun money**: Your guilt-free spending category. Absolutely necessary.
+- **Makan di luar dan pesan antar**: Rata-rata orang bisa habis Rp 3,75 juta - Rp 5,25 juta per bulan.
+- **Hiburan**: Bioskop, konser, olahraga, hobi.
+- **Pakaian**: Atur per musim—lebih banyak saat kebutuhan tertentu, lebih sedikit di bulan lain.
+- **Perawatan pribadi**: Potong rambut, skincare, membership gym.
+- **Hadiah**: Ulang tahun, hari raya, pernikahan. Sebaiknya dibagi rata ke 12 bulan.
+- **Uang senang-senang**: Pos pengeluaran bebas rasa bersalah. Ini penting banget.
 
-### The Sinking Fund Strategy
+### Strategi Dana Cadangan
 
-A sinking fund is money you set aside monthly for expenses that happen irregularly. Instead of getting blindsided by a $600 car repair or $400 holiday gift budget, you save a little each month.
+Dana cadangan adalah uang yang kamu sisihkan tiap bulan untuk pengeluaran yang tidak rutin. Jadi, kamu tidak kaget saat tiba-tiba harus keluar Rp 9 juta untuk servis mobil atau Rp 6 juta untuk hadiah akhir tahun.
 
-| Sinking Fund | Monthly Contribution | Annual Total |
+| Dana Cadangan | Setoran Bulanan | Total Tahunan |
 |-------------|---------------------|-------------|
-| Car maintenance | $100 | $1,200 |
-| Holiday gifts | $75 | $900 |
-| Medical expenses | $50 | $600 |
-| Clothing | $50 | $600 |
-| Home repairs | $100 | $1,200 |
-| Vacation | $150 | $1,800 |
+| Perawatan mobil | Rp 1,5 juta | Rp 18 juta |
+| Hadiah hari raya | Rp 1,1 juta | Rp 13,5 juta |
+| Biaya medis | Rp 750 ribu | Rp 9 juta |
+| Pakaian | Rp 750 ribu | Rp 9 juta |
+| Perbaikan rumah | Rp 1,5 juta | Rp 18 juta |
+| Liburan | Rp 2,25 juta | Rp 27 juta |
 
-These sinking funds eliminate financial surprises and keep your spending plan on track all year.
+Dana cadangan seperti ini bikin keuangan lebih stabil dan rencana pengeluaranmu tetap aman sepanjang tahun.
 
-## Step 4: Set Your Savings and Debt Goals
+## Langkah 4: Tentukan Target Tabungan dan Utang
 
-This is the part that actually builds wealth. After covering fixed and variable expenses, allocate the remaining money to [financial goals](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/).
+Ini bagian yang benar-benar membangun kekayaan. Setelah kebutuhan tetap dan variabel terpenuhi, alokasikan sisa uang untuk [tujuan keuangan](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/).
 
-### Priority Order for Most Americans
+### Urutan Prioritas untuk Kebanyakan Orang
 
-1. **Employer 401(k) match**: Contribute at least enough to get the full match. This is free money with a 50-100% instant return.
-2. **Emergency fund**: Build to $1,000 first (starter fund), then grow to 3-6 months of expenses.
-3. **High-interest debt payoff**: Credit cards averaging 20%+ APR should be attacked aggressively.
-4. **Roth IRA**: Max contribution is $7,000 per year in 2026 ($583/month). Tax-free growth is incredibly powerful.
-5. **Additional 401(k) contributions**: Up to the $23,500 annual limit in 2026.
-6. **Taxable brokerage account**: After maxing tax-advantaged accounts.
+1. **Iuran DPLK/dana pensiun dari kantor**: Setor minimal sampai dapat kontribusi penuh dari perusahaan. Ini seperti uang gratis dengan imbal hasil instan 50-100%.
+2. **Dana darurat**: Bangun dulu sampai Rp 15 juta, lalu naikkan ke 3-6 bulan biaya hidup.
+3. **Lunasi utang berbunga tinggi**: Utang kartu kredit dengan bunga rata-rata 20%+ harus disikat agresif.
+4. **Reksadana/investasi**: Batas kontribusi tahunan bisa disesuaikan dengan produk yang kamu pilih. Pertumbuhan bebas pajak sangat kuat untuk jangka panjang.
+5. **Tambahan kontribusi dana pensiun**: Kalau masih ada ruang setelah itu.
+6. **Rekening investasi kena pajak**: Setelah akun yang lebih efisien pajak sudah maksimal.
 
-### How Much Should You Save?
+### Berapa Banyak yang Harus Ditabung?
 
-The classic target is 20% of after-tax income (the 50/30/20 rule). But if you are in debt, you might allocate 25-30% toward debt payoff and savings combined. If you are debt-free with a fully funded emergency fund, aim for 25%+ toward investments.
+Target klasiknya adalah 20% dari penghasilan bersih (aturan 50/30/20). Tapi kalau kamu masih punya utang, kamu bisa alokasikan 25-30% untuk gabungan bayar utang dan tabungan. Kalau kamu sudah bebas utang dan dana daruratmu penuh, targetkan 25%+ untuk investasi.
 
-The exact number matters less than the consistency. Even $200/month invested in a total stock market index fund from age 25 to 65 grows to over $500,000 at historical average returns.
+Angka persisnya tidak sepenting konsistensinya. Bahkan Rp 3 juta per bulan yang diinvestasikan ke reksadana indeks pasar saham total dari usia 25 sampai 65 tahun bisa berkembang jadi lebih dari Rp 7,5 miliar dengan imbal hasil historis rata-rata.
 
-## Step 5: Build Your Spending Plan Template
+## Langkah 5: Buat Template Rencana Pengeluaranmu
 
-Now bring it all together. Here is a template based on a $5,000/month take-home income:
+Sekarang gabungkan semuanya. Ini template berdasarkan penghasilan bersih Rp 75 juta per bulan:
 
-### Sample Monthly Spending Plan
+### Contoh Rencana Pengeluaran Bulanan
 
-| Category | Budgeted | Actual | Difference |
+| Kategori | Dianggarkan | Aktual | Selisih |
 |----------|----------|--------|-----------|
-| **INCOME** | **$5,000** | | |
-| **FIXED EXPENSES** | | | |
-| Rent | $1,400 | | |
-| Car payment | $350 | | |
-| Auto insurance | $140 | | |
-| Health insurance | $200 | | |
-| Phone | $45 | | |
-| Internet | $65 | | |
-| Subscriptions | $45 | | |
-| Student loan | $300 | | |
-| **Fixed Total** | **$2,545** | | |
-| **VARIABLE EXPENSES** | | | |
-| Groceries | $500 | | |
-| Gas | $150 | | |
-| Utilities | $200 | | |
-| Dining out | $200 | | |
-| Entertainment | $100 | | |
-| Personal care | $75 | | |
-| Household items | $50 | | |
-| Fun money | $100 | | |
-| **Variable Total** | **$1,375** | | |
-| **SAVINGS & GOALS** | | | |
-| Emergency fund | $300 | | |
-| Roth IRA | $500 | | |
-| Car maintenance sinking fund | $100 | | |
-| Vacation sinking fund | $100 | | |
-| Gift sinking fund | $80 | | |
-| **Savings Total** | **$1,080** | | |
-| **TOTAL PLANNED** | **$5,000** | | |
+| **PENGHASILAN** | **Rp 75 juta** | | |
+| **PENGELUARAN TETAP** | | | |
+| Sewa | Rp 21 juta | | |
+| Cicilan mobil | Rp 5,25 juta | | |
+| Asuransi mobil | Rp 2,1 juta | | |
+| Asuransi kesehatan | Rp 3 juta | | |
+| Ponsel | Rp 675 ribu | | |
+| Internet | Rp 975 ribu | | |
+| Langganan | Rp 675 ribu | | |
+| Cicilan pinjaman | Rp 4,5 juta | | |
+| **Total Tetap** | **Rp 38,175 juta** | | |
+| **PENGELUARAN VARIABEL** | | | |
+| Belanja dapur | Rp 7,5 juta | | |
+| Bensin/transportasi | Rp 2,25 juta | | |
+| Tagihan utilitas | Rp 3 juta | | |
+| Makan di luar | Rp 3 juta | | |
+| Hiburan | Rp 1,5 juta | | |
+| Perawatan pribadi | Rp 1,125 juta | | |
+| Kebutuhan rumah tangga | Rp 750 ribu | | |
+| Uang senang-senang | Rp 1,5 juta | | |
+| **Total Variabel** | **Rp 20,625 juta** | | |
+| **TABUNGAN & TARGET** | | | |
+| Dana darurat | Rp 4,5 juta | | |
+| Reksadana/investasi | Rp 7,5 juta | | |
+| Dana cadangan perawatan mobil | Rp 1,5 juta | | |
+| Dana cadangan liburan | Rp 1,5 juta | | |
+| Dana cadangan hadiah | Rp 1,2 juta | | |
+| **Total Tabungan** | **Rp 16,2 juta** | | |
+| **TOTAL TERENCANA** | **Rp 75 juta** | | |
 
-Copy this into Google Sheets and customize it with your real numbers. Fill in the "Actual" column as the month progresses, and the "Difference" column shows you exactly where you are over or under.
+Salin ini ke Google Sheets lalu sesuaikan dengan angka aslimu. Isi kolom "Aktual" saat bulan berjalan, dan kolom "Selisih" akan menunjukkan dengan jelas kamu lebih atau kurang di mana.
 
-### Free Tools to Build Your Plan
+### Alat Gratis untuk Membuat Rencana
 
-- **Google Sheets**: Free, accessible from any device, shareable with a partner.
-- **Microsoft Excel**: If you already have a Microsoft 365 subscription.
-- **Tiller Money**: Automatically pulls transactions into Google Sheets. $79/year.
-- **Mint (Credit Karma)**: Free app that auto-categorizes spending.
-- **EveryDollar**: Dave Ramsey's budgeting app. Free version works great.
+- **Google Sheets**: Gratis, bisa diakses dari perangkat apa pun, dan mudah dibagikan ke pasangan.
+- **Microsoft Excel**: Kalau kamu sudah punya langganan Microsoft 365.
+- **Tiller Money**: Otomatis menarik transaksi ke Google Sheets. $79/tahun.
+- **Mint (Credit Karma)**: Aplikasi gratis yang otomatis mengelompokkan pengeluaran.
+- **EveryDollar**: Aplikasi budgeting dari Dave Ramsey. Versi gratisnya juga cukup bagus.
 
-## How to Stick With Your Spending Plan
+## Cara Konsisten Menjalankan Rencana Pengeluaran
 
-Creating the plan is the easy part. Following it is where people struggle. Here are my best strategies for staying on track:
+Membuat rencananya itu bagian yang mudah. Menjalaninya yang sering jadi tantangan. Ini strategi terbaik saya supaya tetap on track:
 
-### Weekly Check-Ins
+### Cek Mingguan
 
-Every Sunday evening, spend 10 minutes reviewing your spending for the week. Compare actual spending to your plan. Are you on track? Over in any category? Catch problems early before they compound.
+Setiap Minggu malam, luangkan 10 menit untuk mengecek pengeluaran minggu itu. Bandingkan pengeluaran aktual dengan rencana. Apakah kamu masih sesuai jalur? Ada kategori yang jebol? Deteksi masalah lebih awal sebelum membesar.
 
-### The 24-Hour Rule
+### Aturan 24 Jam
 
-Before any non-essential purchase over $50, wait 24 hours. Write it down and revisit the next day. I have found that 60-70% of my impulse urges disappear after sleeping on them.
+Sebelum membeli barang non-esensial di atas Rp 750 ribu, tunggu 24 jam. Tulis dulu dan lihat lagi besok. Saya menemukan bahwa 60-70% dorongan belanja impulsif saya hilang setelah tidur semalam.
 
-### Automate What You Can
+### Otomatiskan yang Bisa
 
-Set up automatic transfers on payday:
-- Savings: auto-transfer to [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account
-- Investments: auto-transfer to Roth IRA or brokerage
-- Sinking funds: auto-transfer to separate savings buckets
+Atur transfer otomatis saat gajian:
+- Tabungan: auto-transfer ke rekening tabungan berbunga tinggi
+- Investasi: auto-transfer ke reksadana atau rekening investasi
+- Dana cadangan: auto-transfer ke kantong tabungan terpisah
 
-When savings happen automatically, you only have to manage what is left for spending.
+Kalau tabungan berjalan otomatis, kamu tinggal mengelola sisa uang untuk belanja.
 
-### Use Cash for Problem Categories
+### Pakai Uang Tunai untuk Pos Bermasalah
 
-If you consistently overspend on dining out or entertainment, switch those categories to cash. The physical constraint makes it harder to cheat.
+Kalau kamu terus-menerus kebablasan di makan di luar atau hiburan, ubah kategori itu jadi uang tunai. Batas fisik bikin kamu lebih susah “curang”.
 
-### Give Yourself Grace
+### Jangan Terlalu Keras ke Diri Sendiri
 
-No month will be perfect. Life happens—the car needs new tires, a friend's wedding pops up, your kid needs braces. The spending plan is a guide, not a straitjacket. Adjust as needed and recommit the next month.
+Tidak ada bulan yang sempurna. Hidup itu dinamis—mobil butuh ban baru, ada undangan nikah teman, anak perlu behel. Rencana pengeluaran itu panduan, bukan borgol. Sesuaikan kalau perlu dan mulai lagi bulan depan.
 
-## Spending Plan by Income Level
+## Rencana Pengeluaran Berdasarkan Level Penghasilan
 
-What a spending plan looks like varies dramatically by income. Here are rough benchmarks:
+Bentuk rencana pengeluaran bisa sangat berbeda tergantung penghasilan. Ini patokan kasarnya:
 
-### $3,000/Month Take-Home
+### Penghasilan Bersih Rp 45 Juta/Bulan
 
-- Housing: $900 (30%)
-- Transportation: $300 (10%)
-- Food: $400 (13%)
-- Insurance and debt: $500 (17%)
-- Savings: $300 (10%)
-- Everything else: $600 (20%)
+- Tempat tinggal: Rp 13,5 juta (30%)
+- Transportasi: Rp 4,5 juta (10%)
+- Makanan: Rp 6 juta (13%)
+- Asuransi dan utang: Rp 7,5 juta (17%)
+- Tabungan: Rp 4,5 juta (10%)
+- Sisanya: Rp 9 juta (20%)
 
-At this income, the margins are tight. Focus on keeping housing and [transportation costs](/blog/10-effective-ways-to-save-money-on-transportation/) low to protect your savings rate.
+Di level ini, ruang geraknya sempit. Fokus menjaga biaya tempat tinggal dan [biaya transportasi](/blog/10-effective-ways-to-save-money-on-transportation/) tetap rendah supaya tingkat tabunganmu aman.
 
-### $5,000/Month Take-Home
+### Penghasilan Bersih Rp 75 Juta/Bulan
 
-- Housing: $1,400 (28%)
-- Transportation: $500 (10%)
-- Food: $700 (14%)
-- Insurance and debt: $600 (12%)
-- Savings: $1,000 (20%)
-- Everything else: $800 (16%)
+- Tempat tinggal: Rp 21 juta (28%)
+- Transportasi: Rp 7,5 juta (10%)
+- Makanan: Rp 10,5 juta (14%)
+- Asuransi dan utang: Rp 9 juta (12%)
+- Tabungan: Rp 15 juta (20%)
+- Sisanya: Rp 12 juta (16%)
 
-The middle-income sweet spot. You have room to save 20% while still enjoying life.
+Ini titik nyaman kelas menengah. Kamu punya ruang untuk menabung 20% sambil tetap menikmati hidup.
 
-### $8,000+/Month Take-Home
+### Penghasilan Bersih Rp 120 Juta+/Bulan
 
-- Housing: $2,000 (25%)
-- Transportation: $600 (7.5%)
-- Food: $900 (11%)
-- Insurance and debt: $500 (6%)
-- Savings: $2,400 (30%)
-- Everything else: $1,600 (20%)
+- Tempat tinggal: Rp 30 juta (25%)
+- Transportasi: Rp 9 juta (7,5%)
+- Makanan: Rp 13,5 juta (11%)
+- Asuransi dan utang: Rp 7,5 juta (6%)
+- Tabungan: Rp 36 juta (30%)
+- Sisanya: Rp 24 juta (20%)
 
-At higher incomes, resist lifestyle inflation. Keep your savings rate at 25-30%+ and you will build wealth rapidly.
-
+Di level penghasilan lebih tinggi, hati-hati dengan inflasi gaya hidup. Jaga tingkat tabungan di 25-30%+ dan kamu akan membangun kekayaan dengan cepat.

@@ -11,9 +11,9 @@ heroImageAlt: 'Homeowners Insurance Guide [2026]: Save author: "Evan",000+'
 
 ---
 
-A neighbor of mine had a kitchen fire last year that caused $45,000 in damage. His homeowners insurance covered every dollar above his $1,000 [deductible](/blog/insurance-terms-explained-simply-2026-guide/). Another friend skipped coverage on his paid-off condo and ate a $12,000 water damage bill out of pocket. The difference between those two outcomes is what I want to help you navigate.
+Seorang tetangga saya mengalami kebakaran dapur tahun lalu yang menyebabkan kerusakan sekitar Rp 675 juta. Asuransi rumahnya menanggung semua biaya di atas deductible Rp 15 juta. Sementara itu, teman lain memilih tidak ambil perlindungan untuk kondominium yang sudah lunas, lalu harus bayar sendiri tagihan kerusakan air sebesar Rp 180 juta. Perbedaan dua hasil itu adalah hal yang ingin saya bantu kamu pahami.
 
-Rata-rata pemilik rumah di AS membayar sekitar Rp 29 juta per tahun untuk asuransi, tapi saya pernah lihat angkanya berkisar dari Rp 12 juta sampai lebih dari Rp 60 juta, tergantung tempat tinggal, aset yang dimiliki, dan perusahaan asuransi yang dipilih. Di panduan ini, saya akan bantu kamu memahami cara mendapatkan perlindungan yang tepat tanpa bayar terlalu mahal.
+Rata-rata pemilik rumah di AS membayar sekitar Rp 29 juta per tahun untuk asuransi, tapi saya pernah lihat angkanya berkisar dari Rp 12 juta sampai lebih dari Rp 60 juta, tergantung lokasi, aset yang dimiliki, dan perusahaan asuransi yang dipilih. Di panduan ini, saya akan bantu kamu memahami cara mendapatkan perlindungan yang tepat tanpa bayar terlalu mahal.
 
 ## What Homeowners Insurance Actually Covers
 
@@ -61,18 +61,18 @@ Saya belajar soal pengecualian back-up saluran pembuangan dengan cara yang pahit
 
 ## Top Homeowners Insurance Companies in 2026
 
-### State Farm
+### BCA
 
 **Best for:** Nilai keseluruhan terbaik dengan dukungan agen lokal
 
-State Farm adalah insurer rumah terbesar di AS, dan itu ada alasannya. Tarifnya kompetitif, jaringan agennya luas, dan proses klaimnya terkenal bagus.
+BCA adalah salah satu penyedia asuransi rumah besar di Indonesia, dan itu ada alasannya. Tarifnya kompetitif, jaringan agennya luas, dan proses klaimnya terkenal bagus.
 
 - **Average annual premium:** Rp 25 juta
 - **Key discounts:** Paket dengan asuransi mobil (hingga 25%), perangkat proteksi, rumah baru, tanpa klaim
 - **AM Best rating:** A++
 - **Claims satisfaction:** Di atas rata-rata
 
-### Allstate
+### Mandiri
 
 **Best for:** Perlindungan yang bisa disesuaikan dan claim forgiveness
 
@@ -81,33 +81,33 @@ State Farm adalah insurer rumah terbesar di AS, dan itu ada alasannya. Tarifnya 
 - **AM Best rating:** A+
 - **Claims satisfaction:** Rata-rata
 
-### Lemonade
+### Jago
 
 **Best for:** Pemilik rumah yang melek teknologi dan ingin penawaran serta klaim cepat
 
-Proses klaim Lemonade berbasis AI bisa membayar klaim sederhana dalam hitungan detik. Saya pernah melihatnya langsung, dan hasilnya memang mengesankan.
+Proses klaim Jago berbasis AI bisa membayar klaim sederhana dalam hitungan detik. Saya pernah melihatnya langsung, dan hasilnya memang mengesankan.
 
 - **Average annual premium:** Rp 21 juta
 - **Key discounts:** Bundle, tanpa klaim, perangkat smart home
 - **AM Best rating:** Belum dirating (didukung reasuradur berperingkat A+)
 - **Claims satisfaction:** Di atas rata-rata untuk klaim sederhana
 
-### Erie Insurance
+### Seabank
 
-**Best for:** Pemilik rumah di Midwest dan East Coast yang ingin tarif rendah
+**Best for:** Pemilik rumah yang ingin tarif rendah
 
-Erie hanya tersedia di 12 negara bagian plus DC, tapi di wilayah operasinya, mereka sering punya tarif terbaik. Perlindungan guaranteed replacement cost mereka jadi nilai plus utama.
+Seabank sering menawarkan tarif yang sangat kompetitif di wilayah operasinya, dan perlindungan guaranteed replacement cost jadi nilai plus utama.
 
 - **Average annual premium:** Rp 18,5 juta
 - **Key discounts:** Multi-policy, perangkat proteksi, usia rumah, tanpa klaim
 - **AM Best rating:** A+
 - **Claims satisfaction:** Peringkat teratas
 
-### Amica Mutual
+### Allianz
 
 **Best for:** Layanan premium dan polis dividen
 
-Amica konsisten berada di posisi atas untuk kepuasan pelanggan. Sebagai perusahaan mutual, mereka mengembalikan dividen ke pemegang polis—biasanya 5-15% dari premi kamu.
+Allianz konsisten berada di posisi atas untuk kepuasan pelanggan. Sebagai perusahaan mutual, mereka mengembalikan dividen ke pemegang polis—biasanya 5-15% dari premi kamu.
 
 - **Average annual premium:** Rp 26 juta
 - **Key discounts:** Multi-policy, tanpa klaim, pembaruan rumah, auto-pay
@@ -118,11 +118,11 @@ Amica konsisten berada di posisi atas untuk kepuasan pelanggan. Sebagai perusaha
 
 | Insurer | Avg. Annual Premium | Bundle Discount | Replacement Cost | AM Best |
 |---------|-------------------|-----------------|------------------|---------|
-| Erie | Rp 18,5 juta | Hingga 25% | Guaranteed | A+ |
-| Lemonade | Rp 21 juta | Hingga 15% | Standard | NR |
-| State Farm | Rp 25 juta | Hingga 25% | Extended (25%) | A++ |
-| Amica | Rp 26 juta | Hingga 20% | Guaranteed | A+ |
-| Allstate | Rp 28 juta | Hingga 25% | Extended (20%) | A+ |
+| Seabank | Rp 18,5 juta | Hingga 25% | Guaranteed | A+ |
+| Jago | Rp 21 juta | Hingga 15% | Standard | NR |
+| BCA | Rp 25 juta | Hingga 25% | Extended (25%) | A++ |
+| Allianz | Rp 26 juta | Hingga 20% | Guaranteed | A+ |
+| Mandiri | Rp 28 juta | Hingga 25% | Extended (20%) | A+ |
 
 *Berdasarkan dwelling Rp 4,5 miliar, deductible Rp 15 juta, liability Rp 4,5 miliar, rata-rata nasional.*
 

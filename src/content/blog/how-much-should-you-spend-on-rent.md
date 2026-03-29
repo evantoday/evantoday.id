@@ -1,6 +1,6 @@
 ---
-title: "Berapa Banyak yang Harus Dikeluarkan untuk Sewa?"
-description: "Jika sewa lebih dari 30% penghasilan, kamu bisa “house-poor”. Ini patokan ideal sewa vs penghasilan."
+title: "Berapa Banyak Sewa yang Ideal?"
+description: "Kalau sewa lebih dari 30% penghasilan, kamu bisa jadi house-poor. Ini patokan ideal sewa vs penghasilan."
 pubDate: 2026-03-06
 category: "personal-finance"
 tags: ["rent budget", "30 percent rule", "housing costs", "rent to income ratio", "affordable rent"]
