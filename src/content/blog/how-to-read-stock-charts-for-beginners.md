@@ -1,6 +1,6 @@
 ---
-title: "How to Read Stock Charts: Beginner Guide [2026]"
-description: "Candlesticks, support lines, volume bars—stock charts look complex but aren't. Learn to read them in 10 minutes and spot trends before the market moves."
+title: "Cara Membaca Grafik Saham: Panduan Pemula [2026]"
+description: "Candlestick, garis support, volume—grafik saham terlihat rumit, tapi sebenarnya mudah dipahami dalam 10 menit."
 pubDate: 2026-03-11
 category: "investing"
 tags: ["stock charts", "technical analysis", "candlestick charts", "stock trading", "beginner investing"]
@@ -14,223 +14,223 @@ The first time I opened a stock chart, I thought I was looking at an abstract pa
 
 But then I spent one afternoon learning the basics, and suddenly those charts started telling a story. I could see where buyers were stepping in. Where sellers were dumping. Where a stock was building momentum before a big move.
 
-You don't need to be a Wall Street trader to read stock charts. You just need to understand five key elements, and this guide will teach you all of them. If you are new to the market, start with our guide on [how much money you need to start investing](/blog/how-much-money-do-you-need-to-start-investing/).
+Kamu nggak perlu jadi trader Wall Street untuk bisa membaca grafik saham. Kamu cuma perlu paham lima elemen utama, dan panduan ini akan menjelaskannya satu per satu. Kalau kamu masih baru di pasar, mulai dulu dari panduan kami tentang [berapa banyak uang yang dibutuhkan untuk mulai investasi](/blog/how-much-money-do-you-need-to-start-investing/).
 
-## Key Takeaways
+## Poin Penting
 
-- Stock charts display price and volume data over time
-- Candlestick charts are the most useful format for beginners
-- Support and resistance levels show where prices tend to bounce or stall
-- Volume confirms whether price moves are meaningful
-- You don't need to master technical analysis to be a better investor
+- Grafik saham menampilkan data harga dan volume dari waktu ke waktu
+- Grafik candlestick adalah format paling berguna untuk pemula
+- Level support dan resistance menunjukkan area harga yang cenderung memantul atau tertahan
+- Volume membantu mengonfirmasi apakah pergerakan harga itu benar-benar berarti
+- Kamu nggak harus jago analisis teknikal untuk jadi investor yang lebih baik
 
-## What Is a Stock Chart?
+## Apa Itu Grafik Saham?
 
-A stock chart is a visual representation of a stock's price movement over time. The horizontal axis shows time (minutes, days, weeks, months, or years), and the vertical axis shows price.
+Grafik saham adalah representasi visual dari pergerakan harga saham dari waktu ke waktu. Sumbu horizontal menunjukkan waktu (menit, hari, minggu, bulan, atau tahun), dan sumbu vertikal menunjukkan harga.
 
-You can view stock charts for free on:
+Kamu bisa melihat grafik saham gratis di:
 
-- **TradingView** — Best free charting platform with extensive tools
-- **Yahoo Finance** — Simple charts for quick reference
-- **Google Finance** — Basic charts integrated into Google search
-- **Your brokerage** — Fidelity, Schwab, and TD Ameritrade all have built-in charting
-- **StockCharts.com** — Popular among technical analysis enthusiasts
+- **TradingView** — Platform grafik gratis terbaik dengan banyak alat
+- **Yahoo Finance** — Grafik sederhana untuk referensi cepat
+- **Google Finance** — Grafik dasar yang terintegrasi dengan pencarian Google
+- **Broker kamu** — Banyak aplikasi sekuritas seperti BCA Sekuritas, Mandiri Sekuritas, dan IPOT punya fitur grafik bawaan
+- **StockCharts.com** — Populer di kalangan penggemar analisis teknikal
 
-## The 5 Elements of Every Stock Chart
+## 5 Elemen di Setiap Grafik Saham
 
-### 1. Candlesticks
+### 1. Candlestick
 
-Candlestick charts are the standard format used by most traders and investors. Each "candle" represents one time period (one day on a daily chart, one week on a weekly chart, etc.) and shows four pieces of information:
+Grafik candlestick adalah format standar yang dipakai sebagian besar trader dan investor. Setiap "candle" mewakili satu periode waktu (misalnya satu hari pada grafik harian, satu minggu pada grafik mingguan, dan seterusnya) dan menunjukkan empat informasi:
 
-- **Open** — The price when the time period began
-- **Close** — The price when the time period ended
-- **High** — The highest price reached during the period
-- **Low** — The lowest price reached during the period
+- **Open** — Harga saat periode dimulai
+- **Close** — Harga saat periode berakhir
+- **High** — Harga tertinggi selama periode itu
+- **Low** — Harga terendah selama periode itu
 
-**How to read a candlestick:**
+**Cara membaca candlestick:**
 
-The thick rectangle (called the "body") shows the range between open and close:
+Bagian kotak tebalnya (disebut "body") menunjukkan rentang antara open dan close:
 
-- **Green (or white) candle** — The stock closed higher than it opened. Bullish.
-- **Red (or black) candle** — The stock closed lower than it opened. Bearish.
+- **Candlestick hijau (atau putih)** — Harga saham ditutup lebih tinggi daripada saat dibuka. Bullish.
+- **Candlestick merah (atau hitam)** — Harga saham ditutup lebih rendah daripada saat dibuka. Bearish.
 
-The thin lines extending above and below the body (called "wicks" or "shadows") show the high and low for the period.
+Garis tipis yang memanjang di atas dan bawah body (disebut "wick" atau "shadow") menunjukkan harga tertinggi dan terendah selama periode tersebut.
 
-**Common candlestick patterns:**
+**Pola candlestick yang umum:**
 
-- **Doji** — Open and close are nearly identical (small or no body). Indicates indecision in the market.
-- **Hammer** — Small body at the top with a long lower wick. Suggests buyers are stepping in after a decline.
-- **Engulfing** — A large candle that completely covers the previous candle. Signals a potential reversal.
-- **Shooting Star** — Small body at the bottom with a long upper wick. Suggests sellers are pushing back after a rally.
+- **Doji** — Open dan close hampir sama (body kecil atau bahkan nyaris tidak ada). Menunjukkan keraguan di pasar.
+- **Hammer** — Body kecil di bagian atas dengan wick bawah panjang. Mengisyaratkan pembeli mulai masuk setelah penurunan.
+- **Engulfing** — Candlestick besar yang menutupi candlestick sebelumnya sepenuhnya. Menandakan potensi pembalikan arah.
+- **Shooting Star** — Body kecil di bagian bawah dengan wick atas panjang. Mengisyaratkan penjual mulai menahan kenaikan setelah rally.
 
 ### 2. Volume
 
-Volume bars appear at the bottom of most stock charts. Each bar shows how many shares were traded during that time period.
+Bar volume muncul di bagian bawah sebagian besar grafik saham. Setiap bar menunjukkan berapa banyak saham yang diperdagangkan selama periode waktu itu.
 
-**Why volume matters:**
+**Kenapa volume penting:**
 
-- **High volume + price increase** — Strong buying interest. The move is likely genuine.
-- **High volume + price decrease** — Strong selling pressure. The decline is likely to continue.
-- **Low volume + price move** — Weak conviction. The move might not last.
-- **Volume spike** — Something significant happened (earnings report, news, institutional buying).
+- **Volume tinggi + harga naik** — Minat beli kuat. Pergerakan kemungkinan valid.
+- **Volume tinggi + harga turun** — Tekanan jual kuat. Penurunan kemungkinan berlanjut.
+- **Volume rendah + harga bergerak** — Keyakinannya lemah. Pergerakan mungkin nggak bertahan lama.
+- **Lonjakan volume** — Ada sesuatu yang signifikan terjadi (laporan kinerja, berita, atau pembelian institusional).
 
-Think of volume as the "conviction meter." A stock can go up on low volume, but that move is less trustworthy than one backed by millions of shares trading hands.
+Anggap volume sebagai "meter keyakinan". Saham bisa saja naik dengan volume rendah, tapi pergerakan seperti itu lebih sulit dipercaya dibanding kenaikan yang didukung jutaan saham berpindah tangan.
 
-**Average daily volume** for reference:
-- Apple (AAPL): ~50-60 million shares/day
-- Tesla (TSLA): ~80-100 million shares/day
-- Small-cap stocks: 100,000-500,000 shares/day
+**Rata-rata volume harian** sebagai gambaran:
+- Apple (AAPL): sekitar 50-60 juta saham/hari
+- Tesla (TSLA): sekitar 80-100 juta saham/hari
+- Saham small-cap: 100.000-500.000 saham/hari
 
-### 3. Trend Lines
+### 3. Garis Tren
 
-A trend line is simply a straight line drawn on a chart connecting a series of price points. Trends help you see the general direction of a stock:
+Garis tren adalah garis lurus yang digambar di grafik untuk menghubungkan serangkaian titik harga. Tren membantu kamu melihat arah umum sebuah saham:
 
-**Uptrend:** Draw a line connecting the series of higher lows (the bottom of each dip). As long as the stock stays above this line, the uptrend is intact.
+**Uptrend:** Gambar garis yang menghubungkan serangkaian higher lows (dasar dari tiap penurunan). Selama harga tetap di atas garis ini, uptrend masih utuh.
 
-**Downtrend:** Draw a line connecting the series of lower highs (the top of each bounce). As long as the stock stays below this line, the downtrend continues.
+**Downtrend:** Gambar garis yang menghubungkan serangkaian lower highs (puncak dari tiap kenaikan). Selama harga tetap di bawah garis ini, downtrend berlanjut.
 
-**Sideways (range-bound):** The stock bounces between a ceiling and a floor without making progress in either direction.
+**Sideways (range-bound):** Saham bergerak bolak-balik di antara batas atas dan bawah tanpa kemajuan berarti ke salah satu arah.
 
-**The most important rule about trends:** "The trend is your friend." Buying stocks in uptrends and avoiding stocks in downtrends is one of the simplest ways to improve your results.
+**Aturan terpenting soal tren:** "Trend is your friend." Membeli saham yang sedang uptrend dan menghindari saham yang sedang downtrend adalah salah satu cara paling sederhana untuk memperbaiki hasil investasi kamu.
 
-### 4. Support and Resistance
+### 4. Support dan Resistance
 
-Support and resistance are price levels where a stock tends to stop and reverse direction.
+Support dan resistance adalah level harga tempat saham cenderung berhenti lalu berbalik arah.
 
-**Support** is a price level where buying interest is strong enough to prevent the stock from falling further. Think of it as a floor. When a stock drops to a support level, buyers step in because they see it as a good price.
+**Support** adalah level harga di mana minat beli cukup kuat untuk mencegah harga turun lebih jauh. Anggap saja sebagai lantai. Saat saham turun ke level support, pembeli masuk karena mereka melihatnya sebagai harga yang menarik.
 
-**Resistance** is a price level where selling pressure is strong enough to prevent the stock from rising further. Think of it as a ceiling. When a stock rises to a resistance level, sellers take profits because they see it as an expensive price.
+**Resistance** adalah level harga di mana tekanan jual cukup kuat untuk mencegah harga naik lebih jauh. Anggap saja sebagai langit-langit. Saat saham naik ke level resistance, penjual cenderung ambil untung karena mereka melihat harganya sudah mahal.
 
-**How to identify support and resistance:**
+**Cara mengidentifikasi support dan resistance:**
 
-- Look for price levels where the stock has bounced multiple times
-- Round numbers often act as psychological support/resistance ($50, $100, $200)
-- Previous all-time highs become resistance until broken
-- Moving averages (explained below) act as dynamic support/resistance
+- Cari level harga tempat saham sudah beberapa kali memantul
+- Angka bulat sering jadi support/resistance psikologis (Rp 750, Rp 1.500, Rp 3.000)
+- Harga tertinggi sebelumnya bisa menjadi resistance sampai ditembus
+- Moving average (dijelaskan di bawah) bisa berfungsi sebagai support/resistance dinamis
 
-**What happens when support or resistance breaks:**
+**Apa yang terjadi saat support atau resistance ditembus:**
 
-- When a stock breaks above resistance, that level often becomes the new support
-- When a stock breaks below support, that level often becomes the new resistance
-- Breakouts accompanied by high volume are more significant
+- Saat saham menembus resistance, level itu sering berubah jadi support baru
+- Saat saham jatuh menembus support, level itu sering berubah jadi resistance baru
+- Breakout yang disertai volume tinggi biasanya lebih signifikan
 
-### 5. Moving Averages
+### 5. Moving Average
 
-A moving average is a line on the chart that shows the average price over a specific number of periods. It smooths out daily noise and reveals the underlying trend.
+Moving average adalah garis di grafik yang menunjukkan rata-rata harga selama jumlah periode tertentu. Ini membantu merapikan noise harian dan memperlihatkan tren dasarnya.
 
-**The two most popular moving averages:**
+**Dua moving average yang paling populer:**
 
-- **50-day moving average (50 MA)** — The average closing price over the last 50 trading days. Represents the medium-term trend.
-- **200-day moving average (200 MA)** — The average closing price over the last 200 trading days. Represents the long-term trend.
+- **Moving average 50 hari (50 MA)** — Rata-rata harga penutupan selama 50 hari perdagangan terakhir. Mewakili tren jangka menengah.
+- **Moving average 200 hari (200 MA)** — Rata-rata harga penutupan selama 200 hari perdagangan terakhir. Mewakili tren jangka panjang.
 
-**How to use moving averages:**
+**Cara memakai moving average:**
 
-- **Stock above 50 MA and 200 MA** — Generally bullish. The stock is in an uptrend.
-- **Stock below 50 MA and 200 MA** — Generally bearish. The stock is in a downtrend.
-- **"Golden Cross"** — When the 50 MA crosses above the 200 MA. Bullish signal.
-- **"Death Cross"** — When the 50 MA crosses below the 200 MA. Bearish signal.
+- **Harga saham di atas 50 MA dan 200 MA** — Umumnya bullish. Saham sedang uptrend.
+- **Harga saham di bawah 50 MA dan 200 MA** — Umumnya bearish. Saham sedang downtrend.
+- **"Golden Cross"** — Saat 50 MA melintasi 200 MA dari bawah ke atas. Sinyal bullish.
+- **"Death Cross"** — Saat 50 MA melintasi 200 MA dari atas ke bawah. Sinyal bearish.
 
-**Important caveat:** Moving averages are lagging indicators. They confirm trends after they've already started. They don't predict the future.
+**Catatan penting:** Moving average adalah indikator lagging. Artinya, ia mengonfirmasi tren setelah tren itu sudah berjalan. Bukan alat untuk memprediksi masa depan.
 
-## Reading a Stock Chart: Putting It All Together
+## Membaca Grafik Saham: Menggabungkan Semuanya
 
-Let me walk you through how I analyze a stock chart step by step:
+Saya akan tunjukkan cara saya menganalisis grafik saham langkah demi langkah:
 
-### Step 1: Zoom Out
+### Langkah 1: Zoom Out
 
-Start with a 1-year or 5-year chart to see the big picture. Is the stock in a long-term uptrend, downtrend, or trading sideways?
+Mulailah dengan grafik 1 tahun atau 5 tahun untuk melihat gambaran besarnya. Apakah saham sedang uptrend jangka panjang, downtrend, atau bergerak sideways?
 
-### Step 2: Identify the Trend
+### Langkah 2: Identifikasi Tren
 
-Draw trend lines connecting the significant highs and lows. Determine whether the stock is making higher highs and higher lows (uptrend) or lower highs and lower lows (downtrend).
+Gambar garis tren yang menghubungkan high dan low yang signifikan. Tentukan apakah saham membentuk higher highs dan higher lows (uptrend) atau lower highs dan lower lows (downtrend).
 
-### Step 3: Find Support and Resistance
+### Langkah 3: Temukan Support dan Resistance
 
-Identify the key price levels where the stock has previously bounced or stalled. Mark these on your chart.
+Identifikasi level harga penting tempat saham sebelumnya memantul atau tertahan. Tandai level ini di grafik kamu.
 
-### Step 4: Check the Moving Averages
+### Langkah 4: Cek Moving Average
 
-Is the stock above or below its 50-day and 200-day moving averages? This tells you whether the medium and long-term trends are bullish or bearish.
+Apakah harga saham berada di atas atau di bawah moving average 50 hari dan 200 hari? Ini memberi tahu kamu apakah tren jangka menengah dan panjang sedang bullish atau bearish.
 
-### Step 5: Look at Volume
+### Langkah 5: Lihat Volume
 
-Are recent price moves supported by strong volume? Volume confirms the validity of price movements.
+Apakah pergerakan harga terbaru didukung volume yang kuat? Volume membantu mengonfirmasi apakah pergerakan harga itu valid.
 
-### Step 6: Zoom In
+### Langkah 6: Zoom In
 
-Switch to a 3-month or 1-month chart for a more detailed view. Look for recent candlestick patterns near support or resistance levels.
+Pindah ke grafik 3 bulan atau 1 bulan untuk melihat detail yang lebih dekat. Cari pola candlestick terbaru di dekat level support atau resistance.
 
-## Chart Timeframes and When to Use Them
+## Timeframe Grafik dan Kapan Dipakai
 
-| Timeframe | Best For | One Candle = |
-|-----------|---------|-------------|
-| **1-minute** | Day traders | 1 minute |
-| **5-minute** | Day traders | 5 minutes |
-| **1-hour** | Swing traders | 1 hour |
-| **Daily** | Most investors | 1 day |
-| **Weekly** | Long-term investors | 1 week |
-| **Monthly** | Big-picture analysis | 1 month |
+| Timeframe | Cocok Untuk | 1 Candle = |
+|-----------|-------------|------------|
+| **1 menit** | Day trader | 1 menit |
+| **5 menit** | Day trader | 5 menit |
+| **1 jam** | Swing trader | 1 jam |
+| **Harian** | Kebanyakan investor | 1 hari |
+| **Mingguan** | Investor jangka panjang | 1 minggu |
+| **Bulanan** | Analisis gambaran besar | 1 bulan |
 
-**For beginners, I recommend using daily charts for analysis and weekly charts for perspective.** Shorter timeframes create noise that leads to overtrading. If you prefer a hands-off approach, [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) removes the need to time entries based on charts.
+**Untuk pemula, saya sarankan pakai grafik harian untuk analisis dan grafik mingguan untuk perspektif.** Timeframe yang terlalu pendek menciptakan noise dan bikin kamu terlalu sering trading. Kalau kamu lebih suka pendekatan santai, [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) menghilangkan kebutuhan untuk menentukan waktu masuk berdasarkan grafik.
 
-## Common Chart Patterns
+## Pola Grafik yang Umum
 
-Beyond individual candlesticks, stock charts form larger patterns that can signal what's coming next:
+Selain candlestick individual, grafik saham juga membentuk pola yang lebih besar dan bisa memberi sinyal ke mana arah berikutnya:
 
-### Bullish Patterns (Price Likely to Rise)
+### Pola Bullish (Harga Berpotensi Naik)
 
-- **Cup and Handle** — A rounded bottom followed by a small consolidation. Signals a breakout.
-- **Double Bottom** — Price hits the same low twice and bounces. Signals support is holding.
-- **Ascending Triangle** — Higher lows with a flat resistance line. Signals building buying pressure.
+- **Cup and Handle** — Dasar membulat yang diikuti konsolidasi kecil. Menandakan breakout.
+- **Double Bottom** — Harga menyentuh level terendah yang sama dua kali lalu memantul. Menandakan support masih bertahan.
+- **Ascending Triangle** — Higher lows dengan garis resistance datar. Menandakan tekanan beli sedang terbentuk.
 
-### Bearish Patterns (Price Likely to Fall)
+### Pola Bearish (Harga Berpotensi Turun)
 
-- **Head and Shoulders** — Three peaks with the middle one highest. Signals a trend reversal.
-- **Double Top** — Price hits the same high twice and falls back. Signals resistance is holding.
-- **Descending Triangle** — Lower highs with a flat support line. Signals building selling pressure.
+- **Head and Shoulders** — Tiga puncak dengan bagian tengah paling tinggi. Menandakan pembalikan tren.
+- **Double Top** — Harga menyentuh level tertinggi yang sama dua kali lalu turun lagi. Menandakan resistance masih bertahan.
+- **Descending Triangle** — Lower highs dengan garis support datar. Menandakan tekanan jual sedang terbentuk.
 
-## Best Free Tools for Stock Charts
+## Alat Gratis Terbaik untuk Grafik Saham
 
-| Tool | Best Feature | Platform |
-|------|-------------|----------|
-| **TradingView** | Most powerful free charting | Web, mobile |
-| **Yahoo Finance** | Quick, simple lookups | Web, mobile |
-| **Fidelity Active Trader Pro** | Integrated with trading | Desktop |
-| **Schwab StreetSmart Edge** | Advanced tools for Schwab users | Desktop |
-| **Webull** | Good mobile charting | Mobile |
+| Alat | Fitur Terbaik | Platform |
+|------|---------------|----------|
+| **TradingView** | Grafik gratis paling kuat | Web, mobile |
+| **Yahoo Finance** | Cek cepat dan sederhana | Web, mobile |
+| **BCA Sekuritas / Mandiri Sekuritas** | Terintegrasi dengan transaksi | Desktop, mobile |
+| **IPOT** | Fitur analisis yang cukup lengkap | Desktop, mobile |
+| **Ajaib** | Grafik mobile yang mudah dipakai | Mobile |
 
-TradingView is my top recommendation for beginners. The free version offers more features than most paid platforms, and the community shares chart ideas and analysis.
+TradingView adalah rekomendasi utama saya untuk pemula. Versi gratisnya menawarkan lebih banyak fitur daripada banyak platform berbayar, dan komunitasnya juga berbagi ide serta analisis grafik.
 
-## What Chart Reading Won't Tell You
+## Apa yang Tidak Bisa Dijelaskan oleh Grafik
 
-I want to be honest about the limitations of technical analysis:
+Saya ingin jujur soal keterbatasan analisis teknikal:
 
-- **Charts don't predict the future** — They show probabilities, not certainties
-- **Fundamental events override patterns** — An earnings miss or FDA rejection will blow through any support level
-- **Patterns fail regularly** — Every "guaranteed" pattern has a failure rate of 30-50%
-- **Confirmation bias is real** — You'll see patterns that confirm what you already want to believe
-- **Long-term investing doesn't require charts** — If you're buying index funds for retirement, you don't need technical analysis at all
+- **Grafik tidak bisa memprediksi masa depan** — Grafik hanya menunjukkan probabilitas, bukan kepastian
+- **Peristiwa fundamental bisa mengalahkan pola** — Laporan laba yang buruk atau penolakan regulator bisa menembus level support apa pun
+- **Pola sering gagal** — Setiap pola yang disebut "pasti" tetap punya tingkat kegagalan 30-50%
+- **Confirmation bias itu nyata** — Kamu bisa saja melihat pola yang sebenarnya cuma ingin kamu lihat
+- **Investasi jangka panjang tidak selalu butuh grafik** — Kalau kamu beli reksadana indeks untuk pensiun, kamu nggak perlu analisis teknikal sama sekali
 
-Chart reading is a tool, not a crystal ball. Use it to improve your timing, not to replace fundamental analysis.
+Membaca grafik adalah alat, bukan bola kristal. Gunakan untuk memperbaiki timing, bukan untuk menggantikan analisis fundamental.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Do I need to learn stock charts to invest?
+### Apakah saya perlu belajar grafik saham untuk investasi?
 
-No. If you're investing in [index funds](/blog/index-fund-investing-guide/) for the long term, you don't need technical analysis at all. Just invest consistently and ignore short-term price movements. Chart reading is most useful for people who trade individual stocks and want to improve their entry and exit timing. For buy-and-hold investors, understanding basic charts is helpful but not essential.
+Tidak. Kalau kamu berinvestasi di [reksadana indeks](/blog/index-fund-investing-guide/) untuk jangka panjang, kamu nggak butuh analisis teknikal sama sekali. Cukup investasi secara konsisten dan abaikan pergerakan harga jangka pendek. Membaca grafik paling berguna untuk orang yang trading saham individual dan ingin memperbaiki timing masuk dan keluar. Untuk investor buy-and-hold, memahami dasar grafik itu membantu, tapi bukan hal wajib.
 
-### What's the best chart type for beginners?
+### Jenis grafik apa yang paling bagus untuk pemula?
 
-Candlestick charts on a daily timeframe. They show the most information (open, close, high, low) in an intuitive visual format. Start with a 6-month daily chart to see the recent trend, then zoom out to a 5-year weekly chart for the bigger picture. Avoid intraday charts (1-minute, 5-minute) until you have more experience — they create noise that leads to bad decisions.
+Grafik candlestick dengan timeframe harian. Format ini menampilkan informasi paling lengkap (open, close, high, low) dalam visual yang mudah dipahami. Mulailah dengan grafik harian 6 bulan untuk melihat tren terbaru, lalu zoom out ke grafik mingguan 5 tahun untuk melihat gambaran besar. Hindari grafik intraday (1 menit, 5 menit) sampai kamu lebih berpengalaman — grafik seperti itu penuh noise dan sering bikin keputusan buruk.
 
-### How reliable are chart patterns?
+### Seberapa andal pola grafik?
 
-No chart pattern is 100% reliable. Most patterns have a success rate of 50-70%, which is better than random but far from guaranteed. The key is to use patterns in combination with other factors: volume confirmation, support/resistance levels, moving averages, and fundamental analysis. Never make a trade based on a single pattern alone.
+Tidak ada pola grafik yang 100% andal. Sebagian besar pola punya tingkat keberhasilan 50-70%, lebih baik daripada acak, tapi jauh dari pasti. Kuncinya adalah memakai pola bersama faktor lain: konfirmasi volume, level support/resistance, moving average, dan analisis fundamental. Jangan pernah ambil keputusan trading hanya berdasarkan satu pola saja.
 
-### Can I learn stock charts in a day?
+### Bisa belajar grafik saham dalam sehari?
 
-You can learn the basics in an afternoon — candlesticks, support/resistance, trend lines, and volume. That's enough to read any chart competently. However, developing the skill to consistently identify actionable patterns takes months of practice. Start by reviewing charts of stocks you already own and identifying patterns after the fact. Over time, you'll start spotting them in real time.
+Kamu bisa mempelajari dasarnya dalam satu sore — candlestick, support/resistance, garis tren, dan volume. Itu sudah cukup untuk membaca grafik dengan baik. Tapi, mengembangkan kemampuan untuk mengenali pola yang bisa ditindaklanjuti secara konsisten butuh latihan berbulan-bulan. Mulailah dengan meninjau grafik saham yang sudah kamu miliki dan mengidentifikasi polanya setelah kejadian. Lama-lama, kamu akan mulai melihatnya secara real time.
 
-### What's the difference between technical and fundamental analysis?
+### Apa bedanya analisis teknikal dan fundamental?
 
-Technical analysis (chart reading) focuses on price patterns, volume, and market behavior to predict future price movements. Fundamental analysis focuses on a company's financials — revenue, earnings, debt, growth rates — to determine whether a stock is fairly valued. Most successful investors use both: fundamental analysis to decide what to buy, and technical analysis to decide when to buy it.
+Analisis teknikal (membaca grafik) fokus pada pola harga, volume, dan perilaku pasar untuk memprediksi pergerakan harga berikutnya. Analisis fundamental fokus pada keuangan perusahaan — pendapatan, laba, utang, tingkat pertumbuhan — untuk menentukan apakah saham itu dinilai wajar. Sebagian besar investor sukses memakai keduanya: analisis fundamental untuk memilih apa yang dibeli, dan analisis teknikal untuk menentukan kapan membelinya.

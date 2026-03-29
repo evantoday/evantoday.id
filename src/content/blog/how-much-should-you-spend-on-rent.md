@@ -10,15 +10,15 @@ heroImageAlt: 'How Much Should You Spend on Rent? (30% Rule)'
 
 ---
 
-## Kesalahan Keuangan Nomor Satu yang Sering Dilakukan Orang Amerika
+## Kesalahan Keuangan Nomor Satu yang Sering Dilakukan Orang
 
-Ini kenyataan yang sedang dialami jutaan orang Amerika saat ini: mereka menghabiskan terlalu banyak uang untuk sewa, dan pelan-pelan itu merusak kemampuan mereka untuk menabung, berinvestasi, dan membangun kekayaan.
+Ini kenyataan yang sedang dialami jutaan orang saat ini: mereka menghabiskan terlalu banyak uang untuk sewa, dan pelan-pelan itu merusak kemampuan mereka untuk menabung, berinvestasi, dan membangun kekayaan.
 
 Menurut Joint Center for Housing Studies di Harvard, hampir setengah dari penyewa di AS tergolong "cost-burdened", artinya mereka menghabiskan lebih dari 30% penghasilan kotor untuk tempat tinggal. Sekitar 12 juta rumah tangga bahkan menghabiskan lebih dari 50%.
 
 Kalau sewa memakan setengah gaji, semuanya ikut kena dampaknya. Dana darurat? Tidak ada. Setoran pensiun ke DPLK/dana pensiun? Dilewatkan. [Utang kartu kredit](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/)? Makin menumpuk. Ini jadi siklus yang sangat sulit diputus.
 
-Kabar baiknya, memahami rasio sewa terhadap penghasilan yang tepat — lalu mengambil keputusan hunian dengan sengaja — bisa membebaskan ratusan dolar setiap bulan. Saya akan tunjukkan caranya.
+Kabar baiknya, memahami rasio sewa terhadap penghasilan yang tepat — lalu mengambil keputusan hunian dengan sengaja — bisa membebaskan ratusan ribu hingga jutaan rupiah setiap bulan. Saya akan tunjukkan caranya.
 
 ## Penjelasan Aturan 30%
 

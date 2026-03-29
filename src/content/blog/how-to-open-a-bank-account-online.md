@@ -1,6 +1,6 @@
 ---
-title: "How to Open a Bank Account Online (10 Minutes)"
-description: "Skip the branch. Open a US bank account from your phone in 10 minutes—just SSN and ID. Step-by-step for Ally, Chime, SoFi, Capital One, and more."
+title: "Cara Buka Rekening Bank Online dalam 10 Menit"
+description: "Lewati cabang. Buka rekening bank dari ponsel dalam 10 menit—cukup KTP dan data diri. Panduan untuk BCA, Jago, Seabank, dan lainnya."
 pubDate: 2026-03-11
 category: "digital-banking"
 tags: ["open bank account", "online banking", "bank account online", "checking account", "savings account"]
@@ -10,228 +10,221 @@ heroImageAlt: 'How to Open a Bank Account Online (10 Minutes)'
 
 ---
 
-## Why I Stopped Going to Bank Branches
+## Kenapa Saya Berhenti Datang ke Cabang Bank
 
-The last time I walked into a bank branch to open an account, I sat in a chair for 45 minutes waiting for a "personal banker" who mostly just typed my information into a computer. I could have done the same thing from my couch in ten minutes. Since then, I have opened four bank accounts online, and each one took less time than brewing a pot of coffee.
+Terakhir kali saya datang ke cabang bank untuk buka rekening, saya duduk di kursi selama 45 menit menunggu “petugas personal” yang sebagian besar cuma mengetik data saya ke komputer. Padahal, saya bisa melakukan hal yang sama dari sofa dalam waktu 10 menit. Sejak itu, saya sudah membuka empat rekening bank secara online, dan semuanya selesai lebih cepat daripada menyeduh kopi.
 
-If you are thinking about opening a bank account online in the US, this guide walks you through exactly what you need, how the process works, and which banks make it easiest.
+Kalau kamu sedang berpikir untuk membuka rekening bank online di Indonesia, panduan ini akan menunjukkan apa saja yang kamu butuhkan, bagaimana prosesnya berjalan, dan bank mana yang paling mudah digunakan.
 
-## What You Need Before You Start
+## Apa yang Perlu Disiapkan Sebelum Mulai
 
-Before you open any bank account online, have these ready:
+Sebelum membuka rekening bank online, siapkan hal-hal berikut:
 
-- **Social Security Number (SSN)**: Every US bank requires this for tax reporting purposes. If you are a non-citizen with an Individual Taxpayer Identification Number (ITIN), some banks accept that instead.
-- **Government-issued photo ID**: A driver's license, state ID, or US passport. Some banks also accept a military ID.
-- **Personal information**: Your full legal name, date of birth, home address, email address, and phone number.
-- **Funding source**: Most banks let you link an existing bank account to make your initial deposit via ACH transfer. Some accept debit card funding. A few let you start with $0.
+- **Nomor identitas pajak atau identitas resmi**: Di Indonesia, bank biasanya meminta KTP dan, dalam beberapa kasus, NPWP untuk keperluan verifikasi dan administrasi.
+- **Kartu identitas berfoto**: KTP, paspor, atau dokumen identitas resmi lain yang diminta bank.
+- **Data pribadi**: Nama lengkap sesuai identitas, tanggal lahir, alamat rumah, email, dan nomor ponsel.
+- **Sumber dana awal**: Kebanyakan bank memungkinkan kamu menghubungkan rekening lain untuk setoran awal lewat transfer. Ada juga yang menerima top up dari kartu debit atau saldo e-wallet, dan beberapa bisa mulai dari Rp 0.
 
-That is it. No appointment, no paperwork, no signatures on a dotted line.
+Itu saja. Tidak perlu janji temu, tidak perlu tumpukan formulir, dan tidak perlu tanda tangan berlembar-lembar.
 
-## Step-by-Step: Opening a Bank Account Online
+## Langkah demi Langkah: Membuka Rekening Bank Online
 
-The process is nearly identical across major online banks. Here is what to expect:
+Prosesnya hampir sama di kebanyakan bank digital. Ini yang biasanya akan kamu alami:
 
-### Step 1: Choose Your Bank
+### Langkah 1: Pilih Bank
 
-Decide whether you want a checking account, savings account, or both. I recommend starting with one of these based on your primary need:
+Tentukan dulu apakah kamu ingin rekening tabungan, rekening transaksi, atau keduanya. Saya sarankan mulai dari salah satu berikut sesuai kebutuhan utama kamu:
 
-- **Best checking account**: Chime (no fees, early direct deposit, $200 overdraft coverage)
-- **Best savings account**: Ally Bank (4.25% APY, no conditions, savings buckets)
-- **Best all-in-one**: SoFi (checking + savings + investing in one app)
-- **Best for branch access + online**: Capital One 360 (online rates with some physical locations)
-- **Best for large deposits**: SoFi ($2 million FDIC insurance through sweep program)
+- **Rekening transaksi terbaik**: Jago (gratis biaya, fitur budgeting, transfer mudah)
+- **Rekening tabungan terbaik**: Seabank (bunga kompetitif, tanpa banyak syarat)
+- **All-in-one terbaik**: Jago (transaksi, tabungan, dan pengelolaan uang dalam satu aplikasi)
+- **Terbaik untuk akses cabang + online**: BCA (layanan digital kuat dengan jaringan cabang luas)
+- **Terbaik untuk dana besar**: Bank besar dengan perlindungan simpanan LPS sesuai ketentuan yang berlaku
 
-### Step 2: Visit the Bank's Website or Download the App
+### Langkah 2: Buka Situs Bank atau Unduh Aplikasi
 
-You can open an account through either the website or mobile app. I prefer using the app because it makes the ID verification step easier since you can take photos directly.
+Kamu bisa membuka rekening lewat situs web atau aplikasi mobile. Saya lebih suka pakai aplikasi karena proses verifikasi identitas biasanya lebih mudah, terutama saat harus foto dokumen langsung dari kamera ponsel.
 
-### Step 3: Fill Out the Application
+### Langkah 3: Isi Formulir Pendaftaran
 
-The application asks for:
+Formulir biasanya meminta:
 
-- Full legal name
-- Date of birth
-- Social Security Number
-- Home address (must be a US address)
-- Email address and phone number
-- Employment information (some banks ask, some do not)
+- Nama lengkap sesuai identitas
+- Tanggal lahir
+- Nomor identitas
+- Alamat rumah
+- Email dan nomor ponsel
+- Informasi pekerjaan atau penghasilan (beberapa bank meminta, beberapa tidak)
 
-This takes about three to five minutes.
+Biasanya ini cuma makan waktu sekitar tiga sampai lima menit.
 
-### Step 4: Verify Your Identity
+### Langkah 4: Verifikasi Identitas
 
-Most banks verify your identity instantly using the information you provided. They cross-reference your SSN, name, and address against public databases.
+Kebanyakan bank akan memverifikasi identitas kamu secara instan berdasarkan data yang kamu isi. Mereka mencocokkan nama, alamat, dan nomor identitas dengan database yang tersedia.
 
-Some banks also ask you to:
+Beberapa bank juga akan meminta kamu untuk:
 
-- Upload a photo of your driver's license or ID (front and back)
-- Take a selfie for facial verification
-- Answer knowledge-based authentication questions (like "Which of these addresses have you lived at?")
+- Mengunggah foto KTP atau identitas lain (depan dan belakang)
+- Selfie untuk verifikasi wajah
+- Menjawab pertanyaan verifikasi, misalnya alamat sebelumnya atau data pribadi tertentu
 
-If instant verification fails, the bank may ask you to mail in documents, which can add three to five business days.
+Kalau verifikasi instan gagal, bank mungkin meminta kamu mengirim dokumen tambahan, yang bisa menambah waktu beberapa hari kerja.
 
-### Step 5: Fund Your Account
+### Langkah 5: Isi Saldo Awal
 
-You have several options for making your first deposit:
+Ada beberapa cara untuk melakukan setoran awal:
 
-- **ACH transfer from another bank**: Link your existing bank account and transfer money. Takes one to three business days. This is the most common method.
-- **Debit card transfer**: Some banks let you fund instantly from a debit card. There may be a small fee.
-- **Wire transfer**: Faster but usually costs $15 to $30 from the sending bank.
-- **Mobile check deposit**: If you have a check, deposit it through the app after your account is open.
-- **$0 opening deposit**: Chime, SoFi, and Ally all allow you to open an account with no initial deposit.
+- **Transfer dari rekening lain**: Hubungkan rekening yang sudah kamu punya lalu transfer dana. Biasanya butuh satu sampai tiga hari kerja. Ini metode yang paling umum.
+- **Top up dari kartu debit**: Beberapa bank mengizinkan pengisian saldo instan dari kartu debit. Mungkin ada biaya kecil.
+- **Transfer antarbank**: Lebih cepat, tetapi kadang ada biaya admin dari bank pengirim.
+- **Setoran tunai via mitra**: Jika bank mendukung, kamu bisa setor tunai lewat jaringan mitra.
+- **Setoran awal Rp 0**: Beberapa bank digital memungkinkan kamu membuka rekening tanpa setoran awal.
 
-### Step 6: Set Up Direct Deposit (Optional but Recommended)
+### Langkah 6: Aktifkan Transfer Gaji Otomatis (Opsional tapi Disarankan)
 
-Most online banks offer better perks if you set up direct deposit:
+Banyak bank digital memberi keuntungan lebih kalau kamu mengaktifkan transfer gaji otomatis:
 
-- **Chime**: Unlocks early direct deposit (paycheck 2 days early) and SpotMe overdraft.
-- **SoFi**: Unlocks the full 4%+ APY on savings.
-- **Ally**: No direct deposit requirement for any features.
+- **Jago**: Bisa membuka fitur tambahan untuk pengelolaan uang dan transaksi yang lebih lancar.
+- **Seabank**: Bisa membantu kamu memaksimalkan fitur tabungan dan bunga.
+- **BCA**: Tidak selalu mewajibkan transfer gaji untuk menikmati fitur dasar.
 
-To set up direct deposit, get your new account number and routing number from the app, then update your payroll information with your employer's HR department or payroll portal.
+Untuk mengaktifkannya, ambil nomor rekening dan kode bank dari aplikasi, lalu update data payroll kamu lewat HR atau portal penggajian kantor.
 
-## Bank-by-Bank Walkthrough
+## Panduan per Bank
 
-### Opening a Chime Account
+### Membuka Rekening Jago
 
-1. Download the [Chime](/blog/chime-review-features-and-fees/) app from the App Store or Google Play.
-2. Tap "Apply Now" and enter your personal information.
-3. Chime does a soft credit check (does not affect your credit score).
-4. If approved, your account is open immediately.
-5. Your Visa debit card arrives by mail in seven to ten business days.
-6. Deposit money via direct deposit, mobile check deposit, or cash deposit at a retail partner.
+1. Unduh aplikasi [Jago](/blog/chime-review-features-and-fees/) dari App Store atau Google Play.
+2. Ketuk “Daftar” dan masukkan data pribadi kamu.
+3. Jago melakukan pengecekan data secara cepat.
+4. Jika disetujui, rekening kamu langsung aktif.
+5. Kartu debit akan dikirim ke alamat kamu dalam beberapa hari kerja.
+6. Isi saldo lewat transfer, setoran tunai mitra, atau top up sesuai metode yang tersedia.
 
-**Time from start to finish**: About five minutes.
+**Waktu dari awal sampai selesai**: Sekitar lima menit.
 
-### Opening an Ally Bank Account
+### Membuka Rekening BCA
 
-1. Go to ally.com or download the Ally mobile app.
-2. Select the account type: checking, savings, or both.
-3. Enter your personal information and SSN.
-4. Ally verifies your identity instantly in most cases.
-5. Fund your account via ACH transfer from another bank.
-6. If you opened a checking account, your debit card arrives in seven to ten business days.
+1. Buka situs BCA atau unduh aplikasi mobile BCA.
+2. Pilih jenis rekening: tabungan, transaksi, atau keduanya.
+3. Masukkan data pribadi dan nomor identitas.
+4. Verifikasi biasanya berlangsung cepat.
+5. Isi saldo awal sesuai ketentuan rekening.
+6. Kartu debit akan dikirim atau bisa diambil sesuai prosedur bank.
 
-**Time from start to finish**: About eight minutes.
+**Waktu dari awal sampai selesai**: Sekitar delapan menit.
 
-### Opening a SoFi Account
+### Membuka Rekening Seabank
 
-1. Download the SoFi app or visit sofi.com.
-2. Tap "Open an Account" and choose Checking and Savings.
-3. Enter your information and upload your ID if prompted.
-4. SoFi verifies your identity and opens the account.
-5. Fund via ACH transfer or set up direct deposit.
-6. Your debit card arrives in seven to ten business days.
+1. Unduh aplikasi Seabank atau buka situs resminya.
+2. Ketuk “Buka Rekening” dan pilih produk yang kamu inginkan.
+3. Masukkan data kamu dan unggah identitas jika diminta.
+4. Seabank memverifikasi identitas dan membuka rekening.
+5. Isi saldo lewat transfer atau metode lain yang tersedia.
+6. Kartu debit akan dikirim dalam beberapa hari kerja.
 
-**Time from start to finish**: About seven minutes.
+**Waktu dari awal sampai selesai**: Sekitar tujuh menit.
 
-### Opening a Capital One 360 Account
+### Membuka Rekening Mandiri Online
 
-1. Visit capitalone.com or download the Capital One app.
-2. Choose between 360 Checking, 360 Performance Savings, or both.
-3. Enter your personal details and SSN.
-4. Verification is usually instant.
-5. Fund with an initial deposit (can be as low as $0 for checking).
-6. Debit card arrives by mail.
+1. Buka situs Mandiri atau unduh aplikasi Livin’ by Mandiri.
+2. Pilih jenis rekening yang ingin dibuka.
+3. Masukkan data pribadi dan nomor identitas.
+4. Verifikasi biasanya cukup cepat.
+5. Isi saldo awal sesuai ketentuan.
+6. Kartu debit akan dikirim ke alamat kamu.
 
-**Time from start to finish**: About ten minutes. Capital One's application is slightly longer because they ask more verification questions.
+**Waktu dari awal sampai selesai**: Sekitar sepuluh menit. Proses Mandiri bisa sedikit lebih panjang karena pertanyaan verifikasinya lebih banyak.
 
-## Common Issues and How to Solve Them
+## Masalah yang Sering Terjadi dan Cara Mengatasinya
 
-### Identity Verification Fails
+### Verifikasi Identitas Gagal
 
-This happens more often than you would think. Common reasons:
+Ini lebih sering terjadi daripada yang kamu kira. Penyebab umumnya:
 
-- **Recently moved**: Your current address does not match what is on file. Try using your previous address or update your address with the USPS first.
-- **Name mismatch**: If your legal name is different from what is on your credit file (common after marriage or legal name change), this can cause issues.
-- **Frozen credit**: If you have a credit freeze, the bank cannot verify your identity. Temporarily lift the freeze before applying.
+- **Baru pindah alamat**: Alamat saat ini belum cocok dengan data yang tersimpan. Coba gunakan alamat sebelumnya atau perbarui data identitas kamu terlebih dulu.
+- **Nama tidak cocok**: Kalau nama legal kamu berbeda dari data yang tercatat (misalnya setelah menikah atau ganti nama), ini bisa menimbulkan masalah.
+- **Data identitas diblokir sementara**: Jika ada pembatasan pada data kamu, bank mungkin tidak bisa memverifikasi identitas. Coba perbaiki dulu sebelum mendaftar.
 
-### Application Denied
+### Pengajuan Ditolak
 
-Banks can deny your application for several reasons:
+Bank bisa menolak pengajuan kamu karena beberapa alasan:
 
-- **ChexSystems report**: If you have negative marks on your ChexSystems report (unpaid bank fees, involuntary account closures), some banks will deny you. Chime and some second-chance accounts are more lenient.
-- **Insufficient identification**: If the bank cannot verify your identity, they may ask for additional documentation.
-- **Address issues**: PO boxes are sometimes not accepted. Use a physical address.
+- **Riwayat negatif di SLIK OJK**: Kalau ada catatan buruk terkait rekening atau kewajiban keuangan, beberapa bank bisa menolak. Bank digital tertentu biasanya lebih fleksibel.
+- **Identitas tidak cukup**: Jika bank tidak bisa memverifikasi identitas kamu, mereka mungkin meminta dokumen tambahan.
+- **Masalah alamat**: Kotak pos biasanya tidak diterima. Gunakan alamat fisik.
 
-### I Do Not Have a Social Security Number
+### Saya Tidak Punya Nomor Identitas yang Diminta Bank
 
-If you are a US resident without an SSN, you may be able to use an ITIN (Individual Taxpayer Identification Number). Banks that accept ITINs include:
+Kalau kamu belum punya dokumen identitas yang diminta, beberapa bank mungkin tetap bisa memproses dengan dokumen alternatif sesuai kebijakan mereka. Bank yang menerima dokumen alternatif biasanya mencantumkannya di syarat pendaftaran.
 
-- Bank of America
-- Chase
-- Wells Fargo
-- Citibank
-- Some credit unions
+Sebagian besar **bank digital** memang meminta identitas resmi secara spesifik.
 
-Most [neobanks](/blog/best-neobanks-2026/) (Chime, SoFi, Ally) require an SSN specifically.
+## Rekening Bank Online vs Rekening Bank Konvensional
 
-## Online Bank Account vs Traditional Bank Account
-
-| Feature | Online Bank | Traditional Bank |
+| Fitur | Bank Online | Bank Konvensional |
 |---|---|---|
-| Savings APY | 3.50% - 4.50% | 0.01% - 0.10% |
-| Monthly fees | Usually $0 | $5 - $25/month |
-| ATM access | Partner networks (40,000-60,000) | Own ATMs + partner networks |
-| Cash deposits | Limited (retail partners) | At any branch |
-| Opening time | 5-10 minutes | 30-60 minutes |
-| Customer service | Phone, chat, email | In person, phone, chat |
-| Wire transfers | Some offer, some do not | Yes |
-| Cashier's checks | Usually no | Yes |
+| Bunga tabungan | 3,5% - 4,5% | 0,01% - 0,10% |
+| Biaya bulanan | Biasanya Rp 0 | Rp 5 ribu - Rp 25 ribu/bulan |
+| Akses ATM | Jaringan mitra | ATM sendiri + jaringan mitra |
+| Setoran tunai | Terbatas | Bisa di cabang |
+| Waktu buka rekening | 5-10 menit | 30-60 menit |
+| Layanan pelanggan | Telepon, chat, email | Tatap muka, telepon, chat |
+| Transfer antarbank | Ada yang mendukung, ada yang tidak | Ya |
+| Cek bank resmi | Biasanya tidak | Ya |
 
-## Tips for Getting the Most Out of Your New Account
+## Tips Agar Rekening Baru Kamu Lebih Maksimal
 
-### Set Up Automatic Savings
+### Atur Tabungan Otomatis
 
-Once your account is open, set up automatic transfers to savings. Even $25 per week adds up to $1,300 per year plus interest. Most online banks let you schedule recurring transfers on any day you choose.
+Begitu rekening kamu aktif, atur transfer otomatis ke tabungan. Bahkan Rp 25 ribu per minggu bisa terkumpul jadi Rp 1,3 juta per tahun, belum termasuk bunga. Kebanyakan bank digital memungkinkan kamu menjadwalkan transfer rutin di hari yang kamu pilih.
 
-### Enable All Security Features
+### Aktifkan Semua Fitur Keamanan
 
-- Turn on two-factor authentication.
-- Set up push notifications for all transactions.
-- Enable biometric login (Face ID or fingerprint).
-- Set up account alerts for large transactions and low balances.
+- Nyalakan autentikasi dua faktor.
+- Aktifkan notifikasi untuk semua transaksi.
+- Gunakan login biometrik seperti Face ID atau sidik jari.
+- Atur peringatan untuk transaksi besar dan saldo rendah.
 
-### Link External Accounts
+### Hubungkan Rekening Eksternal
 
-Connect your new account to your other financial accounts so you can transfer money easily. Most banks let you link up to ten or more external accounts via ACH.
+Sambungkan rekening baru kamu ke rekening keuangan lain agar transfer uang lebih mudah. Kebanyakan bank memungkinkan kamu menghubungkan beberapa rekening eksternal lewat transfer bank.
 
-### Download the App
+### Unduh Aplikasinya
 
-Even if you signed up on the website, download the mobile app. You will need it for mobile check deposits, instant transfers, and card controls.
+Walaupun kamu daftar lewat situs web, tetap unduh aplikasi mobile. Kamu akan membutuhkannya untuk setor cek, transfer instan, dan kontrol kartu.
 
-### Order Direct Deposit Forms Early
+### Siapkan Formulir Transfer Gaji Lebih Awal
 
-If you plan to switch your direct deposit, do it as soon as your account is open. The switch can take one to two payroll cycles to take effect, so the sooner you start, the sooner you benefit from features like early direct deposit and higher APY.
+Kalau kamu berencana memindahkan transfer gaji, lakukan segera setelah rekening aktif. Proses perpindahannya bisa memakan satu sampai dua siklus gaji, jadi semakin cepat kamu mulai, semakin cepat kamu bisa menikmati fitur seperti transfer gaji lebih awal dan bunga yang lebih tinggi.
 
-## Can You Open Multiple Bank Accounts?
+## Bisa Buka Lebih dari Satu Rekening Bank?
 
-Yes, and I actually recommend it. There is no law or rule against having multiple bank accounts. Many people use a strategy like:
+Bisa, dan saya justru menyarankannya. Tidak ada aturan yang melarang punya beberapa rekening bank. Banyak orang memakai strategi seperti ini:
 
-- **Checking account at Chime**: Daily spending, early paycheck, overdraft protection.
-- **High-yield savings at Ally**: Emergency fund and short-term savings goals.
-- **Investing at SoFi or Fidelity**: Retirement and brokerage accounts.
+- **Rekening transaksi di Jago**: Belanja harian, gaji masuk lebih cepat, dan pengelolaan pengeluaran.
+- **Tabungan berbunga tinggi di Seabank**: Dana darurat dan tujuan tabungan jangka pendek.
+- **Investasi di reksadana/investasi**: Untuk dana jangka panjang dan pertumbuhan aset.
 
-The only consideration is managing multiple accounts, but with automatic transfers and modern apps, it is straightforward.
+Yang perlu diperhatikan hanya pengelolaan beberapa rekening sekaligus, tapi dengan transfer otomatis dan aplikasi modern, ini cukup mudah.
 
-## How Long Does It Take to Get Your Money?
+## Berapa Lama Uang Kamu Bisa Dipakai?
 
-Once your account is open, here is how long different funding methods take:
+Begitu rekening kamu aktif, berikut perkiraan waktu untuk setiap metode pengisian dana:
 
-| Method | Time to Access Funds |
+| Metode | Waktu Dana Bisa Dipakai |
 |---|---|
-| ACH transfer | 1-3 business days |
-| Wire transfer | Same day or next day |
-| Mobile check deposit | 1-5 business days |
-| Direct deposit | Next pay cycle (1-2 weeks to set up) |
-| Cash deposit at retailer | Usually instant to 1 hour |
-| Debit card funding | Instant to 1 business day |
+| Transfer antarbank | 1-3 hari kerja |
+| Transfer cepat | Hari yang sama atau besok |
+| Setoran lewat aplikasi | 1-5 hari kerja |
+| Transfer gaji otomatis | Siklus gaji berikutnya (1-2 minggu untuk setup) |
+| Setoran tunai via mitra | Biasanya instan sampai 1 jam |
+| Top up kartu debit | Instan sampai 1 hari kerja |
 
-## The Bottom Line
+## Kesimpulan
 
-Opening a bank account online in the US takes about ten minutes and requires nothing more than your SSN and a government ID. You do not need to visit a branch, schedule an appointment, or fill out paper forms.
+Membuka rekening bank online di Indonesia hanya butuh sekitar 10 menit dan biasanya cukup dengan identitas resmi serta data diri kamu. Kamu tidak perlu datang ke cabang, membuat janji, atau mengisi formulir kertas.
 
-My recommendation for most people: start with [Ally Bank](/blog/ally-bank-review-still-worth-it-in-2026/) if you want [high-yield savings](/blog/best-high-yield-savings-accounts-2026/), Chime if you want the best free checking account, or SoFi if you want everything in one place. You can always open additional accounts later as your needs change.
+Rekomendasi saya untuk kebanyakan orang: mulai dari **Seabank** kalau kamu ingin tabungan berbunga tinggi, **Jago** kalau kamu ingin rekening transaksi yang praktis, atau **BCA** kalau kamu ingin layanan digital yang kuat sekaligus jaringan cabang luas. Kamu selalu bisa membuka rekening tambahan nanti saat kebutuhan kamu berubah.
 
-The hardest part is choosing which bank to go with. The actual opening process is the easy part.
-
+Bagian tersulit biasanya justru memilih banknya. Proses membukanya sendiri adalah bagian yang paling mudah.
