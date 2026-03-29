@@ -1,6 +1,6 @@
 ---
-title: "Life Insurance in 2026: Who Actually Needs It?"
-description: "Not everyone needs life insurance—but if you have dependents, skipping it is a $500K gamble. Find out the right coverage amount and type for your situation."
+title: "Asuransi Jiwa 2026: Siapa yang Butuh?"
+description: "Tak semua orang butuh asuransi jiwa. Tapi kalau kamu punya tanggungan, melewatkannya bisa jadi taruhan Rp 7,5 miliar."
 pubDate: 2026-03-10
 category: "insurance"
 tags: ["life insurance", "term life", "whole life", "life insurance quotes"]
@@ -16,203 +16,203 @@ That changed my perspective permanently. Life insurance isn't an investment. It'
 
 But here's the thing—not everyone needs it. In this guide, I'll help you figure out if you do, how much you need, and where to get the best rates in 2026.
 
-## Who Needs Life Insurance (and Who Doesn't)
+## Siapa yang Butuh Asuransi Jiwa (dan Siapa yang Tidak)
 
-Let me be direct about this, because the insurance industry wants everyone to buy a policy, and that's not always the right move.
+Saya mau jujur soal ini, karena industri asuransi memang ingin semua orang beli polis, padahal itu tidak selalu langkah yang tepat.
 
-### You Definitely Need Life Insurance If:
+### Kamu Pasti Butuh Asuransi Jiwa Jika:
 
-- **You have children or dependents** — This is the number one reason. If people depend on your income to survive, you need coverage. Period.
-- **You have a spouse who relies on your income** — Even partially. If your death would force your spouse to downgrade their lifestyle or struggle financially, get covered.
-- **You have a mortgage** — Your family shouldn't have to choose between grieving and losing their home.
-- **You have significant debt** — Co-signed student loans, business debt, or any obligation that would transfer to your family.
-- **You're a stay-at-home parent** — Your unpaid labor (childcare, cooking, cleaning, driving) would cost $30,000-50,000/year to replace.
+- **Kamu punya anak atau tanggungan** — Ini alasan nomor satu. Kalau ada orang yang bergantung pada penghasilanmu untuk bertahan hidup, kamu butuh perlindungan. Titik.
+- **Kamu punya pasangan yang bergantung pada penghasilanmu** — Bahkan sebagian. Kalau kepergianmu membuat pasangan harus menurunkan standar hidup atau kesulitan finansial, kamu perlu perlindungan.
+- **Kamu punya KPR** — Keluargamu seharusnya tidak perlu memilih antara berduka dan kehilangan rumah.
+- **Kamu punya utang besar** — Pinjaman pendidikan yang ditandatangani bersama, utang bisnis, atau kewajiban apa pun yang bisa berpindah ke keluarga.
+- **Kamu adalah orang tua yang tidak bekerja di luar rumah** — Pekerjaanmu yang tidak dibayar (mengurus anak, memasak, bersih-bersih, antar-jemput) biayanya bisa setara Rp 450-750 juta per tahun untuk digantikan.
 
-### You Probably Don't Need Life Insurance If:
+### Kamu Mungkin Tidak Butuh Asuransi Jiwa Jika:
 
-- **You're single with no dependents** — Nobody depends on your income. A small policy for funeral expenses ($10,000-15,000) might make sense, but a big policy doesn't.
-- **You're retired with sufficient assets** — If your savings, pensions, and Social Security cover your spouse's needs, additional coverage may be unnecessary.
-- **Your children are financially independent** — Once the kids are grown and self-supporting, your coverage need drops dramatically.
-- **You have no debt** — No mortgage, no loans, no obligations that outlive you.
+- **Kamu lajang tanpa tanggungan** — Tidak ada orang yang bergantung pada penghasilanmu. Polis kecil untuk biaya pemakaman (sekitar Rp 150-225 juta) mungkin masuk akal, tapi polis besar tidak.
+- **Kamu sudah pensiun dengan aset yang cukup** — Kalau tabungan, dana pensiun, dan BPJS sudah cukup untuk kebutuhan pasanganmu, perlindungan tambahan mungkin tidak perlu.
+- **Anak-anakmu sudah mandiri secara finansial** — Begitu anak-anak dewasa dan bisa menanggung hidup sendiri, kebutuhan perlindunganmu turun drastis.
+- **Kamu tidak punya utang** — Tidak ada KPR, pinjaman, atau kewajiban yang akan tetap ada setelah kamu meninggal.
 
-## How Much Life Insurance Do You Need?
+## Berapa Banyak Asuransi Jiwa yang Kamu Butuhkan?
 
-Forget the old "10x your income" rule. It's too simple and often wrong. Here's the method I recommend:
+Lupakan aturan lama “10x penghasilan”. Itu terlalu sederhana dan sering keliru. Ini metode yang saya rekomendasikan:
 
-### The DIME Method
+### Metode DIME
 
-**D — Debt:** Add up all your debts (mortgage balance, car loans, student loans, credit cards)
+**D — Debt (Utang):** Jumlahkan semua utangmu (sisa KPR, kredit mobil, pinjaman pendidikan, kartu kredit)
 
-**I — Income:** Multiply your annual income by the number of years your family would need support (until your youngest child is 18-22, or until your spouse reaches retirement age)
+**I — Income (Penghasilan):** Kalikan penghasilan tahunanmu dengan jumlah tahun keluarga butuh dukungan (sampai anak bungsu berusia 18-22 tahun, atau sampai pasanganmu pensiun)
 
-**M — Mortgage:** If not already counted in Debt, include remaining mortgage balance
+**M — Mortgage (KPR):** Kalau belum dihitung di bagian utang, masukkan sisa saldo KPR
 
-**E — Education:** Estimate college costs for each child ($100,000-250,000 per child at current rates for 4-year universities)
+**E — Education (Pendidikan):** Perkirakan biaya kuliah untuk tiap anak (sekitar Rp 1,5-3,8 miliar per anak untuk universitas 4 tahun)
 
-### Example Calculation
+### Contoh Perhitungan
 
-Let's say you're a 35-year-old earning $85,000/year with:
-- $280,000 mortgage balance
-- $25,000 in other debt
-- Two kids ages 3 and 6
-- Spouse earns $40,000/year
+Misalnya kamu berusia 35 tahun dengan penghasilan Rp 1,3 miliar per tahun, dan punya:
+- Sisa KPR Rp 4,2 miliar
+- Utang lain Rp 375 juta
+- Dua anak usia 3 dan 6 tahun
+- Pasangan berpenghasilan Rp 600 juta per tahun
 
-Here's how I'd calculate it:
+Begini cara saya menghitungnya:
 
-- **Debt:** $305,000
-- **Income replacement:** $85,000 x 15 years = $1,275,000 (reduced by spouse's income: $1,275,000 - $600,000 = $675,000)
-- **Education:** $150,000 x 2 kids = $300,000
-- **Total need:** $1,280,000
+- **Utang:** Rp 4,575 miliar
+- **Pengganti penghasilan:** Rp 1,3 miliar x 15 tahun = Rp 19,125 miliar (dikurangi penghasilan pasangan: Rp 19,125 miliar - Rp 9 miliar = Rp 10,125 miliar)
+- **Pendidikan:** Rp 2,25 miliar x 2 anak = Rp 4,5 miliar
+- **Total kebutuhan:** Rp 18,7 miliar
 
-Round up to $1.3 million. A 20-year term life policy at that amount for a healthy 35-year-old costs roughly $50-70/month. That's the price of a few streaming subscriptions to protect your family's entire financial future.
+Bulatkan jadi Rp 19 miliar. Polis asuransi jiwa berjangka 20 tahun dengan nilai segitu untuk usia 35 tahun yang sehat biasanya sekitar Rp 750 ribu-1 juta per bulan. Itu harga beberapa langganan streaming untuk melindungi masa depan finansial keluargamu secara penuh.
 
-## Types of Life Insurance Explained
+## Jenis-Jenis Asuransi Jiwa
 
-### Term Life Insurance
+### Asuransi Jiwa Berjangka
 
-Term life covers you for a set period—10, 15, 20, 25, or 30 years. If you die during the term, your beneficiaries get the death benefit. If you outlive the term, coverage ends and there's no payout.
+Asuransi jiwa berjangka melindungimu untuk periode tertentu—10, 15, 20, 25, atau 30 tahun. Kalau kamu meninggal dalam masa polis, ahli warismu menerima uang pertanggungan. Kalau kamu hidup melewati masa itu, perlindungan berakhir dan tidak ada pencairan.
 
-**Pros:**
-- Cheapest option by far (5-10x less than [whole life](/blog/term-life-vs-whole-life-insurance/) for the same death benefit)
-- Simple and easy to understand
-- Covers you during your highest-need years (kids growing up, mortgage being paid off)
+**Kelebihan:**
+- Paling murah jauh dibandingkan jenis lain (5-10x lebih murah daripada [whole life](/blog/term-life-vs-whole-life-insurance/) untuk manfaat kematian yang sama)
+- Sederhana dan mudah dipahami
+- Melindungimu di masa kebutuhan tertinggi (anak masih kecil, KPR masih berjalan)
 
-**Cons:**
-- No cash value or investment component
-- Coverage ends at term expiration
-- Renewal after term expiration is very expensive
+**Kekurangan:**
+- Tidak ada nilai tunai atau komponen investasi
+- Perlindungan berakhir saat masa polis habis
+- Perpanjangan setelah masa polis habis sangat mahal
 
-**Best for:** Most people. Seriously. I recommend term life for 90% of people who need life insurance.
+**Cocok untuk:** Kebanyakan orang. Serius. Saya merekomendasikan asuransi jiwa berjangka untuk 90% orang yang memang butuh asuransi jiwa.
 
-### Whole Life Insurance
+### Asuransi Jiwa Seumur Hidup
 
-Whole life covers you for your entire life and includes a cash value component that grows at a guaranteed rate (typically 2-4% annually).
+Asuransi jiwa seumur hidup melindungimu sepanjang hidup dan punya komponen nilai tunai yang tumbuh dengan tingkat yang dijamin (biasanya 2-4% per tahun).
 
-**Pros:**
-- Lifetime coverage guaranteed
-- Cash value grows tax-deferred
-- Can borrow against cash value
-- Guaranteed death benefit
+**Kelebihan:**
+- Perlindungan seumur hidup dijamin
+- Nilai tunai tumbuh dengan penundaan pajak
+- Bisa pinjam dengan jaminan nilai tunai
+- Uang pertanggungan dijamin
 
-**Cons:**
-- 5-10x more expensive than term life for the same death benefit
-- Cash value growth is slow, especially in early years
-- Complex fee structures
-- Poor investment returns compared to [index funds](/blog/index-fund-investing-guide/)
+**Kekurangan:**
+- 5-10x lebih mahal daripada asuransi jiwa berjangka untuk manfaat kematian yang sama
+- Pertumbuhan nilai tunai lambat, terutama di tahun-tahun awal
+- Struktur biaya rumit
+- Imbal hasil investasi buruk dibandingkan [reksadana indeks](/blog/index-fund-investing-guide/)
 
-**Best for:** High-net-worth individuals using it for estate planning or tax strategies. Not for most families.
+**Cocok untuk:** Individu dengan kekayaan besar yang memakainya untuk perencanaan warisan atau strategi pajak. Bukan untuk kebanyakan keluarga.
 
-### Universal Life Insurance
+### Asuransi Jiwa Universal
 
-Universal life is a flexible permanent policy where you can adjust premiums and death benefits. Variable universal life lets you invest the cash value in market funds.
+Asuransi jiwa universal adalah polis permanen yang fleksibel, di mana kamu bisa menyesuaikan premi dan uang pertanggungan. Variable universal life memungkinkan kamu menginvestasikan nilai tunai ke dana pasar.
 
-**Best for:** Sophisticated buyers who want permanent coverage with flexibility. Requires active management and understanding of how the policy works.
+**Cocok untuk:** Pembeli berpengalaman yang ingin perlindungan permanen dengan fleksibilitas. Butuh pengelolaan aktif dan pemahaman yang baik tentang cara kerja polis.
 
-## Best Life Insurance Companies in 2026
+## Perusahaan Asuransi Jiwa Terbaik di 2026
 
-### For Term Life
+### Untuk Asuransi Jiwa Berjangka
 
-| Company | 20-Year Term ($500K, Age 35, Male) | AM Best Rating | Key Feature |
+| Perusahaan | Berjangka 20 Tahun (Rp 7,5 Miliar, Usia 35, Pria) | Rating AM Best | Fitur Utama |
 |---------|-----------------------------------|----------------|-------------|
-| Haven Life | $26/month | A++ (MassMutual) | Instant online approval |
-| Bestow | $28/month | A+ (North American) | No medical exam |
-| Banner Life | $24/month | A+ | Lowest rates overall |
-| Pacific Life | $27/month | A+ | Conversion options |
-| Protective | $25/month | A+ | Strong conversion policy |
+| Haven Life | Rp 390 ribu/bulan | A++ (MassMutual) | Persetujuan online instan |
+| Bestow | Rp 420 ribu/bulan | A+ (North American) | Tanpa pemeriksaan medis |
+| Banner Life | Rp 360 ribu/bulan | A+ | Tarif terendah secara umum |
+| Pacific Life | Rp 405 ribu/bulan | A+ | Opsi konversi |
+| Protective | Rp 375 ribu/bulan | A+ | Kebijakan konversi kuat |
 
-### For Whole Life
+### Untuk Asuransi Jiwa Seumur Hidup
 
-| Company | Annual Premium ($250K, Age 35, Male) | AM Best Rating | Dividend History |
+| Perusahaan | Premi Tahunan (Rp 3,8 Miliar, Usia 35, Pria) | Rating AM Best | Riwayat Dividen |
 |---------|--------------------------------------|----------------|-----------------|
-| Northwestern Mutual | $3,800 | A++ | 168 consecutive years |
-| MassMutual | $3,600 | A++ | Strong dividend record |
-| New York Life | $3,700 | A++ | 170+ consecutive years |
-| Guardian | $3,500 | A++ | Competitive dividends |
+| Northwestern Mutual | Rp 57 juta | A++ | 168 tahun berturut-turut |
+| MassMutual | Rp 54 juta | A++ | Rekam jejak dividen kuat |
+| New York Life | Rp 56 juta | A++ | 170+ tahun berturut-turut |
+| Guardian | Rp 52,5 juta | A++ | Dividen kompetitif |
 
-## How to Buy Life Insurance: Step by Step
+## Cara Membeli Asuransi Jiwa: Langkah demi Langkah
 
-### Step 1: Determine Your Coverage Need
+### Langkah 1: Tentukan Kebutuhan Perlindunganmu
 
-Use the DIME method above. Be honest about your debts, income, and family's future expenses.
+Gunakan metode DIME di atas. Jujurlah soal utang, penghasilan, dan biaya masa depan keluarga.
 
-### Step 2: Choose Term Length
+### Langkah 2: Pilih Durasi Polis
 
-Match the term to your longest financial obligation:
-- **Kids under 5:** 25 or 30-year term
-- **Kids 5-10:** 20 or 25-year term
-- **Kids 10-15:** 15 or 20-year term
-- **Mortgage only (no kids):** Match your remaining mortgage years
+Sesuaikan masa perlindungan dengan kewajiban finansial terpanjangmu:
+- **Anak di bawah 5 tahun:** Polis 25 atau 30 tahun
+- **Anak usia 5-10 tahun:** Polis 20 atau 25 tahun
+- **Anak usia 10-15 tahun:** Polis 15 atau 20 tahun
+- **Hanya KPR (tanpa anak):** Sesuaikan dengan sisa tahun KPR
 
-### Step 3: Get Multiple Quotes
+### Langkah 3: Bandingkan Beberapa Penawaran
 
-I recommend getting quotes from at least 4-5 companies. Use aggregators like Policygenius, Bestow, or Haven Life to compare quickly. Rates can vary 30-50% between insurers for the same coverage.
+Saya sarankan minta penawaran dari setidaknya 4-5 perusahaan. Pakai agregator seperti Policygenius, Bestow, atau Haven Life untuk membandingkan dengan cepat. Tarif bisa berbeda 30-50% antarpenyedia untuk perlindungan yang sama.
 
-### Step 4: Complete the Application
+### Langkah 4: Lengkapi Aplikasi
 
-Most term life policies require:
-- Health questionnaire
-- Medical exam (blood test, urine sample, blood pressure—takes 20-30 minutes at your home or office)
-- Review of your medical records (MIB check)
+Kebanyakan polis asuransi jiwa berjangka memerlukan:
+- Kuesioner kesehatan
+- Pemeriksaan medis (tes darah, sampel urine, tekanan darah—biasanya 20-30 menit di rumah atau kantor)
+- Pemeriksaan rekam medis (cek MIB)
 
-Some companies now offer no-exam policies for coverage up to $500,000-1,000,000 if you're under 45 and healthy. These cost slightly more but are much faster—sometimes approved in minutes.
+Sekarang beberapa perusahaan juga menawarkan polis tanpa pemeriksaan untuk perlindungan sampai Rp 7,5-15 miliar jika kamu berusia di bawah 45 tahun dan sehat. Harganya sedikit lebih mahal, tapi jauh lebih cepat—kadang disetujui dalam hitungan menit.
 
-### Step 5: Review and Sign
+### Langkah 5: Tinjau dan Tandatangani
 
-Read the policy carefully. Make sure the beneficiaries are correct, the coverage amount matches what you applied for, and there are no unexpected exclusions.
+Baca polis dengan teliti. Pastikan penerima manfaat sudah benar, jumlah perlindungan sesuai dengan yang kamu ajukan, dan tidak ada pengecualian yang mengejutkan.
 
-## Common Life Insurance Mistakes
+## Kesalahan Umum dalam Asuransi Jiwa
 
-I've seen all of these, and they're worth avoiding:
+Saya sudah melihat semua ini, dan semuanya layak dihindari:
 
-### 1. Only Getting Coverage Through Your Employer
+### 1. Hanya Mengandalkan Perlindungan dari Kantor
 
-Employer-provided life insurance (usually 1-2x salary) is a nice perk, but it's rarely enough. Worse, you lose it when you leave the job. Always have a personal policy as your foundation.
+Asuransi jiwa dari kantor (biasanya 1-2x gaji) memang bonus yang bagus, tapi hampir tidak pernah cukup. Lebih buruk lagi, kamu kehilangannya saat pindah kerja. Selalu punya polis pribadi sebagai dasar perlindungan.
 
-### 2. Waiting Too Long
+### 2. Terlalu Lama Menunggu
 
-Every year you wait, your premium goes up. A healthy 30-year-old pays about 40% less than a healthy 40-year-old for the same policy. And if a health issue develops, you could become uninsurable.
+Setiap tahun kamu menunggu, premi naik. Orang sehat usia 30 tahun biasanya membayar sekitar 40% lebih murah daripada orang sehat usia 40 tahun untuk polis yang sama. Dan kalau muncul masalah kesehatan, kamu bisa jadi tidak bisa diasuransikan.
 
-### 3. Buying Whole Life When Term Is Sufficient
+### 3. Membeli Whole Life Padahal Term Cukup
 
-I see this constantly. A family with a tight budget buys a $250,000 whole life policy when they could get a $1,000,000 term policy for the same monthly premium. The whole life policy is dangerously underinsured.
+Saya sering melihat ini. Keluarga dengan anggaran ketat membeli polis whole life Rp 3,8 miliar padahal mereka bisa dapat polis berjangka Rp 15 miliar dengan premi bulanan yang sama. Polis whole life itu membuat mereka kekurangan perlindungan secara berbahaya.
 
-### 4. Not Updating Beneficiaries
+### 4. Tidak Memperbarui Penerima Manfaat
 
-After divorce, remarriage, or having children, update your beneficiaries immediately. I've heard too many stories of ex-spouses receiving life insurance payouts because the policyholder never updated the forms.
+Setelah cerai, menikah lagi, atau punya anak, segera perbarui penerima manfaat. Saya terlalu sering mendengar cerita mantan pasangan menerima pencairan asuransi jiwa karena pemegang polis tidak pernah memperbarui formulir.
 
-### 5. Lying on the Application
+### 5. Berbohong di Aplikasi
 
-Insurance companies investigate claims. If you lied about smoking, health conditions, or dangerous hobbies, your beneficiaries' claim can be denied. The two-year contestability period is real, and insurers actively use it.
+Perusahaan asuransi akan menyelidiki klaim. Kalau kamu bohong soal merokok, kondisi kesehatan, atau hobi berisiko, klaim ahli warismu bisa ditolak. Masa kontestabilitas dua tahun itu nyata, dan perusahaan asuransi benar-benar memakainya.
 
-## Life Insurance and Taxes
+## Asuransi Jiwa dan Pajak
 
-Here's some good news: life insurance death benefits are generally **income tax-free** for beneficiaries. Your family receives the full payout without owing federal income tax.
+Ada kabar baik: manfaat kematian dari asuransi jiwa umumnya **bebas pajak penghasilan** bagi penerima manfaat. Keluargamu menerima pencairan penuh tanpa harus membayar pajak penghasilan federal.
 
-However, there are exceptions:
-- If the policy is part of your estate and exceeds the federal estate tax exemption ($13.61 million in 2026), estate taxes may apply
-- Cash value withdrawals above your basis in a whole life policy can be taxable
-- Employer-paid group life insurance over $50,000 creates taxable income for the employee
+Namun, ada pengecualian:
+- Jika polis menjadi bagian dari warisan dan nilainya melebihi batas pembebasan pajak warisan federal (Rp 204 miliar pada 2026), pajak warisan bisa berlaku
+- Penarikan nilai tunai di atas basis biaya pada polis whole life bisa kena pajak
+- Asuransi jiwa kelompok yang dibayar perusahaan di atas Rp 750 juta menciptakan penghasilan kena pajak bagi karyawan
 
-For most families, the death benefit is completely tax-free, which makes life insurance one of the most tax-efficient ways to transfer wealth.
+Bagi kebanyakan keluarga, manfaat kematian benar-benar bebas pajak, yang membuat asuransi jiwa jadi salah satu cara paling efisien untuk meneruskan kekayaan.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### How much life insurance does a 30-year-old need?
+### Berapa banyak asuransi jiwa yang dibutuhkan orang usia 30 tahun?
 
-It depends entirely on your financial situation. A single 30-year-old with no dependents may need little to no coverage. A 30-year-old with a spouse, kids, and a mortgage might need $750,000-1.5 million. Use the DIME method: add up your debts, income replacement needs, and future education costs to calculate your number.
+Itu sepenuhnya tergantung pada kondisi finansialmu. Orang usia 30 tahun yang lajang tanpa tanggungan mungkin butuh sedikit atau bahkan tidak perlu perlindungan. Orang usia 30 tahun yang punya pasangan, anak, dan KPR mungkin butuh Rp 11-22,5 miliar. Gunakan metode DIME: jumlahkan utang, kebutuhan pengganti penghasilan, dan biaya pendidikan masa depan untuk menghitung angkanya.
 
-### Is term or whole life insurance better?
+### Lebih baik asuransi jiwa berjangka atau seumur hidup?
 
-For the vast majority of Americans, term life insurance is the better choice. It's 5-10x cheaper and provides coverage during the years you need it most. Whole life makes sense only for high-net-worth individuals with specific estate planning needs. My general rule: buy term life and invest the premium difference in a [401(k)](/blog/how-to-financially-prepare-for-retirement/) or index fund.
+Untuk sebagian besar orang, asuransi jiwa berjangka adalah pilihan yang lebih baik. Harganya 5-10x lebih murah dan memberi perlindungan saat kamu paling membutuhkannya. Asuransi jiwa seumur hidup hanya masuk akal untuk individu dengan kekayaan besar dan kebutuhan perencanaan warisan tertentu. Aturan umum saya: beli asuransi jiwa berjangka dan investasikan selisih premi ke [DPLK/dana pensiun](/blog/how-to-financially-prepare-for-retirement/) atau reksadana indeks.
 
-### Can I get life insurance with a pre-existing condition?
+### Apakah saya bisa dapat asuransi jiwa kalau punya kondisi kesehatan sebelumnya?
 
-Yes, but it will cost more and your options may be limited. Conditions like controlled diabetes, high blood pressure, or a history of depression are insurable at higher rates. More serious conditions may require guaranteed issue policies (no medical questions, but higher premiums and lower coverage limits). Working with an independent broker who represents multiple insurers is the best approach.
+Bisa, tapi biayanya lebih mahal dan pilihanmu mungkin terbatas. Kondisi seperti diabetes yang terkontrol, tekanan darah tinggi, atau riwayat depresi masih bisa diasuransikan, tapi dengan tarif lebih tinggi. Kondisi yang lebih serius mungkin memerlukan polis guaranteed issue (tanpa pertanyaan medis, tapi premi lebih tinggi dan batas perlindungan lebih rendah). Bekerja dengan broker independen yang mewakili banyak perusahaan asuransi adalah pendekatan terbaik.
 
-### Do I need life insurance if I'm a stay-at-home parent?
+### Apakah saya perlu asuransi jiwa kalau saya orang tua yang tidak bekerja?
 
-Absolutely. While you don't earn a salary, replacing the services you provide—childcare, cooking, cleaning, driving, household management—would cost $30,000-50,000 per year. If you died, your spouse would need to pay for those services while continuing to work. A $250,000-500,000 term policy is reasonable for most stay-at-home parents.
+Tentu saja. Walaupun kamu tidak punya gaji, mengganti layanan yang kamu berikan—mengurus anak, memasak, bersih-bersih, antar-jemput, mengelola rumah—bisa menghabiskan Rp 450-750 juta per tahun. Kalau kamu meninggal, pasanganmu harus membayar layanan itu sambil tetap bekerja. Polis berjangka Rp 3,8-7,5 miliar masuk akal untuk kebanyakan orang tua yang tidak bekerja di luar rumah.
 
-### When should I cancel or reduce my life insurance?
+### Kapan saya harus membatalkan atau mengurangi asuransi jiwa?
 
-Consider reducing coverage when your mortgage is paid off, your children become financially independent, or you accumulate enough savings that your family wouldn't need the death benefit. Don't cancel a policy before securing a new one if you still have coverage needs, and never cancel a policy when your health has deteriorated since you might not qualify for a new one.
+Pertimbangkan untuk mengurangi perlindungan ketika KPR sudah lunas, anak-anak sudah mandiri secara finansial, atau tabunganmu sudah cukup besar sehingga keluarga tidak lagi membutuhkan manfaat kematian. Jangan batalkan polis sebelum mendapatkan polis baru kalau kamu masih butuh perlindungan, dan jangan pernah membatalkan polis ketika kondisi kesehatanmu sudah menurun karena kamu mungkin tidak akan lolos untuk polis baru.

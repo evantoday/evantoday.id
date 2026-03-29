@@ -31,7 +31,7 @@ For investors di Indonesia, saya suka memikirkan diversifikasi dalam tiga lapisa
 
 1. **Across asset classes** — cash, tabungan, reksadana, saham, obligasi, emas, kripto.
 2. **Across risk levels** — aman, moderat, agresif.
-3. **Across time horizons** — uang yang dibutuhkan قريب vs uang yang bisa dibiarkan bertahun-tahun.
+3. **Across time horizons** — uang yang dibutuhkan dekat vs uang yang bisa dibiarkan bertahun-tahun.
 
 Banyak orang mengira diversifikasi itu berarti "punya banyak hal acak." Padahal itu belum tentu benar. Kalau kamu punya lima saham teknologi, kamu masih sangat terpapar ke satu tema. Kalau kamu punya satu saham, satu aset kripto, dan satu emas batangan, itu memang lebih baik — tapi tetap belum ideal kalau ketiganya bergerak mirip saat pasar sedang stres.
 
