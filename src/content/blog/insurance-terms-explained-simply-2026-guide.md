@@ -1,6 +1,6 @@
 ---
-title: "Insurance Terms Explained Simply [2026 Guide]"
-description: "Stop getting lost in polis, premi, dan klaim. I break down 25 insurance terms in plain Indonesian, with examples and traps to avoid."
+title: "Istilah Asuransi Dijelaskan Sederhana [2026]"
+description: "Jangan bingung lagi dengan polis, premi, dan klaim. Saya bahas 25 istilah asuransi dalam bahasa Indonesia yang mudah dipahami."
 pubDate: 2026-03-27
 updatedDate: 2026-03-27
 category: "insurance"
@@ -12,287 +12,287 @@ The first time I read an insurance policy, I felt like I was decoding another la
 
 ## Key Takeaways
 
-- Insurance jargon is confusing on purpose sometimes, but the core terms are actually easy once you break them down.
-- The most important words to understand are polis, premi, manfaat, klaim, pengecualian, deductible, and waiting period.
-- I’ll show you how to read an insurance policy without getting trapped by hidden exclusions or confusing wording.
-- You’ll also see real Indonesian examples, including practical differences between health, life, motor, and [home insurance](/blog/home-insurance-guide-and-comparison/).
-- By the end, you’ll know which terms matter most before you buy, renew, or file a claim.
+- Bahasa asuransi memang sering dibuat rumit, tapi inti istilahnya sebenarnya mudah dipahami kalau dipecah satu per satu.
+- Kata-kata paling penting yang perlu kamu pahami adalah polis, premi, manfaat, klaim, pengecualian, deductible, dan waiting period.
+- Saya akan tunjukkan cara membaca polis asuransi tanpa terjebak pengecualian tersembunyi atau bahasa yang membingungkan.
+- Kamu juga akan lihat contoh nyata di Indonesia, termasuk perbedaan praktis antara asuransi kesehatan, jiwa, kendaraan, dan [asuransi rumah](/blog/home-insurance-guide-and-comparison/).
+- Di akhir, kamu akan tahu istilah mana yang paling penting sebelum membeli, memperpanjang, atau mengajukan klaim.
 
 ## What Are the Most Important Insurance Terms?
 
-The most important insurance terms are the ones that affect how much you pay, what you’re covered for, and whether a claim gets approved. If you only learn ten words, learn these first: polis, premi, tertanggung, penanggung, manfaat, klaim, pengecualian, deductible, waiting period, and sum insured.
+Istilah asuransi yang paling penting adalah yang memengaruhi berapa besar kamu bayar, apa saja yang ditanggung, dan apakah klaimmu disetujui. Kalau kamu cuma mau belajar sepuluh kata, pelajari dulu ini: polis, premi, tertanggung, penanggung, manfaat, klaim, pengecualian, deductible, waiting period, dan sum insured.
 
-I’ve seen too many people in Indonesia buy insurance based on a sales pitch, then only realize later that they didn’t understand the actual wording in the policy. That’s expensive. Sometimes it means a claim is delayed. Sometimes it means the coverage isn’t what they expected. If you already understand these basic terms, you’ll be ahead of most buyers.
+Saya sering lihat orang di Indonesia beli asuransi karena bujuk rayu sales, lalu baru sadar belakangan kalau mereka tidak benar-benar paham isi polisnya. Itu mahal. Kadang klaim jadi lambat. Kadang perlindungannya tidak sesuai ekspektasi. Kalau kamu sudah paham istilah dasar ini, kamu sudah selangkah lebih maju dari kebanyakan pembeli.
 
-Here’s the simplest way I explain it to friends:
+Cara paling sederhana yang saya jelaskan ke teman-teman:
 
-- **Polis** = the contract
-- **Premi** = the amount you pay
-- **Klaim** = the request to use the coverage
-- **Manfaat** = what you receive if the claim is approved
-- **Pengecualian** = what is not covered
+- **Polis** = kontrak
+- **Premi** = biaya yang kamu bayar
+- **Klaim** = permintaan untuk memakai perlindungan
+- **Manfaat** = yang kamu terima kalau klaim disetujui
+- **Pengecualian** = hal yang tidak ditanggung
 
-If you want a deeper look at how claims work after you understand the wording, I’d also recommend reading my guide on [how to claim insurance in Indonesia step by step](/blog/7-proven-steps-to-claim-insurance-in-indonesia-2026-guide/). Understanding the terms first makes the claim process much less stressful.
+Kalau kamu ingin memahami proses klaim lebih dalam setelah paham istilahnya, saya juga sarankan baca panduan saya tentang [cara klaim asuransi di Indonesia langkah demi langkah](/blog/7-proven-steps-to-claim-insurance-in-indonesia-2026-guide/). Paham istilah dulu bikin proses klaim jauh lebih tenang.
 
 ## Insurance Terms and Jargon Explained Simply
 
 ### 1. Polis
 
-A polis is the insurance contract. It’s the document that spells out what’s covered, what’s not covered, how much you pay, and how claims work.
+Polis adalah kontrak asuransi. Di dalamnya dijelaskan apa yang ditanggung, apa yang tidak, berapa yang harus dibayar, dan bagaimana klaim diproses.
 
-I think this is the most important document in the whole relationship. Not the brochure. Not the sales presentation. The polis. If there’s a dispute later, the polis is what matters.
+Menurut saya, ini dokumen paling penting dalam seluruh hubungan asuransi. Bukan brosur. Bukan presentasi sales. Polis. Kalau nanti ada sengketa, yang jadi acuan adalah polis.
 
 ### 2. Premi
 
-Premi is the amount you pay to keep the insurance active. It can be paid monthly, quarterly, half-yearly, or yearly.
+Premi adalah jumlah yang kamu bayar agar asuransi tetap aktif. Pembayarannya bisa bulanan, triwulanan, setengah tahunan, atau tahunan.
 
-For example, if your health insurance premium is Rp 250.000 per month, that means you pay Rp 3 juta per year if you keep it active for 12 months. Simple, but people often underestimate the annual cost because they only look at the monthly number.
+Misalnya, kalau premi asuransi kesehatanmu Rp 250 ribu per bulan, berarti kamu membayar sekitar Rp 3 juta per tahun kalau polisnya aktif selama 12 bulan. Sederhana, tapi banyak orang sering meremehkan biaya tahunan karena hanya melihat angka bulanan.
 
 ### 3. Tertanggung
 
-Tertanggung is the person covered by the insurance. If you buy health insurance for yourself, you are the tertanggung. If you buy a family plan, your spouse or child may also be tertanggung.
+Tertanggung adalah orang yang dilindungi oleh asuransi. Kalau kamu beli asuransi kesehatan untuk diri sendiri, kamu adalah tertanggung. Kalau kamu beli paket keluarga, pasangan atau anakmu juga bisa menjadi tertanggung.
 
 ### 4. Penanggung
 
-Penanggung is the insurance company that provides the coverage. In plain terms, this is the party that pays if your claim is valid.
+Penanggung adalah perusahaan asuransi yang memberikan perlindungan. Sederhananya, ini pihak yang akan membayar kalau klaimmu valid.
 
 ### 5. Manfaat
 
-Manfaat is the benefit you receive from the policy. For health insurance, this could be hospitalization coverage. For [life insurance](/blog/do-you-need-life-insurance/), it could be a payout to your family. For motor insurance, it could be repair costs after an accident.
+Manfaat adalah keuntungan atau perlindungan yang kamu dapat dari polis. Untuk asuransi kesehatan, ini bisa berupa biaya rawat inap. Untuk [asuransi jiwa](/blog/do-you-need-life-insurance/), ini bisa berupa uang santunan untuk keluarga. Untuk asuransi kendaraan, ini bisa berupa biaya perbaikan setelah kecelakaan.
 
 ### 6. Klaim
 
-Klaim is the request you submit to get the insurance benefit. If your hospital bill is Rp 18 juta and the policy covers it, you file a claim so the insurer pays according to the policy rules.
+Klaim adalah permintaan yang kamu ajukan untuk mendapatkan manfaat asuransi. Kalau tagihan rumah sakitmu Rp 18 juta dan polis menanggungnya, kamu mengajukan klaim supaya perusahaan asuransi membayar sesuai aturan polis.
 
 ### 7. Pengecualian
 
-Pengecualian means exclusions. These are situations, conditions, or events that are not covered.
+Pengecualian berarti hal-hal yang tidak ditanggung.
 
-This is where many people get burned. A policy may sound generous, but exclusions can narrow it a lot. For example, some plans exclude pre-existing conditions, self-inflicted injuries, or certain sports injuries.
+Di sinilah banyak orang sering kena jebakan. Polis bisa terdengar sangat menguntungkan, tapi pengecualian bisa membuat perlindungannya jauh lebih sempit. Misalnya, beberapa produk mengecualikan kondisi bawaan, cedera yang disengaja, atau cedera akibat olahraga tertentu.
 
 ### 8. Deductible
 
-Deductible is the amount you must pay before insurance starts paying. In Indonesia, people also often call it “risiko sendiri” or own risk.
+Deductible adalah jumlah yang harus kamu bayar sebelum asuransi mulai membayar. Di Indonesia, istilah ini juga sering disebut “risiko sendiri” atau own risk.
 
-For example, if your car repair costs Rp 5 juta and the deductible is Rp 300.000, you pay Rp 300.000 first, and the insurer pays the rest according to the policy.
+Misalnya, kalau biaya perbaikan mobilmu Rp 5 juta dan deductible-nya Rp 300 ribu, kamu bayar Rp 300 ribu dulu, lalu sisanya dibayar penanggung sesuai polis.
 
 ### 9. Waiting Period
 
-Waiting period is the time after buying the policy when certain benefits are not yet active.
+Waiting period adalah masa tunggu setelah membeli polis, di mana manfaat tertentu belum aktif.
 
-A lot of people miss this. They buy health insurance today and assume everything is covered immediately. Not always. Some plans have waiting periods for illness, maternity, or specific conditions.
+Banyak orang melewatkan bagian ini. Mereka beli asuransi kesehatan hari ini dan mengira semua langsung ditanggung. Tidak selalu begitu. Beberapa polis punya masa tunggu untuk penyakit tertentu, persalinan, atau kondisi khusus.
 
 ### 10. Sum Insured
 
-Sum insured is the maximum amount the insurer will pay. If your policy has a sum insured of Rp 100 juta, that’s the ceiling, not a promise to pay unlimited amounts.
+Sum insured adalah batas maksimum yang akan dibayar penanggung. Kalau polis kamu punya sum insured Rp 100 juta, itu adalah plafon, bukan janji pembayaran tanpa batas.
 
-Here’s a quick comparison table I use when explaining the difference between common terms:
+Berikut tabel perbandingan singkat yang saya pakai saat menjelaskan perbedaan istilah umum:
 
-| Term | Simple Meaning | Example |
+| Istilah | Arti Sederhana | Contoh |
 |---|---|---|
-| Polis | Contract | The policy document you sign |
-| Premi | Payment | Rp 250.000/month |
-| Klaim | Request for payout | Submit hospital bill |
-| Manfaat | Benefit | Hospitalization coverage |
-| Pengecualian | Not covered | Cosmetic treatment |
-| Deductible | Out-of-pocket amount | Rp 300.000 own risk |
-| Waiting period | Delay before coverage starts | 30 days |
-| Sum insured | Maximum coverage | Rp 100 juta |
+| Polis | Kontrak | Dokumen polis yang kamu tandatangani |
+| Premi | Pembayaran | Rp 250 ribu/bulan |
+| Klaim | Permintaan pembayaran | Kirim tagihan rumah sakit |
+| Manfaat | Perlindungan | Rawat inap ditanggung |
+| Pengecualian | Tidak ditanggung | Perawatan kosmetik |
+| Deductible | Biaya yang dibayar sendiri | Risiko sendiri Rp 300 ribu |
+| Waiting period | Jeda sebelum perlindungan aktif | 30 hari |
+| Sum insured | Batas maksimal perlindungan | Rp 100 juta |
 
 ## How Do I Read an Insurance Policy Without Getting Confused?
 
-The best way to read an insurance policy is to focus on five sections first: coverage, exclusions, waiting period, claim procedure, and renewal rules. Don’t start with the marketing summary. Start with the parts that decide whether money actually gets paid.
+Cara terbaik membaca polis asuransi adalah fokus dulu pada lima bagian: perlindungan, pengecualian, waiting period, prosedur klaim, dan aturan perpanjangan. Jangan mulai dari ringkasan marketing. Mulailah dari bagian yang menentukan apakah uang benar-benar dibayar atau tidak.
 
-When I read a policy, I do it in this order:
+Kalau saya membaca polis, urutannya seperti ini:
 
-1. **Check what is covered**
-   - Look for the main benefits.
-   - Ask: does it cover hospitalization, outpatient care, surgery, accident, death, or disability?
+1. **Cek apa yang ditanggung**
+   - Lihat manfaat utama.
+   - Tanyakan: apakah menanggung rawat inap, rawat jalan, operasi, kecelakaan, meninggal, atau cacat?
 
-2. **Check what is excluded**
-   - Look for the exclusions section.
-   - Search for phrases like “tidak dijamin,” “excluded,” or “not covered.”
+2. **Cek apa yang dikecualikan**
+   - Cari bagian pengecualian.
+   - Cari frasa seperti “tidak dijamin,” “excluded,” atau “not covered.”
 
-3. **Check the waiting period**
-   - Some benefits only start after 30, 60, or 90 days.
-   - Maternity and pre-existing conditions often have stricter rules.
+3. **Cek waiting period**
+   - Beberapa manfaat baru aktif setelah 30, 60, atau 90 hari.
+   - Persalinan dan kondisi bawaan sering punya aturan lebih ketat.
 
-4. **Check the deductible or own risk**
-   - See whether you must pay part of the bill first.
-   - This is especially important for motor insurance and some health policies.
+4. **Cek deductible atau risiko sendiri**
+   - Lihat apakah kamu harus bayar sebagian tagihan dulu.
+   - Ini sangat penting untuk asuransi kendaraan dan beberapa polis kesehatan.
 
-5. **Check how claims are submitted**
-   - Some insurers require original receipts.
-   - Some accept cashless hospital visits.
-   - Some need pre-authorization before treatment.
+5. **Cek cara klaim diajukan**
+   - Beberapa asuransi meminta kuitansi asli.
+   - Beberapa menerima rawat inap cashless.
+   - Beberapa butuh persetujuan dulu sebelum tindakan.
 
-I personally think this is where most people should slow down. If a policy is too hard to understand, that’s not a small issue. It’s a warning sign. A good insurance product should be explainable in plain language.
+Menurut saya, di sinilah kebanyakan orang perlu lebih pelan. Kalau polis terlalu sulit dipahami, itu bukan masalah kecil. Itu tanda peringatan. Produk asuransi yang bagus seharusnya bisa dijelaskan dengan bahasa yang sederhana.
 
-If you’re trying to get your [monthly budget](/blog/how-to-create-a-monthly-spending-plan/) under control while still paying for protection, my guide on [how to create a monthly spending plan Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/) can help you figure out how much insurance you can realistically afford without making your cash flow miserable.
+Kalau kamu sedang berusaha mengatur [anggaran bulanan](/blog/how-to-create-a-monthly-spending-plan/) sambil tetap membayar perlindungan, panduan saya tentang [cara membuat rencana pengeluaran bulanan di Indonesia](/blog/how-to-create-a-monthly-spending-plan-in-indonesia/) bisa membantu kamu menghitung berapa biaya asuransi yang realistis tanpa membuat arus kasmu berantakan.
 
 ## Which Insurance Terms Matter Most by Product Type?
 
-Different insurance products use the same words in slightly different ways, and that’s where people get confused. The terms that matter most for health insurance are not always the same ones that matter for motor or life insurance.
+Produk asuransi yang berbeda memakai kata yang sama dengan sedikit arti berbeda, dan di situlah orang sering bingung. Istilah yang paling penting untuk asuransi kesehatan belum tentu sama dengan yang paling penting untuk asuransi kendaraan atau jiwa.
 
 ### Health Insurance Terms
 
-For health insurance, I pay closest attention to:
+Untuk asuransi kesehatan, saya paling memperhatikan:
 
-- **Coverage limit**: annual or per illness cap
-- **Room and board limit**: the maximum room class covered
-- **Cashless vs reimbursement**: how the hospital bill gets paid
-- **Pre-existing condition**: a condition you had before buying
-- **Waiting period**: when coverage starts
+- **Batas pertanggungan**: plafon tahunan atau per penyakit
+- **Batas kamar dan rawat inap**: kelas kamar maksimum yang ditanggung
+- **Cashless vs reimbursement**: cara tagihan rumah sakit dibayar
+- **Pre-existing condition**: kondisi yang sudah ada sebelum membeli
+- **Waiting period**: kapan perlindungan mulai aktif
 
-If you’ve ever been shocked by a hospital bill, you already know why these matter. A policy with a low room limit can leave you paying the difference out of pocket.
+Kalau kamu pernah kaget lihat tagihan rumah sakit, kamu pasti tahu kenapa ini penting. Polis dengan batas kamar yang rendah bisa membuat kamu harus bayar selisih dari kantong sendiri.
 
 ### Life Insurance Terms
 
-For life insurance, the big ones are:
+Untuk asuransi jiwa, yang paling penting adalah:
 
-- **Uang pertanggungan**: the payout amount
-- **Beneficiary / penerima manfaat**: who receives the money
-- **Term**: coverage period
-- **Whole life**: coverage that can last longer, usually with higher premiums
+- **Uang pertanggungan**: jumlah santunan
+- **Beneficiary / penerima manfaat**: siapa yang menerima uang
+- **Term**: periode perlindungan
+- **Whole life**: perlindungan yang bisa lebih panjang, biasanya dengan premi lebih tinggi
 
-Life insurance is less about hospital bills and more about protecting your family’s finances if something happens to you. If you’re supporting parents, spouse, or kids, this is not optional in my view.
+Asuransi jiwa bukan soal tagihan rumah sakit, tapi soal melindungi keuangan keluarga kalau sesuatu terjadi pada kamu. Kalau kamu menanggung orang tua, pasangan, atau anak, menurut saya ini bukan pilihan opsional.
 
 ### Motor Insurance Terms
 
-For motor insurance, I’d focus on:
+Untuk asuransi kendaraan, saya akan fokus pada:
 
 - **Own risk / deductible**
 - **Total loss only (TLO)**
 - **Comprehensive**
-- **Perluasan jaminan**: extra coverage like flood or riot
-- **Claim limit** and repair network
+- **Perluasan jaminan**: perlindungan tambahan seperti banjir atau kerusuhan
+- **Batas klaim** dan jaringan bengkel
 
-If you own a motorbike or car in Indonesia, the difference between TLO and comprehensive can be huge. I’ve seen people choose the cheaper option without realizing it only pays when the damage is severe enough.
+Kalau kamu punya motor atau mobil di Indonesia, perbedaan antara TLO dan comprehensive bisa sangat besar. Saya sering lihat orang memilih yang lebih murah tanpa sadar bahwa itu hanya membayar kalau kerusakannya cukup parah.
 
-If you want a deeper breakdown, I’ve also written a [motorcycle insurance guide Indonesia](/blog/motorcycle-insurance-guide-indonesia/) that explains the practical side of protecting a vehicle without overpaying.
+Kalau kamu ingin penjelasan lebih dalam, saya juga sudah menulis [panduan asuransi motor Indonesia](/blog/motorcycle-insurance-guide-indonesia/) yang membahas sisi praktis melindungi kendaraan tanpa bayar berlebihan.
 
 ### Home Insurance Terms
 
-For home insurance, the key terms are:
+Untuk asuransi rumah, istilah kuncinya adalah:
 
-- **Building coverage**
-- **Contents coverage**
-- **Flood coverage**
-- **Fire coverage**
+- **Perlindungan bangunan**
+- **Perlindungan isi rumah**
+- **Perlindungan banjir**
+- **Perlindungan kebakaran**
 - **Reinstatement value vs market value**
 
-If you own a rumah, don’t just look at the premium. A cheap policy that excludes flood damage in an area that floods every rainy season is basically a bad joke.
+Kalau kamu punya rumah, jangan cuma lihat preminya. Polis murah yang mengecualikan banjir di area yang setiap musim hujan pasti kebanjiran itu pada dasarnya bukan perlindungan yang bagus.
 
 ## What Are the Most Confusing Insurance Jargon Words?
 
-The most confusing insurance jargon words are usually the ones that sound similar but mean very different things. The biggest traps are “benefit,” “coverage limit,” “exclusion,” and “waiting period.”
+Kata-kata jargon asuransi yang paling membingungkan biasanya yang terdengar mirip tapi artinya sangat berbeda. Jebakan terbesar biasanya ada di “benefit,” “coverage limit,” “exclusion,” dan “waiting period.”
 
-Here are the ones I think deserve extra attention:
+Berikut istilah yang menurut saya perlu perhatian ekstra:
 
 ### Benefit vs Coverage
 
-Benefit is what the policy gives you. Coverage is the scope of protection. They sound similar, but coverage is broader.
+Benefit adalah apa yang diberikan polis kepada kamu. Coverage adalah cakupan perlindungannya. Keduanya terdengar mirip, tapi coverage itu lebih luas.
 
 ### Premium vs Sum Assured
 
-Premium is what you pay. Sum assured is what you receive if a claim is approved. Mixing these up leads to bad buying decisions.
+Premium adalah yang kamu bayar. Sum assured adalah yang kamu terima kalau klaim disetujui. Kalau dua istilah ini tertukar, keputusan belimu bisa salah.
 
 ### Cashless vs Reimbursement
 
-Cashless means the insurer pays the hospital directly, subject to approval. Reimbursement means you pay first, then claim the money back later.
+Cashless berarti penanggung membayar rumah sakit langsung, selama disetujui. Reimbursement berarti kamu bayar dulu, lalu mengajukan penggantian belakangan.
 
-I personally prefer cashless for hospital treatment because it’s less stressful, especially in an emergency. Reimbursement can still be fine, but it demands better cash flow.
+Saya pribadi lebih suka cashless untuk perawatan rumah sakit karena lebih tenang, terutama saat darurat. Reimbursement tetap bisa oke, tapi butuh dana awal yang lebih siap.
 
 ### Exclusion vs Limitation
 
-Exclusion means not covered at all. Limitation means covered, but only up to a certain amount or under certain conditions.
+Exclusion berarti sama sekali tidak ditanggung. Limitation berarti ditanggung, tapi hanya sampai batas tertentu atau dengan syarat tertentu.
 
 ### Rider vs Add-on
 
-A rider is extra coverage attached to the main policy. For example, you might add accident coverage or critical illness coverage.
+Rider adalah perlindungan tambahan yang menempel pada polis utama. Misalnya, kamu bisa menambah perlindungan kecelakaan atau penyakit kritis.
 
-If you’re thinking about more advanced protection, I’d recommend reading about [critical illness insurance Indonesia do you need it](/blog/critical-illness-insurance-indonesia-do-you-need-it/) because this is one of the most misunderstood add-ons in the market.
+Kalau kamu sedang mempertimbangkan perlindungan yang lebih lanjut, saya sarankan baca [asuransi penyakit kritis di Indonesia, perlu atau tidak](/blog/critical-illness-insurance-indonesia-do-you-need-it/) karena ini salah satu add-on yang paling sering disalahpahami di pasar.
 
 ## How Can You Avoid Insurance Mistakes Caused by Jargon?
 
-You can avoid most insurance mistakes by asking for three things before you sign anything: the full policy wording, a summary of exclusions, and a claim example. If a salesperson can’t explain those clearly, I’d be cautious.
+Kamu bisa menghindari sebagian besar kesalahan asuransi dengan meminta tiga hal sebelum menandatangani apa pun: isi polis lengkap, ringkasan pengecualian, dan contoh klaim. Kalau sales tidak bisa menjelaskan itu dengan jelas, saya akan waspada.
 
-Here’s my practical checklist:
+Ini checklist praktis saya:
 
-1. **Ask for the full polis, not just the brochure**
-   - Brochures are marketing.
-   - The polis is the real contract.
+1. **Minta polis lengkap, bukan cuma brosur**
+   - Brosur itu materi marketing.
+   - Polis adalah kontrak sebenarnya.
 
-2. **Read the exclusions first**
-   - This saves time.
-   - If the thing you care about is excluded, stop there.
+2. **Baca pengecualian dulu**
+   - Ini menghemat waktu.
+   - Kalau hal yang kamu butuhkan ternyata dikecualikan, berhenti di situ.
 
-3. **Check the waiting period**
-   - Especially for maternity, illness, and pre-existing conditions.
+3. **Cek waiting period**
+   - Terutama untuk persalinan, penyakit, dan kondisi bawaan.
 
-4. **Confirm the claim process**
-   - Ask whether it’s cashless or reimbursement.
-   - Ask what documents are required.
+4. **Pastikan proses klaimnya**
+   - Tanyakan apakah cashless atau reimbursement.
+   - Tanyakan dokumen apa saja yang dibutuhkan.
 
-5. **Match the premium to your budget**
-   - A policy you can’t keep paying for is not a good policy.
+5. **Sesuaikan premi dengan budget**
+   - Polis yang tidak sanggup kamu bayar terus-menerus bukan polis yang bagus.
 
-6. **Compare at least 2-3 products**
-   - Don’t buy the first one someone pitches to you.
+6. **Bandingkan minimal 2–3 produk**
+   - Jangan beli produk pertama yang ditawarkan ke kamu.
 
-I also think it helps to compare insurance the same way you compare banking or investment products: by reading the details, not the branding. If you already compare financial products carefully, my [Jenius BTPN review still worth it in 2026](/blog/jenius-btpn-review-still-worth-it-in-2026/) and [best QR payment apps Indonesia 2026](/blog/best-qr-payment-apps-indonesia-2026/) articles show the same kind of no-nonsense approach I like.
+Menurut saya, cara membandingkan asuransi juga mirip seperti membandingkan produk perbankan atau investasi: baca detailnya, bukan branding-nya. Kalau kamu sudah terbiasa membandingkan produk keuangan dengan teliti, artikel saya tentang [review Jenius BTPN masih worth it di 2026](/blog/jenius-btpn-review-still-worth-it-in-2026/) dan [aplikasi pembayaran QR terbaik Indonesia 2026](/blog/best-qr-payment-apps-indonesia-2026/) menunjukkan pendekatan yang sama: langsung ke inti, tanpa basa-basi.
 
 ## What Should You Ask Before Buying Insurance?
 
-You should ask direct, specific questions before buying any policy. The goal is to make the salesperson explain the policy in plain Indonesian, not in jargon.
+Kamu harus bertanya secara langsung dan spesifik sebelum membeli polis apa pun. Tujuannya supaya sales menjelaskan polis dalam bahasa Indonesia yang sederhana, bukan jargon.
 
-Here are the exact questions I’d ask:
+Berikut pertanyaan yang akan saya ajukan:
 
-- What exactly is covered?
-- What is not covered?
-- Is there a waiting period?
-- Is there a deductible or own risk?
-- Is the claim cashless or reimbursement?
-- What documents are needed for a claim?
-- Can premiums change later?
-- What happens if I miss a payment?
-- Can I cancel the policy?
-- Are pre-existing conditions covered?
+- Apa saja yang benar-benar ditanggung?
+- Apa yang tidak ditanggung?
+- Apakah ada waiting period?
+- Apakah ada deductible atau risiko sendiri?
+- Klaimnya cashless atau reimbursement?
+- Dokumen apa saja yang dibutuhkan untuk klaim?
+- Apakah premi bisa berubah nanti?
+- Apa yang terjadi kalau saya telat bayar?
+- Apakah polis bisa dibatalkan?
+- Apakah kondisi bawaan ditanggung?
 
-I like asking questions in a way that forces a real answer. For example, instead of asking “Is this good?”, ask “If I’m hospitalized for dengue next month, will this policy pay?” That’s much better.
+Saya suka bertanya dengan cara yang memaksa jawaban nyata. Misalnya, daripada bertanya “Apakah ini bagus?”, lebih baik tanya, “Kalau saya dirawat karena demam berdarah bulan depan, apakah polis ini akan membayar?” Itu jauh lebih jelas.
 
-If you’re already stretched thin financially, I’d also suggest reading [how to stop living paycheck to paycheck Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/). Insurance should protect your finances, not destroy them.
+Kalau keuanganmu memang sedang ketat, saya juga sarankan baca [cara berhenti hidup dari gaji ke gaji di Indonesia](/blog/how-to-stop-living-paycheck-to-paycheck-in-indonesia/). Asuransi seharusnya melindungi keuanganmu, bukan menghancurkannya.
 
 ## Frequently Asked Questions
 
 ### What does polis mean in insurance?
 
-Polis means the insurance contract. It contains the rules, coverage, exclusions, premium, and claim process. If there is ever a dispute, the polis is the main document that matters.
+Polis berarti kontrak asuransi. Di dalamnya ada aturan, perlindungan, pengecualian, premi, dan proses klaim. Kalau ada sengketa, polis adalah dokumen utama yang jadi acuan.
 
 ### What is the difference between premi and klaim?
 
-Premi is the amount you pay to keep the policy active, while klaim is the request you submit when you want the insurer to pay a covered benefit. In short, premi is your payment and klaim is your payout request.
+Premi adalah jumlah yang kamu bayar agar polis tetap aktif, sedangkan klaim adalah permintaan yang kamu ajukan saat ingin penanggung membayar manfaat yang ditanggung. Singkatnya, premi adalah pembayaranmu dan klaim adalah permintaan pembayarannya.
 
 ### What is deductible or own risk in insurance?
 
-Deductible or own risk is the amount you must pay before the insurance company pays the rest. For example, if the deductible is Rp 300.000 and the claim is Rp 5 juta, you pay the first Rp 300.000.
+Deductible atau risiko sendiri adalah jumlah yang harus kamu bayar sebelum perusahaan asuransi membayar sisanya. Misalnya, kalau deductible-nya Rp 300 ribu dan klaimnya Rp 5 juta, kamu bayar Rp 300 ribu pertama.
 
 ### What is a waiting period in insurance?
 
-A waiting period is the time after you buy the policy before certain benefits become active. It is common in health, maternity, and pre-existing condition coverage. You should always check this before buying.
+Waiting period adalah masa setelah kamu membeli polis sebelum manfaat tertentu menjadi aktif. Ini umum pada asuransi kesehatan, persalinan, dan kondisi bawaan. Kamu harus selalu cek ini sebelum membeli.
 
 ### What is the difference between cashless and reimbursement?
 
-Cashless means the insurer pays the hospital directly, while reimbursement means you pay first and claim the money back later. I prefer cashless for emergencies because it reduces the upfront cash burden.
+Cashless berarti penanggung membayar rumah sakit langsung, sedangkan reimbursement berarti kamu bayar dulu lalu mengajukan penggantian belakangan. Saya lebih suka cashless untuk keadaan darurat karena mengurangi beban dana di awal.
 
 ### Why do insurance policies use so much jargon?
 
-Insurance policies use jargon because they are legal and technical contracts. That said, I think the industry often hides behind complexity too much. The best policies are the ones that can be explained clearly in simple language.
+Polis asuransi memakai jargon karena ini adalah kontrak hukum dan teknis. Tapi menurut saya, industri asuransi sering terlalu berlindung di balik kerumitan. Polis yang bagus adalah polis yang bisa dijelaskan dengan bahasa sederhana.
 
 ## Final Thoughts
 
-If you remember nothing else from this guide, remember this: insurance is only useful when you understand what you’re buying. The jargon is not the product. The protection is the product.
+Kalau kamu tidak ingat apa pun dari panduan ini, ingat satu hal ini: asuransi hanya berguna kalau kamu paham apa yang kamu beli. Jargon bukan produknya. Perlindungan itulah produknya.
 
-I’ve found that once people understand basic insurance terms and jargon, they stop buying based on fear or sales pressure. They ask better questions, compare smarter, and avoid nasty surprises when it’s time to claim. That’s the real win.
+Saya menemukan bahwa begitu orang paham istilah dasar asuransi, mereka berhenti membeli karena takut atau karena tekanan sales. Mereka mulai bertanya lebih cerdas, membandingkan lebih teliti, dan menghindari kejutan buruk saat waktunya klaim. Itulah kemenangan yang sesungguhnya.
 
-If you want, I can also turn this into a downloadable cheat sheet of the 25 most important insurance terms in Indonesian, with a one-line meaning for each.
+Kalau kamu mau, saya juga bisa ubah ini menjadi lembar contekan yang bisa diunduh berisi 25 istilah asuransi paling penting dalam bahasa Indonesia, lengkap dengan arti satu kalimat untuk masing-masing.

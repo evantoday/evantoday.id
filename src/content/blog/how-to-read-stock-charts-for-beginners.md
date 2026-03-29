@@ -1,5 +1,5 @@
 ---
-title: "Cara Membaca Grafik Saham: Panduan Pemula"
+title: "Cara Membaca Grafik Saham"
 description: "Candlestick, support, volume—grafik saham terlihat rumit, tapi sebenarnya gampang dipahami dalam 10 menit."
 pubDate: 2026-03-11
 category: "investing"

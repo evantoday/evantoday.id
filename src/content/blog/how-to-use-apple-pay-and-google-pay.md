@@ -1,6 +1,6 @@
 ---
-title: "How to Set Up Apple Pay and Google Pay [2026]"
-description: "Tap to pay at 90% of US merchants. Set up Apple Pay or Google Pay in 2 minutes—step-by-step guide for iPhone and Android with tips on security and rewards."
+title: "Cara Mengatur Apple Pay dan Google Pay [2026]"
+description: "Tap to pay di 90% merchant AS. Atur Apple Pay atau Google Pay dalam 2 menit—panduan iPhone dan Android."
 pubDate: 2026-03-07
 category: "fintech"
 tags: ["Apple Pay", "Google Pay", "contactless payment", "mobile wallet", "tap to pay"]
@@ -10,221 +10,221 @@ heroImageAlt: 'How to Set Up Apple Pay and Google Pay [2026]'
 
 ---
 
-## Why I Stopped Carrying My Wallet
+## Kenapa Saya Berhenti Bawa Dompet
 
-About a year ago, I left my wallet at home by accident and did not realize it until I was already at the grocery store. Normally that would mean turning around and driving back. Instead, I pulled out my phone, held it near the card reader, and paid with Apple Pay in two seconds. That was the moment I realized I barely need a physical wallet anymore.
+Sekitar setahun lalu, saya tidak sengaja meninggalkan dompet di rumah dan baru sadar saat sudah sampai di minimarket. Biasanya itu berarti saya harus putar balik. Tapi kali ini, saya cukup mengeluarkan ponsel, menempelkannya ke mesin EDC, dan bayar pakai Apple Pay dalam dua detik. Saat itu saya sadar, saya hampir tidak butuh dompet fisik lagi.
 
-Contactless mobile payments through Apple Pay and Google Pay are now accepted at over 90% of US merchants. If you have not set these up yet, you are missing out on one of the easiest quality-of-life upgrades available. This guide walks you through setup on both iPhone and Android, plus tips on security and maximizing your rewards.
+Pembayaran nirsentuh lewat Apple Pay dan Google Pay sekarang sudah diterima di lebih dari 90% merchant di AS. Kalau kamu belum mengaturnya, kamu sedang melewatkan salah satu upgrade hidup paling praktis yang ada. Panduan ini akan menunjukkan cara setup di iPhone dan Android, plus tips keamanan dan cara memaksimalkan reward.
 
-## Apple Pay vs Google Pay: Quick Comparison
+## Apple Pay vs Google Pay: Perbandingan Singkat
 
-| Feature | Apple Pay | Google Pay |
+| Fitur | Apple Pay | Google Pay |
 |---|---|---|
-| Devices | iPhone, Apple Watch, iPad, Mac | Android phones, Wear OS watches |
-| Supported cards | Credit, debit, prepaid, transit | Credit, debit, prepaid, transit |
-| Authentication | Face ID, Touch ID, passcode | Fingerprint, PIN, face unlock |
-| In-store payments | NFC tap | NFC tap |
-| Online payments | Safari, Apple Pay button | Chrome, Google Pay button |
-| P2P transfers | Yes (via Apple Cash) | Yes (via Google Wallet) |
-| Rewards passes | Yes (via Wallet app) | Yes (via Google Wallet) |
-| Transit cards | Select cities | Select cities |
-| Bank compatibility | 4,000+ US banks | 3,000+ US banks |
-| Cost | Free | Free |
+| Perangkat | iPhone, Apple Watch, iPad, Mac | Ponsel Android, jam tangan Wear OS |
+| Kartu yang didukung | Kredit, debit, prabayar, transit | Kredit, debit, prabayar, transit |
+| Autentikasi | Face ID, Touch ID, kode sandi | Sidik jari, PIN, face unlock |
+| Pembayaran di toko | Tap NFC | Tap NFC |
+| Pembayaran online | Safari, tombol Apple Pay | Chrome, tombol Google Pay |
+| Transfer P2P | Ya (via Apple Cash) | Ya (via Google Wallet) |
+| Kartu reward | Ya (via aplikasi Wallet) | Ya (via Google Wallet) |
+| Kartu transportasi | Kota tertentu | Kota tertentu |
+| Kompatibilitas bank | 4.000+ bank AS | 3.000+ bank AS |
+| Biaya | Gratis | Gratis |
 
-Both work essentially the same way for in-store payments. The main difference is which phone you have. iPhone users get Apple Pay. Android users get Google Pay (now part of Google Wallet).
+Keduanya pada dasarnya bekerja dengan cara yang sama untuk pembayaran di toko. Perbedaan utamanya cuma di ponsel yang kamu pakai. Pengguna iPhone pakai Apple Pay. Pengguna Android pakai Google Pay (sekarang bagian dari Google Wallet).
 
-## How to Set Up Apple Pay (iPhone)
+## Cara Mengatur Apple Pay (iPhone)
 
-Setting up Apple Pay takes about two minutes.
+Setup Apple Pay cuma butuh sekitar dua menit.
 
-### Step 1: Open the Wallet App
+### Langkah 1: Buka Aplikasi Wallet
 
-Every iPhone comes with the Wallet app pre-installed. Open it by tapping the Wallet icon on your home screen or searching for "Wallet" in Spotlight.
+Setiap iPhone sudah punya aplikasi Wallet bawaan. Buka dengan mengetuk ikon Wallet di layar utama atau cari "Wallet" lewat Spotlight.
 
-### Step 2: Add a Card
+### Langkah 2: Tambahkan Kartu
 
-1. Tap the "+" button in the top right corner.
-2. Select "Debit or Credit Card."
-3. You have two options:
-   - **Scan your card**: Hold your card in front of the camera, and the app automatically reads the card number, expiration date, and name.
-   - **Enter manually**: Type in your card details if scanning does not work.
+1. Ketuk tombol "+" di pojok kanan atas.
+2. Pilih "Debit or Credit Card."
+3. Kamu punya dua opsi:
+   - **Scan kartu**: Arahkan kartu ke kamera, lalu aplikasi akan membaca nomor kartu, tanggal kedaluwarsa, dan nama secara otomatis.
+   - **Masukkan manual**: Ketik detail kartu kalau scan tidak berhasil.
 
-### Step 3: Verify Your Card
+### Langkah 3: Verifikasi Kartu
 
-Your bank needs to verify that you are the cardholder. Common verification methods:
+Bank kamu perlu memastikan bahwa kamu memang pemilik kartu. Metode verifikasi yang umum:
 
-- **Text message**: A verification code sent to your phone number on file.
-- **Email**: A code sent to your email address on file.
-- **Phone call**: A call from your bank with a verification code.
-- **Banking app**: Some banks let you verify through their own app.
+- **SMS**: Kode verifikasi dikirim ke nomor ponsel yang terdaftar.
+- **Email**: Kode dikirim ke alamat email yang terdaftar.
+- **Telepon**: Bank menelepon dan memberikan kode verifikasi.
+- **Aplikasi mobile banking**: Beberapa bank memungkinkan verifikasi lewat aplikasi mereka.
 
-This step usually takes 30 seconds to 2 minutes.
+Langkah ini biasanya cuma memakan waktu 30 detik sampai 2 menit.
 
-### Step 4: Start Using Apple Pay
+### Langkah 4: Mulai Pakai Apple Pay
 
-Once verified, your card is ready to use.
+Setelah terverifikasi, kartu kamu siap dipakai.
 
-- **In stores**: Hold your iPhone near the contactless payment terminal. Authenticate with Face ID (look at your phone) or Touch ID (press your fingerprint). Done.
-- **On Apple Watch**: Double-click the side button, hold your watch near the terminal. No authentication needed beyond the watch being unlocked.
-- **Online**: When you see the "Apple Pay" button on a website or in an app, tap it and authenticate.
+- **Di toko**: Dekatkan iPhone ke mesin pembayaran nirsentuh. Autentikasi dengan Face ID (lihat ke layar) atau Touch ID (sidik jari). Selesai.
+- **Di Apple Watch**: Klik dua kali tombol samping, lalu dekatkan jam ke terminal. Tidak perlu autentikasi tambahan selain jam sudah terbuka.
+- **Online**: Saat kamu melihat tombol "Apple Pay" di website atau aplikasi, ketuk lalu autentikasi.
 
-### Adding Multiple Cards
+### Menambahkan Banyak Kartu
 
-You can add up to 12 cards to Apple Pay (varies by device). Your first card becomes the default, but you can change it in Settings > Wallet & Apple Pay > Default Card. You can also choose a different card at the time of purchase by opening Wallet and selecting the card before holding your phone to the terminal.
+Kamu bisa menambahkan sampai 12 kartu ke Apple Pay (tergantung perangkat). Kartu pertama akan jadi default, tapi kamu bisa mengubahnya di Settings > Wallet & Apple Pay > Default Card. Kamu juga bisa memilih kartu lain saat pembayaran dengan membuka Wallet dan memilih kartu sebelum menempelkan ponsel ke terminal.
 
-## How to Set Up Google Pay (Android)
+## Cara Mengatur Google Pay (Android)
 
-The setup process on Android is equally simple.
+Proses setup di Android juga sama mudahnya.
 
-### Step 1: Download Google Wallet
+### Langkah 1: Unduh Google Wallet
 
-Most Android phones come with Google Wallet pre-installed. If not, download it from the Google Play Store. (Note: Google Wallet replaced the old Google Pay app in 2022.)
+Kebanyakan ponsel Android sudah punya Google Wallet bawaan. Kalau belum, unduh dari Google Play Store. (Catatan: Google Wallet menggantikan aplikasi Google Pay lama pada 2022.)
 
-### Step 2: Add a Card
+### Langkah 2: Tambahkan Kartu
 
-1. Open Google Wallet.
-2. Tap "Add to Wallet" then "Payment card."
-3. Options:
-   - **Scan your card**: Use your camera to capture card details.
-   - **Enter manually**: Type in the card number, expiration, and CVV.
+1. Buka Google Wallet.
+2. Ketuk "Add to Wallet" lalu "Payment card."
+3. Opsi yang tersedia:
+   - **Scan kartu**: Pakai kamera untuk menangkap detail kartu.
+   - **Masukkan manual**: Ketik nomor kartu, tanggal kedaluwarsa, dan CVV.
 
-### Step 3: Verify Your Card
+### Langkah 3: Verifikasi Kartu
 
-Same as Apple Pay, your bank will verify your identity through SMS, email, phone call, or their banking app.
+Sama seperti Apple Pay, bank kamu akan memverifikasi identitas lewat SMS, email, telepon, atau aplikasi mobile banking mereka.
 
-### Step 4: Start Using Google Pay
+### Langkah 4: Mulai Pakai Google Pay
 
-- **In stores**: Unlock your phone and hold it near the contactless terminal. Google Pay uses NFC to complete the transaction. On most Android phones, you do not even need to open the app first.
-- **Online**: Tap the "Google Pay" button on websites and in apps to pay quickly.
+- **Di toko**: Buka kunci ponsel lalu dekatkan ke terminal nirsentuh. Google Pay memakai NFC untuk menyelesaikan transaksi. Di sebagian besar ponsel Android, kamu bahkan tidak perlu membuka aplikasinya dulu.
+- **Online**: Ketuk tombol "Google Pay" di website dan aplikasi untuk bayar lebih cepat.
 
-### Default Card
+### Kartu Default
 
-Your first card is the default. To change it, open Google Wallet, tap the card you want as default, and select "Set as default for in-store payments."
+Kartu pertama kamu akan jadi default. Untuk mengubahnya, buka Google Wallet, ketuk kartu yang ingin dijadikan default, lalu pilih "Set as default for in-store payments."
 
-## Where Can You Use Mobile Payments?
+## Di Mana Kamu Bisa Pakai Pembayaran Mobile?
 
-[Contactless payment](/blog/best-contactless-payment-apps-2026/)s are accepted at the vast majority of US merchants, including:
+[Pembayaran nirsentuh](/blog/best-contactless-payment-apps-2026/) diterima di sebagian besar merchant di AS, termasuk:
 
-- **Grocery stores**: Whole Foods, Trader Joe's, Kroger, Safeway, Publix, Aldi, Costco.
-- **Restaurants**: McDonald's, Starbucks, Subway, Chipotle, Panera, most sit-down restaurants.
-- **Retail**: Target, Walgreens, CVS, Best Buy, Nike, Home Depot, Macy's.
-- **Gas stations**: Many pumps now have contactless readers, though coverage varies.
-- **Transit**: Apple Pay and Google Pay work on transit systems in New York City, Chicago, Los Angeles, San Francisco, Portland, and other cities.
-- **Online**: Thousands of websites and apps accept Apple Pay and Google Pay for checkout.
-- **Vending machines**: Many modern vending machines have contactless readers.
+- **Toko bahan makanan**: Whole Foods, Trader Joe's, Kroger, Safeway, Publix, Aldi, Costco.
+- **Restoran**: McDonald's, Starbucks, Subway, Chipotle, Panera, dan sebagian besar restoran dine-in.
+- **Ritel**: Target, Walgreens, CVS, Best Buy, Nike, Home Depot, Macy's.
+- **SPBU**: Banyak pom bensin sekarang punya pembaca nirsentuh, meski cakupannya masih bervariasi.
+- **Transportasi umum**: Apple Pay dan Google Pay bisa dipakai di sistem transportasi New York City, Chicago, Los Angeles, San Francisco, Portland, dan kota lain.
+- **Online**: Ribuan website dan aplikasi menerima Apple Pay dan Google Pay saat checkout.
+- **Vending machine**: Banyak mesin penjual otomatis modern sudah punya pembaca nirsentuh.
 
-### Where It Does Not Work
+### Di Mana Tidak Bisa Dipakai
 
-- **Walmart**: As of 2026, Walmart still does not accept Apple Pay or Google Pay in stores. They push their own Walmart Pay app.
-- **Some small businesses**: Older card terminals without NFC capability cannot process contactless payments.
-- **ATMs**: Most ATMs do not accept phone-based withdrawals, though a few banks are adding this feature.
+- **Walmart**: Sampai 2026, Walmart masih belum menerima Apple Pay atau Google Pay di toko. Mereka mendorong aplikasi Walmart Pay mereka sendiri.
+- **Beberapa usaha kecil**: Mesin kartu lama tanpa NFC tidak bisa memproses pembayaran nirsentuh.
+- **ATM**: Sebagian besar ATM belum menerima penarikan lewat ponsel, meski beberapa bank mulai menambahkan fitur ini.
 
-## How Mobile Payments Actually Work
+## Cara Kerja Pembayaran Mobile Sebenarnya
 
-When you tap your phone to pay, here is what happens behind the scenes:
+Saat kamu menempelkan ponsel untuk bayar, ini yang terjadi di balik layar:
 
-1. **Tokenization**: Your actual card number is never transmitted to the merchant. Instead, Apple Pay or Google Pay creates a unique "token" (a substitute number) for each transaction.
-2. **NFC communication**: Your phone communicates with the payment terminal using Near Field Communication (NFC), a short-range wireless technology.
-3. **Authentication**: You verify the payment with Face ID, fingerprint, or passcode.
-4. **Authorization**: The token is sent to the card network (Visa, Mastercard, etc.), which contacts your bank to authorize the transaction.
-5. **Confirmation**: You see a checkmark on your screen and hear a confirmation tone. The entire process takes about two seconds.
+1. **Tokenisasi**: Nomor kartu asli kamu tidak pernah dikirim ke merchant. Sebagai gantinya, Apple Pay atau Google Pay membuat "token" unik untuk setiap transaksi.
+2. **Komunikasi NFC**: Ponsel kamu berkomunikasi dengan terminal pembayaran lewat Near Field Communication (NFC), teknologi nirkabel jarak dekat.
+3. **Autentikasi**: Kamu memverifikasi pembayaran dengan Face ID, sidik jari, atau kode sandi.
+4. **Otorisasi**: Token dikirim ke jaringan kartu (Visa, Mastercard, dll.), lalu diteruskan ke bank kamu untuk mengotorisasi transaksi.
+5. **Konfirmasi**: Kamu melihat tanda centang di layar dan mendengar bunyi konfirmasi. Seluruh prosesnya cuma sekitar dua detik.
 
-## Security: Why Mobile Payments Are Safer Than Cards
+## Keamanan: Kenapa Pembayaran Mobile Lebih Aman daripada Kartu
 
-Mobile payments are actually more secure than swiping or inserting a physical card.
+Pembayaran mobile sebenarnya lebih aman daripada menggesek atau memasukkan kartu fisik.
 
-### Tokenization
+### Tokenisasi
 
-Your real card number is never shared with the merchant. Even if a store's payment system is breached, hackers get a useless token, not your actual card details. This is a significant security upgrade over magnetic stripe transactions, where your full card number is exposed.
+Nomor kartu asli kamu tidak pernah dibagikan ke merchant. Bahkan kalau sistem pembayaran toko diretas, hacker cuma dapat token yang tidak berguna, bukan detail kartu asli kamu. Ini peningkatan keamanan besar dibanding transaksi strip magnetik, yang mengekspos nomor kartu lengkap.
 
-### Biometric Authentication
+### Autentikasi Biometrik
 
-Every mobile payment requires authentication. A thief who steals your phone cannot make purchases without your face, fingerprint, or passcode. Compare this to a physical card, which can be used by anyone who has it (especially for contactless transactions under $100).
+Setiap pembayaran mobile butuh autentikasi. Pencuri yang mengambil ponsel kamu tidak bisa belanja tanpa wajah, sidik jari, atau kode sandi kamu. Bandingkan dengan kartu fisik, yang bisa dipakai siapa saja yang memegangnya, terutama untuk transaksi nirsentuh di bawah Rp 1,5 juta.
 
-### No Physical Card to Lose
+### Tidak Ada Kartu Fisik yang Bisa Hilang
 
-You cannot leave your phone-based card at a restaurant or drop it in a parking lot. If you lose your phone, you can remotely lock or wipe it, disabling all payment cards instantly.
+Kamu tidak bisa lupa kartu berbasis ponsel di restoran atau menjatuhkannya di parkiran. Kalau ponsel hilang, kamu bisa mengunci atau menghapusnya dari jarak jauh, sehingga semua kartu pembayaran langsung nonaktif.
 
-### Transaction Notifications
+### Notifikasi Transaksi
 
-Both Apple Pay and Google Pay send instant notifications for every transaction, so you will know immediately if an unauthorized payment is attempted.
+Apple Pay dan Google Pay sama-sama mengirim notifikasi instan untuk setiap transaksi, jadi kamu langsung tahu kalau ada percobaan pembayaran yang tidak sah.
 
-## Maximizing Rewards With Mobile Payments
+## Memaksimalkan Reward dengan Pembayaran Mobile
 
-Here is something many people do not realize: you earn the same credit card rewards when paying with Apple Pay or Google Pay as you do with a physical card. Your 2% cash back card still earns 2%. Your 3x points on dining card still earns 3x.
+Ini yang banyak orang belum sadar: kamu tetap dapat reward kartu kredit yang sama saat bayar pakai Apple Pay atau Google Pay seperti saat pakai kartu fisik. Kartu cashback 2% kamu tetap dapat 2%. Kartu yang kasih 3x poin untuk dining tetap dapat 3x.
 
-### Tips for Maximizing Rewards
+### Tips untuk Memaksimalkan Reward
 
-- **Use the right card for each category**: Add multiple credit cards to your mobile wallet and select the one with the best rewards for each purchase. Use your dining card at restaurants, your grocery card at supermarkets, and your flat-rate card everywhere else.
-- **Stack with merchant apps**: At Starbucks, load your Starbucks card through Apple Pay, earn Starbucks stars AND credit card points. Same concept at Target with the Target Circle app.
-- **Watch for mobile-specific promotions**: Some banks offer bonus rewards for mobile wallet transactions. Check your card issuer's app for current promotions.
-- **Use Apple Cash or Google Pay balance strategically**: For P2P transfers, use the cash balance instead of a credit card to avoid cash advance fees.
+- **Pakai kartu yang tepat untuk tiap kategori**: Tambahkan beberapa kartu kredit ke dompet digital kamu dan pilih yang reward-nya paling bagus untuk tiap pembelian. Pakai kartu dining di restoran, kartu belanja di supermarket, dan kartu flat-rate di tempat lain.
+- **Gabungkan dengan aplikasi merchant**: Di Starbucks, isi saldo kartu Starbucks lewat Apple Pay, lalu dapatkan stars Starbucks DAN poin kartu kredit. Konsep yang sama juga berlaku di Target dengan aplikasi Target Circle.
+- **Pantau promo khusus mobile**: Beberapa bank memberi reward tambahan untuk transaksi lewat dompet digital. Cek aplikasi penerbit kartu kamu untuk promo terbaru.
+- **Pakai saldo Apple Cash atau Google Pay secara strategis**: Untuk transfer P2P, pakai saldo tunai daripada kartu kredit agar tidak kena biaya cash advance.
 
-## Setting Up Transit Cards
+## Menambahkan Kartu Transportasi
 
-If you live in or visit a city with contactless transit, you can add your transit card to your phone.
+Kalau kamu tinggal di atau berkunjung ke kota dengan transportasi nirsentuh, kamu bisa menambahkan kartu transportasi ke ponsel.
 
-### Cities With Mobile Transit Support
+### Kota dengan Dukungan Transportasi Mobile
 
-- **New York City (OMNY)**: Tap your phone at the turnstile. Works on all subway stations and buses.
-- **Chicago (Ventra)**: Add your Ventra card to Apple Pay or Google Pay.
-- **San Francisco (Clipper)**: Clipper card can be added to Apple Wallet.
-- **Los Angeles (TAP)**: TAP card support for Apple Pay.
-- **Portland (Hop Fastpass)**: Works with both Apple Pay and Google Pay.
-- **Washington DC (SmarTrip)**: Apple Wallet support.
+- **New York City (OMNY)**: Tempelkan ponsel di pintu masuk. Berfungsi di semua stasiun subway dan bus.
+- **Chicago (Ventra)**: Tambahkan kartu Ventra ke Apple Pay atau Google Pay.
+- **San Francisco (Clipper)**: Kartu Clipper bisa ditambahkan ke Apple Wallet.
+- **Los Angeles (TAP)**: Dukungan kartu TAP untuk Apple Pay.
+- **Portland (Hop Fastpass)**: Berfungsi dengan Apple Pay dan Google Pay.
+- **Washington DC (SmarTrip)**: Dukungan Apple Wallet.
 
-### How Transit Cards Work
+### Cara Kerja Kartu Transportasi
 
-Once added to your phone, hold it near the reader when boarding or entering a station. The fare is deducted automatically. On Apple Watch, double-click the side button and hold your wrist near the reader.
+Setelah ditambahkan ke ponsel, dekatkan ponsel ke reader saat naik atau masuk stasiun. Tarif akan terpotong otomatis. Di Apple Watch, klik dua kali tombol samping lalu dekatkan pergelangan tangan ke reader.
 
-The advantage over a physical transit card: you cannot forget or lose it separately from your phone, and you can reload it instantly from the app.
+Keunggulannya dibanding kartu transportasi fisik: kamu tidak bisa lupa atau kehilangan kartu itu terpisah dari ponsel, dan kamu bisa isi ulang langsung dari aplikasi.
 
-## Troubleshooting Common Issues
+## Mengatasi Masalah yang Sering Terjadi
 
-### Payment Declined
+### Pembayaran Ditolak
 
-- Make sure NFC is enabled on your phone (Settings > NFC on Android).
-- Ensure you are holding your phone close enough to the terminal (within 1-2 inches).
-- Check that the card has not expired or been reported lost.
-- Verify you have an internet connection (needed for some transactions).
-- Try removing and re-adding the card to your wallet.
+- Pastikan NFC aktif di ponsel kamu (Settings > NFC di Android).
+- Pastikan kamu menempelkan ponsel cukup dekat ke terminal (sekitar 2,5–5 cm).
+- Cek apakah kartu sudah kedaluwarsa atau dilaporkan hilang.
+- Pastikan kamu punya koneksi internet (dibutuhkan untuk beberapa transaksi).
+- Coba hapus lalu tambahkan lagi kartu ke dompet digital.
 
-### Card Will Not Add
+### Kartu Tidak Bisa Ditambahkan
 
-- Confirm your bank supports Apple Pay or Google Pay. Check your bank's website.
-- Make sure your phone software is up to date.
-- Contact your bank's customer service, as some cards require manual activation for mobile wallets.
+- Pastikan bank kamu mendukung Apple Pay atau Google Pay. Cek situs bank kamu.
+- Pastikan software ponsel kamu sudah versi terbaru.
+- Hubungi customer service bank, karena beberapa kartu butuh aktivasi manual untuk dompet digital.
 
-### Terminal Does Not Recognize Your Phone
+### Terminal Tidak Mengenali Ponsel Kamu
 
-- Look for the contactless symbol (four curved lines) on the terminal.
-- Ask the cashier to select "credit" or "contactless" on their end.
-- Hold your phone flat against the terminal rather than at an angle.
+- Cari simbol nirsentuh (empat garis melengkung) di terminal.
+- Minta kasir memilih "credit" atau "contactless" dari sisi mereka.
+- Tempelkan ponsel rata ke terminal, bukan miring.
 
-## The Bottom Line
+## Kesimpulan
 
-Setting up Apple Pay or Google Pay takes two minutes and makes every in-store purchase faster, more secure, and more convenient. I rarely use my physical cards anymore, and when I do, it feels slow and outdated by comparison.
+Mengatur Apple Pay atau Google Pay cuma butuh dua menit dan membuat setiap pembelian di toko jadi lebih cepat, lebih aman, dan lebih praktis. Saya hampir tidak pernah lagi memakai kartu fisik, dan saat terpaksa pakai, rasanya lambat dan ketinggalan zaman.
 
-If you have a smartphone made in the last five years, you almost certainly have NFC capability. Add your cards today. For a broader look at tap-to-pay options, check our [best contactless payment apps](/blog/best-contactless-payment-apps-2026/) roundup and our [digital wallet security tips](/blog/7-smart-digital-wallet-security-tips-2026-guide/). The next time you forget your wallet, you will not even notice.
+Kalau kamu punya smartphone keluaran lima tahun terakhir, kemungkinan besar perangkatmu sudah mendukung NFC. Tambahkan kartu kamu hari ini. Untuk pandangan yang lebih luas tentang opsi tap-to-pay, cek roundup [aplikasi pembayaran nirsentuh terbaik](/blog/best-contactless-payment-apps-2026/) dan [tips keamanan dompet digital](/blog/7-smart-digital-wallet-security-tips-2026-guide/). Lain kali kamu lupa bawa dompet, kamu bahkan mungkin tidak akan menyadarinya.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is Apple Pay or Google Pay free to use?
+### Apakah Apple Pay atau Google Pay gratis digunakan?
 
-Yes, both are completely free for consumers. There are no setup fees, monthly fees, or per-transaction fees. Merchants pay the same processing fees they would for a regular card transaction. The only cost to you is whatever your credit or debit card normally charges, which is the same whether you use your physical card or a mobile wallet.
+Ya, keduanya sepenuhnya gratis untuk konsumen. Tidak ada biaya setup, biaya bulanan, atau biaya per transaksi. Merchant membayar biaya pemrosesan yang sama seperti transaksi kartu biasa. Satu-satunya biaya untuk kamu adalah biaya normal dari kartu kredit atau debit kamu, yang tetap sama baik kamu pakai kartu fisik maupun dompet digital.
 
-### Can someone steal my card information through Apple Pay or Google Pay?
+### Apakah seseorang bisa mencuri informasi kartu saya lewat Apple Pay atau Google Pay?
 
-It is extremely unlikely. Mobile payments use tokenization, which means your real card number is never transmitted during a transaction. Even if someone intercepted the payment data, they would get a one-time token that cannot be reused. Additionally, every payment requires biometric authentication (face, fingerprint) or a passcode, so a stolen phone cannot be used to make payments.
+Sangat kecil kemungkinannya. Pembayaran mobile memakai tokenisasi, artinya nomor kartu asli kamu tidak pernah dikirim saat transaksi. Bahkan kalau ada yang mencegat data pembayaran, mereka hanya mendapat token sekali pakai yang tidak bisa digunakan ulang. Selain itu, setiap pembayaran butuh autentikasi biometrik (wajah, sidik jari) atau kode sandi, jadi ponsel yang dicuri tidak bisa dipakai untuk membayar.
 
-### Do I still earn credit card rewards with mobile payments?
+### Apakah saya masih dapat reward kartu kredit saat pakai pembayaran mobile?
 
-Yes. You earn the same points, cash back, and miles when paying with Apple Pay or Google Pay as you would with a physical card. Some credit card issuers occasionally offer bonus rewards for mobile wallet transactions, so check your card's app for promotions. Your rewards category bonuses (like 3x on dining or 5x on groceries) also apply normally.
+Ya. Kamu tetap mendapat poin, cashback, dan miles yang sama saat bayar dengan Apple Pay atau Google Pay seperti saat pakai kartu fisik. Beberapa penerbit kartu kredit kadang memberi reward bonus untuk transaksi dompet digital, jadi cek aplikasi kartu kamu untuk promo. Bonus kategori reward kamu (seperti 3x untuk dining atau 5x untuk groceries) juga tetap berlaku normal.
 
-### What if my phone battery dies while I am shopping?
+### Bagaimana kalau baterai ponsel saya habis saat belanja?
 
-If your phone dies, you cannot make payments through Apple Pay or Google Pay. However, on iPhone, Apple Pay works in "Express Mode" for transit cards even when your battery is critically low (reserve power lasts about five hours after shutdown). For regular purchases, you will need your physical card or cash as a backup. This is why I still carry one physical card in my phone case.
+Kalau ponsel mati, kamu tidak bisa bayar lewat Apple Pay atau Google Pay. Namun, di iPhone, Apple Pay tetap bisa dipakai dalam "Express Mode" untuk kartu transportasi meski baterai sangat rendah (cadangan daya bertahan sekitar lima jam setelah mati). Untuk pembelian biasa, kamu tetap perlu kartu fisik atau uang tunai sebagai cadangan. Itu sebabnya saya masih membawa satu kartu fisik di casing ponsel.
 
-### Can I use Apple Pay on an Android phone or Google Pay on an iPhone?
+### Apakah saya bisa pakai Apple Pay di Android atau Google Pay di iPhone?
 
-No. Apple Pay only works on Apple devices (iPhone, Apple Watch, iPad, Mac). Google Pay only works on Android devices and Wear OS watches. If you switch phone platforms, you will need to set up the corresponding mobile wallet for your new device. Your cards will need to be re-added and re-verified.
+Tidak. Apple Pay hanya bekerja di perangkat Apple (iPhone, Apple Watch, iPad, Mac). Google Pay hanya bekerja di perangkat Android dan jam tangan Wear OS. Kalau kamu pindah platform ponsel, kamu perlu menyiapkan dompet digital yang sesuai untuk perangkat baru. Kartu kamu juga harus ditambahkan dan diverifikasi ulang.
