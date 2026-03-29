@@ -258,7 +258,7 @@ If you're sending or receiving international transfers, be aware of reporting re
 - **Gift tax:** Sending money as a gift to a non-US person doesn't require a gift tax return unless it exceeds $18,000/year (2026). Receiving gifts from foreign persons over $100,000 requires reporting on Form 3520
 - **Structuring:** Deliberately breaking up transfers to stay under $10,000 reporting thresholds is illegal (called "structuring") even if the money is legitimate
 
-When in doubt, consult a tax professional. The penalties for non-reporting are severe.
+When in doubt, consult a tax professional. The penalties for non-reporting are severe. For a detailed comparison of the two best international options, read our [Wise vs Remitly](/blog/wise-vs-remitly-for-sending-money/) head-to-head review.
 
 ## Frequently Asked Questions
 

@@ -12,7 +12,7 @@ heroImageAlt: 'Motorcycle Insurance: Best Coverage Options [2026]'
 
 I've been riding motorcycles for over 10 years, and the one thing I tell every new rider is this: your bike isn't the most expensive part of an accident—your body is. The average motorcycle accident results in $30,000+ in medical bills, and riders are 29 times more likely to die in a crash than car occupants per mile traveled.
 
-Motorcycle insurance isn't optional in most states, and even where it is, riding without it is one of the worst financial decisions you can make. In this guide, I'll break down what coverage you actually need, compare the best insurers, and show you how to keep rates affordable.
+Motorcycle insurance isn't optional in most states, and even where it is, riding without it is one of the worst financial decisions you can make. If you are unfamiliar with policy jargon, our [insurance terms explained](/blog/insurance-terms-explained-simply-2026-guide/) guide is a good starting point. In this guide, I'll break down what coverage you actually need, compare the best insurers, and show you how to keep rates affordable.
 
 ## Motorcycle Insurance Requirements by State
 
@@ -239,7 +239,7 @@ This seems obvious, but it's the most impactful factor. Three years of clean rid
 
 ### How much does motorcycle insurance cost per month?
 
-The national average for full coverage motorcycle insurance is about $40-60/month, but this varies widely. A 25-year-old on a sport bike might pay $150+/month, while a 45-year-old on a cruiser might pay $25/month. The biggest factors are your bike type, age, location, and driving record. Get quotes from at least 3-4 insurers to find the best rate.
+The national average for full coverage motorcycle insurance is about $40-60/month, but this varies widely. A 25-year-old on a sport bike might pay $150+/month, while a 45-year-old on a cruiser might pay $25/month. The biggest factors are your bike type, age, location, and driving record. Get quotes from at least 3-4 insurers to find the best rate. If you also need [home insurance](/blog/home-insurance-guide-and-comparison/), bundling policies can save you even more.
 
 ### Is motorcycle insurance cheaper than car insurance?
 

@@ -205,7 +205,7 @@ The advantage over a physical transit card: you cannot forget or lose it separat
 
 Setting up Apple Pay or Google Pay takes two minutes and makes every in-store purchase faster, more secure, and more convenient. I rarely use my physical cards anymore, and when I do, it feels slow and outdated by comparison.
 
-If you have a smartphone made in the last five years, you almost certainly have NFC capability. Add your cards today. The next time you forget your wallet, you will not even notice.
+If you have a smartphone made in the last five years, you almost certainly have NFC capability. Add your cards today. For a broader look at tap-to-pay options, check our [best contactless payment apps](/blog/best-contactless-payment-apps-2026/) roundup and our [digital wallet security tips](/blog/7-smart-digital-wallet-security-tips-2026-guide/). The next time you forget your wallet, you will not even notice.
 
 ## Frequently Asked Questions
 

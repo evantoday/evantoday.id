@@ -205,7 +205,7 @@ If you are an American investor or consumer, blockchain affects your money in se
 
 Blockchain is a technology for storing and transmitting data in a way that is decentralized, transparent, and tamper-proof. Its first and most famous application is cryptocurrency, but it extends into supply chains, identity, healthcare, finance, and beyond.
 
-You do not need to understand every technical detail to benefit from blockchain. If you invest in crypto, use blockchain-based financial services, or simply want to understand where money and technology are heading, knowing the basics puts you ahead of most people.
+You do not need to understand every technical detail to benefit from blockchain. If you invest in crypto, use blockchain-based financial services, or simply want to understand where money and technology are heading, knowing the basics puts you ahead of most people. Before jumping in, make sure you understand the [risks of cryptocurrency investing](/blog/risks-of-cryptocurrency-investing/) and store your assets in a secure [crypto wallet](/blog/best-crypto-wallets-for-beginners/).
 
 The technology is still evolving. It has real limitations (speed, energy use, complexity) and real strengths (security, transparency, decentralization). The smartest approach is to stay informed, understand the trade-offs, and watch how institutions and governments adopt it over the coming years.
 

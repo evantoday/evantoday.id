@@ -174,7 +174,7 @@ In 2026, with elevated volatility from geopolitical tensions, interest rate unce
 
 1. **Stopping during downturns** — This is the worst thing you can do. Down markets are when DCA provides the most benefit.
 2. **Changing the amount based on market conditions** — The whole point is a fixed amount. Don't invest more when you're feeling bullish and less when you're feeling bearish.
-3. **DCA into individual stocks** — DCA works best with diversified funds, not single stocks that could go to zero.
+3. **DCA into individual stocks** — DCA works best with diversified [ETFs](/blog/etf-investing-explained/) or index funds, not single stocks that could go to zero.
 4. **Not increasing contributions over time** — As your income grows, increase your DCA amount. A 5% raise should mean a bigger monthly investment.
 5. **Checking too frequently** — Weekly portfolio checks during volatile markets lead to emotional decisions. Monthly reviews are sufficient.
 
@@ -182,7 +182,7 @@ In 2026, with elevated volatility from geopolitical tensions, interest rate unce
 
 A few tax considerations for US investors using DCA:
 
-- **Roth IRA:** Set up automatic monthly contributions. All growth is tax-free. This is the most tax-efficient DCA strategy.
+- **[Roth IRA](/blog/how-to-financially-prepare-for-retirement/):** Set up automatic monthly contributions. All growth is tax-free. This is the most tax-efficient DCA strategy.
 - **Taxable accounts:** Each DCA purchase creates a separate tax lot. When you eventually sell, you can choose which lots to sell (use specific identification method) to minimize capital gains taxes.
 - **Tax-loss harvesting:** During down months, your older DCA purchases might be at a loss. You can sell those specific lots to harvest the loss for tax purposes, then continue your DCA into a similar fund.
 - **Wash sale rule:** If you sell at a loss, you can't buy back the same security within 30 days without losing the tax deduction. Buying a similar (but not identical) fund is fine.

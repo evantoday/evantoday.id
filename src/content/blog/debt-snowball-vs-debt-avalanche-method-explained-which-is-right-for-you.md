@@ -182,7 +182,7 @@ Any debt above 20 percent interest (most credit cards) should be treated as an e
 
 ### Automate Your Payments
 
-Set up autopay for every minimum payment. Then set a separate automatic transfer for your extra payment. When the money moves before you see it, temptation disappears.
+Set up autopay for every minimum payment. Then set a separate automatic transfer for your extra payment. When the money moves before you see it, temptation disappears. Our guide on [automatic savings](/blog/10-automatic-savings-tips-and-tricks/) covers more ways to put your finances on autopilot.
 
 ### Celebrate Milestones
 
@@ -219,7 +219,7 @@ It depends on your specific debts, but typically the avalanche saves 2-6 months 
 
 ### Can I switch methods midway through?
 
-Absolutely. There is no rule that says you must stick with one method forever. Many people start with the snowball to build momentum, then switch to the avalanche once they have a few wins. The most important thing is that you keep making extra payments. The specific order matters less than the consistency of your effort.
+Absolutely. There is no rule that says you must stick with one method forever. Many people start with the snowball to build momentum, then switch to the avalanche once they have a few wins. The most important thing is that you keep making extra payments. The specific order matters less than the consistency of your effort. A solid [monthly budget](/blog/how-to-create-a-monthly-spending-plan/) helps you find that extra money to throw at debt.
 
 ### What about debt consolidation instead?
 

@@ -189,7 +189,7 @@ I have made some of these myself, so learn from my experience:
 2. **Being too conservative too young**: If you are in your 30s with everything in bonds or money market funds, you are losing decades of growth.
 3. **Ignoring fees**: A 1% fee difference over 30 years can cost you 25% of your final portfolio.
 4. **Not increasing contributions when you get raises**: Every time your salary increases, bump up your contribution percentage.
-5. **Trying to time the market**: Stay invested through downturns. Missing the 10 best market days over 20 years cuts your returns nearly in half.
+5. **Trying to time the market**: Stay invested through downturns. Missing the 10 best market days over 20 years cuts your returns nearly in half. A [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) approach helps you stay consistent through volatile markets.
 
 ## Frequently Asked Questions
 
@@ -211,4 +211,4 @@ The average benefit is about $1,900/month, which is roughly $23,000/year. Unless
 
 ### What if I cannot afford to save 15% of my income?
 
-Start with whatever you can, even 3-5%. The most important step is beginning. Then increase by 1% every six months or every time you get a raise. Automating your contributions so the money leaves your paycheck before you see it makes this much easier psychologically.
+Start with whatever you can, even 3-5%. The most important step is beginning. Then increase by 1% every six months or every time you get a raise. Automating your contributions so the money leaves your paycheck before you see it makes this much easier psychologically. Our [automatic savings guide](/blog/10-automatic-savings-tips-and-tricks/) walks you through setting up these systems.

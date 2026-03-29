@@ -168,7 +168,7 @@ When I switched to the envelope system, I was overspending on groceries by about
 - **Month 3**: Had $85 left across all envelopes at month end. Moved it to savings.
 - **Month 6**: Consistently saving $350-$400 more per month than before I started.
 
-Over six months, that extra savings totaled about $2,200—money that was previously disappearing into mindless spending. The envelope method did not change my income. It changed my awareness.
+Over six months, that extra savings totaled about $2,200—money that was previously disappearing into mindless spending. The envelope method did not change my income. It changed my awareness. If you are looking for other budgeting approaches to compare, check out the [50/30/20 rule](/blog/50-30-20-budget-rule-explained/) or [zero-based budgeting](/blog/zero-based-budgeting-method-explained/).
 
 ## Frequently Asked Questions
 

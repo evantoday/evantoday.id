@@ -48,7 +48,7 @@ If your wedding is 18 months away and you need $30,000:
 - $30,000 / 18 months = $1,667 per month
 - If both partners save: $833 each per month
 
-If that number makes you sweat, you have three options: extend the timeline, reduce the budget, or increase your income. Usually the answer is some combination of all three.
+If that number makes you sweat, you have three options: extend the timeline, reduce the budget, or [increase your income](/blog/how-to-negotiate-salary/). Usually the answer is some combination of all three. Start by [tracking your expenses](/blog/best-ways-to-track-expenses-comprehensive-guide/) to see where you can free up extra cash.
 
 ### Create a Wedding Savings Account
 

@@ -20,15 +20,15 @@ const totalArticles = allPosts.length;
 	<!-- Hero -->
 	<section class="max-w-3xl mx-auto px-4 sm:px-6 pt-16 pb-12">
 		<h1 class="text-3xl md:text-4xl font-bold text-gray-900 leading-tight mb-4">
-			Practical money advice that actually works
+			Tips keuangan praktis yang benar-benar works
 		</h1>
 		<p class="text-lg text-gray-500 leading-relaxed mb-6">
-			Expert guides on personal finance, investing, insurance, and fintech. No fluff, no jargon — just actionable advice to help you build wealth.
+			Panduan lengkap keuangan pribadi, investasi, asuransi, dan fintech untuk Indonesia. Tanpa basa-basi — langsung tips actionable untuk membangun kekayaan.
 		</p>
 		<div class="flex items-center gap-4 text-sm text-gray-400">
-			<span>{totalArticles} articles</span>
+			<span>{totalArticles} artikel</span>
 			<span>/</span>
-			<span>Updated weekly</span>
+			<span>Update mingguan</span>
 		</div>
 	</section>
 
@@ -36,7 +36,7 @@ const totalArticles = allPosts.length;
 
 	<!-- Latest Posts -->
 	<section class="max-w-5xl mx-auto px-4 sm:px-6 py-12">
-		<h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-8">Latest articles</h2>
+		<h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-8">Artikel terbaru</h2>
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
 			{latestPosts.map((post) => (
 				<BlogCard
@@ -55,7 +55,7 @@ const totalArticles = allPosts.length;
 				href="/blog"
 				class="inline-block px-5 py-2.5 text-sm font-medium text-gray-700 border border-gray-300 rounded-lg no-underline hover:bg-gray-50 transition-colors"
 			>
-				View all articles
+				Lihat semua artikel
 			</a>
 		</div>
 	</section>
@@ -63,7 +63,7 @@ const totalArticles = allPosts.length;
 	<!-- Topics -->
 	<section class="bg-gray-50 border-t border-gray-200 py-12">
 		<div class="max-w-5xl mx-auto px-4 sm:px-6">
-			<h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-6">Topics</h2>
+			<h2 class="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-6">Topik</h2>
 			<div class="flex flex-wrap gap-2">
 				{Object.entries(CATEGORY_LABELS).map(([slug, label]) => (
 					<a

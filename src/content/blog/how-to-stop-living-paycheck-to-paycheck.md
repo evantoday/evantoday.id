@@ -136,7 +136,7 @@ Cutting expenses has a floor. You can only cut so much before life becomes miser
 
 - **Get a certification.** Many high-value certifications (Google, CompTIA, AWS) cost under $500 and can boost your salary by $10,000-$20,000 per year.
 - **Switch jobs.** The average raise from switching companies is 10-20 percent versus 3-5 percent for staying. Job loyalty is rarely rewarded financially.
-- **Negotiate your salary** at your current or next job. Most people leave $5,000-$10,000 on the table by not negotiating.
+- **[Negotiate your salary](/blog/how-to-negotiate-salary/)** at your current or next job. Most people leave $5,000-$10,000 on the table by not negotiating.
 
 ## What Breaking the Cycle Actually Feels Like
 

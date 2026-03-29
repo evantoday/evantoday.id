@@ -1,5 +1,5 @@
 export const SITE_TITLE = 'Evan Today';
-export const SITE_DESCRIPTION = 'Expert guides on personal finance, investing, insurance, and money management. Practical advice to help you budget, save, and build wealth.';
+export const SITE_DESCRIPTION = 'Panduan lengkap keuangan pribadi, investasi, asuransi, dan pengelolaan uang untuk Indonesia. Tips praktis untuk mengatur anggaran, menabung, dan membangun kekayaan.';
 export const SITE_URL = 'https://evantoday.id';
 export const SITE_AUTHOR = 'Evan Today';
 
@@ -26,11 +26,11 @@ export const CATEGORY_LABELS: Record<Category, string> = {
 };
 
 export const CATEGORY_DESCRIPTIONS: Record<Category, string> = {
-	'personal-finance': 'Learn how to budget, save money, and manage your finances with proven strategies that work on any income.',
-	'fintech': 'Honest reviews and how-to guides for the best financial apps, payment platforms, and money tools in 2026.',
-	'cryptocurrency': 'Bitcoin, Ethereum, and crypto investing explained — beginner guides, staking, and risk management.',
-	'insurance': 'Compare life, health, auto, and home insurance policies. Find the right coverage without overpaying.',
-	'investing': 'Start investing with confidence — stock market basics, ETFs, index funds, and portfolio strategies.',
-	'digital-banking': 'Find the best online banks and high-yield savings accounts. Neobank reviews and rate comparisons.',
-	'financial-tips': 'Quick, actionable money tips and strategies to cut expenses, boost savings, and build wealth faster.',
+	'personal-finance': 'Panduan budgeting, menabung, dan mengelola keuangan dengan strategi yang terbukti berhasil di berbagai level penghasilan.',
+	'fintech': 'Review dan panduan aplikasi keuangan terbaik di Indonesia — GoPay, OVO, Dana, dan platform fintech lainnya.',
+	'cryptocurrency': 'Panduan investasi Bitcoin, Ethereum, dan crypto untuk pemula — staking, risiko, dan strategi di Indonesia.',
+	'insurance': 'Bandingkan asuransi jiwa, kesehatan, kendaraan, dan rumah. Temukan perlindungan terbaik tanpa bayar lebih.',
+	'investing': 'Mulai investasi dengan percaya diri — saham, reksadana, obligasi, dan strategi portofolio untuk pemula.',
+	'digital-banking': 'Review bank digital dan rekening tabungan bunga tinggi terbaik di Indonesia. Perbandingan neobank dan suku bunga.',
+	'financial-tips': 'Tips keuangan praktis untuk menghemat pengeluaran, meningkatkan tabungan, dan membangun kekayaan lebih cepat.',
 };

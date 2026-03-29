@@ -169,7 +169,7 @@ I think critical illness insurance fills a real gap for many Americans, especial
 
 If your employer offers it at group rates, it's almost always worth taking. At $20-40/month for a $25,000 benefit, the peace of mind alone has value.
 
-If you have solid disability insurance, 6+ months of savings, and a low-deductible health plan, you can skip it without losing sleep.
+If you have solid disability insurance, 6+ months of savings in an [emergency fund](/blog/emergency-fund-guide/), and a low-deductible health plan, you can skip it without losing sleep. You may also want to review whether you need [life insurance](/blog/do-you-need-life-insurance/) alongside critical illness coverage.
 
 ## Frequently Asked Questions
 

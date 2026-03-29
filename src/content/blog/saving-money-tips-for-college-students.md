@@ -214,7 +214,7 @@ The money you save in college matters, but the habits you build matter more. Stu
 
 - **Check your bank balance every morning.** Takes 10 seconds. Keeps you aware.
 - **Automate a small savings transfer.** Even $10 per week trains the saving muscle.
-- **Use a budget.** Any budget. Just have one.
-- **Start a Roth IRA** if you have earned income. Even $25 per month invested at 20 starts compounding immediately.
+- **[Use a budget](/blog/how-to-budget-money/).** Any budget. Just have one.
+- **Start a [Roth IRA](/blog/how-to-financially-prepare-for-retirement/)** if you have earned income. Even $25 per month invested at 20 starts compounding immediately.
 - **Build your credit score** with one responsibly used credit card.
 

@@ -13,7 +13,7 @@ heroImageAlt: 'Wise vs Remitly: Best for Sending Money Abroad?'
 
 ## The Real Cost of Sending Money Abroad
 
-Last year I needed to send $2,000 to a family member in Europe, and I made the mistake of using my bank's wire transfer service. By the time the money arrived, between the $45 wire fee, the unfavorable exchange rate, and the intermediary bank's cut, about $120 had vanished. That was the last time I used a traditional bank for international transfers.
+Last year I needed to send $2,000 to a family member in Europe, and I made the mistake of using my bank's wire transfer service. By the time the money arrived, between the $45 wire fee, the unfavorable exchange rate, and the intermediary bank's cut, about $120 had vanished. That was the last time I used a traditional bank for international transfers. If you want to see how all the major services stack up, read our full [best money transfer apps](/blog/best-money-transfer-apps-comprehensive-review/) comparison.
 
 Wise and Remitly are two of the most popular alternatives for sending money from the US to virtually anywhere in the world. Both promise lower fees and better exchange rates than banks. But they work differently, and depending on where you are sending money and how fast you need it there, one clearly beats the other.
 
@@ -212,7 +212,7 @@ For most Americans sending money abroad, I recommend this approach:
 - **Open a Wise multi-currency account** if you regularly send or receive international payments.
 - **Compare both before each transfer** using their respective fee calculators. Rates and fees change, and the cheapest option can vary by corridor and amount.
 
-Both platforms have mobile apps that show you the exact cost and delivery time before you confirm. Take 30 seconds to check both before hitting send.
+Both platforms have mobile apps that show you the exact cost and delivery time before you confirm. Take 30 seconds to check both before hitting send. For domestic payments, our guide to the [best payment apps](/blog/best-payment-apps-2026/) covers Venmo, Zelle, and [Cash App](/blog/cash-app-review-features-and-how-to-use/).
 
 ## The Bottom Line
 

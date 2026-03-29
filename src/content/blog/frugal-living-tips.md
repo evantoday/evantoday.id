@@ -18,7 +18,7 @@ Real frugal living is about intentional spending. You spend freely on what matte
 
 I started practicing frugal living three years ago, not because I was broke—I had a decent income—but because I realized I was spending $6,200/month while only truly enjoying about $3,800 of it. The other $2,400 was going to things I barely noticed: convenience fees, unused subscriptions, [premium](/blog/insurance-terms-explained-simply-2026-guide/) versions of things where the basic version worked fine, and social spending I did out of obligation rather than enjoyment.
 
-Today I live on about $4,000/month and feel like I have a better quality of life than when I spent $6,200. The difference goes to investments that are building my financial freedom.
+Today I live on about $4,000/month and feel like I have a better quality of life than when I spent $6,200. The difference goes to investments that are building my [financial independence](/blog/achieving-financial-independence-and-early-retirement-fire-movement/).
 
 Here are the seven principles that made it work.
 

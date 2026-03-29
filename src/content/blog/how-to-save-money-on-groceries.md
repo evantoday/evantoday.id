@@ -255,5 +255,5 @@ If you implement all 10 strategies, here is what realistic monthly savings look 
 | Cut beverages | $100-$200 |
 | **Total** | **$590-$1,030** |
 
-Even implementing half of these strategies saves $200-$400 per month. Over a year, that is $2,400-$4,800 — enough to fund an emergency savings account or a family vacation.
+Even implementing half of these strategies saves $200-$400 per month. Over a year, that is $2,400-$4,800 — enough to fund an [emergency fund](/blog/emergency-fund-guide/) or a family vacation.
 

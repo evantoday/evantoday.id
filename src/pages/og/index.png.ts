@@ -52,7 +52,7 @@ export const GET: APIRoute = async () => {
 											color: 'rgba(255,255,255,0.85)',
 											lineHeight: 1.4,
 										},
-										children: 'Personal Finance & Money Advice',
+										children: 'Keuangan Pribadi & Tips Finansial Indonesia',
 									},
 								},
 							],
