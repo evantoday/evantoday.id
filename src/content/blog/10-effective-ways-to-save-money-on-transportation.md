@@ -1,6 +1,6 @@
 ---
-title: "10 Ways to Save $300/Month on Transportation"
-description: "Americans spend $1,000+/month on transportation. Switch to these 10 tactics—from gas apps to carpooling hacks—and keep $300+ in your pocket every month."
+title: "10 Cara Hemat Rp 4,5 Juta/Bulan Transportasi"
+description: "Orang Amerika habiskan Rp 15 juta+/bulan untuk transportasi. Coba 10 cara ini—dari aplikasi bensin sampai carpooling—dan simpan Rp 4,5 juta+ tiap bulan."
 pubDate: 2026-03-14
 category: "personal-finance"
 tags: ["save on transport", "car expenses", "commute savings", "gas savings", "transportation costs"]
@@ -10,209 +10,207 @@ heroImageAlt: '10 Ways to Save $300/Month on Transportation'
 
 ---
 
-## Why Transportation Costs Are Silently Wrecking Your Budget
+## Kenapa Biaya Transportasi Diam-diam Menghancurkan Anggaran
 
-Transportation is the second-largest expense for American households, right behind housing. According to AAA, the average cost of owning and operating a new car in the US is $12,182 per year—that is over $1,015 per month. For a used car, it drops to about $600-$800/month when you factor in payments, insurance, gas, maintenance, and depreciation.
+Transportasi adalah pengeluaran terbesar kedua untuk rumah tangga di Amerika, tepat di bawah biaya tempat tinggal. Menurut AAA, biaya rata-rata memiliki dan mengoperasikan mobil baru di AS adalah $12.182 per tahun—atau lebih dari Rp 15 juta per bulan. Untuk mobil bekas, biayanya turun jadi sekitar Rp 9 juta-Rp 12 juta per bulan kalau dihitung dari cicilan, asuransi, bensin, perawatan, dan depresiasi.
 
-Most people think of their "car cost" as just the monthly payment. But the payment is only the tip of the iceberg. Insurance, gas, maintenance, parking, tolls, registration, and depreciation together often cost more than the payment itself.
+Kebanyakan orang menganggap “biaya mobil” itu cuma cicilan bulanan. Padahal cicilan cuma puncak gunung es. Asuransi, bensin, perawatan, parkir, tol, registrasi, dan depresiasi sering kali totalnya lebih besar daripada cicilan itu sendiri.
 
-I used to spend $1,100/month on transportation without realizing it—$450 car payment, $180 insurance, $200 gas, $120 maintenance average, and $150 in parking and tolls. After implementing the strategies below, I cut that to about $680/month. The $420 difference goes straight to my investment accounts. If you are looking for more ways to [reduce monthly expenses](/blog/10-effective-ways-to-reduce-monthly-expenses/), transportation is one of the best places to start.
+Dulu saya pernah menghabiskan Rp 16,5 juta per bulan untuk transportasi tanpa sadar—cicilan mobil Rp 6,8 juta, asuransi Rp 2,7 juta, bensin Rp 3 juta, perawatan rata-rata Rp 1,8 juta, dan parkir serta tol Rp 2,3 juta. Setelah menerapkan strategi di bawah ini, saya menurunkannya jadi sekitar Rp 10,2 juta per bulan. Selisih Rp 6,3 juta langsung masuk ke akun investasi saya. Kalau kamu sedang mencari cara lain untuk [mengurangi pengeluaran bulanan](/blog/10-effective-ways-to-reduce-monthly-expenses/), transportasi adalah salah satu tempat terbaik untuk mulai.
 
-Here are ten ways to keep more of your money while still getting where you need to go.
+Berikut sepuluh cara supaya kamu bisa menyimpan lebih banyak uang tanpa mengorbankan mobilitas.
 
-## 1. Use Gas Savings Apps
+## 1. Pakai Aplikasi Hemat Bensin
 
-Gas prices fluctuate significantly, even between stations a few blocks apart. Apps that track real-time prices and offer cash back can save you $20-$50/month.
+Harga bensin bisa berubah cukup jauh, bahkan antar SPBU yang jaraknya cuma beberapa blok. Aplikasi yang melacak harga real-time dan memberi cashback bisa menghemat Rp 300 ribu-Rp 750 ribu per bulan.
 
-### Best Gas Savings Apps
+### Aplikasi Hemat Bensin Terbaik
 
-| App | How It Works | Typical Savings |
+| Aplikasi | Cara Kerja | Penghematan Umum |
 |-----|-------------|----------------|
-| GasBuddy | Shows cheapest gas nearby + Pay with GasBuddy card for extra $0.05-$0.25/gal off | $10-$30/month |
-| Upside (GetUpside) | Cash back per gallon at participating stations | $10-$25/month |
-| Costco Gas | Members-only pumps at $0.20-$0.60/gal below average | $15-$40/month |
-| Sam's Club Gas | Similar to Costco, members-only pricing | $15-$35/month |
+| GasBuddy | Menampilkan bensin termurah di sekitar + bayar dengan kartu GasBuddy untuk potongan ekstra | Rp 150 ribu-Rp 450 ribu/bulan |
+| Upside (GetUpside) | Cashback per liter di SPBU tertentu | Rp 150 ribu-Rp 375 ribu/bulan |
+| SPBU anggota tertentu | Harga khusus anggota yang biasanya lebih murah dari rata-rata | Rp 225 ribu-Rp 600 ribu/bulan |
+| SPBU jaringan anggota | Mirip program anggota, harga lebih rendah untuk member | Rp 225 ribu-Rp 525 ribu/bulan |
 
-Stack these for maximum savings. Use GasBuddy to find the cheapest station, then check if Upside offers cash back there. If you have a Costco membership, their gas is almost always the cheapest option.
+Gabungkan beberapa cara ini untuk hasil maksimal. Pakai GasBuddy untuk cari SPBU termurah, lalu cek apakah ada cashback dari Upside di sana. Kalau kamu punya akses ke SPBU anggota atau program loyalti tertentu, biasanya itu hampir selalu jadi pilihan termurah.
 
-### Other Gas-Saving Tactics
+### Taktik Hemat Bensin Lainnya
 
-- **Fill up on Monday or Tuesday**: Gas prices tend to be lowest early in the week and highest on Thursday-Saturday.
-- **Use the right octane**: Unless your car specifically requires premium, regular unleaded is fine. Paying $0.40-$0.60 more per gallon for premium you do not need wastes $150-$300/year.
-- **Pay with a gas rewards credit card**: Cards like the Citi Custom Cash (5% back on gas, up to $500/month) or the PenFed Platinum Rewards (5x points on gas) add another 3-5% in savings.
+- **Isi bensin hari Senin atau Selasa**: Harga bensin cenderung paling rendah di awal minggu dan paling tinggi pada Kamis-Sabtu.
+- **Pakai oktan yang tepat**: Kalau mobilmu tidak secara khusus butuh bensin premium, bensin biasa sudah cukup. Bayar Rp 6 ribu-Rp 9 ribu lebih mahal per liter untuk premium yang tidak kamu perlukan itu buang-buang Rp 2,3 juta-Rp 4,5 juta per tahun.
+- **Bayar dengan kartu kredit rewards bensin**: Kartu yang memberi cashback untuk bensin bisa menambah penghematan 3-5%.
 
-## 2. Shop Auto Insurance Every Year
+## 2. Bandingkan Asuransi Mobil Setiap Tahun
 
-[Auto insurance](/blog/car-insurance-comparison-2026/) is one of the most overpriced recurring expenses for Americans who do not shop around. Rates vary by 30-50% between insurers for the exact same coverage.
+[Asuransi mobil](/blog/car-insurance-comparison-2026/) adalah salah satu pengeluaran rutin paling mahal yang sering dibayar terlalu tinggi oleh orang yang tidak membandingkan harga. Tarif antar perusahaan bisa beda 30-50% untuk perlindungan yang sama persis.
 
-### How to Save on Auto Insurance
+### Cara Menghemat Asuransi Mobil
 
-- **Get quotes from at least three companies annually**: Use comparison sites like The Zebra, Policygenius, or Jerry to get multiple quotes in minutes.
-- **Bundle home and auto**: Bundling typically saves 15-25%.
-- **Raise your deductible**: Moving from $500 to $1,000 deductible saves 10-20% on premiums.
-- **Ask for discounts**: Safe driver, low mileage, good student, defensive driving course, autopay, paperless billing, and multi-car discounts all stack.
-- **Consider usage-based insurance**: Programs like Progressive Snapshot, State Farm Drive Safe & Save, and Allstate Drivewise offer discounts of 10-30% based on your actual driving habits.
+- **Minta penawaran dari minimal tiga perusahaan setiap tahun**: Pakai situs perbandingan untuk mendapatkan beberapa penawaran dalam hitungan menit.
+- **Gabungkan asuransi rumah dan mobil**: Biasanya bisa hemat 15-25%.
+- **Naikkan deductible**: Menaikkan deductible dari Rp 7,5 juta ke Rp 15 juta bisa menurunkan premi 10-20%.
+- **Minta diskon**: Diskon pengemudi aman, jarak tempuh rendah, pelajar berprestasi, kursus defensive driving, autodebet, e-billing, dan multi-mobil bisa digabung.
+- **Pertimbangkan asuransi berbasis pemakaian**: Program seperti yang menilai kebiasaan mengemudi kamu bisa memberi diskon 10-30% berdasarkan cara kamu berkendara.
 
-### Drop Coverage You Do Not Need
+### Kurangi Perlindungan yang Tidak Perlu
 
-If your car is worth less than $5,000, consider dropping comprehensive and collision coverage. You are paying to insure a car that the insurer might total anyway. Keep liability, uninsured motorist, and medical payments—those protect you.
+Kalau nilai mobilmu kurang dari Rp 75 juta, pertimbangkan untuk melepas perlindungan komprehensif dan collision. Kamu sebenarnya membayar untuk mengasuransikan mobil yang mungkin tetap dianggap total loss oleh asuransi. Tetap pertahankan tanggung jawab pihak ketiga, perlindungan pengendara tak diasuransikan, dan biaya medis—itu yang melindungi kamu.
 
-The average American can save $50-$150/month just by shopping insurance once a year.
+Rata-rata orang Amerika bisa menghemat Rp 750 ribu-Rp 2,3 juta per bulan hanya dengan membandingkan asuransi setahun sekali.
 
-## 3. Refinance Your Auto Loan
+## 3. Refinancing Kredit Mobil
 
-If your credit score has improved since you bought your car, or if rates have dropped, refinancing your auto loan can save you $50-$100/month.
+Kalau skor kreditmu sudah membaik sejak beli mobil, atau suku bunga sedang turun, refinancing kredit mobil bisa menghemat Rp 750 ribu-Rp 1,5 juta per bulan.
 
-### When Refinancing Makes Sense
+### Kapan Refinancing Masuk Akal
 
-- Your current interest rate is above 6%
-- Your credit score has improved by 50+ points since the original loan
-- You have at least 12 months remaining on your loan
-- Your car is less than 10 years old with under 100,000 miles
+- Suku bunga saat ini di atas 6%
+- Skor kreditmu naik 50+ poin sejak pinjaman awal
+- Sisa tenor pinjaman masih minimal 12 bulan
+- Mobilmu berusia kurang dari 10 tahun dengan kilometer di bawah 160.000 km
 
-### Where to Refinance
+### Di Mana Bisa Refinancing
 
-- **Credit unions**: Often offer the lowest rates. Check Navy Federal, PenFed, or your local credit union.
-- **Online lenders**: Caribou, myAutoloan, and LendingTree compare multiple offers at once.
-- **Your bank**: Sometimes matches or beats other offers if you have an existing relationship.
+- **Koperasi kredit / credit union**: Sering menawarkan bunga terendah.
+- **Lender online**: Bisa membandingkan beberapa penawaran sekaligus.
+- **Bank kamu**: Kadang mau menyamai atau mengalahkan penawaran lain kalau kamu sudah punya hubungan dengan mereka.
 
-Example: Refinancing a $20,000 balance from 8% to 5% over 48 months saves about $1,300 in interest and reduces your payment by roughly $27/month.
+Contoh: Refinancing saldo Rp 300 juta dari 8% ke 5% selama 48 bulan bisa menghemat sekitar Rp 19,5 juta bunga dan menurunkan cicilan sekitar Rp 400 ribu per bulan.
 
-## 4. Carpool or Vanpool
+## 4. Carpool atau Vanpool
 
-Sharing your commute cuts gas, tolls, parking, and vehicle wear by 50-75% depending on how many people share the ride.
+Berbagi perjalanan ke kantor bisa memangkas bensin, tol, parkir, dan keausan kendaraan sebesar 50-75%, tergantung berapa orang yang ikut.
 
-### How to Find Carpool Partners
+### Cara Mencari Teman Carpool
 
-- **Waze Carpool**: Matches drivers and riders going the same direction. Riders pay a small per-ride fee.
-- **Scoop**: Popular in metro areas, matches commuters with similar routes and schedules.
-- **Your employer**: Many companies maintain carpool boards or offer incentives for shared commuting.
-- **Neighborhood apps**: Nextdoor and local Facebook groups often have commute-sharing threads.
+- **Aplikasi berbagi perjalanan**: Mencocokkan pengemudi dan penumpang yang searah.
+- **Tempat kerja**: Banyak perusahaan punya papan carpool atau insentif untuk berbagi perjalanan.
+- **Aplikasi lingkungan**: Grup WhatsApp lingkungan, Nextdoor, dan grup Facebook lokal sering punya thread berbagi rute.
 
-### Vanpool Programs
+### Program Vanpool
 
-If you commute 20+ miles each way, vanpool programs split the cost of a shared van among 5-15 riders. Costs typically run $100-$250/month per person—far less than driving solo.
+Kalau kamu menempuh perjalanan pulang-pergi lebih dari 20 km sekali jalan, program vanpool membagi biaya mobil van bersama di antara 5-15 penumpang. Biayanya biasanya sekitar Rp 1,5 juta-Rp 3,8 juta per bulan per orang—jauh lebih murah daripada nyetir sendiri.
 
-Employers often subsidize vanpool costs through commuter benefits (tax-free up to $325/month in 2026), making it even cheaper.
+Perusahaan juga sering memberi subsidi lewat benefit komuter, jadi biayanya bisa makin murah.
 
-## 5. Use Public Transit Where Available
+## 5. Pakai Transportasi Umum Kalau Ada
 
-If you live in or near a city with decent public transit, the savings compared to driving are enormous.
+Kalau kamu tinggal di atau dekat kota dengan transportasi umum yang lumayan, penghematannya dibanding nyetir sendiri bisa sangat besar.
 
-| City | Monthly Transit Pass | Avg. Monthly Driving Cost | Monthly Savings |
-|------|---------------------|--------------------------|----------------|
-| New York City | $132 (MetroCard) | $800-$1,200 | $668-$1,068 |
-| Chicago | $105 (CTA Pass) | $600-$900 | $495-$795 |
-| Washington DC | $100-$200 (Metro) | $700-$1,000 | $500-$800 |
-| San Francisco | $98 (Muni) | $800-$1,100 | $702-$1,002 |
-| Boston | $90 (MBTA) | $600-$900 | $510-$810 |
+| Kota | Kartu Bulanan Transportasi | Rata-rata Biaya Mengemudi per Bulan | Penghematan Bulanan |
+|------|-----------------------------|------------------------------------|-------------------|
+| Jakarta | Rp 350 ribu (kartu bulanan) | Rp 12 juta-Rp 18 juta | Rp 11,7 juta-Rp 17,7 juta |
+| Surabaya | Rp 250 ribu-Rp 500 ribu | Rp 9 juta-Rp 13,5 juta | Rp 8,5 juta-Rp 13,25 juta |
+| Bandung | Rp 200 ribu-Rp 400 ribu | Rp 10,5 juta-Rp 15 juta | Rp 10,1 juta-Rp 14,8 juta |
+| Medan | Rp 200 ribu-Rp 450 ribu | Rp 9 juta-Rp 13,5 juta | Rp 8,6 juta-Rp 13,3 juta |
+| Yogyakarta | Rp 150 ribu-Rp 300 ribu | Rp 7,5 juta-Rp 11 juta | Rp 7,2 juta-Rp 10,8 juta |
 
-Even in cities with less robust transit, using a bus or light rail for your commute while keeping a car for evenings and weekends can significantly reduce gas, parking, and wear.
+Bahkan di kota dengan transportasi umum yang belum terlalu lengkap, naik bus atau kereta ringan untuk pergi kerja sambil tetap punya mobil untuk malam dan akhir pekan bisa memangkas bensin, parkir, dan keausan secara signifikan.
 
-### Pre-Tax Transit Benefits
+### Benefit Transportasi Pre-Tax
 
-Many employers offer pre-tax commuter benefits that let you pay for transit passes with pre-tax dollars. The 2026 limit is $325/month. On a $132 MetroCard, that saves you roughly $35-$50/month in taxes on top of the transit savings.
+Banyak perusahaan menawarkan benefit komuter sebelum pajak, jadi kamu bisa bayar kartu transportasi dengan uang sebelum dipotong pajak. Ini bisa menghemat tambahan sekitar Rp 500 ribu-Rp 750 ribu per bulan dalam bentuk pajak, di luar penghematan transportasinya sendiri.
 
-## 6. Bike or Walk When Possible
+## 6. Naik Sepeda atau Jalan Kaki Kalau Bisa
 
-This one is obvious but underutilized. For trips under 3 miles—which make up about 28% of all American car trips—biking or walking costs essentially nothing.
+Ini memang terdengar sederhana, tapi sering diabaikan. Untuk perjalanan di bawah 5 km—yang porsinya cukup besar dari semua perjalanan mobil—naik sepeda atau jalan kaki praktis biayanya nyaris nol.
 
-### Making It Practical
+### Biar Tetap Praktis
 
-- **E-bikes**: A $1,000-$2,000 e-bike has near-zero operating costs and makes 5-10 mile commutes comfortable. Some cities and states offer e-bike tax credits or rebates.
-- **Bike infrastructure**: Check your city's bike lane map. Many cities have dramatically improved cycling infrastructure in recent years.
-- **Bike-share programs**: Citi Bike, Divvy, Capital Bikeshare, and others offer annual memberships for $100-$200/year—cheaper than a single month of car ownership.
-- **Walking**: Anything under a mile is faster on foot than driving when you factor in finding parking. Plus, you get exercise.
+- **Sepeda listrik**: E-bike seharga Rp 15 juta-Rp 30 juta punya biaya operasional sangat rendah dan membuat perjalanan 8-16 km jadi nyaman. Beberapa daerah juga punya subsidi atau insentif e-bike.
+- **Infrastruktur sepeda**: Cek peta jalur sepeda di kotamu. Banyak kota sudah jauh lebih ramah pesepeda dalam beberapa tahun terakhir.
+- **Program bike-share**: Beberapa kota punya langganan tahunan yang jauh lebih murah daripada biaya punya mobil.
+- **Jalan kaki**: Perjalanan di bawah 1,5 km sering kali lebih cepat ditempuh dengan jalan kaki daripada nyetir kalau dihitung cari parkir. Bonusnya, kamu dapat olahraga.
 
-### Health Savings Bonus
+### Bonus Penghematan Kesehatan
 
-Active commuting reduces healthcare costs over time. Regular physical activity lowers the risk of heart disease, diabetes, and depression. The CDC estimates that physically active adults save $1,500/year in healthcare costs compared to inactive adults.
+Aktif bergerak saat commuting bisa menurunkan biaya kesehatan dalam jangka panjang. Aktivitas fisik rutin menurunkan risiko penyakit jantung, diabetes, dan depresi.
 
-## 7. Maintain Your Car Properly
+## 7. Rawat Mobil dengan Benar
 
-Deferred maintenance is one of the most expensive mistakes car owners make. Skipping a $40 oil change can lead to a $4,000 engine repair. Regular maintenance keeps your car running efficiently and prevents costly breakdowns.
+Menunda perawatan adalah salah satu kesalahan paling mahal bagi pemilik mobil. Melewatkan servis oli Rp 600 ribu bisa berujung pada perbaikan mesin Rp 60 juta. Perawatan rutin menjaga mobil tetap efisien dan mencegah kerusakan mahal.
 
-### Maintenance That Saves Money on Gas
+### Perawatan yang Menghemat Bensin
 
-- **Keep tires properly inflated**: Underinflated tires reduce fuel efficiency by 0.2% for every 1 PSI drop. Check monthly.
-- **Replace air filters**: A dirty air filter can reduce fuel economy by up to 10%.
-- **Regular oil changes**: Follow your manufacturer's schedule (usually every 5,000-7,500 miles for modern cars, not the old 3,000-mile myth).
-- **Maintain proper alignment**: Misaligned wheels increase rolling resistance and wear tires unevenly.
+- **Jaga tekanan ban tetap pas**: Ban kurang angin menurunkan efisiensi bahan bakar. Cek tiap bulan.
+- **Ganti filter udara**: Filter udara kotor bisa menurunkan efisiensi bensin sampai 10%.
+- **Ganti oli rutin**: Ikuti jadwal pabrikan.
+- **Pastikan spooring dan balancing benar**: Roda yang tidak sejajar meningkatkan hambatan gulir dan membuat ban aus tidak merata.
 
-### DIY vs. Mechanic
+### DIY vs Bengkel
 
-Simple maintenance like air filter replacement, wiper blades, and tire pressure checks take minutes and cost a fraction of shop prices. YouTube has a tutorial for nearly every car repair. For bigger jobs, independent mechanics charge 20-40% less than dealerships for the same work.
+Perawatan sederhana seperti ganti filter udara, wiper, dan cek tekanan ban cuma butuh beberapa menit dan biayanya jauh lebih murah daripada di bengkel. YouTube punya tutorial hampir untuk semua jenis perbaikan mobil. Untuk pekerjaan yang lebih besar, bengkel umum biasanya 20-40% lebih murah daripada bengkel resmi untuk pekerjaan yang sama.
 
-## 8. Optimize Your Commute
+## 8. Optimalkan Rute dan Kebiasaan Perjalanan
 
-Small changes to how and when you drive can reduce fuel costs and wear significantly.
+Perubahan kecil pada cara dan waktu kamu berkendara bisa menurunkan biaya bensin dan keausan secara signifikan.
 
-### Drive More Efficiently
+### Berkendara Lebih Efisien
 
-- **Avoid aggressive driving**: Rapid acceleration and hard braking reduce fuel economy by 15-30% on highways and 10-40% in stop-and-go traffic.
-- **Use cruise control**: Maintaining a steady speed on highways improves fuel efficiency by 7-14%.
-- **Reduce idling**: Idling gets 0 MPG. If you will be stopped for more than 60 seconds, turn off the engine.
-- **Lighten your load**: Every 100 pounds of extra weight reduces fuel economy by about 1%. Clean out your trunk.
+- **Hindari mengemudi agresif**: Akselerasi mendadak dan pengereman keras bisa menurunkan efisiensi bensin 15-30% di jalan tol dan 10-40% di lalu lintas macet.
+- **Pakai cruise control**: Menjaga kecepatan stabil di jalan tol meningkatkan efisiensi 7-14%.
+- **Kurangi mesin menyala diam**: Kalau berhenti lebih dari 60 detik, matikan mesin.
+- **Ringankan beban mobil**: Setiap tambahan 45 kg beban bisa menurunkan efisiensi sekitar 1%. Bersihkan bagasi.
 
-### Adjust Your Schedule
+### Atur Jadwal
 
-- **Avoid rush hour**: Driving at off-peak times reduces stop-and-go driving, which is the biggest gas waster.
-- **Work from home**: Even one day per week reduces commuting costs by 20%. Two days saves 40%.
-- **Compressed work week**: Working four 10-hour days instead of five 8-hour days eliminates 20% of your commutes.
+- **Hindari jam sibuk**: Berkendara di luar jam padat mengurangi stop-and-go, yang paling boros bensin.
+- **Work from home**: Bahkan satu hari per minggu bisa menurunkan biaya commuting 20%. Dua hari bisa hemat 40%.
+- **Minggu kerja dipadatkan**: Bekerja 4 hari x 10 jam alih-alih 5 hari x 8 jam mengurangi 20% perjalanan ke kantor.
 
-## 9. Consider Downsizing Your Vehicle
+## 9. Pertimbangkan Ganti ke Kendaraan yang Lebih Kecil
 
-If you are driving a large SUV or truck primarily for commuting, you are paying a [premium](/blog/insurance-terms-explained-simply-2026-guide/) in gas, insurance, and maintenance that a smaller vehicle would eliminate.
+Kalau kamu memakai SUV besar atau truk terutama untuk commuting, kamu sedang membayar biaya ekstra di bensin, asuransi, dan perawatan yang bisa dihilangkan dengan kendaraan yang lebih kecil.
 
-### The Numbers
+### Angkanya
 
-| Vehicle Type | Avg. Annual Fuel Cost | Avg. Insurance | Total Annual Savings vs. Large SUV |
-|-------------|----------------------|----------------|-----------------------------------|
-| Large SUV (18 MPG) | $3,333 | $2,400 | — |
-| Midsize sedan (32 MPG) | $1,875 | $1,800 | $2,058 |
-| Compact car (38 MPG) | $1,579 | $1,600 | $2,554 |
-| Hybrid (50 MPG) | $1,200 | $1,700 | $2,833 |
-| Electric (EV) | $600 | $1,900 | $3,233 |
+| Jenis Kendaraan | Rata-rata Biaya Bensin Tahunan | Rata-rata Asuransi | Total Penghematan Tahunan vs SUV Besar |
+|-------------|------------------------------|----------------|-----------------------------------|
+| SUV besar | Rp 50 juta | Rp 36 juta | — |
+| Sedan menengah | Rp 28 juta | Rp 27 juta | Rp 31 juta |
+| Mobil kompak | Rp 24 juta | Rp 24 juta | Rp 38 juta |
+| Hybrid | Rp 18 juta | Rp 25,5 juta | Rp 42 juta |
+| Mobil listrik (EV) | Rp 9 juta | Rp 28,5 juta | Rp 48 juta |
 
-Switching from a large SUV to a midsize sedan saves over $170/month. Going electric saves over $260/month in fuel and insurance combined—and that is before factoring in lower maintenance costs (no oil changes, no transmission fluid, no exhaust system repairs).
+Pindah dari SUV besar ke sedan menengah bisa menghemat lebih dari Rp 2,8 juta per bulan. Beralih ke mobil listrik bisa menghemat lebih dari Rp 4 juta per bulan untuk bensin dan asuransi gabungan—dan itu belum termasuk biaya perawatan yang lebih rendah.
 
-### When to Switch
+### Kapan Sebaiknya Ganti
 
-If your current vehicle is paid off and running fine, keep it. The savings from no car payment likely outweigh the efficiency gains of a newer vehicle. But if you are about to buy or lease, prioritize fuel efficiency and low insurance costs.
+Kalau mobilmu sekarang sudah lunas dan masih bagus, pertahankan saja. Penghematan dari tidak punya cicilan mobil sering kali lebih besar daripada efisiensi mobil baru. Tapi kalau kamu akan beli atau leasing mobil, prioritaskan efisiensi bahan bakar dan biaya asuransi yang rendah.
 
-## 10. Maximize Tax Deductions for Commuting
+## 10. Maksimalkan Potongan Pajak untuk Perjalanan Kerja
 
-If you use your car for work beyond a regular commute, you may be able to deduct some costs.
+Kalau kamu memakai mobil untuk pekerjaan di luar commuting biasa, ada kemungkinan sebagian biayanya bisa dikurangkan.
 
-### Who Qualifies
+### Siapa yang Memenuhi Syarat
 
-- **Self-employed and freelancers**: Deduct the IRS standard mileage rate ($0.70/mile in 2026) or actual expenses for business driving.
-- **Gig workers** (Uber, Lyft, DoorDash, Instacart): All driving on the platform is deductible.
-- **Employees with employer-required travel**: Miles between job sites (not home to office) are deductible if your employer does not reimburse.
+- **Wirausaha dan freelancer**: Bisa mengurangkan tarif kilometer standar dari Dirjen Pajak atau biaya aktual untuk perjalanan bisnis.
+- **Pekerja gig**: Semua perjalanan yang terkait platform bisa dikurangkan.
+- **Karyawan dengan perjalanan kerja yang diwajibkan kantor**: Jarak antar lokasi kerja (bukan dari rumah ke kantor) bisa dikurangkan kalau tidak diganti perusahaan.
 
-### How to Track
+### Cara Mencatat
 
-Use a mileage tracking app like MileIQ, Everlance, or Stride. These apps automatically detect driving and log business miles. At $0.70/mile, 10,000 business miles is a $7,000 deduction—worth $1,400-$2,400 in tax savings depending on your bracket.
+Pakai aplikasi pencatat jarak tempuh yang otomatis mendeteksi perjalanan dan mencatat kilometer bisnis. Dengan tarif Rp 10.500/km, 10.000 km perjalanan bisnis berarti potongan Rp 105 juta—yang bisa bernilai Rp 21 juta-Rp 36 juta penghematan pajak tergantung bracket kamu.
 
-### Commuter Tax Benefits
+### Benefit Pajak Komuter
 
-Even if you cannot deduct commuting costs, take advantage of employer-sponsored commuter benefits:
+Kalau kamu tidak bisa mengurangkan biaya commuting, manfaatkan benefit dari kantor:
 
-- **Transit passes**: Up to $325/month pre-tax
-- **Qualified parking**: Up to $325/month pre-tax
-- **Bike commuter reimbursement**: Some employers offer $20-$50/month
+- **Kartu transportasi**: Bisa pre-tax
+- **Parkir yang memenuhi syarat**: Bisa pre-tax
+- **Reimbursement pesepeda**: Beberapa perusahaan memberi tunjangan bulanan
 
-## Your 30-Day Transportation Savings Plan
+## Rencana Hemat Transportasi 30 Hari
 
-Here is how to implement these changes without being overwhelmed:
+Begini cara menerapkan semua ini tanpa merasa kewalahan:
 
-**Week 1**: Download GasBuddy and Upside. Start using them for every fill-up. Savings: $20-$40/month.
+**Minggu 1**: Unduh aplikasi hemat bensin dan mulai pakai setiap isi bensin. Penghematan: Rp 300 ribu-Rp 600 ribu/bulan.
 
-**Week 2**: Get three auto insurance quotes. Switch if you find a better rate. Savings: $50-$150/month.
+**Minggu 2**: Minta tiga penawaran asuransi mobil. Ganti kalau kamu menemukan tarif yang lebih baik. Penghematan: Rp 750 ribu-Rp 2,3 juta/bulan.
 
-**Week 3**: Calculate your true commuting cost. Explore carpooling, transit, or biking for at least two days per week. Savings: $50-$200/month.
+**Minggu 3**: Hitung biaya commuting sesungguhnya. Coba carpool, transportasi umum, atau naik sepeda setidaknya dua hari per minggu. Penghematan: Rp 750 ribu-Rp 3 juta/bulan.
 
-**Week 4**: Schedule any deferred maintenance. Check tire pressure. Clean out your car. Set up mileage tracking if you qualify for deductions. Savings: $20-$50/month in fuel efficiency.
+**Minggu 4**: Jadwalkan perawatan yang tertunda. Cek tekanan ban. Bersihkan mobil. Pasang pencatatan jarak tempuh kalau kamu memenuhi syarat untuk potongan. Penghematan: Rp 300 ribu-Rp 750 ribu/bulan dari efisiensi bensin.
 
-Total first-month savings: $140-$440. As you optimize further over months two and three, that number climbs to $300+. Put those savings to work by building an [emergency fund](/blog/emergency-fund-guide/) or [starting to invest](/blog/how-much-money-do-you-need-to-start-investing/).
-
+Total penghematan bulan pertama: Rp 2,1 juta-Rp 6,6 juta. Setelah kamu mengoptimalkan lagi di bulan kedua dan ketiga, angkanya bisa naik jadi Rp 4,5 juta+. Pakai penghematan itu untuk membangun [dana darurat](/blog/emergency-fund-guide/) atau [mulai berinvestasi](/blog/how-much-money-do-you-need-to-start-investing/).

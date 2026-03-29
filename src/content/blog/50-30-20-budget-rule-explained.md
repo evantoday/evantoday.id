@@ -1,6 +1,6 @@
 ---
-title: "50/30/20 Budget Rule: Stop Overspending in 30 Days"
-description: "Split your income into 50% needs, 30% wants, 20% savings—and finally stop wondering where your paycheck went. Works on any American salary."
+title: "Aturan Anggaran 50/30/20: Stop Boros 30 Hari"
+description: "Bagi penghasilanmu jadi 50% kebutuhan, 30% keinginan, 20% tabungan—dan akhirnya tahu ke mana gaji pergi."
 pubDate: 2026-03-11
 category: "personal-finance"
 tags: ["50-30-20 rule", "budgeting", "budget rule", "spending plan", "personal finance"]
@@ -10,176 +10,175 @@ heroImageAlt: '50/30/20 Budget Rule: Stop Overspending in 30 Days'
 
 ---
 
-## What Is the 50/30/20 Budget Rule?
+## Apa Itu Aturan Anggaran 50/30/20?
 
-I wasted years trying complicated spreadsheets and budgeting apps before I discovered the 50-30-20 rule. It changed how I think about money overnight—and it took me less than an hour to set up.
+Saya buang waktu bertahun-tahun mencoba spreadsheet rumit dan aplikasi budgeting sebelum menemukan aturan 50/30/20. Aturan ini langsung mengubah cara saya memandang uang—dan saya cuma butuh kurang dari satu jam untuk menatanya.
 
-The 50-30-20 rule was popularized by Senator Elizabeth Warren in her book *All Your Worth: The Ultimate Lifetime Money Plan*. The concept is dead simple: take your after-tax income and split it into three buckets.
+Aturan 50/30/20 dipopulerkan oleh Senator Elizabeth Warren dalam bukunya *All Your Worth: The Ultimate Lifetime Money Plan*. Konsepnya sangat sederhana: ambil penghasilan bersih setelah pajak, lalu bagi ke tiga pos.
 
-- **50% goes to needs** — rent, utilities, groceries, insurance, minimum debt payments
-- **30% goes to wants** — dining out, streaming services, hobbies, vacations
-- **20% goes to savings and extra debt payments** — emergency fund, 401(k), IRA, paying off credit cards faster
+- **50% untuk kebutuhan** — sewa, tagihan, belanja kebutuhan pokok, asuransi, pembayaran minimum utang
+- **30% untuk keinginan** — makan di luar, layanan streaming, hobi, liburan
+- **20% untuk tabungan dan pembayaran utang ekstra** — dana darurat, DPLK/dana pensiun, reksadana/investasi, mempercepat lunas kartu kredit
 
-That is it. No tracking every latte. No guilt about buying a new pair of shoes. Just three numbers that keep your finances on rails.
+Selesai. Tidak perlu mencatat setiap kopi susu. Tidak perlu merasa bersalah saat beli sepatu baru. Cukup tiga angka yang bikin keuanganmu tetap di jalur.
 
-### Why This Rule Works for Americans
+### Kenapa Aturan Ini Cocok untuk Orang Amerika
 
-The beauty of this framework is its flexibility. Whether you earn $40,000 or $150,000 a year, the percentages scale with you. And because it is based on after-tax income, you are working with money that actually hits your bank account—not some theoretical gross salary number.
+Kelebihan kerangka ini adalah fleksibilitasnya. Entah kamu berpenghasilan Rp 600 juta setahun atau Rp 2,25 miliar setahun, persentasenya tetap menyesuaikan. Dan karena dihitung dari penghasilan setelah pajak, kamu bekerja dengan uang yang benar-benar masuk ke rekening—bukan angka gaji kotor yang cuma ada di atas kertas.
 
-According to the Bureau of Labor Statistics, the average American household spends roughly 63% of income on needs, 27% on wants, and saves about 10%. The 50-30-20 rule flips that imbalance by doubling your savings rate while trimming the needs category by 13 percentage points.
+Menurut data Bureau of Labor Statistics, rata-rata rumah tangga Amerika menghabiskan sekitar 63% pendapatan untuk kebutuhan, 27% untuk keinginan, dan hanya menabung sekitar 10%. Aturan 50/30/20 membalik ketimpangan itu dengan menggandakan tingkat tabungan sambil memangkas porsi kebutuhan sebesar 13 poin persentase.
 
-## Step 1: Calculate Your After-Tax Income
+## Langkah 1: Hitung Penghasilan Bersih Setelah Pajak
 
-Before you split anything, you need to know your real take-home pay. This is your gross income minus federal income tax, state income tax (if applicable), FICA taxes (Social Security and Medicare), and any pre-tax deductions like health insurance premiums.
+Sebelum membagi apa pun, kamu perlu tahu berapa uang yang benar-benar dibawa pulang. Ini adalah penghasilan kotor dikurangi pajak penghasilan federal, pajak negara bagian (jika ada), iuran BPJS/komponen potongan wajib, dan potongan sebelum pajak seperti premi asuransi kesehatan.
 
-Here is how to find it depending on your situation:
+Begini cara menemukannya sesuai situasimu:
 
-- **W-2 employees**: Look at the "net pay" line on your most recent pay stub. Multiply by the number of pay periods per year (26 for biweekly, 24 for semi-monthly, 12 for monthly) to get your annual after-tax income.
-- **Freelancers and 1099 workers**: Take your gross income and subtract estimated quarterly tax payments plus self-employment tax (currently 15.3% on the first $160,200 of net earnings in 2026).
-- **Multiple income streams**: Add all after-tax income together—W-2 job, side hustles, rental income, dividends.
+- **Karyawan tetap**: Lihat baris "gaji bersih" di slip gaji terbaru. Kalikan dengan jumlah periode gaji per tahun (26 untuk dua mingguan, 24 untuk dua kali sebulan, 12 untuk bulanan) untuk mendapatkan penghasilan bersih tahunan.
+- **Freelancer dan pekerja lepas**: Ambil penghasilan kotor lalu kurangi estimasi pembayaran pajak berkala dan iuran/biaya terkait kerja mandiri.
+- **Beberapa sumber penghasilan**: Jumlahkan semua penghasilan bersih—gaji utama, kerja sampingan, pendapatan sewa, dividen.
 
-### Quick Example
+### Contoh Singkat
 
-Let's say you earn $60,000 per year before taxes. After federal and state taxes, FICA, and health insurance, your take-home might be around $45,000, or $3,750 per month. Your 50/30/20 split looks like this:
+Misalnya kamu berpenghasilan Rp 900 juta per tahun sebelum pajak. Setelah pajak, potongan wajib, dan asuransi kesehatan, uang yang dibawa pulang mungkin sekitar Rp 675 juta, atau Rp 56,25 juta per bulan. Pembagian 50/30/20-nya jadi seperti ini:
 
-| Category | Percentage | Monthly Amount |
+| Kategori | Persentase | Jumlah Bulanan |
 |----------|-----------|----------------|
-| Needs | 50% | $1,875 |
-| Wants | 30% | $1,125 |
-| Savings | 20% | $750 |
+| Kebutuhan | 50% | Rp 28,1 juta |
+| Keinginan | 30% | Rp 16,9 juta |
+| Tabungan | 20% | Rp 11,25 juta |
 
-That $750 per month in savings adds up to $9,000 a year—enough to build a solid [emergency fund](/blog/emergency-fund-guide/) in about seven months or max out a Roth IRA ($7,000 limit in 2026) with room to spare.
+Tabungan Rp 11,25 juta per bulan berarti Rp 135 juta setahun—cukup untuk membangun [dana darurat](/blog/emergency-fund-guide/) yang kuat dalam beberapa bulan, atau menambah investasi secara konsisten.
 
-## Step 2: Sort Your Expenses Into the Three Buckets
+## Langkah 2: Kelompokkan Pengeluaran ke Tiga Pos
 
-This is where most people get tripped up. The line between needs and wants is not always obvious, so let me break it down clearly.
+Di sinilah banyak orang mulai bingung. Batas antara kebutuhan dan keinginan memang tidak selalu jelas, jadi saya akan jelaskan dengan sederhana.
 
-### Needs (50%)
+### Kebutuhan (50%)
 
-Needs are expenses that keep your life running. If you skipped them, your health, safety, or ability to earn income would be at risk.
+Kebutuhan adalah pengeluaran yang membuat hidupmu tetap berjalan. Kalau kamu melewatkannya, kesehatan, keamanan, atau kemampuanmu menghasilkan uang bisa terganggu.
 
-- Rent or mortgage payment
-- Utilities (electricity, water, gas, internet—yes, internet counts in 2026)
-- Groceries (not dining out)
-- Health insurance premiums and copays
-- Car payment and [auto insurance](/blog/car-insurance-comparison-2026/)
-- Gas or public transit for commuting
-- Minimum debt payments (student loans, credit cards)
-- Childcare
-- Renter's or homeowner's insurance
+- Sewa atau cicilan rumah
+- Tagihan utilitas (listrik, air, gas, internet—ya, internet sudah termasuk kebutuhan)
+- Belanja kebutuhan pokok
+- Premi asuransi kesehatan dan biaya berobat
+- Cicilan mobil dan [asuransi mobil](/blog/car-insurance-comparison-2026/)
+- Bensin atau transportasi umum untuk kerja
+- Pembayaran minimum utang
+- Biaya childcare/penitipan anak
+- Asuransi rumah atau asuransi penyewa
 
-### Wants (30%)
+### Keinginan (30%)
 
-Wants are everything that makes life enjoyable but that you could technically survive without.
+Keinginan adalah semua hal yang bikin hidup lebih nyaman dan menyenangkan, tapi sebenarnya masih bisa kamu jalani tanpa itu.
 
-- Dining out and takeout (including DoorDash and Uber Eats)
-- Streaming subscriptions (Netflix, Spotify, YouTube Premium)
-- Gym membership
-- Shopping for clothes beyond basics
-- Vacations and travel
-- Concert tickets, sporting events
-- Hobbies and entertainment
-- Upgraded phone plan beyond the basic tier
+- Makan di luar dan pesan antar
+- Langganan streaming (Netflix, Spotify, YouTube Premium)
+- Membership gym
+- Belanja baju di luar kebutuhan dasar
+- Liburan dan traveling
+- Tiket konser, acara olahraga
+- Hobi dan hiburan
+- Paket ponsel yang lebih mahal dari kebutuhan dasar
 
-### Savings and Debt Payoff (20%)
+### Tabungan dan Pelunasan Utang (20%)
 
-This bucket builds your future wealth and eliminates debt faster than minimum payments.
+Pos ini membangun kekayaan masa depanmu dan membantu melunasi utang lebih cepat daripada sekadar bayar minimum.
 
-- Emergency fund contributions (aim for 3-6 months of expenses)
-- 401(k) contributions beyond employer match
-- Roth IRA or Traditional IRA contributions
-- Extra payments on student loans or credit cards
-- Brokerage account investments
-- HSA contributions (if you have a high-deductible health plan)
-- Sinking funds for large future purchases
+- Setoran dana darurat (target 3–6 bulan pengeluaran)
+- Kontribusi ke DPLK/dana pensiun di luar kontribusi rutin
+- Kontribusi ke reksadana/investasi
+- Pembayaran ekstra untuk pinjaman atau kartu kredit
+- Investasi di rekening sekuritas
+- Setoran untuk tujuan besar di masa depan
 
-## Step 3: Audit Where You Stand Right Now
+## Langkah 3: Audit Posisi Keuanganmu Sekarang
 
-Pull your last three months of bank and credit card statements. Categorize every transaction into needs, wants, or savings. Most banking apps like Chase, Bank of America, and Capital One already auto-categorize spending, which makes this faster.
+Ambil mutasi rekening bank dan kartu kredit tiga bulan terakhir. Kelompokkan setiap transaksi ke dalam kebutuhan, keinginan, atau tabungan. Banyak aplikasi perbankan seperti BCA, Mandiri, Jago, dan Seabank sudah otomatis mengelompokkan pengeluaran, jadi proses ini jadi lebih cepat.
 
-Do not be shocked if your numbers are way off. When I first did this exercise, my "needs" were eating 68% of my income, wants took 25%, and I was saving a pathetic 7%. That wake-up call motivated me to make real changes.
+Jangan kaget kalau hasilnya jauh dari ideal. Waktu pertama kali saya melakukan ini, porsi "kebutuhan" saya makan 68% penghasilan, keinginan 25%, dan tabungan cuma 7%. Momen sadar itu membuat saya benar-benar berubah.
 
-### Common Problems Americans Find
+### Masalah Umum yang Sering Ditemukan
 
-- **Housing costs too high**: The general rule is to keep housing under 30% of gross income. If rent alone is eating 40%+ of your take-home, you may need a roommate, a cheaper area, or a side hustle to make the math work.
-- **Subscriptions creeping up**: The average American has 12 paid subscriptions totaling $219 per month. Cancel what you haven't used in 30 days.
-- **Car payments draining the budget**: The average new car payment is $734/month. If your car payment plus insurance plus gas exceeds 15% of take-home, you are car-poor.
+- **Biaya tempat tinggal terlalu tinggi**: Aturan umumnya, biaya tempat tinggal sebaiknya di bawah 30% dari penghasilan kotor. Kalau sewa saja sudah menyerap 40%+ dari uang yang dibawa pulang, mungkin kamu perlu teman sekamar, pindah ke area yang lebih murah, atau cari penghasilan tambahan.
+- **Langganan makin banyak diam-diam**: Banyak orang tidak sadar berapa banyak subscription yang aktif. Hentikan yang tidak kamu pakai dalam 30 hari terakhir.
+- **Cicilan mobil menguras anggaran**: Kalau cicilan mobil, asuransi, dan bensin melebihi 15% dari penghasilan bersih, kamu bisa jadi terlalu berat di kendaraan.
 
-## Step 4: Adjust Your Spending to Hit the Targets
+## Langkah 4: Sesuaikan Pengeluaran agar Mencapai Target
 
-You probably will not nail 50/30/20 in month one, and that is fine. Treat it as a direction, not a rigid law. Here is a realistic timeline:
+Kamu mungkin tidak langsung pas 50/30/20 di bulan pertama, dan itu wajar. Anggap ini sebagai arah, bukan hukum yang kaku. Ini timeline yang realistis:
 
-- **Month 1**: Track everything. Identify the biggest gaps.
-- **Month 2**: Cut 2-3 easy wins (cancel unused subscriptions, cook at home two more nights per week, switch to a cheaper phone plan).
-- **Month 3**: Automate your 20% savings. Set up auto-transfers to your savings account and increase your 401(k) contribution.
-- **Month 4 and beyond**: Fine-tune. Negotiate bills, refinance debt, explore ways to increase income.
+- **Bulan 1**: Catat semuanya. Temukan celah terbesar.
+- **Bulan 2**: Pangkas 2–3 hal yang paling mudah (batalkan subscription yang tidak dipakai, masak di rumah dua malam tambahan per minggu, pindah ke paket ponsel yang lebih murah).
+- **Bulan 3**: Otomatiskan 20% tabunganmu. Atur transfer otomatis ke rekening tabungan dan naikkan kontribusi DPLK/dana pensiun.
+- **Bulan 4 dan seterusnya**: Sempurnakan. Negosiasikan tagihan, restrukturisasi utang, dan cari cara menambah penghasilan.
 
-### Tools That Make It Easier
+### Alat yang Membuatnya Lebih Mudah
 
-- **YNAB (You Need A Budget)**: Great for hands-on budgeters. $14.99/month but pays for itself.
-- **Mint (Credit Karma)**: Free, auto-categorizes spending, shows your 50/30/20 breakdown.
-- **Google Sheets**: Set up a simple spreadsheet with three columns. No app needed.
-- **Your bank's built-in tools**: Chase Budget, Wells Fargo My Money Map, and similar features are free and automatic.
+- **YNAB (You Need A Budget)**: Cocok untuk yang suka budgeting detail. Berbayar, tapi sering terasa sepadan.
+- **Mint (Credit Karma)**: Gratis, otomatis mengelompokkan pengeluaran, dan menampilkan pembagian 50/30/20.
+- **Google Sheets**: Cukup buat spreadsheet sederhana dengan tiga kolom. Tidak perlu aplikasi khusus.
+- **Fitur bawaan bank**: Banyak bank punya fitur budgeting otomatis yang gratis dan praktis.
 
-## Step 5: Handle Edge Cases
+## Langkah 5: Hadapi Kasus-Kasus Khusus
 
-### What If You Live in a High-Cost City?
+### Kalau Kamu Tinggal di Kota dengan Biaya Hidup Tinggi?
 
-If you are in New York, San Francisco, Los Angeles, or another expensive metro, hitting 50% on needs might feel impossible. In that case, try a modified split like 60/20/20 or even 70/15/15 while you work on increasing your income.
+Kalau kamu tinggal di Jakarta, Surabaya, atau kota besar lain yang mahal, mencapai 50% untuk kebutuhan mungkin terasa mustahil. Dalam kasus ini, coba pembagian yang dimodifikasi seperti 60/20/20 atau bahkan 70/15/15 sambil fokus menaikkan penghasilan.
 
-The key is to always protect the savings bucket. Even 10% is better than nothing while you hustle to close the gap.
+Kuncinya tetap melindungi pos tabungan. Bahkan 10% pun lebih baik daripada nol saat kamu berusaha menutup selisih.
 
-### What About Irregular Income?
+### Kalau Penghasilanmu Tidak Tetap?
 
-Freelancers and gig workers can use the 50-30-20 rule too. Calculate your average monthly income over the past 6-12 months and budget off the lower end. In months where you earn more, funnel the extra into savings. In lean months, trim wants first.
+Freelancer dan pekerja gig juga bisa memakai aturan 50/30/20. Hitung rata-rata penghasilan bulanan dari 6–12 bulan terakhir, lalu buat anggaran berdasarkan angka yang lebih konservatif. Saat penghasilan sedang tinggi, alihkan kelebihan ke tabungan. Saat bulan sepi, pangkas dulu pos keinginan.
 
-### What If You Have a Ton of Debt?
+### Kalau Kamu Punya Utang Banyak?
 
-Some financial advisors recommend a modified 50/30/20 where you flip the wants and savings buckets during debt payoff: 50% needs, 20% wants, 30% debt destruction. Once your high-interest debt is gone, switch back to the standard split.
+Beberapa penasihat keuangan menyarankan versi modifikasi 50/30/20 saat sedang fokus melunasi utang: 50% kebutuhan, 20% keinginan, 30% untuk membereskan utang. Begitu utang berbunga tinggi lunas, kamu bisa kembali ke pembagian standar.
 
-## The 50/30/20 Rule vs. Other Budgeting Methods
+## Aturan 50/30/20 vs. Metode Budgeting Lain
 
-| Method | Complexity | Best For |
+| Metode | Kompleksitas | Cocok untuk |
 |--------|-----------|----------|
-| 50/30/20 Rule | Low | People who want simplicity |
-| Zero-Based Budget | High | Detail-oriented planners |
-| Envelope Method | Medium | People who overspend on specific categories |
-| Pay Yourself First | Low | Savers who hate tracking spending |
-| 80/20 Rule | Very Low | Minimalists who just want to save 20% |
+| Aturan 50/30/20 | Rendah | Orang yang ingin sederhana |
+| Zero-Based Budget | Tinggi | Perencana yang detail |
+| Metode Amplop | Sedang | Orang yang sering boros di kategori tertentu |
+| Pay Yourself First | Rendah | Penabung yang tidak suka mencatat pengeluaran |
+| Aturan 80/20 | Sangat rendah | Minimalis yang hanya ingin menabung 20% |
 
-The 50-30-20 rule hits the sweet spot between too simple and too complicated. It gives you enough structure to make progress without requiring you to track every dollar.
+Aturan 50/30/20 ada di titik tengah yang pas antara terlalu sederhana dan terlalu rumit. Cukup terstruktur untuk membuatmu maju, tanpa harus mencatat setiap rupiah.
 
-## Real Results: What Happens After 30 Days
+## Hasil Nyata: Apa yang Terjadi Setelah 30 Hari
 
-When I committed to the 50-30-20 rule for one month, here is what changed:
+Saat saya berkomitmen menjalankan aturan 50/30/20 selama satu bulan, ini yang berubah:
 
-- I canceled four subscriptions I had forgotten about ($67/month saved)
-- I cooked dinner at home four nights a week instead of two ($240/month saved)
-- I set up an automatic $750 transfer to my [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account on payday
-- My stress about money dropped because I had a simple system that worked
+- Saya membatalkan empat subscription yang ternyata masih aktif dan lupa saya pakai
+- Saya masak di rumah empat malam seminggu, bukan dua
+- Saya mengatur transfer otomatis Rp 11,25 juta ke rekening [tabungan berbunga tinggi](/blog/best-high-yield-savings-accounts-2026/) setiap kali gajian
+- Stres saya soal uang turun karena saya punya sistem sederhana yang benar-benar bekerja
 
-After six months, I had $4,500 in my emergency fund—more than I had saved in the previous two years combined. After a year, my Roth IRA was maxed and I was investing an extra $200/month in [index funds](/blog/index-fund-investing-guide/).
+Setelah enam bulan, dana darurat saya mencapai Rp 67,5 juta—lebih banyak daripada total tabungan saya selama dua tahun sebelumnya. Setelah setahun, reksadana/investasi saya sudah maksimal sesuai target, dan saya menambah investasi Rp 3 juta per bulan di [reksadana indeks](/blog/index-fund-investing-guide/).
 
-The 50-30-20 rule is not magic. It is just math plus consistency. But that combination is powerful enough to transform your financial life.
+Aturan 50/30/20 bukan sihir. Ini cuma matematika plus konsistensi. Tapi kombinasi itu cukup kuat untuk mengubah hidup keuanganmu.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is the 50-30-20 rule realistic for someone making minimum wage?
+### Apakah aturan 50/30/20 realistis untuk orang bergaji UMR?
 
-It is tough. At the federal minimum wage of $7.25/hour (about $1,160/month take-home), 50% for needs is only $580, which will not cover rent in most US cities. In this situation, focus on increasing income through overtime, a second job, or skill development while keeping savings at whatever percentage you can manage—even 5% builds the habit.
+Sulit. Dengan UMR sekitar Rp 4,5 juta per bulan, 50% untuk kebutuhan hanya sekitar Rp 2,25 juta, yang jelas tidak cukup untuk sewa di banyak kota besar. Dalam situasi ini, fokuslah menaikkan penghasilan lewat lembur, kerja sampingan, atau peningkatan skill sambil tetap menabung berapa pun yang kamu bisa—bahkan 5% sudah membantu membentuk kebiasaan.
 
-### Should I use gross or net income for the 50/30/20 calculation?
+### Haruskah saya memakai penghasilan kotor atau bersih untuk menghitung 50/30/20?
 
-Always use net (after-tax) income. Your gross salary includes money you never actually see, like federal and state taxes, FICA, and pre-tax deductions. Using take-home pay gives you a realistic picture of what you actually have to work with.
+Selalu pakai penghasilan bersih setelah pajak. Gaji kotor mencakup uang yang sebenarnya tidak pernah kamu terima, seperti pajak dan potongan wajib. Menggunakan uang yang benar-benar masuk ke rekening membuat perhitunganmu lebih realistis.
 
-### Does my 401(k) employer match count toward the 20% savings?
+### Apakah match dari perusahaan untuk DPLK/dana pensiun dihitung sebagai bagian dari 20% tabungan?
 
-The employer match is free money, but I would not count it toward your 20%. Your 20% should come from your own after-tax income. Think of the employer match as a bonus on top of your plan. That said, always contribute enough to get the full match—it is an instant 50-100% return on your money.
+Match dari perusahaan itu uang gratis, tapi saya tidak akan menghitungnya sebagai bagian dari 20%. Porsi 20% sebaiknya berasal dari penghasilan bersihmu sendiri. Anggap match perusahaan sebagai bonus di luar rencana. Meski begitu, usahakan tetap setor cukup untuk mendapatkan match penuh—itu seperti imbal hasil instan yang sangat besar.
 
-### Can I adjust the percentages for my situation?
+### Bolehkah saya menyesuaikan persentasenya?
 
-Absolutely. The 50/30/20 split is a starting framework, not a rigid law. If you are aggressively paying off student loans, try 50/20/30 (with 30% going to debt). If you are already debt-free and want to [retire early](/blog/achieving-financial-independence-and-early-retirement-fire-movement/), aim for 50/20/30 savings. The percentages should serve your goals, not the other way around.
+Tentu saja. Pembagian 50/30/20 adalah kerangka awal, bukan aturan mutlak. Kalau kamu sedang agresif melunasi utang, coba 50/20/30 (dengan 30% untuk utang). Kalau kamu sudah bebas utang dan ingin [pensiun dini](/blog/achieving-financial-independence-and-early-retirement-fire-movement/), targetkan 50/20/30 untuk tabungan dan investasi. Persentasenya harus mendukung tujuanmu, bukan sebaliknya.
 
-### How do I handle expenses that blur the line between needs and wants?
+### Bagaimana cara menangani pengeluaran yang batasnya abu-abu antara kebutuhan dan keinginan?
 
-Ask yourself this: "If I lost my job tomorrow, would I still pay for this?" If yes, it is a need. If no, it is a want. A basic phone plan is a need; the unlimited premium plan with hotspot is partially a want. A basic gym membership could be a need if it supports your health, but a boutique fitness studio is a want.
+Tanyakan ini pada diri sendiri: "Kalau besok saya kehilangan pekerjaan, apakah saya tetap akan membayar ini?" Kalau jawabannya ya, itu kebutuhan. Kalau tidak, itu keinginan. Paket ponsel dasar adalah kebutuhan; paket premium unlimited dengan hotspot bisa jadi sebagian keinginan. Membership gym dasar bisa dianggap kebutuhan kalau mendukung kesehatanmu, tapi studio fitness premium jelas keinginan.

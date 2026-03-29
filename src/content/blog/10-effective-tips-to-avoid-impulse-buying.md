@@ -1,6 +1,6 @@
 ---
-title: "10 Ways to Stop Impulse Buying (Save $5,000/Year)"
-description: "Impulse buys drain $5,000+/year for the average American. These 10 proven tactics kill the urge before checkout."
+title: "10 Cara Menghentikan Belanja Impulsif"
+description: "Belanja impulsif bisa menguras Rp 75 juta/tahun. 10 cara ini bantu menahan godaan sebelum checkout."
 pubDate: 2026-03-01
 category: "personal-finance"
 tags: ["impulse buying", "stop impulse spending", "save money", "shopping addiction", "spending habits"]
@@ -10,176 +10,175 @@ heroImageAlt: '10 Ways to Stop Impulse Buying (Save $5,000/Year)'
 
 ---
 
-## The True Cost of Impulse Buying in America
+## Biaya Sebenarnya dari Belanja Impulsif di Amerika
 
-Impulse buying is not a character flaw—it is a billion-dollar industry designed to exploit your psychology. Retailers spend billions on store layouts, limited-time offers, one-click checkout, and targeted ads, all engineered to make you buy before you think.
+Belanja impulsif bukanlah kelemahan karakter—ini adalah industri bernilai miliaran dolar yang dirancang untuk memanfaatkan psikologi kamu. Para peritel menghabiskan miliaran untuk tata letak toko, promo terbatas, checkout satu klik, dan iklan tertarget, semuanya dibuat supaya kamu membeli sebelum sempat berpikir.
 
-And it works. According to a Slickdeals survey, the average American spends about $314 per month on impulse purchases. That is $3,768 per year. For many people, the number is closer to $5,000 when you include online shopping, in-app purchases, and subscription services you forgot to cancel.
+Dan itu berhasil. Menurut survei Slickdeals, rata-rata orang Amerika menghabiskan sekitar $314 per bulan untuk pembelian impulsif. Itu setara dengan sekitar Rp 4,7 juta per bulan, atau Rp 57 juta per tahun. Bagi banyak orang, angkanya mendekati Rp 75 juta kalau sudah termasuk belanja online, pembelian di aplikasi, dan langganan yang lupa dibatalkan.
 
-I used to be a chronic impulse buyer. Amazon one-click was my worst enemy. I would order something at 11 PM, forget about it by morning, and then be confused when a package showed up three days later. My credit card statement was a graveyard of things I did not need.
+Saya dulu juga pembeli impulsif kronis. Fitur satu klik Amazon adalah musuh terbesar saya. Saya bisa pesan sesuatu jam 11 malam, lalu lupa keesokan paginya, dan bingung saat paketnya datang tiga hari kemudian. Tagihan kartu kredit saya penuh dengan barang-barang yang sebenarnya tidak saya butuhkan.
 
-It took me about six months to break the habit using the strategies below. My impulse spending dropped from roughly $400/month to under $50. That freed up over $4,000 a year—enough to max out a Roth IRA.
+Butuh sekitar enam bulan bagi saya untuk memutus kebiasaan itu dengan strategi di bawah ini. Pengeluaran impulsif saya turun dari kira-kira Rp 6 juta per bulan menjadi di bawah Rp 750 ribu. Itu membebaskan lebih dari Rp 60 juta setahun—cukup untuk memaksimalkan dana pensiun.
 
-Here are the ten tactics that worked.
+Berikut sepuluh taktik yang berhasil.
 
-## 1. Implement the 24-Hour Rule
+## 1. Terapkan Aturan 24 Jam
 
-This is the single most effective anti-impulse strategy I have ever used. The rule is simple: before buying anything non-essential over $25, wait 24 hours.
+Ini adalah strategi anti-impuls paling efektif yang pernah saya pakai. Aturannya sederhana: sebelum membeli apa pun yang tidak penting dan harganya di atas Rp 375 ribu, tunggu 24 jam.
 
-Write it down in your phone's notes app or a dedicated list. Include the item, the price, and where you saw it. Then walk away. Sleep on it. If you still want it tomorrow—and it fits your budget—buy it guilt-free.
+Tulis di aplikasi catatan di ponsel atau daftar khusus. Cantumkan barangnya, harganya, dan kamu melihatnya di mana. Lalu tinggalkan dulu. Tidur dulu. Kalau besok kamu masih menginginkannya—dan memang masuk budget—silakan beli tanpa rasa bersalah.
 
-### Why It Works
+### Kenapa Ini Bekerja
 
-The urge to impulse buy is driven by dopamine—the anticipation of getting something new. That dopamine spike fades within hours. By forcing a delay, you let the chemical high wear off and make the decision with your rational brain instead.
+Dorongan belanja impulsif dipicu oleh dopamin—rasa antisipasi saat membayangkan mendapatkan barang baru. Lonjakan dopamin itu biasanya memudar dalam beberapa jam. Dengan memaksa jeda, kamu membiarkan euforia itu hilang dan mengambil keputusan dengan bagian otak yang lebih rasional.
 
-In my experience, about 70% of items on my "wait 24 hours" list never get purchased. The desire simply evaporates overnight.
+Dari pengalaman saya, sekitar 70% barang di daftar “tunggu 24 jam” saya tidak pernah jadi dibeli. Keinginannya hilang begitu saja keesokan harinya.
 
-### Make It Automatic
+### Bikin Jadi Otomatis
 
-- **Amazon**: Remove one-click purchasing. Add items to a "Save for Later" list instead of the cart.
-- **In stores**: Take a photo of the item instead of putting it in your cart. Review photos the next day.
-- **Subscription boxes**: Cancel them. They are engineered to create impulse buys disguised as convenience.
+- **Marketplace dan e-commerce**: Hapus fitur checkout satu klik. Simpan barang ke daftar “Beli Nanti” вместо langsung ke keranjang.
+- **Di toko**: Foto barangnya, jangan langsung masukkan ke keranjang. Review fotonya besok.
+- **Paket langganan**: Batalkan. Banyak yang memang dirancang untuk memicu pembelian impulsif dengan kedok kemudahan.
 
-## 2. Unsubscribe From Marketing Emails
+## 2. Berhenti Berlangganan Email Marketing
 
-The average American receives 120+ emails per day, and a huge chunk of those are promotional. Every "Flash Sale — 40% Off Today Only!" email is a trigger engineered to create urgency.
+Rata-rata orang Amerika menerima lebih dari 120 email per hari, dan sebagian besar isinya promosi. Setiap email “Flash Sale — Diskon 40% Hari Ini Saja!” adalah pemicu yang sengaja dibuat untuk menciptakan rasa urgensi.
 
-### How to Clean Up Your Inbox
+### Cara Merapikan Inbox
 
-- **Unroll.me**: Free service that shows all your email subscriptions in one list. Unsubscribe with one click.
-- **Gmail**: Search "unsubscribe" to find all promotional emails. Mass unsubscribe over a weekend.
-- **Apple Mail / Outlook**: Use the built-in unsubscribe links.
+- **Unroll.me**: Layanan gratis yang menampilkan semua langganan email kamu dalam satu daftar. Berhenti berlangganan dengan satu klik.
+- **Gmail**: Cari kata “unsubscribe” untuk menemukan email promosi. Berhenti berlangganan massal di akhir pekan.
+- **Apple Mail / Outlook**: Gunakan tautan unsubscribe bawaan.
 
-I unsubscribed from 47 retail email lists in one afternoon. My impulse purchases dropped by roughly 30% that month alone, simply because I was not being tempted six times a day.
+Saya berhenti berlangganan dari 47 daftar email ritel dalam satu sore. Pembelian impulsif saya turun sekitar 30% di bulan itu saja, hanya karena saya tidak lagi digoda enam kali sehari.
 
-### Block Shopping Notifications
+### Blokir Notifikasi Belanja
 
-While you are at it, turn off push notifications from Amazon, Target, Walmart, and any other shopping apps. Delete the apps entirely if you can—you can always access the websites through a browser when you actually need something.
+Sekalian, matikan notifikasi push dari aplikasi belanja seperti Tokopedia, Shopee, dan aplikasi lain yang bikin kamu tergoda. Kalau bisa, hapus aplikasinya sekalian—kamu tetap bisa buka situsnya lewat browser saat benar-benar butuh.
 
-## 3. Use the "Cost Per Use" Framework
+## 3. Pakai Kerangka “Biaya per Pemakaian”
 
-Before buying anything, calculate how many times you will realistically use it and divide the price by that number. This reframes the purchase in terms of actual value.
+Sebelum membeli apa pun, hitung berapa kali kamu benar-benar akan memakainya lalu bagi harganya dengan jumlah itu. Ini membantu kamu melihat nilai barang secara lebih nyata.
 
-| Item | Price | Estimated Uses | Cost Per Use |
-|------|-------|---------------|-------------|
-| $150 jacket worn twice | $150 | 2 | $75/wear |
-| $150 jacket worn 100 times | $150 | 100 | $1.50/wear |
-| $50 kitchen gadget used once | $50 | 1 | $50/use |
-| $200 running shoes worn 300 times | $200 | 300 | $0.67/wear |
+| Barang | Harga | Perkiraan Pemakaian | Biaya per Pemakaian |
+|------|-------|---------------------|---------------------|
+| Jaket Rp 2,25 juta dipakai 2 kali | Rp 2,25 juta | 2 | Rp 1,125 juta/pakai |
+| Jaket Rp 2,25 juta dipakai 100 kali | Rp 2,25 juta | 100 | Rp 22.500/pakai |
+| Alat dapur Rp 750 ribu dipakai sekali | Rp 750 ribu | 1 | Rp 750 ribu/pakai |
+| Sepatu lari Rp 3 juta dipakai 300 kali | Rp 3 juta | 300 | Rp 10 ribu/pakai |
 
-When you frame purchases this way, expensive items that get heavy use become good deals, and cheap items that collect dust become obvious wastes. That $9.99 gadget from a TikTok ad? If you use it once, it cost $9.99 per use. The $200 running shoes you wear daily? Pennies per use.
+Kalau kamu melihat belanja dengan cara ini, barang mahal yang sering dipakai bisa jadi justru hemat, sementara barang murah yang cuma jadi pajangan terlihat jelas sebagai pemborosan. Gadget Rp 150 ribu dari iklan TikTok? Kalau cuma dipakai sekali, biayanya Rp 150 ribu per pemakaian. Sepatu lari Rp 3 juta yang kamu pakai tiap hari? Hanya beberapa ribu rupiah per pemakaian.
 
-## 4. Leave Your Credit Cards at Home
+## 4. Tinggalkan Kartu Kredit di Rumah
 
-This sounds old-fashioned, but it works because it adds friction. When you carry only cash or a debit card with a low balance, impulse purchases become physically harder.
+Ini terdengar kuno, tapi efektif karena menambah hambatan. Saat kamu cuma bawa uang tunai atau kartu debit dengan saldo terbatas, belanja impulsif jadi lebih sulit dilakukan secara fisik.
 
-### Practical Approaches
+### Cara Praktis
 
-- **Remove credit cards from Apple Pay and Google Pay.** Tap-to-pay makes spending too seamless.
-- **Delete saved card info from online stores.** Having to type in your card number gives you a pause to reconsider.
-- **Freeze your credit cards.** Literally—put them in a ziplock bag of water and stick it in the freezer. By the time it thaws, the impulse is gone. (This is a real Dave Ramsey technique.)
-- **Carry a set cash amount for discretionary spending.** When the cash is gone, you are done for the week.
+- **Hapus kartu dari Apple Pay dan Google Pay.** Tap-to-pay bikin belanja terlalu mulus.
+- **Hapus data kartu yang tersimpan di toko online.** Harus mengetik nomor kartu memberi kamu jeda untuk berpikir ulang.
+- **Bekukan kartu kreditmu.** Secara harfiah—masukkan kartu ke kantong ziplock berisi air lalu simpan di freezer. Saat sudah mencair, dorongan impulsnya biasanya hilang. (Ini teknik nyata ala Dave Ramsey.)
+- **Bawa uang tunai dengan jumlah tertentu untuk pengeluaran bebas.** Kalau uangnya habis, selesai sudah untuk minggu itu.
 
-## 5. Create a "Fun Money" Category in Your Budget
+## 5. Buat Kategori “Uang Senang-senang” di Budget
 
-Trying to eliminate all discretionary spending is like trying to eliminate all snacking—it leads to binging. Instead, give yourself a guilt-free "fun money" allocation each month.
+Mencoba menghilangkan semua pengeluaran bebas itu seperti mencoba menghilangkan semua camilan—ujungnya malah balas dendam makan. Sebaliknya, sisihkan alokasi “uang senang-senang” tiap bulan tanpa rasa bersalah.
 
-The amount depends on your income and goals, but $50-$200/month is a reasonable range for most Americans. This money is yours to blow on anything—no judgment, no tracking, no guilt.
+Besarnya tergantung penghasilan dan tujuan kamu, tapi Rp 750 ribu–Rp 3 juta per bulan adalah kisaran yang masuk akal untuk banyak orang. Uang ini bebas kamu pakai untuk apa saja—tanpa dihakimi, tanpa dicatat, tanpa rasa bersalah.
 
-### Why This Prevents Impulse Buying
+### Kenapa Ini Mencegah Belanja Impulsif
 
-When you know you have $150 in fun money this month, you become more selective about what you spend it on. Instead of mindlessly buying five $30 items, you might save it all for one thing you actually want. The constraint forces intentionality.
+Saat kamu tahu punya Rp 2,25 juta uang senang-senang bulan ini, kamu jadi lebih selektif dalam membelanjakannya. Alih-alih membeli lima barang Rp 450 ribu secara asal, kamu mungkin menabung semuanya untuk satu barang yang benar-benar kamu inginkan. Batasan ini memaksa kamu lebih sengaja dalam mengambil keputusan.
 
-## 6. Avoid Shopping as Entertainment
+## 6. Hindari Belanja sebagai Hiburan
 
-Americans spend an average of 37 minutes per day browsing online shopping sites. That is over four hours per week of window shopping—and window shopping leads to buying.
+Orang Amerika rata-rata menghabiskan 37 menit per hari untuk browsing situs belanja online. Itu lebih dari empat jam per minggu hanya untuk “lihat-lihat”—dan lihat-lihat sering berujung beli.
 
-### Replacement Activities
+### Aktivitas Pengganti
 
-When you feel the urge to browse Amazon or scroll through Target's app, do one of these instead:
+Saat kamu ingin buka marketplace atau scroll aplikasi belanja, lakukan salah satu ini:
 
-- Take a walk (free, and clears your head)
-- Call a friend
-- Read a book or listen to a podcast
-- Work on a hobby that does not involve buying supplies
-- Exercise
-- Clean or organize your home (seeing what you already own reduces the desire for more)
+- Jalan kaki (gratis, dan bikin pikiran lebih segar)
+- Telepon teman
+- Baca buku atau dengarkan podcast
+- Kerjakan hobi yang tidak butuh beli perlengkapan baru
+- Olahraga
+- Bersih-bersih atau merapikan rumah (melihat barang yang sudah kamu punya biasanya mengurangi keinginan untuk menambah lagi)
 
-The boredom that triggers shopping can be redirected. After a few weeks, your brain stops associating "I am bored" with "I should buy something."
+Rasa bosan yang memicu belanja bisa dialihkan. Setelah beberapa minggu, otak kamu berhenti menghubungkan “saya bosan” dengan “saya harus beli sesuatu.”
 
-## 7. Use the "One In, One Out" Rule
+## 7. Pakai Aturan “Satu Masuk, Satu Keluar”
 
-For every new item you bring into your home, one existing item must leave (donated, sold, or trashed). This forces you to evaluate whether the new purchase is really worth displacing something you already own.
+Untuk setiap barang baru yang kamu bawa ke rumah, satu barang lama harus keluar (disumbangkan, dijual, atau dibuang). Ini memaksa kamu menilai apakah pembelian baru itu benar-benar layak menggantikan sesuatu yang sudah kamu punya.
 
-### How It Changes Your Thinking
+### Cara Ini Mengubah Cara Pikir
 
-When I started this rule, I found myself putting items back on the shelf constantly. "Do I want this $40 shirt enough to get rid of one I already own?" Usually, the answer was no.
+Saat saya mulai menerapkan aturan ini, saya jadi sering menaruh barang kembali ke rak. “Apakah saya benar-benar mau kaus Rp 600 ribu ini sampai harus menyingkirkan kaus yang sudah saya punya?” Biasanya jawabannya tidak.
 
-This rule also keeps clutter in check, which has its own mental health benefits. A cluttered home increases cortisol (stress hormone) levels, and reducing clutter can improve focus and sleep quality.
+Aturan ini juga membantu menjaga rumah tetap rapi, yang punya manfaat untuk kesehatan mental. Rumah yang berantakan meningkatkan kadar kortisol (hormon stres), dan mengurangi barang berantakan bisa membantu fokus serta kualitas tidur.
 
-## 8. Track Every Purchase for 30 Days
+## 8. Catat Semua Pembelian Selama 30 Hari
 
-Awareness is the foundation of change. For one month, write down every single purchase—amount, item, and whether it was planned or unplanned.
+Kesadaran adalah dasar perubahan. Selama satu bulan, tulis setiap pembelian—jumlahnya, barangnya, dan apakah itu direncanakan atau tidak.
 
-### What You Will Discover
+### Yang Akan Kamu Temukan
 
-- Categories where unplanned spending clusters (coffee shops, Amazon, convenience stores)
-- Times of day when you are most vulnerable (late night, lunch breaks, weekends)
-- Emotional triggers (stress, boredom, celebration, social pressure)
-- The total dollar amount of unplanned purchases (this number shocks most people)
+- Kategori pengeluaran impulsif yang menumpuk (kedai kopi, marketplace, minimarket)
+- Waktu paling rentan (larut malam, jam istirahat siang, akhir pekan)
+- Pemicu emosional (stres, bosan, merayakan sesuatu, tekanan sosial)
+- Total nominal pembelian tidak terencana (angka ini biasanya mengejutkan banyak orang)
 
-Use a simple notes app, a spreadsheet, or a dedicated tracking app like Mint or YNAB. The act of recording purchases creates a moment of reflection before each transaction.
+Pakai aplikasi catatan sederhana, spreadsheet, atau aplikasi pencatat budget seperti Money Lover atau YNAB. Kebiasaan mencatat pembelian menciptakan momen refleksi sebelum setiap transaksi.
 
-After my 30-day tracking experiment, I discovered I was spending $180/month at coffee shops—not because I loved coffee that much, but because it was a habit tied to my morning commute. I bought a $30 travel mug and a $20 bag of good beans, and cut that category to $30/month.
+Setelah eksperimen pencatatan 30 hari, saya sadar saya menghabiskan Rp 2,7 juta per bulan di kedai kopi—bukan karena saya sangat suka kopi, tapi karena itu sudah jadi kebiasaan saat berangkat kerja. Saya beli tumbler Rp 450 ribu dan kopi biji bagus seharga Rp 300 ribu, lalu menurunkan kategori itu jadi sekitar Rp 450 ribu per bulan.
 
-## 9. Set Specific Financial Goals
+## 9. Tetapkan Tujuan Keuangan yang Spesifik
 
-Impulse buying thrives in a vacuum. When you do not have clear financial goals, spending money feels harmless because there is nothing competing for those dollars.
+Belanja impulsif tumbuh subur di ruang kosong. Saat kamu tidak punya tujuan keuangan yang jelas, menghabiskan uang terasa tidak berbahaya karena tidak ada yang “bersaing” memperebutkan uang itu.
 
-But when you have specific, exciting goals, every impulse purchase has an opportunity cost.
+Tapi saat kamu punya tujuan yang spesifik dan menarik, setiap pembelian impulsif punya biaya kesempatan.
 
-### Powerful Goal Examples
+### Contoh Tujuan yang Kuat
 
-- "I am saving $5,000 for a trip to Europe next June"
-- "I am paying off $8,000 in [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) by December"
-- "I am building a $15,000 [emergency fund](/blog/emergency-fund-guide/) this year"
-- "I am maxing my Roth IRA at $7,000 for tax-free retirement growth"
+- “Saya menabung Rp 75 juta untuk liburan ke Eropa Juni tahun depan”
+- “Saya melunasi utang kartu kredit Rp 120 juta sebelum Desember”
+- “Saya membangun dana darurat Rp 225 juta tahun ini”
+- “Saya memaksimalkan dana pensiun untuk pertumbuhan jangka panjang bebas pajak”
 
-Put your goal somewhere visible—your phone lock screen, a sticky note on your monitor, a photo on your wallet. When the impulse strikes, that visual reminder asks: "Is this $40 gadget more important than your Europe trip?"
+Taruh tujuan kamu di tempat yang mudah terlihat—layar kunci ponsel, sticky note di monitor, atau foto di dompet. Saat dorongan impuls muncul, pengingat visual itu bertanya: “Apakah gadget Rp 600 ribu ini lebih penting daripada liburan ke Eropa?”
 
-### Use a Savings Tracker
+### Pakai Tracker Tabungan
 
-Visual progress trackers work. Whether it is a thermometer chart on your fridge or a progress bar in your banking app, watching your savings grow creates its own dopamine hit—one that competes with the shopping dopamine.
+Pelacak progres visual itu efektif. Entah berupa grafik termometer di kulkas atau progress bar di aplikasi bank, melihat tabungan bertambah menciptakan dorongan dopamin sendiri—yang bersaing dengan dopamin dari belanja.
 
-## 10. Practice the "Will I Use This Next Week?" Test
+## 10. Terapkan Tes “Apakah Saya Akan Memakai Ini Minggu Depan?”
 
-Before adding anything to your cart—online or in-store—ask: "Will I use this within the next seven days?" If the answer is no or "maybe," put it back.
+Sebelum memasukkan apa pun ke keranjang—online maupun di toko—tanya: “Apakah saya akan memakai ini dalam tujuh hari ke depan?” Kalau jawabannya tidak atau “mungkin”, taruh kembali.
 
-This test eliminates the two biggest categories of impulse waste:
+Tes ini menghilangkan dua kategori pemborosan impulsif terbesar:
 
-- **Aspirational purchases**: Things you buy for the person you wish you were (exercise equipment you will not use, cookbooks you will not read, craft supplies for a hobby you will not start)
-- **Future purchases**: Things you might need someday but definitely do not need now (bulk items without storage space, clothes for events that do not exist yet)
+- **Pembelian aspiratif**: Barang yang kamu beli untuk versi diri yang kamu harapkan (alat olahraga yang tidak akan dipakai, buku masak yang tidak akan dibaca, perlengkapan kerajinan untuk hobi yang belum tentu dimulai)
+- **Pembelian masa depan**: Barang yang mungkin dibutuhkan suatu hari nanti, tapi jelas tidak dibutuhkan sekarang (beli banyak tanpa tempat penyimpanan, baju untuk acara yang belum ada)
 
-If you genuinely need it next week, buy it. If not, it goes on the 24-hour list. This simple filter has probably saved me more money than any other rule on this list.
+Kalau memang benar-benar dibutuhkan minggu depan, beli. Kalau tidak, masukkan ke daftar tunggu 24 jam. Filter sederhana ini mungkin sudah menghemat uang saya lebih banyak daripada aturan lain di daftar ini.
 
-## Building an Anti-Impulse System
+## Membangun Sistem Anti-Impuls
 
-These ten tactics work best when combined into a system:
+Sepuluh taktik ini paling efektif kalau digabung jadi satu sistem:
 
-1. **Prevention**: Unsubscribe from marketing, delete shopping apps, remove saved cards
-2. **Pause**: Apply the 24-hour rule and cost-per-use calculation
-3. **Planning**: [financial goals](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/), create a fun money category, track spending
-4. **Physical barriers**: Use cash, leave cards at home, add friction
+1. **Pencegahan**: Berhenti berlangganan marketing, hapus aplikasi belanja, hilangkan kartu tersimpan
+2. **Jeda**: Terapkan aturan 24 jam dan hitung biaya per pemakaian
+3. **Perencanaan**: [tujuan keuangan](/blog/comprehensive-guide-to-setting-financial-goals-for-beginners/), buat kategori uang senang-senang, catat pengeluaran
+4. **Hambatan fisik**: Pakai uang tunai, tinggalkan kartu di rumah, tambah friksi
 
-You do not need to implement all ten at once. Start with the 24-hour rule and the email unsubscribe purge. Those two alone can cut impulse spending by 30-40%. Add more tactics as you build momentum.
+Kamu tidak perlu menerapkan semuanya sekaligus. Mulailah dari aturan 24 jam dan bersih-bersih email promosi. Dua hal itu saja sudah bisa memangkas belanja impulsif 30–40%. Tambahkan taktik lain seiring kamu membangun momentum.
 
-### What $5,000 in Saved Impulse Money Can Do
+### Apa yang Bisa Dilakukan Rp 75 Juta dari Uang Impuls yang Dihemat
 
-- Max out a Roth IRA ($7,000 limit) in under 18 months
-- Build a solid emergency fund
-- Pay off a credit card balance
-- Fund a real vacation instead of accumulating stuff
-- Invest in [index funds](/blog/index-fund-investing-guide/) that grow for decades
+- Memaksimalkan dana pensiun dalam waktu kurang dari 18 bulan
+- Membangun dana darurat yang solid
+- Melunasi saldo kartu kredit
+- Membiayai liburan sungguhan, bukan sekadar menumpuk barang
+- Berinvestasi di [reksadana indeks](/blog/index-fund-investing-guide/) yang tumbuh selama puluhan tahun
 
-The things you do not buy can be more valuable than the things you do.
-
+Barang yang tidak kamu beli bisa jadi lebih berharga daripada barang yang kamu beli.

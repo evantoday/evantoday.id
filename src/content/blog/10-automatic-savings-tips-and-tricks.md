@@ -1,6 +1,6 @@
 ---
-title: "10 Automatic Savings Tricks That Build Wealth"
-description: "Set up once, save $5,000+/year on autopilot. These 10 automatic savings tricks grow your money without thinking—from round-ups to paycheck splitting."
+title: "10 Trik Menabung Otomatis untuk Bangun Kekayaan"
+description: "Atur sekali, lalu hemat Rp 75 juta+/tahun secara otomatis. 10 trik ini bikin uangmu tumbuh tanpa perlu mikir."
 pubDate: 2026-02-25
 category: "personal-finance"
 tags: ["automatic savings", "save money", "round-up savings", "paycheck splitting", "wealth building"]
@@ -10,190 +10,189 @@ heroImageAlt: '10 Automatic Savings Tricks That Build Wealth'
 
 ---
 
-## Why Automatic Savings Beat Willpower Every Time
+## Kenapa Menabung Otomatis Selalu Lebih Ampuh daripada Niat
 
-Here is an uncomfortable truth: willpower is a terrible savings strategy. You wake up motivated on Monday, and by Friday you are ordering takeout and impulse-buying something off Instagram. I have been there more times than I care to admit.
+Ada satu kenyataan yang agak tidak nyaman: niat itu strategi menabung yang buruk. Hari Senin kamu semangat, tapi Jumat kamu sudah pesan makanan online dan beli barang impulsif dari Instagram. Saya sudah terlalu sering ada di posisi itu.
 
-The solution is to remove yourself from the equation entirely. Automatic savings systems move money before you can spend it, before you can talk yourself out of it, and before life gets in the way. It is the financial equivalent of putting your alarm clock across the room—you engineer the outcome you want.
+Solusinya adalah mengeluarkan diri kamu dari persamaan. Sistem menabung otomatis memindahkan uang sebelum kamu sempat membelanjakannya, sebelum kamu berubah pikiran, dan sebelum hidup mengacaukan rencana. Ini seperti menaruh alarm di seberang kamar—kamu sengaja mengatur hasil yang kamu mau.
 
-Americans who automate their savings save an average of 3-4 times more than those who rely on manual transfers. That is not a small difference. Over a career, it can mean the difference between retiring comfortably at 60 and working until 70.
+Orang yang menabung secara otomatis rata-rata bisa menabung 3–4 kali lebih banyak dibanding mereka yang mengandalkan transfer manual. Bedanya besar sekali. Dalam jangka karier, ini bisa berarti beda antara pensiun nyaman di usia 60 atau masih bekerja sampai 70.
 
-Here are ten automatic savings tricks I use or have tested, ranked from simplest to most impactful.
+Berikut sepuluh trik menabung otomatis yang saya pakai atau pernah saya uji, dari yang paling sederhana sampai yang paling berdampak.
 
-## 1. Split Your Direct Deposit
+## 1. Pisahkan Gaji Otomatis
 
-Most employers let you split your paycheck between multiple accounts. Instead of depositing everything into checking and hoping to transfer savings later, have your employer send a fixed amount or percentage directly to a savings account.
+Banyak perusahaan membolehkan kamu membagi gaji ke beberapa rekening. Jadi, alih-alih semua gaji masuk ke rekening utama lalu berharap nanti sempat dipindahkan, minta HR atau bagian payroll mengirim sejumlah tetap atau persentase tertentu langsung ke rekening tabungan.
 
-### How to Set It Up
+### Cara Mengaturnya
 
-- Ask your HR department or payroll admin for a direct deposit form
-- List your savings account as a secondary deposit destination
-- Choose either a flat dollar amount (e.g., $500 per paycheck) or a percentage (e.g., 15%)
-- The rest goes to checking as usual
+- Minta formulir direct deposit ke HR atau admin payroll
+- Cantumkan rekening tabungan sebagai tujuan transfer kedua
+- Pilih jumlah tetap (misalnya Rp 7,5 juta per gaji) atau persentase (misalnya 15%)
+- Sisanya masuk ke rekening utama seperti biasa
 
-This is the single most effective automatic savings trick because the money never touches your checking account. You literally never see it, so you never miss it. After two or three pay cycles, your brain adjusts to living on the lower amount.
+Ini trik menabung otomatis paling efektif karena uangnya tidak pernah mampir ke rekening belanja. Kamu benar-benar tidak melihatnya, jadi kamu juga tidak merasa kehilangannya. Setelah dua atau tiga kali gajian, otakmu akan terbiasa hidup dengan jumlah yang lebih kecil.
 
-## 2. Use Round-Up Savings Apps
+## 2. Pakai Aplikasi Pembulatan Belanja
 
-Round-up apps automatically round each purchase to the nearest dollar and invest or save the spare change. A $4.37 coffee becomes $5.00, and the $0.63 difference goes to savings.
+Aplikasi pembulatan otomatis akan membulatkan setiap transaksi ke nominal terdekat dan menyimpan atau menginvestasikan sisa recehnya. Kopi Rp 65 ribu jadi Rp 70 ribu, lalu selisih Rp 5 ribu masuk ke tabungan.
 
-### Best Round-Up Apps for Americans
+### Aplikasi Pembulatan Terbaik
 
-| App | Round-Up Feature | Where Money Goes | Monthly Fee |
+| Aplikasi | Fitur Pembulatan | Uang Masuk ke | Biaya Bulanan |
 |-----|-----------------|-----------------|-------------|
-| Acorns | Every purchase rounded up | Invested in ETF portfolios | $3-$12/month |
-| Chime | Every purchase rounded up | Chime savings account | Free |
-| Bank of America (Keep the Change) | Every debit purchase | BofA savings account | Free |
-| Qapital | Customizable round-up rules | FDIC-insured account | $3-$12/month |
+| Acorns | Setiap transaksi dibulatkan | Portofolio ETF | Rp 45 ribu–Rp 180 ribu/bulan |
+| Chime | Setiap transaksi dibulatkan | Rekening tabungan Chime | Gratis |
+| Bank of America (Keep the Change) | Setiap transaksi debit | Rekening tabungan BofA | Gratis |
+| Qapital | Aturan pembulatan bisa disesuaikan | Rekening yang diasuransikan LPS | Rp 45 ribu–Rp 180 ribu/bulan |
 
-The average person saves $30-$50/month through round-ups alone. That is $360-$600/year from spare change you would never miss. Acorns takes it a step further by investing those round-ups into diversified portfolios, so your spare change grows over time.
+Rata-rata orang bisa menabung Rp 450 ribu–Rp 750 ribu/bulan hanya dari pembulatan. Itu berarti Rp 5,4 juta–Rp 9 juta/tahun dari receh yang nyaris tidak terasa. Acorns bahkan melangkah lebih jauh dengan menginvestasikan pembulatan itu ke portofolio terdiversifikasi, jadi recehmu ikut tumbuh dari waktu ke waktu.
 
-## 3. Automate Transfers on Payday
+## 3. Atur Transfer Otomatis Saat Gajian
 
-If your employer does not support split direct deposit, set up an automatic transfer from checking to savings that triggers on payday.
+Kalau perusahaanmu tidak mendukung pembagian gaji otomatis, atur transfer otomatis dari rekening utama ke tabungan yang berjalan setiap hari gajian.
 
-- Log into your bank's website or app
-- Set up a recurring transfer: checking to savings
-- Schedule it for the same day as your direct deposit
-- Start with an amount you will not miss—even $50 per paycheck
+- Masuk ke website atau aplikasi bankmu
+- Buat transfer berkala: dari rekening utama ke tabungan
+- Jadwalkan di hari yang sama dengan gajian
+- Mulai dari nominal yang tidak akan kamu rasakan—bahkan Rp 750 ribu per gaji
 
-### The Timing Trick
+### Trik Waktunya
 
-Schedule the transfer for the morning of payday. By the time you check your balance later that day, the savings transfer has already happened. Your "available" balance is already reduced, which means you budget off the lower number naturally.
+Jadwalkan transfer pada pagi hari saat gajian. Begitu kamu cek saldo nanti siang, transfer ke tabungan sudah terjadi duluan. Saldo “tersedia” kamu sudah berkurang, jadi kamu otomatis belajar budgeting dari angka yang lebih rendah.
 
-## 4. Enable Employer 401(k) Auto-Escalation
+## 4. Aktifkan Auto-Escalation di DPLK/Dana Pensiun
 
-Many employer 401(k) plans offer an auto-escalation feature that increases your contribution rate by 1% each year automatically. If you are contributing 6% this year, you will contribute 7% next year without lifting a finger.
+Banyak program DPLK atau dana pensiun dari kantor punya fitur auto-escalation yang menaikkan kontribusi kamu 1% setiap tahun secara otomatis. Kalau tahun ini kamu menyetor 6%, tahun depan jadi 7% tanpa perlu melakukan apa-apa.
 
-### Why This Is Brilliant
+### Kenapa Ini Cerdas
 
-- A 1% annual increase is barely noticeable in your paycheck (about $30-$50/month on a $60,000 salary)
-- Over 10 years, you go from 6% to 16%—enough to build serious retirement wealth
-- Combined with an employer match (typically 3-6%), you could be saving 20%+ for retirement without feeling the pinch
-- Contributions are pre-tax (Traditional 401(k)), so the impact on take-home pay is even smaller than you think
+- Kenaikan 1% per tahun nyaris tidak terasa di gaji bulanan
+- Dalam 10 tahun, kontribusimu bisa naik dari 6% ke 16%—cukup untuk membangun kekayaan pensiun yang serius
+- Ditambah matching dari perusahaan (biasanya 3–6%), kamu bisa menabung 20%+ untuk pensiun tanpa merasa terlalu berat
+- Kontribusi pre-tax pada skema tertentu membuat dampaknya ke take-home pay lebih kecil dari yang kamu kira
 
-Check with your HR department or 401(k) plan administrator to enable this feature. If your plan does not offer it, set a calendar reminder to manually increase by 1% every January.
+Cek ke HR atau admin program pensiunmu untuk mengaktifkan fitur ini. Kalau programmu belum punya, pasang pengingat kalender untuk menaikkan kontribusi 1% setiap Januari.
 
-## 5. Use a High-Yield Savings Account
+## 5. Pakai Rekening Tabungan Bunga Tinggi
 
-This is not technically an "automatic" trick, but it supercharges all the other tricks on this list. A [high-yield savings](/blog/best-high-yield-savings-accounts-2026/) account (HYSA) earns 4-5% APY in the current rate environment, compared to 0.01-0.05% at traditional big banks.
+Ini memang bukan trik yang sepenuhnya “otomatis”, tapi sangat membantu memperbesar hasil dari semua trik lain di daftar ini. [Rekening tabungan bunga tinggi](/blog/best-high-yield-savings-accounts-2026/) bisa memberi imbal hasil 4–5% per tahun di kondisi suku bunga saat ini, dibanding 0,01–0,05% di bank besar tradisional.
 
-### Top High-Yield Savings Accounts (2026)
+### Rekening Tabungan Bunga Tinggi Terbaik (2026)
 
-| Bank | APY | Minimum Balance | FDIC Insured |
+| Bank | APY | Saldo Minimum | Dijamin LPS |
 |------|-----|----------------|-------------|
-| Marcus by Goldman Sachs | 4.40%+ | $0 | Yes |
-| Ally Bank | 4.25%+ | $0 | Yes |
-| Capital One 360 | 4.25%+ | $0 | Yes |
-| SoFi | 4.50%+ | $0 (with direct deposit) | Yes |
-| Wealthfront Cash | 4.50%+ | $0 | Yes |
+| Jago | 4,40%+ | Rp 0 | Ya |
+| Seabank | 4,25%+ | Rp 0 | Ya |
+| BCA Digital | 4,25%+ | Rp 0 | Ya |
+| Mandiri | 4,50%+ | Rp 0 (dengan payroll) | Ya |
+| BCA | 4,50%+ | Rp 0 | Ya |
 
-On a $10,000 balance, a HYSA earning 4.4% generates $440/year in interest—versus $5 at a traditional bank. That is free money for simply choosing a better account.
+Dengan saldo Rp 150 juta, rekening tabungan bunga tinggi dengan imbal hasil 4,4% bisa menghasilkan sekitar Rp 6,6 juta per tahun—dibanding hampir nol di bank biasa. Itu uang gratis hanya karena kamu memilih rekening yang lebih baik.
 
-### The Out-of-Sight Benefit
+### Keuntungan Disimpan di Tempat Terpisah
 
-Keeping your savings at a separate online bank (not your primary checking bank) adds a natural friction barrier. When your savings are at Ally and your checking is at Chase, it takes 1-2 business days to transfer money back. That delay is enough to stop most impulse raids on savings.
+Menyimpan tabungan di bank online yang berbeda dari rekening utama memberi hambatan alami. Saat tabunganmu ada di Jago dan rekening utama di BCA, butuh 1–2 hari kerja untuk memindahkan uang kembali. Jeda itu cukup untuk menghentikan banyak pembelian impulsif.
 
-## 6. Automate Your Roth IRA Contributions
+## 6. Otomatiskan Kontribusi ke Reksadana/Investasi
 
-You can set up automatic monthly contributions to your Roth IRA, just like auto-paying a bill. The 2026 contribution limit is $7,000, which works out to $583.33 per month.
+Kamu bisa mengatur setoran bulanan otomatis ke reksadana atau investasi, sama seperti bayar tagihan otomatis. Batas kontribusi tahunan 2026 setara Rp 105 juta, yang berarti sekitar Rp 8,7 juta per bulan.
 
-### How to Set It Up
+### Cara Mengaturnya
 
-1. Open a Roth IRA at a low-cost brokerage (Fidelity, Vanguard, or Schwab are the top choices)
-2. Link your checking account
-3. Set up a recurring monthly contribution of $583 (or whatever you can afford)
-4. Choose your investment—a target-date fund or total stock market index fund is a great default
-5. Enable automatic investment so your contributions are invested immediately, not sitting in cash
+1. Buka akun reksadana/investasi di platform biaya rendah
+2. Hubungkan rekening utama
+3. Atur kontribusi bulanan otomatis sebesar Rp 8,7 juta (atau sesuai kemampuanmu)
+4. Pilih investasinya—reksadana indeks atau dana saham indeks total pasar adalah pilihan default yang bagus
+5. Aktifkan pembelian otomatis supaya uang langsung diinvestasikan, bukan menganggur sebagai cash
 
-[Dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) through automatic monthly contributions removes the temptation to time the market. You buy more shares when prices are low and fewer when prices are high—automatically.
+[Dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) lewat setoran bulanan otomatis menghilangkan godaan untuk menebak timing pasar. Kamu beli lebih banyak unit saat harga turun dan lebih sedikit saat harga naik—secara otomatis.
 
-## 7. Set Up Automatic Bill Negotiation
+## 7. Atur Negosiasi Tagihan Otomatis
 
-This one saves money by cutting expenses automatically, freeing up more to save.
+Trik ini menghemat uang dengan memangkas pengeluaran secara otomatis, sehingga lebih banyak uang bisa ditabung.
 
-Services like Trim and Rocket Money (formerly Truebill) analyze your bills and negotiate lower rates on your behalf for things like cable, internet, phone, and insurance.
+Layanan seperti Trim dan Rocket Money (dulu Truebill) menganalisis tagihanmu dan menegosiasikan tarif lebih rendah atas namamu untuk hal-hal seperti internet, telepon, dan asuransi.
 
-- **Rocket Money**: Identifies subscriptions, negotiates bills, tracks spending. Free basic plan; Premium is $4-$12/month.
-- **Trim**: Negotiates bills and cancels subscriptions automatically. Takes 33% of savings as their fee.
+- **Rocket Money**: Mengidentifikasi langganan, menegosiasikan tagihan, melacak pengeluaran. Paket dasar gratis; Premium Rp 60 ribu–Rp 180 ribu/bulan.
+- **Trim**: Menegosiasikan tagihan dan membatalkan langganan otomatis. Biayanya 33% dari penghematan.
 
-Users report saving $200-$600/year through automatic bill negotiation. The services handle the annoying phone calls so you do not have to.
+Pengguna melaporkan bisa menghemat Rp 3 juta–Rp 9 juta/tahun lewat negosiasi tagihan otomatis. Layanan ini yang mengurus telepon-telepon merepotkan, jadi kamu tidak perlu repot.
 
-## 8. Use the Acorns "Found Money" Feature
+## 8. Pakai Fitur “Found Money” dari Acorns
 
-Acorns partners with hundreds of brands (Nike, Walmart, Expedia, etc.) to deposit bonus cash into your investment account when you shop with a linked card. It is like cash back, but it goes directly to investments instead of a statement credit.
+Acorns bekerja sama dengan ratusan brand untuk memasukkan bonus uang ke akun investasimu saat kamu belanja dengan kartu yang terhubung. Ini seperti cashback, tapi uangnya langsung masuk ke investasi, bukan jadi kredit tagihan.
 
-This is passive savings at its finest—you shop where you were already going to shop, and bonus money appears in your investment account days later. Found Money deposits typically range from 1-10% of your purchase depending on the retailer.
+Ini bentuk tabungan pasif yang paling enak—kamu belanja di tempat yang memang sudah akan kamu datangi, lalu beberapa hari kemudian bonus uang muncul di akun investasimu. Deposit Found Money biasanya berkisar 1–10% dari pembelian, tergantung tokonya.
 
-### Similar Programs Worth Enabling
+### Program Serupa yang Layak Diaktifkan
 
-- **Rakuten (formerly Ebates)**: Cash back on online purchases. You can set payouts to go directly to a savings account.
-- **Credit card cash back**: If your card earns 2% back, set up automatic redemption to a savings or investment account instead of a statement credit.
-- **Ibotta**: Cash back on groceries. Withdraw earnings to savings instead of spending them.
+- **Rakuten**: Cashback untuk belanja online. Kamu bisa atur pencairannya langsung ke rekening tabungan.
+- **Cashback kartu kredit**: Kalau kartu kamu memberi 2% cashback, atur penebusan otomatis ke rekening tabungan atau investasi, bukan jadi potongan tagihan.
+- **Ibotta**: Cashback untuk belanja kebutuhan harian. Tarik hasilnya ke tabungan, bukan dibelanjakan lagi.
 
-## 9. Create Automatic Sinking Funds
+## 9. Buat Dana Sinking Otomatis
 
-A sinking fund is money you save monthly for predictable future expenses. Automating them means you are never caught off guard by a big bill.
+Sinking fund adalah uang yang kamu sisihkan tiap bulan untuk pengeluaran masa depan yang sudah bisa diprediksi. Kalau diotomatisasi, kamu tidak akan kaget saat tagihan besar datang.
 
-### How to Set Up Automatic Sinking Funds
+### Cara Menyiapkan Sinking Fund Otomatis
 
-1. List your irregular but predictable expenses: [car insurance](/blog/car-insurance-comparison-2026/) (every 6 months), holiday gifts, vacation, car maintenance, medical copays, home repairs
-2. Estimate the annual cost of each
-3. Divide by 12 to get the monthly contribution
-4. Set up automatic transfers to labeled savings buckets
+1. Catat pengeluaran tidak rutin tapi bisa diprediksi: [asuransi mobil](/blog/car-insurance-comparison-2026/) (setiap 6 bulan), hadiah akhir tahun, liburan, servis mobil, biaya berobat, perbaikan rumah
+2. Perkirakan biaya tahunan masing-masing
+3. Bagi 12 untuk mendapatkan setoran bulanan
+4. Atur transfer otomatis ke “kantong” tabungan yang diberi label
 
-Many online banks let you create multiple savings "buckets" within one account. Ally Bank calls them "buckets," SoFi calls them "vaults," and Capital One calls them "savings goals."
+Banyak bank online memungkinkan kamu membuat beberapa “kantong” tabungan dalam satu rekening. Jago menyebutnya “kantong”, Seabank menyebutnya “tujuan tabungan”, dan BCA Digital punya fitur serupa untuk tujuan keuangan.
 
-| Sinking Fund | Annual Cost | Monthly Auto-Transfer |
+| Dana Sinking | Biaya Tahunan | Transfer Otomatis Bulanan |
 |-------------|-------------|---------------------|
-| Car insurance (6-month premium) | $900 | $75 |
-| Holiday gifts | $600 | $50 |
-| Car maintenance | $1,200 | $100 |
-| Vacation | $2,400 | $200 |
-| Medical expenses | $600 | $50 |
-| **Total** | **$5,700** | **$475** |
+| Asuransi mobil (premi 6 bulan) | Rp 13,5 juta | Rp 1,125 juta |
+| Hadiah akhir tahun | Rp 9 juta | Rp 750 ribu |
+| Servis mobil | Rp 18 juta | Rp 1,5 juta |
+| Liburan | Rp 36 juta | Rp 3 juta |
+| Biaya medis | Rp 9 juta | Rp 750 ribu |
+| **Total** | **Rp 85,5 juta** | **Rp 7,125 juta** |
 
-That is $5,700 in expenses that will never stress you out because the money is there, automatically, when you need it.
+Itu Rp 85,5 juta pengeluaran yang tidak akan bikin kamu stres karena uangnya sudah ada, otomatis, saat kamu membutuhkannya.
 
-## 10. Automate Tax-Advantaged Account Contributions
+## 10. Otomatiskan Kontribusi ke Rekening Berfaedah Pajak
 
-Beyond your 401(k) and Roth IRA, there are other tax-advantaged accounts you should be funding automatically:
+Selain DPLK/dana pensiun dan reksadana/investasi, ada rekening lain yang sebaiknya kamu isi secara otomatis:
 
-### Health Savings Account (HSA)
+### Rekening Tabungan Kesehatan
 
-If you have a high-deductible health plan, an HSA is the most tax-efficient account in America: contributions are tax-deductible, growth is tax-free, and withdrawals for medical expenses are tax-free. Triple tax advantage.
+Kalau kamu punya asuransi kesehatan dengan deductible tinggi, rekening tabungan kesehatan adalah salah satu akun paling efisien secara pajak. Kontribusi bisa mengurangi pajak, pertumbuhan bebas pajak, dan penarikan untuk biaya medis juga bebas pajak. Keuntungan pajaknya berlapis.
 
-- 2026 contribution limit: $4,300 (individual) / $8,550 (family)
-- Set up automatic payroll deductions or monthly transfers
-- After building a cash buffer for near-term medical costs, invest the rest in [index funds](/blog/index-fund-investing-guide/)
+- Batas kontribusi 2026: Rp 64,5 juta (individu) / Rp 128 juta (keluarga)
+- Atur potongan gaji otomatis atau transfer bulanan
+- Setelah punya buffer tunai untuk biaya medis jangka pendek, investasikan sisanya ke [reksadana indeks](/blog/index-fund-investing-guide/)
 
-### 529 College Savings Plan
+### Tabungan Pendidikan Anak
 
-If you have kids, a 529 plan grows tax-free for education expenses. Many states offer a tax deduction for contributions.
+Kalau kamu punya anak, rekening pendidikan tumbuh bebas pajak untuk biaya pendidikan. Banyak daerah juga memberi insentif pajak untuk kontribusi.
 
-- Set up automatic monthly contributions—even $100/month adds up significantly over 18 years
-- Choose an age-based portfolio that automatically adjusts risk as your child gets closer to college
+- Atur setoran bulanan otomatis—bahkan Rp 1,5 juta/bulan akan sangat berarti dalam 18 tahun
+- Pilih portofolio berbasis usia yang otomatis menyesuaikan risiko saat anak makin dekat ke usia kuliah
 
-### Taxable Brokerage Account
+### Rekening Investasi Kena Pajak
 
-After maxing tax-advantaged accounts, automate contributions to a taxable brokerage account at Fidelity, Vanguard, or Schwab. Set up automatic monthly investments into a total stock market index fund (like VTI or FXAIX).
+Setelah memaksimalkan rekening berfaedah pajak, otomatisasikan kontribusi ke rekening investasi kena pajak di platform seperti BCA, Mandiri, Jago, atau Seabank yang menyediakan produk investasi. Atur pembelian bulanan otomatis ke reksadana indeks pasar total.
 
-## The Compound Effect of Automating Everything
+## Efek Berantai dari Mengotomatiskan Semuanya
 
-Here is what happens when you stack these ten tricks:
+Begini hasilnya kalau kamu menggabungkan sepuluh trik ini:
 
-| Automatic Savings Source | Monthly Amount |
+| Sumber Tabungan Otomatis | Jumlah Bulanan |
 |------------------------|---------------|
-| Direct deposit split | $400 |
-| Round-ups (Acorns/Chime) | $40 |
-| 401(k) with auto-escalation | $500 |
-| Roth IRA auto-contribution | $583 |
-| Bill negotiation savings | $30 |
-| Cash back to savings | $25 |
-| Sinking fund auto-transfers | $475 |
-| **Total Monthly Savings** | **$2,053** |
+| Pembagian gaji otomatis | Rp 6 juta |
+| Pembulatan belanja | Rp 600 ribu |
+| DPLK/dana pensiun dengan auto-escalation | Rp 7,5 juta |
+| Kontribusi otomatis reksadana/investasi | Rp 8,7 juta |
+| Penghematan dari negosiasi tagihan | Rp 450 ribu |
+| Cashback ke tabungan | Rp 375 ribu |
+| Transfer otomatis dana sinking | Rp 7,125 juta |
+| **Total Tabungan Bulanan** | **Rp 30,75 juta** |
 
-That is $24,636 per year—saved and invested automatically without making a single manual decision. Even if you only implement three or four of these tricks, you could easily hit $5,000-$10,000 in annual automatic savings.
+Itu sekitar Rp 369 juta per tahun—ditabung dan diinvestasikan otomatis tanpa satu pun keputusan manual. Bahkan kalau kamu hanya menerapkan tiga atau empat trik saja, kamu masih bisa dengan mudah mencapai Rp 75 juta–Rp 150 juta tabungan otomatis per tahun.
 
-The best part? After the initial setup (which takes a Saturday afternoon at most), the system runs itself. You just live your life while your wealth builds in the background.
-
+Bagian terbaiknya? Setelah setup awal selesai—yang paling lama cuma butuh satu sore Sabtu—sistemnya jalan sendiri. Kamu tinggal menjalani hidupmu, sementara kekayaanmu tumbuh di belakang layar.
