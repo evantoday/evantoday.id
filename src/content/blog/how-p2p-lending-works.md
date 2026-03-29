@@ -25,7 +25,7 @@ Saya akan jelaskan cara kerja P2P lending di AS, platform mana yang layak dipert
 ### Untuk Peminjam
 
 1. Peminjam mengajukan pinjaman di platform (biasanya Rp 15 juta-Rp 750 juta)
-2. Platform memeriksa skor kredit, penghasilan, pekerjaan, dan rasio utang terhadap pendapatan
+2. Platform memeriksa BI Checking/SLIK OJK, penghasilan, pekerjaan, dan rasio utang terhadap pendapatan
 3. Pinjaman diberi grade risiko (A sampai E atau sejenisnya)
 4. Pinjaman dipasang di marketplace untuk didanai investor
 5. Jika pendanaan penuh, peminjam menerima dana dikurangi biaya origination (1-8%)
@@ -51,7 +51,7 @@ Prosper adalah platform P2P lending tertua di AS, didirikan pada 2005.
 - **Jumlah pinjaman**: Rp 30 juta-Rp 750 juta
 - **Tenor pinjaman**: 3 atau 5 tahun
 - **Imbal hasil yang diharapkan**: 3,5-7,5% tergantung grade risiko
-- **Syarat peminjam**: skor kredit 640+
+- **Syarat peminjam**: BI Checking/SLIK OJK setara skor kredit 640+
 - **Biaya untuk investor**: biaya servis tahunan 1%
 
 Prosper adalah platform P2P utama saya. Tampilan platformnya sederhana, dan rekam jejaknya cukup panjang untuk membuat saya percaya pada sistem penilaian risikonya. Fitur auto-invest mereka memungkinkan kamu menetapkan kriteria lalu otomatis mendanai pinjaman yang sesuai preferensimu.
@@ -225,4 +225,4 @@ Platform wajib punya pengaturan backup servicing. Secara teori, pihak ketiga aka
 
 ### Apakah saya bisa investasi P2P lending lewat IRA?
 
-Beberapa platform, termasuk Prosper, pernah menawarkan opsi IRA. Ketersediaannya bisa berubah dan mungkin terbatas. Kalau tersedia, menyimpan investasi P2P di Roth IRA menghilangkan beban pajak atas pendapatan bunga, yang merupakan keuntungan besar karena pendapatan P2P dikenakan tarif biasa.
+Beberapa platform, termasuk Prosper, pernah menawarkan opsi IRA. Ketersediaannya bisa berubah dan mungkin terbatas. Kalau tersedia, menyimpan investasi P2P di reksadana/investasi pensiun yang setara bisa menghilangkan beban pajak atas pendapatan bunga, yang merupakan keuntungan besar karena pendapatan P2P dikenakan tarif biasa.

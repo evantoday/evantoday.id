@@ -1,5 +1,5 @@
 ---
-title: "Berapa Banyak Sewa yang Ideal?"
+title: "Berapa Sewa yang Ideal?"
 description: "Kalau sewa lebih dari 30% penghasilan, kamu bisa jadi house-poor. Ini patokan ideal sewa vs penghasilan."
 pubDate: 2026-03-06
 category: "personal-finance"
@@ -46,7 +46,7 @@ Kalau penghasilanmu Rp 900 juta per tahun, aturan 30% bilang sewa bulanan sebaik
 
 ### Masalahnya: 30% Tidak Selalu Realistis
 
-Di banyak kota besar, aturan 30% nyaris mustahil diikuti. Di New York City, sewa median apartemen satu kamar setara sekitar Rp 52,5 juta per bulan — kamu perlu penghasilan sekitar Rp 2,1 miliar per tahun untuk memenuhi patokan 30%. Di San Francisco, apartemen yang sama butuh gaji sekitar Rp 1,95 miliar.
+Di banyak kota besar, aturan 30% nyaris mustahil diikuti. Di Jakarta Pusat atau kawasan premium seperti SCBD, sewa apartemen 1 kamar bisa sangat tinggi — kamu bisa butuh penghasilan tahunan yang jauh lebih besar supaya tetap aman di patokan 30%.
 
 Artinya bukan aturannya tidak berguna. Artinya kamu perlu menyesuaikannya dengan kondisi kamu.
 
@@ -85,18 +85,18 @@ Berikut kerangka yang lebih bernuansa berdasarkan [tujuan keuangan](/blog/compre
 
 | Kota | Sewa Median 1BR | Gaji yang Dibutuhkan (Aturan 30%) | Gaji Median Aktual |
 |------|------------------|-----------------------------------|--------------------|
-| New York City | Rp 52,5 juta | Rp 2,1 miliar | Rp 1 miliar |
-| San Francisco | Rp 48 juta | Rp 1,92 miliar | Rp 1,08 miliar |
-| Los Angeles | Rp 36 juta | Rp 1,44 miliar | Rp 930 juta |
-| Boston | Rp 42 juta | Rp 1,68 miliar | Rp 975 juta |
-| Miami | Rp 33 juta | Rp 1,32 miliar | Rp 780 juta |
-| Denver | Rp 27 juta | Rp 1,08 miliar | Rp 900 juta |
-| Austin | Rp 25,5 juta | Rp 1,02 miliar | Rp 870 juta |
-| Chicago | Rp 28,5 juta | Rp 1,14 miliar | Rp 825 juta |
-| Atlanta | Rp 25,5 juta | Rp 1,02 miliar | Rp 795 juta |
-| Phoenix | Rp 21 juta | Rp 840 juta | Rp 750 juta |
+| Jakarta | Rp 52,5 juta | Rp 2,1 miliar | Rp 1 miliar |
+| Surabaya | Rp 48 juta | Rp 1,92 miliar | Rp 1,08 miliar |
+| Bandung | Rp 36 juta | Rp 1,44 miliar | Rp 930 juta |
+| Tangerang Selatan | Rp 42 juta | Rp 1,68 miliar | Rp 975 juta |
+| Bali | Rp 33 juta | Rp 1,32 miliar | Rp 780 juta |
+| Bekasi | Rp 27 juta | Rp 1,08 miliar | Rp 900 juta |
+| Yogyakarta | Rp 25,5 juta | Rp 1,02 miliar | Rp 870 juta |
+| Medan | Rp 28,5 juta | Rp 1,14 miliar | Rp 825 juta |
+| Semarang | Rp 25,5 juta | Rp 1,02 miliar | Rp 795 juta |
+| Makassar | Rp 21 juta | Rp 840 juta | Rp 750 juta |
 
-Perhatikan selisih antara gaji yang dibutuhkan dan gaji median aktual. Di NYC, selisihnya sangat besar — orang dengan penghasilan median harus hampir menggandakan gajinya agar bisa memenuhi aturan 30%. Itulah sebabnya berbagi kamar, perjalanan pulang-pergi yang lebih panjang, dan solusi kreatif jadi hal yang umum di kota mahal.
+Perhatikan selisih antara gaji yang dibutuhkan dan gaji median aktual. Di kota mahal, selisihnya bisa sangat besar — orang dengan penghasilan median harus hampir menggandakan gajinya agar bisa memenuhi aturan 30%. Itulah sebabnya berbagi kamar, perjalanan pulang-pergi yang lebih panjang, dan solusi kreatif jadi hal yang umum di kota mahal.
 
 ## Strategi Kalau Sewa Melebihi 30%
 
@@ -106,9 +106,9 @@ Ini cara paling cepat untuk menurunkan biaya hunian. Patungan di apartemen dua k
 
 | Kota | Sewa 1BR | Sewa 2BR (Porsi Kamu) | Penghematan Bulanan |
 |------|---------|----------------------|---------------------|
-| NYC | Rp 52,5 juta | Rp 33,75 juta (setengah dari Rp 67,5 juta) | Rp 18,75 juta |
-| LA | Rp 36 juta | Rp 22,5 juta (setengah dari Rp 45 juta) | Rp 13,5 juta |
-| Austin | Rp 25,5 juta | Rp 15 juta (setengah dari Rp 30 juta) | Rp 10,5 juta |
+| Jakarta | Rp 52,5 juta | Rp 33,75 juta (setengah dari Rp 67,5 juta) | Rp 18,75 juta |
+| Bandung | Rp 36 juta | Rp 22,5 juta (setengah dari Rp 45 juta) | Rp 13,5 juta |
+| Yogyakarta | Rp 25,5 juta | Rp 15 juta (setengah dari Rp 30 juta) | Rp 10,5 juta |
 
 Ya, teman sekamar berarti privasi lebih sedikit. Tapi hemat Rp 10,5 juta-Rp 18,75 juta per bulan itu uang yang sangat besar. Dalam setahun, itu bisa jadi Rp 126 juta-Rp 225 juta yang bisa dipakai untuk DP rumah atau pensiun.
 
@@ -116,10 +116,10 @@ Ya, teman sekamar berarti privasi lebih sedikit. Tapi hemat Rp 10,5 juta-Rp 18,7
 
 Di banyak kota besar, perjalanan kerja 15-20 menit lebih lama bisa menghemat Rp 4,5 juta-Rp 12 juta per bulan:
 
-- **NYC**: Pindah dari Manhattan ke Astoria (Queens) dan hemat lebih dari Rp 15 juta/bulan
-- **LA**: Pindah dari Santa Monica ke Culver City atau Glendale dan hemat Rp 7,5 juta-Rp 10,5 juta/bulan
-- **Chicago**: Pindah dari Lincoln Park ke Logan Square atau Bridgeport dan hemat Rp 6 juta-Rp 9 juta/bulan
-- **Austin**: Pindah dari pusat kota ke Round Rock dan hemat Rp 6 juta-Rp 7,5 juta/bulan
+- **Jakarta**: Pindah dari pusat kota ke area seperti Bekasi atau Tangerang dan hemat lebih dari Rp 15 juta/bulan
+- **Bandung**: Pindah dari area premium ke pinggiran kota dan hemat Rp 7,5 juta-Rp 10,5 juta/bulan
+- **Medan**: Pindah ke area yang lebih jauh dari pusat bisnis dan hemat Rp 6 juta-Rp 9 juta/bulan
+- **Yogyakarta**: Pindah dari pusat kota ke area penyangga dan hemat Rp 6 juta-Rp 7,5 juta/bulan
 
 ### Opsi 3: Negosiasikan Sewa
 
@@ -128,7 +128,7 @@ Banyak penyewa tidak pernah mencoba ini, padahal pemilik properti biasanya lebih
 - Kamu penyewa yang andal (bayar tepat waktu, tidak banyak komplain)
 - Unitnya lama kosong atau sulit disewakan
 - Kamu bersedia tanda tangan kontrak lebih panjang (18-24 bulan вместо 12)
-- Sedang bukan musim ramai (biasanya musim hujan/akhir tahun lebih mudah dapat harga lebih baik)
+- Sedang bukan musim ramai (biasanya saat permintaan lebih rendah, kamu lebih mudah dapat harga lebih baik)
 
 Minta potongan Rp 750 ribu-Rp 1,5 juta per bulan atau minta pemilik properti menanggung salah satu utilitas sebagai kompensasi. Paling buruk, mereka bilang tidak.
 
@@ -166,7 +166,7 @@ Pindah ke apartemen baru biasanya membutuhkan:
 | Sewa bulan terakhir (di beberapa pasar) | Dibayar saat tanda tangan |
 | Biaya broker (NYC, Boston) | 12-15% dari sewa tahunan |
 
-Di NYC, pindah ke apartemen Rp 45 juta/bulan bisa butuh biaya awal Rp 150 juta-Rp 225 juta. Jadi, siapkan dana ini jauh-jauh hari.
+Di kota mahal, pindah ke apartemen Rp 45 juta/bulan bisa butuh biaya awal Rp 150 juta-Rp 225 juta. Jadi, siapkan dana ini jauh-jauh hari.
 
 ## Sewa vs Beli: Perhitungan 2026
 
@@ -186,11 +186,11 @@ Cara sederhana untuk membandingkan: bagi harga median rumah dengan sewa tahunan 
 
 | Kota | Harga Rumah Median | Sewa Tahunan (1BR) | Rasio Harga terhadap Sewa | Kesimpulan |
 |------|--------------------|--------------------|---------------------------|------------|
-| NYC | Rp 11,25 miliar | Rp 630 juta | 17,8 | Lebih baik sewa |
-| LA | Rp 13,5 miliar | Rp 432 juta | 31,2 | Jauh lebih baik sewa |
-| Austin | Rp 6,75 miliar | Rp 306 juta | 22,1 | Masih perlu dipertimbangkan |
-| Phoenix | Rp 5,7 miliar | Rp 252 juta | 22,6 | Masih perlu dipertimbangkan |
-| Cleveland | Rp 2,7 miliar | Rp 180 juta | 15,0 | Beli lebih unggul |
+| Jakarta | Rp 11,25 miliar | Rp 630 juta | 17,8 | Lebih baik sewa |
+| Surabaya | Rp 13,5 miliar | Rp 432 juta | 31,2 | Jauh lebih baik sewa |
+| Yogyakarta | Rp 6,75 miliar | Rp 306 juta | 22,1 | Masih perlu dipertimbangkan |
+| Makassar | Rp 5,7 miliar | Rp 252 juta | 22,6 | Masih perlu dipertimbangkan |
+| Semarang | Rp 2,7 miliar | Rp 180 juta | 15,0 | Beli lebih unggul |
 
 **Di bawah 15**: Biasanya lebih baik beli  
 **15-20**: Kurang lebih seimbang, tergantung kondisi kamu  

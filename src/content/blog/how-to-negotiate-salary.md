@@ -1,6 +1,6 @@
 ---
-title: "Salary Negotiation: Get $5K-$15K More [2026 Guide]"
-description: "American employees leave $5K-$15K on the table by not negotiating. Use these 7 proven tactics—from anchoring to competing offers—to land a higher salary."
+title: "Negosiasi Gaji: Dapatkan Rp 75-225 Juta Lebih"
+description: "Karyawan sering kehilangan Rp 75-225 juta karena tak negosiasi. Pakai 7 taktik ini untuk dapat gaji lebih tinggi."
 pubDate: 2026-01-18
 category: "financial-tips"
 tags: ["salary negotiation", "raise", "job offer", "compensation", "career"]
@@ -10,200 +10,199 @@ heroImageAlt: 'Salary Negotiation: Get $5K-author: "Evan Today"5K More [2026 Gui
 
 ---
 
-## Why I Almost Left $12,000 on the Table
+## Kenapa Saya Hampir Kehilangan Rp 180 Juta
 
-Three years ago, I received a job offer for $95,000. My gut reaction was excitement. It was a $15,000 raise over my current salary, and I almost accepted on the spot. Instead, I asked for 48 hours to think it over, did my research, and came back with a counteroffer.
+Tiga tahun lalu, saya dapat tawaran kerja sebesar Rp 1,4 miliar per tahun. Reaksi pertama saya tentu senang sekali. Itu berarti naik sekitar Rp 225 juta dari gaji saya sebelumnya, dan saya hampir langsung menerimanya. Tapi saya minta waktu 48 jam untuk berpikir, melakukan riset, lalu kembali dengan penawaran balik.
 
-The final number? $107,000, plus an extra week of PTO and a $5,000 signing bonus.
+Angka akhirnya? Rp 1,6 miliar, ditambah cuti ekstra satu minggu dan bonus tanda tangan Rp 75 juta.
 
-That single conversation, which took about 20 minutes of actual negotiation, was worth over $12,000 in first-year compensation. And here is the kicker: since future raises and bonuses are typically calculated as a percentage of your base salary, that $12,000 bump will compound over my entire career. A conservative estimate puts the lifetime value at $300,000 or more. That extra income, invested wisely through [index funds](/blog/index-fund-investing-guide/) or a [Roth IRA](/blog/how-to-financially-prepare-for-retirement/), can dramatically accelerate your path to financial freedom.
+Satu percakapan itu, yang benar-benar cuma butuh sekitar 20 menit negosiasi, bernilai lebih dari Rp 180 juta di kompensasi tahun pertama. Dan yang lebih penting: karena kenaikan gaji dan bonus di masa depan biasanya dihitung dari gaji pokok, kenaikan Rp 180 juta itu akan terus berdampak sepanjang karier saya. Estimasi konservatifnya, nilainya bisa mencapai Rp 4,5 miliar atau lebih seumur hidup. Uang tambahan itu, kalau diinvestasikan dengan bijak lewat [reksadana](/blog/index-fund-investing-guide/) atau [investasi pensiun](/blog/how-to-financially-prepare-for-retirement/), bisa mempercepat jalanmu menuju kebebasan finansial secara signifikan.
 
-Yet according to research from Salary.com, 57% of Americans have never negotiated their salary. They accept whatever is offered. If that is you, this guide is going to change your approach permanently.
+Namun menurut riset dari Salary.com, 57% orang Amerika tidak pernah menegosiasikan gaji mereka. Mereka menerima apa pun yang ditawarkan. Kalau kamu termasuk orang seperti itu, panduan ini akan mengubah cara kamu selamanya.
 
-## Why Companies Expect You to Negotiate
+## Kenapa Perusahaan Mengharapkan Kamu Negosiasi
 
-Let me dispel the biggest myth right away: negotiating your salary will not make a company rescind your offer. In a 2024 survey of hiring managers, 84% said they expect candidates to negotiate, and only 1% said they had ever rescinded an offer because someone asked for more money.
+Saya mau luruskan mitos terbesar dulu: menegosiasikan gaji tidak akan membuat perusahaan menarik kembali tawaran kerja. Dalam survei 2024 terhadap hiring manager, 84% bilang mereka memang mengharapkan kandidat negosiasi, dan hanya 1% yang pernah menarik tawaran karena seseorang meminta gaji lebih tinggi.
 
-Here is why companies leave room in their offers:
+Inilah alasan perusahaan sengaja menyisakan ruang dalam tawaran mereka:
 
-- **Budget ranges**: Every role has a salary band. The initial offer is rarely the top of that band
-- **Hiring costs**: Companies spend $4,000-$20,000+ to fill a position. They are not going to throw that away over a 5-10% salary bump
-- **Negotiation is a skill they value**: Especially for client-facing or leadership roles, your ability to negotiate is actually being evaluated
+- **Rentang anggaran**: Setiap posisi punya kisaran gaji. Tawaran awal jarang sekali berada di batas atas
+- **Biaya rekrutmen**: Perusahaan bisa menghabiskan Rp 60 juta-Rp 300 juta+ untuk mengisi satu posisi. Mereka tidak akan membuang itu hanya karena kenaikan gaji 5-10%
+- **Negosiasi adalah skill yang mereka nilai**: Terutama untuk posisi yang berhubungan dengan klien atau kepemimpinan, kemampuan negosiasimu memang sedang dinilai
 
-The risk of not negotiating is far greater than the risk of asking.
+Risiko tidak negosiasi jauh lebih besar daripada risiko meminta lebih.
 
-## The 7 Tactics That Actually Work
+## 7 Taktik yang Benar-Benar Berhasil
 
-### Tactic 1: Research Your Market Value First
+### Taktik 1: Riset Nilai Pasarmu Dulu
 
-You cannot negotiate effectively if you do not know what you are worth. Before any salary conversation, spend 30 minutes gathering data from these sources:
+Kamu tidak bisa negosiasi dengan efektif kalau tidak tahu nilai dirimu. Sebelum bicara soal gaji, luangkan 30 menit untuk mengumpulkan data dari sumber-sumber ini:
 
-- **Glassdoor Salary**: Search your exact job title and location
-- **Levels.fyi**: Especially useful for tech roles, includes stock and bonus data
-- **Payscale**: Detailed salary reports based on experience, education, and skills
-- **LinkedIn Salary**: Shows ranges based on actual member data
-- **Bureau of Labor Statistics**: Government data on occupation wages by region
+- **Glassdoor Salary**: Cari judul pekerjaan dan lokasi yang sama persis
+- **Levels.fyi**: Sangat berguna untuk posisi tech, termasuk data saham dan bonus
+- **Payscale**: Laporan gaji detail berdasarkan pengalaman, pendidikan, dan skill
+- **LinkedIn Salary**: Menampilkan kisaran berdasarkan data anggota nyata
+- **Badan Pusat Statistik**: Data resmi soal upah berdasarkan wilayah dan jenis pekerjaan
 
-### How to Use the Data
+### Cara Menggunakan Datanya
 
-Create a salary range based on your research:
+Buat kisaran gaji berdasarkan risetmu:
 
-| Data Point | What It Tells You |
+| Data Point | Artinya |
 |-----------|------------------|
-| 25th percentile | The floor, do not accept below this |
-| 50th percentile (median) | The market rate for your role |
-| 75th percentile | Your target if you have strong qualifications |
-| 90th percentile | Possible with exceptional experience or competing offers |
+| Persentil 25 | Batas bawah, jangan terima di bawah ini |
+| Persentil 50 (median) | Tarif pasar untuk posisi kamu |
+| Persentil 75 | Targetmu kalau kamu punya kualifikasi kuat |
+| Persentil 90 | Mungkin dicapai dengan pengalaman luar biasa atau tawaran kompetitor |
 
-Your initial ask should be at the 75th percentile or slightly above. This gives you room to negotiate down to a number you are still happy with.
+Permintaan awalmu sebaiknya di persentil 75 atau sedikit di atasnya. Ini memberi ruang untuk turun sedikit, tapi kamu tetap di angka yang kamu suka.
 
-### Tactic 2: Let Them Name a Number First
+### Taktik 2: Biarkan Mereka Sebut Angka Dulu
 
-When asked about salary expectations early in the process, deflect. Here are scripts that work:
+Saat ditanya ekspektasi gaji di awal proses, jangan buru-buru jawab. Pakai skrip seperti ini:
 
-**"What are your salary expectations?"**
+**"Berapa ekspektasi gaji Anda?"**
 
-- "I am focused on finding the right fit, and I am confident we can agree on fair compensation. Could you share the budgeted range for this role?"
-- "I would prefer to learn more about the responsibilities before discussing specific numbers. What range did you have in mind?"
-- "Based on my research, roles like this range from $X to $Y. I am flexible within that range depending on the total compensation package."
+- "Saya fokus mencari kecocokan yang tepat, dan saya yakin kita bisa sepakat soal kompensasi yang adil. Boleh saya tahu kisaran anggaran untuk posisi ini?"
+- "Saya lebih suka memahami tanggung jawabnya dulu sebelum membahas angka spesifik. Kisaran berapa yang Anda bayangkan?"
+- "Berdasarkan riset saya, posisi seperti ini biasanya ada di kisaran Rp X sampai Rp Y. Saya fleksibel dalam kisaran itu, tergantung paket kompensasi totalnya."
 
-The person who names a number first is at a disadvantage because they set the anchor point. If you say $90,000 and they were prepared to offer $105,000, you just left $15,000 on the table.
+Orang yang menyebut angka dulu biasanya berada di posisi yang kurang menguntungkan karena dia yang menetapkan patokan awal. Kalau kamu menyebut Rp 15 juta per bulan, padahal mereka siap menawarkan Rp 17,5 juta, berarti kamu baru saja meninggalkan Rp 30 juta setahun di meja.
 
-### Tactic 3: Anchor High
+### Taktik 3: Pasang Angka Lebih Tinggi
 
-When you do name a number, aim 10-20% above your ideal target. This is the anchoring effect: the first number in a negotiation disproportionately influences the final outcome, regardless of whether it is reasonable.
+Kalau kamu yang menyebut angka, targetkan 10-20% di atas angka idealmu. Ini disebut efek anchoring: angka pertama dalam negosiasi sangat memengaruhi hasil akhir, terlepas dari apakah angka itu terasa masuk akal atau tidak.
 
-**Example**:
-- Your target salary: $105,000
-- Your anchor: $115,000-$120,000
-- Expected outcome: $105,000-$112,000
+**Contoh**:
+- Gaji targetmu: Rp 1,6 miliar
+- Angka anchor: Rp 1,75 miliar-Rp 1,8 miliar
+- Hasil yang diharapkan: Rp 1,6 miliar-Rp 1,68 miliar
 
-This feels uncomfortable. You might worry about seeming greedy or unrealistic. But research consistently shows that higher anchors lead to higher final numbers, even when the anchor is somewhat aggressive.
+Ini memang terasa tidak nyaman. Kamu mungkin khawatir terlihat serakah atau tidak realistis. Tapi riset terus menunjukkan bahwa anchor yang lebih tinggi mendorong hasil akhir yang lebih tinggi, bahkan saat angkanya cukup agresif.
 
-### Tactic 4: Use the Counteroffer Formula
+### Taktik 4: Pakai Formula Penawaran Balik
 
-When you receive an offer, use this framework:
+Saat kamu menerima tawaran, pakai kerangka ini:
 
-1. **Express enthusiasm**: "Thank you, I am very excited about this opportunity."
-2. **Acknowledge the offer**: "I appreciate the offer of $95,000."
-3. **Present your counter with justification**: "Based on my research of market rates for this role in [city], and given my [specific qualifications], I was hoping we could discuss a base salary of $112,000."
-4. **Add a collaborative tone**: "I am confident we can find a number that works for both of us."
+1. **Tunjukkan antusiasme**: "Terima kasih, saya sangat senang dengan kesempatan ini."
+2. **Akui tawarannya**: "Saya menghargai tawaran sebesar Rp 1,4 miliar."
+3. **Sampaikan penawaran balik dengan alasan**: "Berdasarkan riset saya tentang kisaran pasar untuk posisi ini di [kota], dan melihat [kualifikasi spesifik] yang saya miliki, saya berharap kita bisa membahas gaji pokok sebesar Rp 1,7 miliar."
+4. **Tambahkan nada kolaboratif**: "Saya yakin kita bisa menemukan angka yang cocok untuk kita berdua."
 
-### The Email Template
+### Template Email
 
-If negotiating in writing (which I recommend for initial counters because it gives both sides time to think):
+Kalau negosiasi lewat tulisan (ini saya sarankan untuk penawaran awal karena memberi waktu kedua pihak untuk berpikir):
 
-> Hi [Name],
+> Hai [Nama],
 >
-> Thank you so much for the offer. I am genuinely excited about joining [Company] and contributing to [specific project or team].
+> Terima kasih banyak atas tawarannya. Saya benar-benar antusias untuk bergabung dengan [Perusahaan] dan berkontribusi pada [proyek atau tim spesifik].
 >
-> After reviewing the offer and researching compensation for similar roles in [city], I would like to discuss the base salary. Given my [X years of experience in Y], my [specific achievement or skill], and the market data I have gathered, I believe a base salary of $[amount] would better reflect my value and the scope of this role.
+> Setelah meninjau tawaran dan meneliti kompensasi untuk posisi serupa di [kota], saya ingin mendiskusikan gaji pokoknya. Dengan [X tahun pengalaman di Y], [pencapaian atau skill spesifik] saya, dan data pasar yang sudah saya kumpulkan, saya percaya gaji pokok sebesar Rp [jumlah] akan lebih mencerminkan nilai saya dan cakupan peran ini.
 >
-> I am very flexible on the overall package structure, so I am happy to discuss other components like bonus, equity, or PTO as well. I want to find a number that works for both of us.
+> Saya cukup fleksibel soal struktur paket keseluruhan, jadi saya juga senang membahas komponen lain seperti bonus, saham/insentif, atau cuti. Saya ingin menemukan angka yang cocok untuk kita berdua.
 >
-> Looking forward to discussing this further.
+> Saya menantikan diskusi lanjutannya.
 
-### Tactic 5: Negotiate the Full Package
+### Taktik 5: Negosiasikan Paket Secara Menyeluruh
 
-Salary is just one component. If the company cannot move on base salary, there are often other levers:
+Gaji pokok hanyalah satu bagian. Kalau perusahaan tidak bisa menaikkan gaji pokok, biasanya masih ada komponen lain yang bisa dinegosiasikan:
 
-| Component | Typical Negotiable Range |
+| Komponen | Kisaran yang Umumnya Bisa Dinegosiasikan |
 |-----------|------------------------|
-| Signing bonus | $5,000-$25,000 |
-| Annual bonus target | 5-20% of base |
-| Stock/equity | Varies widely |
-| Extra PTO | 1-2 additional weeks |
-| Remote work flexibility | Partial or full remote |
-| Start date | Flexibility to leave current job |
-| Professional development | $2,000-$10,000/year budget |
-| Relocation assistance | $5,000-$15,000 |
-| Title | Higher title can mean higher pay band |
+| Bonus tanda tangan | Rp 75 juta-Rp 375 juta |
+| Target bonus tahunan | 5-20% dari gaji pokok |
+| Saham/insentif | Sangat bervariasi |
+| Cuti tambahan | 1-2 minggu tambahan |
+| Fleksibilitas kerja remote | Hybrid atau full remote |
+| Tanggal mulai kerja | Fleksibilitas untuk menyelesaikan pekerjaan lama |
+| Pengembangan profesional | Budget Rp 30 juta-Rp 150 juta/tahun |
+| Bantuan relokasi | Rp 75 juta-Rp 225 juta |
+| Jabatan | Title yang lebih tinggi bisa berarti band gaji lebih tinggi |
 
-When I negotiated my current role, the company could not go above $105,000 base. But they added $5,000 to the signing bonus and gave me an extra week of PTO, which effectively bridged the gap to my target total compensation.
+Saat saya negosiasi peran saya sekarang, perusahaan tidak bisa menaikkan gaji pokok di atas Rp 1,6 miliar. Tapi mereka menambah bonus tanda tangan Rp 75 juta dan memberi saya cuti ekstra satu minggu, yang secara efektif menutup selisih ke target kompensasi total saya.
 
-### Tactic 6: Use Competing Offers
+### Taktik 6: Gunakan Tawaran yang Bersaing
 
-Nothing strengthens your negotiating position like a competing offer. If you are actively interviewing, try to time your processes so that offers come in around the same time.
+Tidak ada yang lebih memperkuat posisi negosiasimu selain tawaran dari perusahaan lain. Kalau kamu sedang aktif interview, coba atur prosesnya supaya tawaran masuk di waktu yang berdekatan.
 
-**How to leverage a competing offer without being pushy:**
+**Cara memanfaatkan tawaran pesaing tanpa terkesan memaksa:**
 
-"I want to be transparent. I have received an offer from [Company] at [salary]. Your role is my top choice because of [genuine reason]. Is there flexibility to match or come closer to that compensation?"
+"Saya ingin jujur. Saya menerima tawaran dari [Perusahaan] sebesar [gaji]. Posisi Anda adalah pilihan utama saya karena [alasan yang tulus]. Apakah ada fleksibilitas untuk menyamai atau mendekati kompensasi itu?"
 
-Some important rules:
+Beberapa aturan penting:
 
-- **Never fabricate a competing offer**: It is unethical and you will get caught
-- **Be respectful of both companies' time**: Do not drag out negotiations endlessly
-- **Name the company only if comfortable**: You can say "a competing offer" without naming the company
-- **Have a deadline**: "I need to respond to them by Friday" creates urgency
+- **Jangan pernah mengarang tawaran pesaing**: Itu tidak etis dan bisa ketahuan
+- **Hargai waktu kedua perusahaan**: Jangan memperpanjang negosiasi tanpa akhir
+- **Sebut nama perusahaan hanya jika nyaman**: Kamu bisa bilang "tawaran pesaing" tanpa menyebut nama
+- **Punya tenggat waktu**: "Saya perlu memberi jawaban ke mereka hari Jumat" menciptakan urgensi
 
-### Tactic 7: Practice the Uncomfortable Pause
+### Taktik 7: Latih Jeda yang Tidak Nyaman
 
-After stating your counteroffer, stop talking. The silence feels excruciating, but it is incredibly effective. Most people rush to fill the silence by negotiating against themselves or softening their ask.
+Setelah menyebut penawaran balikmu, diam. Heningnya memang terasa sangat canggung, tapi justru sangat efektif. Kebanyakan orang buru-buru mengisi keheningan itu dengan menurunkan permintaan mereka sendiri.
 
-Practice this: state your number, then count to 10 in your head. Let the other person respond first.
+Latih ini: sebut angka, lalu hitung sampai 10 di dalam kepala. Biarkan lawan bicara merespons duluan.
 
-## Negotiating a Raise at Your Current Job
+## Negosiasi Kenaikan Gaji di Tempat Kerja Sekarang
 
-The tactics above focus on new job offers, but negotiating a raise at your current company requires a different approach.
+Taktik di atas fokus pada tawaran kerja baru, tapi negosiasi kenaikan gaji di perusahaan saat ini butuh pendekatan berbeda.
 
-### Build Your Case Over Months
+### Bangun Kasusmu Selama Berbulan-bulan
 
-Start documenting your accomplishments 3-6 months before asking for a raise:
+Mulailah mendokumentasikan pencapaianmu 3-6 bulan sebelum meminta kenaikan gaji:
 
-- **Revenue impact**: "I closed $500,000 in new business this quarter"
-- **Cost savings**: "My process improvement saved the team 15 hours per week"
-- **Scope increase**: "I took on management of 3 additional team members"
-- **Market data**: "The market rate for my role has increased 8% since my last review"
+- **Dampak pendapatan**: "Saya menutup bisnis baru senilai Rp 7,5 miliar kuartal ini"
+- **Penghematan biaya**: "Perbaikan proses saya menghemat 15 jam kerja tim per minggu"
+- **Perluasan tanggung jawab**: "Saya mengambil alih pengelolaan 3 anggota tim tambahan"
+- **Data pasar**: "Tarif pasar untuk posisi saya naik 8% sejak review terakhir"
 
-### Timing Matters
+### Timing Itu Penting
 
-The best times to ask for a raise:
+Waktu terbaik untuk meminta kenaikan gaji:
 
-- After completing a major project successfully
-- During annual review season (but bring your own data, do not just wait for their number)
-- After taking on significantly more responsibility
-- When you have a competing offer (use carefully)
+- Setelah menyelesaikan proyek besar dengan sukses
+- Saat musim review tahunan (tapi bawa data sendiri, jangan cuma menunggu angka dari mereka)
+- Setelah memikul tanggung jawab yang jauh lebih besar
+- Saat kamu punya tawaran pesaing (gunakan dengan hati-hati)
 
-The worst times:
+Waktu terburuk:
 
-- Right after a company layoff or bad quarter
-- When your manager is stressed or dealing with their own issues
-- Without any data or preparation
+- Tepat setelah PHK perusahaan atau kuartal yang buruk
+- Saat atasanmu sedang stres atau punya masalah sendiri
+- Tanpa data atau persiapan
 
-### The Raise Conversation Script
+### Skrip Percakapan Kenaikan Gaji
 
-"Hi [Manager], I would like to discuss my compensation. Over the past [timeframe], I have [2-3 specific accomplishments with measurable impact]. Based on my research, the market rate for my role with my experience is $[amount]. I am currently at $[current salary], which is [X%] below market. I would like to discuss moving to $[target], which I believe reflects my contributions and market value."
+"Hi [Manager], saya ingin mendiskusikan kompensasi saya. Dalam [jangka waktu] terakhir, saya telah [2-3 pencapaian spesifik dengan dampak terukur]. Berdasarkan riset saya, tarif pasar untuk posisi saya dengan pengalaman saya adalah Rp [jumlah]. Saat ini saya berada di Rp [gaji sekarang], yang [X%] di bawah pasar. Saya ingin mendiskusikan kenaikan ke Rp [target], karena menurut saya itu mencerminkan kontribusi dan nilai pasar saya."
 
-## What To Do If They Say No
+## Apa yang Harus Dilakukan Kalau Mereka Bilang Tidak
 
-Rejection is not the end of the conversation. Try these responses:
+Penolakan bukan akhir pembicaraan. Coba respons ini:
 
-- **"I understand. What would I need to accomplish to earn that salary within the next 6 months?"** This shifts the conversation from no to yes, eventually
-- **"Can we revisit this in 3 months with specific goals?"** Get the criteria in writing
-- **"Are there other components of compensation we can adjust?"** Bonus, equity, PTO, title
-- **"Thank you for considering. I appreciate the transparency."** Stay gracious. There will be another opportunity
+- **"Saya mengerti. Apa yang perlu saya capai agar bisa mendapatkan gaji itu dalam 6 bulan ke depan?"** Ini menggeser percakapan dari tidak menjadi ya, pada akhirnya
+- **"Bisa kita tinjau lagi dalam 3 bulan dengan target yang spesifik?"** Minta kriterianya secara tertulis
+- **"Apakah ada komponen kompensasi lain yang bisa kita sesuaikan?"** Bonus, saham/insentif, cuti, jabatan
+- **"Terima kasih sudah mempertimbangkan. Saya menghargai keterbukaannya."** Tetap sopan. Akan ada kesempatan lain
 
-## Common Negotiation Mistakes
+## Kesalahan Negosiasi yang Umum
 
-1. **Accepting immediately**: Always ask for 24-48 hours to consider an offer
-2. **Apologizing for negotiating**: Never say "I am sorry to ask" or "I hate to do this"
-3. **Sharing your current salary**: Many states have banned this question. Even where it is legal, deflect it
-4. **Negotiating over text**: Use phone, video, or email. Never negotiate via text message
-5. **Making it adversarial**: Frame it as collaborative problem-solving, not a fight
-6. **Focusing only on base salary**: Total compensation matters more than any single number
-7. **Not getting the final offer in writing**: Verbal agreements are not enforceable. For more on building wealth with your income, see our guide on [smart money habits](/blog/smart-money-habits-of-wealthy-people/)
+1. **Langsung menerima**: Selalu minta 24-48 jam untuk mempertimbangkan tawaran
+2. **Minta maaf saat negosiasi**: Jangan pernah bilang "maaf ya saya minta" atau "saya tidak enak sebenarnya"
+3. **Menyebut gaji sekarang**: Banyak wilayah sudah melarang pertanyaan ini. Bahkan kalau legal, alihkan pembicaraan
+4. **Negosiasi lewat chat singkat**: Gunakan telepon, video, atau email. Jangan negosiasi lewat pesan teks
+5. **Membuat suasana jadi konfrontatif**: Bingkai sebagai pemecahan masalah bersama, bukan pertarungan
+6. **Hanya fokus pada gaji pokok**: Kompensasi total lebih penting daripada satu angka saja
+7. **Tidak meminta tawaran final secara tertulis**: Kesepakatan lisan tidak mengikat. Untuk lebih banyak tips membangun kekayaan dari penghasilanmu, lihat panduan kami tentang [kebiasaan uang yang cerdas](/blog/smart-money-habits-of-wealthy-people/)
 
-## The Lifetime Impact of Negotiation
+## Dampak Negosiasi Seumur Hidup
 
-Let me show you why a single negotiation matters so much:
+Saya tunjukkan kenapa satu negosiasi saja bisa sangat berarti:
 
-| Scenario | Starting Salary | After 10 Years (3% annual raises) | After 20 Years | After 30 Years |
-|----------|----------------|----------------------------------|---------------|---------------|
-| Accept offer | $85,000 | $114,000 | $153,000 | $206,000 |
-| Negotiate +$10K | $95,000 | $128,000 | $172,000 | $231,000 |
-| Negotiate +$20K | $105,000 | $141,000 | $189,000 | $254,000 |
+| Skenario | Gaji Awal | Setelah 10 Tahun (kenaikan 3% per tahun) | Setelah 20 Tahun | Setelah 30 Tahun |
+|----------|----------------|----------------------------------|---------------|----------------|
+| Terima tawaran | Rp 1,3 miliar | Rp 1,7 miliar | Rp 2,3 miliar | Rp 3,1 miliar |
+| Negosiasi +Rp 150 juta | Rp 1,4 miliar | Rp 1,9 miliar | Rp 2,6 miliar | Rp 3,5 miliar |
+| Negosiasi +Rp 300 juta | Rp 1,6 miliar | Rp 2,1 miliar | Rp 2,8 miliar | Rp 3,8 miliar |
 
-The difference between accepting $85,000 and negotiating $105,000 is $20,000 per year initially, which grows to $48,000 per year by year 30. Over 30 years, assuming 3% annual raises, that single negotiation is worth approximately $600,000 in cumulative additional earnings.
+Perbedaan antara menerima Rp 1,3 miliar dan menegosiasikan Rp 1,6 miliar adalah tambahan Rp 300 juta per tahun di awal, yang tumbuh menjadi sekitar Rp 720 juta per tahun pada tahun ke-30. Selama 30 tahun, dengan asumsi kenaikan 3% per tahun, satu negosiasi itu bernilai sekitar Rp 9 miliar dalam tambahan penghasilan kumulatif.
 
-And that does not count the additional [401(k)](/blog/how-to-financially-prepare-for-retirement/) matches, Social Security benefits, and investment returns on those extra earnings.
-
+Dan itu belum termasuk kontribusi tambahan [DPLK/dana pensiun](/blog/how-to-financially-prepare-for-retirement/), manfaat BPJS, dan imbal hasil investasi dari penghasilan ekstra tersebut.

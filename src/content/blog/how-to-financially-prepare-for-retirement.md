@@ -1,6 +1,6 @@
 ---
-title: "Retirement Planning: 401(k), IRA, and Beyond [2026]"
-description: "Most Americans have less than $100K saved at 40. These 5 moves starting with your 401(k) match build a fund that lasts."
+title: "Perencanaan Pensiun: DPLK, Investasi, dan Lainnya [2026]"
+description: "Kebanyakan orang Amerika punya tabungan pensiun di bawah Rp 1,5 miliar di usia 40. Ini 5 langkah untuk membangun dana pensiun."
 pubDate: 2026-03-08
 category: "investing"
 tags: ["retirement planning", "401k", "IRA", "Roth IRA", "retirement savings"]
@@ -10,205 +10,206 @@ heroImageAlt: 'Retirement Planning: 401(k), IRA, and Beyond [2026]'
 
 ---
 
-## Why Most Americans Are Behind on Retirement
+## Kenapa Kebanyakan Orang Tertinggal dalam Persiapan Pensiun
 
-Let me hit you with a number that keeps me up at night: the median retirement savings for Americans aged 35-44 is under $60,000. That is not a typo. Most of us are wildly behind where we need to be, and the gap only gets harder to close the longer we wait.
+Saya mau kasih satu angka yang bikin saya sering kepikiran: median tabungan pensiun orang Amerika usia 35-44 itu kurang dari $60.000. Bukan salah ketik. Kebanyakan dari kita memang jauh tertinggal dari yang seharusnya, dan makin lama menunggu, makin sulit mengejarnya.
 
-I was one of those people. At 32, I had about $40,000 scattered across an old 401(k) from a previous employer and a savings account earning basically nothing. No IRA, no real plan, just a vague sense that I should be doing more.
+Saya dulu juga begitu. Di usia 32, saya punya sekitar $40.000 yang tercecer di DPLK lama dari tempat kerja sebelumnya dan tabungan yang bunganya hampir nol. Tidak punya reksadana/investasi pensiun, tidak punya rencana yang jelas, cuma perasaan samar bahwa saya harus melakukan lebih banyak.
 
-Then I sat down, did the math, and realized I needed to make serious changes. The good news? Once you understand the system, catching up is absolutely possible. The US retirement system is actually designed to reward you for participating, if you know how to use it.
+Lalu saya duduk, menghitung semuanya, dan sadar saya perlu perubahan besar. Kabar baiknya? Begitu kamu paham sistemnya, mengejar ketertinggalan itu sangat mungkin. Sistem pensiun di Amerika sebenarnya memang dirancang untuk memberi imbalan kalau kamu ikut berpartisipasi, asal tahu cara memakainya.
 
-Here are the five moves that transformed my retirement outlook, and they can work for you too.
+Berikut lima langkah yang mengubah pandangan saya soal pensiun, dan ini juga bisa bekerja untuk kamu.
 
-## Move 1: Max Out Your 401(k) Employer Match
+## Langkah 1: Maksimalkan Match dari Perusahaan di DPLK
 
-This is the single most important thing you can do. If your employer offers a 401(k) match and you are not contributing enough to get the full match, you are literally leaving free money on the table.
+Ini adalah hal paling penting yang bisa kamu lakukan. Kalau perusahaanmu menawarkan match DPLK dan kamu belum menabung cukup untuk mendapatkan match penuh, kamu pada dasarnya sedang membiarkan uang gratis lewat begitu saja.
 
-Here is how it typically works:
+Begini biasanya cara kerjanya:
 
-- Your employer matches 50% or 100% of your contributions up to a certain percentage of your salary
-- The most common match is 50% of contributions up to 6% of your salary
-- That is an instant 50-100% return on your money before any market gains
+- Perusahaan mencocokkan 50% atau 100% dari kontribusimu sampai persentase tertentu dari gaji
+- Match yang paling umum adalah 50% dari kontribusi sampai 6% gaji
+- Artinya, kamu langsung mendapat imbal hasil 50-100% sebelum ada keuntungan pasar sama sekali
 
-**Example**: You earn $70,000 and your employer matches 50% up to 6%. You contribute $4,200 (6%), and your employer adds $2,100. That is $2,100 in free money every single year.
+**Contoh**: Kamu berpenghasilan Rp 1,05 miliar per tahun dan perusahaan mencocokkan 50% sampai 6%. Kamu menabung Rp 63 juta (6%), lalu perusahaan menambah Rp 31,5 juta. Itu berarti Rp 31,5 juta uang gratis setiap tahun.
 
-### 2026 401(k) Contribution Limits
+### Batas Kontribusi DPLK 2026
 
-| Category | 2026 Limit |
+| Kategori | Batas 2026 |
 |----------|-----------|
-| Employee contribution (under 50) | $23,500 |
-| Employee contribution (50+) | $31,000 |
-| Total employer + employee limit | $70,000 |
+| Kontribusi karyawan (di bawah 50) | $23.500 |
+| Kontribusi karyawan (50+) | $31.000 |
+| Batas total perusahaan + karyawan | $70.000 |
 
-If you cannot afford to max out your 401(k), at minimum contribute enough to capture the full employer match. That is your floor, not your ceiling.
+Kalau kamu belum mampu memaksimalkan DPLK, setidaknya kontribusikan cukup untuk mendapatkan match penuh dari perusahaan. Itu batas bawahmu, bukan batas atas.
 
-## Move 2: Open and Fund a Roth IRA
+## Langkah 2: Buka dan Isi Reksadana/Investasi Pensiun
 
-After securing your employer match, a Roth IRA should be your next priority. Here is why I love the Roth IRA:
+Setelah mengamankan match dari perusahaan, prioritas berikutnya adalah reksadana/investasi pensiun. Ini alasan saya suka jenis akun ini:
 
-- **Tax-free growth**: You contribute after-tax dollars, but all growth and withdrawals in retirement are completely tax-free
-- **No required minimum distributions**: Unlike a traditional IRA or 401(k), you never have to take money out
-- **Contribution flexibility**: You can withdraw your contributions (not earnings) at any time without penalty
-- **Estate planning benefits**: Your heirs inherit the account tax-free
+- **Pertumbuhan bebas pajak**: Kamu setor uang setelah pajak, tapi semua pertumbuhan dan penarikan saat pensiun bebas pajak
+- **Tidak ada kewajiban penarikan minimum**: Berbeda dengan akun pensiun tradisional, kamu tidak wajib menarik uang
+- **Fleksibel untuk kontribusi**: Kamu bisa menarik kontribusimu kapan saja tanpa penalti
+- **Manfaat warisan**: Ahli waris menerima akun ini tanpa pajak
 
-### Roth IRA Income Limits for 2026
+### Batas Penghasilan untuk Reksadana/Investasi Pensiun 2026
 
-You can contribute the full amount if your modified adjusted gross income (MAGI) is:
+Kamu bisa menyetor penuh jika modified adjusted gross income (MAGI) kamu adalah:
 
-- **Single filers**: Under $150,000 (phaseout up to $165,000)
-- **Married filing jointly**: Under $236,000 (phaseout up to $246,000)
+- **Lajang**: Di bawah $150.000 (berkurang bertahap sampai $165.000)
+- **Menikah lapor bersama**: Di bawah $236.000 (berkurang bertahap sampai $246.000)
 
-The 2026 contribution limit is $7,000, or $8,000 if you are 50 or older.
+Batas kontribusi 2026 adalah $7.000, atau $8.000 jika kamu berusia 50 tahun ke atas.
 
-### Where to Open a Roth IRA
+### Tempat Membuka Reksadana/Investasi Pensiun
 
-I personally use [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/), but here are the top options:
+Saya pribadi menggunakan [Fidelity](/blog/fidelity-review-for-stock-and-fund-investing/), tapi berikut beberapa pilihan terbaik:
 
-- **Fidelity**: Zero-fee index funds, no minimums, excellent research tools
-- **Vanguard**: Pioneer of low-cost index investing, slightly dated interface
-- **Charles Schwab**: Strong all-around platform, great customer service
+- **BCA**: Produk investasi yang mudah diakses, pilihan reksadana beragam, dan cocok untuk pemula
+- **Mandiri**: Platform kuat, pilihan produk lengkap, dan layanan luas
+- **Jago**: Antarmuka modern, praktis untuk pengelolaan keuangan harian dan investasi
+- **Seabank**: Mudah digunakan, cocok untuk mulai menabung dan berinvestasi secara sederhana
 
-Any of these three will serve you well. The most important thing is to open the account and start contributing, not to spend weeks picking the perfect provider.
+Salah satu dari opsi ini sudah cukup bagus. Yang paling penting adalah membuka akun dan mulai menyetor, bukan menghabiskan berminggu-minggu memilih penyedia yang “paling sempurna”.
 
-## Move 3: Invest in Low-Cost Index Funds
+## Langkah 3: Investasi di Reksa Dana Indeks Biaya Rendah
 
-Here is where a lot of people mess up. They open their retirement accounts and then either leave the money in cash or pick random individual stocks. Neither approach works well long-term.
+Di sinilah banyak orang salah langkah. Mereka membuka akun pensiun, lalu uangnya dibiarkan tunai atau malah memilih saham acak satu per satu. Dua-duanya kurang efektif untuk jangka panjang.
 
-The data is overwhelming: low-cost [index funds](/blog/index-fund-investing-guide/) outperform the vast majority of actively managed funds over any 20+ year period. Warren Buffett himself bet $1 million that an S&P 500 index fund would beat a collection of hedge funds over 10 years. He won easily.
+Datanya sangat jelas: [reksa dana indeks](/blog/index-fund-investing-guide/) berbiaya rendah mengalahkan sebagian besar reksa dana aktif dalam periode 20 tahun atau lebih. Warren Buffett sendiri pernah bertaruh $1 juta bahwa reksa dana indeks S&P 500 akan mengalahkan kumpulan hedge fund selama 10 tahun. Dia menang telak.
 
-### My Recommended Portfolio Approach
+### Pendekatan Portofolio yang Saya Sarankan
 
-For someone in their 30s or 40s, a simple three-fund portfolio works beautifully:
+Untuk orang usia 30-an atau 40-an, portofolio tiga dana sederhana bekerja sangat baik:
 
-- **60-70% US Total Stock Market Index Fund** (like FSKAX or VTI)
-- **15-20% International Stock Market Index Fund** (like FTIHX or VXUS)
-- **10-20% US Bond Index Fund** (like FXNAX or BND)
+- **60-70% Reksa Dana Indeks Pasar Saham AS Total** (seperti FSKAX atau VTI)
+- **15-20% Reksa Dana Indeks Pasar Saham Internasional** (seperti FTIHX atau VXUS)
+- **10-20% Reksa Dana Indeks Obligasi AS** (seperti FXNAX atau BND)
 
-As you get closer to retirement, gradually shift more toward bonds. A common rule of thumb is to hold your age as a percentage in bonds, though I think that is a bit conservative for most people.
+Semakin dekat ke masa pensiun, perlahan alihkan lebih banyak ke obligasi. Aturan praktis yang umum adalah menaruh persentase usia kamu dalam obligasi, meski menurut saya itu agak terlalu konservatif untuk kebanyakan orang.
 
-### Expense Ratios Matter Enormously
+### Biaya Pengelolaan Sangat Penting
 
-| Fund Type | Typical Expense Ratio | Cost per $100K/Year |
+| Jenis Dana | Biaya Pengelolaan Umum | Biaya per Rp 1,5 Miliar/Tahun |
 |-----------|----------------------|-------------------|
-| Actively managed mutual fund | 0.50% - 1.50% | $500 - $1,500 |
-| Low-cost index fund | 0.03% - 0.10% | $30 - $100 |
+| Reksa dana aktif | 0,50% - 1,50% | Rp 7,5 juta - Rp 22,5 juta |
+| Reksa dana indeks biaya rendah | 0,03% - 0,10% | Rp 450 ribu - Rp 1,5 juta |
 
-Over 30 years, that difference can cost you hundreds of thousands of dollars. Keep your expense ratios below 0.10% whenever possible.
+Selama 30 tahun, selisih ini bisa menghabiskan ratusan juta rupiah. Usahakan biaya pengelolaan di bawah 0,10% kalau memungkinkan.
 
-## Move 4: Understand the Tax Math
+## Langkah 4: Pahami Perhitungan Pajaknya
 
-One of the biggest advantages of the US retirement system is the tax benefits. But you need to understand which accounts to use and when.
+Salah satu keuntungan terbesar sistem pensiun adalah manfaat pajaknya. Tapi kamu perlu tahu akun mana yang dipakai dan kapan.
 
-### Traditional vs. Roth: A Decision Framework
+### Tradisional vs. Roth: Kerangka Keputusan
 
-**Choose Traditional 401(k)/IRA when:**
+**Pilih DPLK/akun tradisional ketika:**
 
-- Your current tax bracket is higher than your expected retirement tax bracket
-- You are a high earner and want to reduce this year's tax bill
-- You expect your income to decrease in retirement
+- Tarif pajakmu sekarang lebih tinggi daripada tarif pajak saat pensiun
+- Kamu berpenghasilan tinggi dan ingin mengurangi tagihan pajak tahun ini
+- Kamu memperkirakan penghasilan akan turun saat pensiun
 
-**Choose Roth 401(k)/IRA when:**
+**Pilih akun Roth ketika:**
 
-- You are in a lower tax bracket now (early career, lower income)
-- You believe tax rates will increase in the future
-- You want tax-free income flexibility in retirement
-- You want to avoid required minimum distributions
+- Kamu sekarang berada di kelompok pajak yang lebih rendah
+- Kamu percaya tarif pajak akan naik di masa depan
+- Kamu ingin fleksibilitas pendapatan bebas pajak saat pensiun
+- Kamu ingin menghindari penarikan minimum wajib
 
-### The Backdoor Roth Strategy
+### Strategi Backdoor Roth
 
-If your income is too high for direct Roth IRA contributions, the backdoor Roth strategy lets you get around the income limits:
+Kalau penghasilanmu terlalu tinggi untuk kontribusi langsung ke akun Roth, strategi backdoor Roth memungkinkan kamu melewati batas penghasilan:
 
-1. Contribute to a traditional IRA (non-[deductible](/blog/insurance-terms-explained-simply-2026-guide/))
-2. Convert to a Roth IRA shortly after
-3. Pay taxes only on any gains between contribution and conversion
+1. Kontribusikan ke akun tradisional yang tidak bisa dikurangkan pajaknya
+2. Konversi ke akun Roth tak lama setelahnya
+3. Bayar pajak hanya atas keuntungan yang muncul antara waktu kontribusi dan konversi
 
-This strategy is legal, IRS-approved, and used by millions of Americans. Just be aware of the pro-rata rule if you have existing traditional IRA balances.
+Strategi ini legal, disetujui Dirjen Pajak, dan dipakai jutaan orang. Hanya saja, perhatikan aturan pro-rata kalau kamu sudah punya saldo akun tradisional sebelumnya.
 
-## Move 5: Calculate Your Retirement Number
+## Langkah 5: Hitung Angka Pensiunmu
 
-Here is the part where everything comes together. You need to know your actual target, not just "save as much as possible."
+Di sinilah semuanya menyatu. Kamu perlu tahu target yang nyata, bukan sekadar “menabung sebanyak mungkin.”
 
-### The 25x Rule
+### Aturan 25x
 
-The most common approach in retirement planning is the 25x rule:
+Pendekatan paling umum dalam perencanaan pensiun adalah aturan 25x:
 
-1. Estimate your annual retirement spending
-2. Multiply by 25
-3. That is your target nest egg
+1. Perkirakan pengeluaran tahunan saat pensiun
+2. Kalikan 25
+3. Itulah target dana pensiunmu
 
-**Example**: You want $60,000 per year in retirement. Your target is $60,000 x 25 = $1,500,000.
+**Contoh**: Kamu ingin Rp 900 juta per tahun saat pensiun. Targetmu adalah Rp 900 juta x 25 = Rp 22,5 miliar.
 
-This is based on the 4% safe withdrawal rate from the Trinity Study, which found that withdrawing 4% of your portfolio annually (adjusted for inflation) has historically sustained a portfolio for 30+ years.
+Ini didasarkan pada tingkat penarikan aman 4% dari Trinity Study, yang menemukan bahwa menarik 4% dari portofolio per tahun (disesuaikan inflasi) secara historis bisa menopang portofolio selama 30+ tahun.
 
-### Social Security Is a Bonus, Not a Plan
+### BPJS Itu Tambahan, Bukan Rencana Utama
 
-The average Social Security benefit in 2026 is about $1,900 per month, or roughly $23,000 per year. That helps, but it is not enough to retire on for most Americans.
+Manfaat BPJS rata-rata di 2026 sekitar $1.900 per bulan, atau kira-kira Rp 28,5 juta per tahun. Itu membantu, tapi tidak cukup untuk pensiun nyaman bagi kebanyakan orang.
 
-Here is how I factor it in:
+Begini cara saya memasukkannya ke perhitungan:
 
-- Estimate your Social Security benefit at ssa.gov
-- Subtract that from your desired annual spending
-- Apply the 25x rule to the remaining amount
+- Perkirakan manfaat BPJS-mu di situs resmi
+- Kurangi dari kebutuhan belanja tahunan yang kamu inginkan
+- Terapkan aturan 25x pada sisa jumlahnya
 
-**Example**: You want $60,000/year. Social Security covers $24,000. You need to fund $36,000 yourself. Target: $36,000 x 25 = $900,000.
+**Contoh**: Kamu ingin Rp 900 juta/tahun. BPJS menutup Rp 360 juta. Berarti kamu perlu menutup Rp 540 juta sendiri. Target: Rp 540 juta x 25 = Rp 13,5 miliar.
 
-That is significantly more achievable, and it is the number I focus on.
+Itu jauh lebih realistis, dan itu angka yang saya fokuskan.
 
-## A Timeline That Actually Works
+## Timeline yang Benar-Benar Masuk Akal
 
-Here is a realistic savings trajectory if you start at 30 with $0 saved:
+Berikut jalur tabungan yang realistis kalau kamu mulai di usia 30 dengan tabungan Rp 0:
 
-| Age | Monthly Contribution | Portfolio Value (7% avg return) |
+| Usia | Kontribusi Bulanan | Nilai Portofolio (imbal hasil rata-rata 7%) |
 |-----|---------------------|-------------------------------|
-| 30 | $750 | $0 |
-| 35 | $750 | $54,000 |
-| 40 | $1,000 | $140,000 |
-| 45 | $1,000 | $270,000 |
-| 50 | $1,200 | $460,000 |
-| 55 | $1,500 | $730,000 |
-| 60 | $1,500 | $1,050,000 |
-| 65 | $1,500 | $1,400,000 |
+| 30 | Rp 11,25 juta | Rp 0 |
+| 35 | Rp 11,25 juta | Rp 810 juta |
+| 40 | Rp 15 juta | Rp 2,1 miliar |
+| 45 | Rp 15 juta | Rp 4,05 miliar |
+| 50 | Rp 18 juta | Rp 6,9 miliar |
+| 55 | Rp 22,5 juta | Rp 10,95 miliar |
+| 60 | Rp 22,5 juta | Rp 15,75 miliar |
+| 65 | Rp 22,5 juta | Rp 21 miliar |
 
-Notice how the growth accelerates over time. That is compound interest doing its work. The money you invest in your 30s has 30+ years to grow, which is why starting early matters so much.
+Perhatikan bagaimana pertumbuhannya makin cepat seiring waktu. Itulah efek bunga majemuk. Uang yang kamu investasikan di usia 30-an punya waktu 30+ tahun untuk bertumbuh, dan itulah kenapa mulai lebih awal sangat penting.
 
-## Catch-Up Strategies If You Are Behind
+## Strategi Mengejar Ketertinggalan Kalau Kamu Sudah Terlambat
 
-If you are starting late, do not panic. There are specific strategies for catching up:
+Kalau kamu baru mulai terlambat, jangan panik. Ada strategi khusus untuk mengejar ketertinggalan:
 
-- **Use catch-up contributions**: After 50, you can contribute an extra $7,500 to your 401(k) and $1,000 to your IRA
-- **Maximize a Health Savings Account (HSA)**: If you have a high-deductible health plan, the HSA offers triple tax advantages and can be used as a stealth retirement account
-- **Delay Social Security**: Waiting until 70 instead of 62 increases your benefit by roughly 76%
-- **Reduce expenses aggressively**: Every $500/month you redirect to retirement accounts adds up dramatically
-- **Consider working 2-3 extra years**: Even a small extension can make a huge difference because of additional contributions plus fewer years of withdrawals
+- **Manfaatkan kontribusi tambahan**: Setelah 50 tahun, kamu bisa menambah kontribusi ekstra ke DPLK dan akun pensiun
+- **Maksimalkan HSA**: Kalau kamu punya asuransi kesehatan dengan deductible tinggi, HSA menawarkan tiga keuntungan pajak dan bisa dipakai sebagai akun pensiun tersembunyi
+- **Tunda BPJS**: Menunggu sampai 70 dibanding 62 bisa menaikkan manfaatmu sekitar 76%
+- **Potong pengeluaran secara agresif**: Setiap Rp 7,5 juta/bulan yang kamu alihkan ke akun pensiun akan berdampak besar
+- **Pertimbangkan kerja 2-3 tahun lebih lama**: Bahkan perpanjangan kecil bisa membuat perbedaan besar karena kontribusi tambahan dan masa penarikan yang lebih singkat
 
-## Common Retirement Planning Mistakes
+## Kesalahan Umum dalam Perencanaan Pensiun
 
-I have made some of these myself, so learn from my experience:
+Saya sendiri pernah melakukan beberapa di antaranya, jadi pelajari dari pengalaman saya:
 
-1. **Cashing out old 401(k)s when changing jobs**: You lose 30-40% to taxes and penalties. Always roll over to an IRA instead.
-2. **Being too conservative too young**: If you are in your 30s with everything in bonds or money market funds, you are losing decades of growth.
-3. **Ignoring fees**: A 1% fee difference over 30 years can cost you 25% of your final portfolio.
-4. **Not increasing contributions when you get raises**: Every time your salary increases, bump up your contribution percentage.
-5. **Trying to time the market**: Stay invested through downturns. Missing the 10 best market days over 20 years cuts your returns nearly in half. A [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) approach helps you stay consistent through volatile markets.
+1. **Mencairkan DPLK lama saat pindah kerja**: Kamu bisa kehilangan 30-40% karena pajak dan penalti. Selalu pindahkan ke akun pensiun lain.
+2. **Terlalu konservatif saat masih muda**: Kalau kamu usia 30-an dan semua uang ada di obligasi atau deposito pasar uang, kamu kehilangan puluhan tahun pertumbuhan.
+3. **Mengabaikan biaya**: Selisih biaya 1% selama 30 tahun bisa menghabiskan 25% portofolio akhirmu.
+4. **Tidak menaikkan kontribusi saat gaji naik**: Setiap kali gajimu naik, ikut naikkan persentase kontribusimu.
+5. **Mencoba menebak pasar**: Tetaplah berinvestasi saat pasar turun. Melewatkan 10 hari terbaik pasar dalam 20 tahun bisa memangkas imbal hasilmu hampir setengahnya. Pendekatan [dollar-cost averaging](/blog/dollar-cost-averaging-strategy-explained/) membantu kamu tetap konsisten di pasar yang volatil.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### How much should I have saved for retirement by age 40?
+### Berapa tabungan pensiun yang seharusnya saya punya di usia 40?
 
-A common benchmark is 3x your annual salary by age 40. So if you earn $80,000, aim for $240,000 in total retirement savings. If you are behind, focus on maximizing contributions and reducing expenses rather than stressing about the gap.
+Patokan umum adalah 3x gaji tahunanmu di usia 40. Jadi kalau kamu berpenghasilan Rp 1,2 miliar, targetkan total tabungan pensiun Rp 3,6 miliar. Kalau kamu tertinggal, fokuslah memaksimalkan kontribusi dan menekan pengeluaran, bukan stres soal selisihnya.
 
-### Should I pay off debt or save for retirement first?
+### Sebaiknya saya melunasi utang dulu atau menabung pensiun dulu?
 
-It depends on the interest rate. Always get your full 401(k) employer match first since that is an instant 50-100% return. Then tackle any debt above 7-8% interest. After that, split additional money between lower-interest debt and retirement savings.
+Tergantung tingkat bunganya. Selalu ambil match penuh dari perusahaan di DPLK dulu karena itu imbal hasil instan 50-100%. Setelah itu, lunasi utang dengan bunga di atas 7-8%. Sesudahnya, bagi dana tambahan antara utang berbunga rendah dan tabungan pensiun.
 
-### Is a Roth IRA better than a traditional IRA?
+### Apakah akun Roth lebih baik daripada akun tradisional?
 
-For most Americans under 40, yes. You are likely in a lower tax bracket now than you will be later, and the tax-free growth over decades is incredibly powerful. But if you are a high earner in the 32%+ tax bracket, a traditional IRA might save you more in taxes today.
+Untuk kebanyakan orang di bawah 40 tahun, ya. Kamu kemungkinan berada di kelompok pajak yang lebih rendah sekarang daripada nanti, dan pertumbuhan bebas pajak selama puluhan tahun itu sangat kuat. Tapi kalau kamu berpenghasilan tinggi di kelompok pajak 32%+, akun tradisional mungkin bisa menghemat pajak lebih banyak hari ini.
 
-### Can I retire on Social Security alone?
+### Bisakah saya pensiun hanya mengandalkan BPJS?
 
-The average benefit is about $1,900/month, which is roughly $23,000/year. Unless you live in a very low-cost area with no debt and minimal expenses, Social Security alone will not provide a comfortable retirement. Think of it as a supplement, not your entire plan.
+Manfaat rata-ratanya sekitar $1.900/bulan, atau kira-kira Rp 28,5 juta/tahun. Kecuali kamu tinggal di daerah berbiaya sangat rendah, tanpa utang, dan dengan pengeluaran minimal, BPJS saja tidak akan memberi pensiun yang nyaman. Anggap ini sebagai tambahan, bukan seluruh rencana.
 
-### What if I cannot afford to save 15% of my income?
+### Bagaimana kalau saya tidak mampu menabung 15% dari penghasilan?
 
-Start with whatever you can, even 3-5%. The most important step is beginning. Then increase by 1% every six months or every time you get a raise. Automating your contributions so the money leaves your paycheck before you see it makes this much easier psychologically. Our [automatic savings guide](/blog/10-automatic-savings-tips-and-tricks/) walks you through setting up these systems.
+Mulailah dari yang kamu bisa, bahkan 3-5%. Yang paling penting adalah mulai dulu. Lalu naikkan 1% setiap enam bulan atau setiap kali kamu dapat kenaikan gaji. Mengotomatiskan kontribusi supaya uang langsung keluar dari gaji sebelum kamu melihatnya juga sangat membantu secara psikologis. Panduan [automatic savings guide](/blog/10-automatic-savings-tips-and-tricks/) kami menjelaskan cara menyiapkan sistem ini.
