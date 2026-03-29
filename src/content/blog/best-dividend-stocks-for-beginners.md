@@ -10,11 +10,11 @@ heroImageAlt: '7 Best Dividend Stocks for Beginners [2026]'
 
 ---
 
-The first dividend payment I ever received was Rp 51 ribu. I know that sounds laughable, but I still remember the feeling of seeing money appear in my brokerage account that I didn't have to work for. It was passive income in its purest form — a company paying me just for owning a tiny piece of it.
+The first dividend payment I ever received was Rp 51 ribu. Saya tahu itu terdengar konyol, tapi saya masih ingat rasanya melihat uang masuk ke rekening sekuritas saya tanpa harus bekerja untuk itu. Itu adalah passive income dalam bentuk paling murni — sebuah perusahaan membayar saya hanya karena saya memiliki sedikit bagian darinya.
 
-Fast forward three years, and those quarterly dividend payments have grown into a meaningful income stream. Not "quit your job" money yet, but enough to cover my monthly streaming subscriptions with room to spare. And every quarter, the snowball gets a little bigger.
+Tiga tahun kemudian, pembayaran dividen kuartalan itu sudah berkembang jadi aliran pendapatan yang lumayan. Belum sampai level “resign dari kerjaan”, tapi cukup untuk menutup langganan streaming bulanan saya dan masih ada sisa. Dan setiap kuartal, bola saljunya makin besar sedikit demi sedikit.
 
-If you're a beginner looking to start building passive income through dividend stocks, these are the 7 companies I'd point you to first — all blue-chip, saham S&P 500 dengan rekam jejak panjang dalam membayar dan menaikkan dividen.
+Kalau kamu pemula dan ingin mulai membangun penghasilan pasif lewat saham dividen, inilah 7 perusahaan yang pertama kali akan saya rekomendasikan — semuanya blue-chip, saham S&P 500 dengan rekam jejak panjang dalam membayar dan menaikkan dividen.
 
 ## Key Takeaways
 
@@ -53,8 +53,8 @@ Saya tidak memasukkan saham spekulatif dengan yield tinggi. Semua pilihan di daf
 
 ### 1. Johnson & Johnson (JNJ)
 
-**Dividend Yield:** ~3,1%
-**Consecutive Years of Dividend Increases:** 62+
+**Dividend Yield:** ~3,1%  
+**Consecutive Years of Dividend Increases:** 62+  
 **Sector:** Healthcare
 
 Johnson & Johnson adalah saham dividen tipe “tidur nyenyak di malam hari.” Raksasa kesehatan ini sudah menaikkan dividennya selama lebih dari enam dekade — melewati setiap resesi, crash pasar, dan krisis global sejak 1960-an.
@@ -70,8 +70,8 @@ Johnson & Johnson adalah saham dividen tipe “tidur nyenyak di malam hari.” R
 
 ### 2. Procter & Gamble (PG)
 
-**Dividend Yield:** ~2,4%
-**Consecutive Years of Dividend Increases:** 68+
+**Dividend Yield:** ~2,4%  
+**Consecutive Years of Dividend Increases:** 68+  
 **Sector:** Consumer Staples
 
 Kamu pakai produk P&G setiap hari — Tide, Gillette, Pampers, Charmin, Crest, Bounty. Itulah yang membuat saham ini begitu tangguh. Orang tidak berhenti beli tisu toilet dan pasta gigi saat resesi.
@@ -87,8 +87,8 @@ Kamu pakai produk P&G setiap hari — Tide, Gillette, Pampers, Charmin, Crest, B
 
 ### 3. Coca-Cola (KO)
 
-**Dividend Yield:** ~3,0%
-**Consecutive Years of Dividend Increases:** 62+
+**Dividend Yield:** ~3,0%  
+**Consecutive Years of Dividend Increases:** 62+  
 **Sector:** Consumer Staples
 
 Warren Buffett sudah memegang Coca-Cola sejak 1988, dan harga belinya sangat murah sehingga dividend yield tahunan atas modal awalnya melebihi 50%. Itulah kekuatan membeli saham dividen berkualitas dan menahannya selama puluhan tahun.
@@ -104,8 +104,8 @@ Warren Buffett sudah memegang Coca-Cola sejak 1988, dan harga belinya sangat mur
 
 ### 4. Realty Income (O)
 
-**Dividend Yield:** ~5,3%
-**Consecutive Years of Dividend Increases:** 29+
+**Dividend Yield:** ~5,3%  
+**Consecutive Years of Dividend Increases:** 29+  
 **Sector:** Real Estate (REIT)
 
 Realty Income unik di daftar ini karena membayar dividen **bulanan**, bukan kuartalan. Perusahaan ini bahkan menyebut dirinya “The Monthly Dividend Company.” Kalau kamu ingin arus kas rutin masuk ke rekening, ini saham yang menarik.
@@ -122,8 +122,8 @@ Realty Income unik di daftar ini karena membayar dividen **bulanan**, bukan kuar
 
 ### 5. Microsoft (MSFT)
 
-**Dividend Yield:** ~0,8%
-**Consecutive Years of Dividend Increases:** 21+
+**Dividend Yield:** ~0,8%  
+**Consecutive Years of Dividend Increases:** 21+  
 **Sector:** Technology
 
 Yield Microsoft terlihat kecil dibanding yang lain di daftar ini, tapi inilah alasannya layak masuk: pertumbuhan dividen. MSFT sudah menaikkan dividennya sekitar 10-15% per tahun, dan kenaikan harga sahamnya menambah total return yang besar.
@@ -140,8 +140,8 @@ Yield Microsoft terlihat kecil dibanding yang lain di daftar ini, tapi inilah al
 
 ### 6. Verizon Communications (VZ)
 
-**Dividend Yield:** ~6,5%
-**Consecutive Years of Dividend Increases:** 19+
+**Dividend Yield:** ~6,5%  
+**Consecutive Years of Dividend Increases:** 19+  
 **Sector:** Telecommunications
 
 Verizon menawarkan salah satu yield tertinggi di daftar ini. Saham telekomunikasi memang tidak glamor, tapi orang tetap bayar tagihan ponsel bahkan saat kondisi sulit. Keandalan itu diterjemahkan menjadi pembayaran dividen yang konsisten.
@@ -158,8 +158,8 @@ Verizon menawarkan salah satu yield tertinggi di daftar ini. Saham telekomunikas
 
 ### 7. PepsiCo (PEP)
 
-**Dividend Yield:** ~3,4%
-**Consecutive Years of Dividend Increases:** 52+
+**Dividend Yield:** ~3,4%  
+**Consecutive Years of Dividend Increases:** 52+  
 **Sector:** Consumer Staples
 
 PepsiCo jauh lebih terdiversifikasi daripada yang banyak orang kira. Ya, mereka membuat Pepsi, tapi mereka juga memiliki Frito-Lay (perusahaan snack dominan di AS), Quaker Oats, Gatorade, dan puluhan merek makanan serta minuman lainnya.

@@ -1,6 +1,6 @@
 ---
-title: "Bitcoin Halving 2026: 7 Price Predictions to Watch"
-description: "Bitcoin halving can move prices fast. I break down what usually happens, what to watch, and how Indonesians can prepare."
+title: "Bitcoin Halving 2026: 7 Prediksi Harga"
+description: "Halving Bitcoin bisa menggerakkan harga cepat. Saya bahas apa yang biasanya terjadi, apa yang perlu dipantau, dan cara orang Indonesia bersiap."
 pubDate: 2026-03-29
 updatedDate: 2026-03-29
 category: "cryptocurrency"
@@ -14,203 +14,202 @@ If you’re wondering what to expect, the short answer is this: halving usually 
 
 ## Key Takeaways
 
-- Bitcoin halving reduces new BTC supply, and that supply shock is the main reason people expect price movement.
-- The biggest price reaction often happens before or months after the halving, not necessarily on the exact date.
-- Past cycles suggest halving can support a longer bull trend, but the market still depends on liquidity, sentiment, and macro conditions.
-- Indonesian investors should focus on position sizing, rupiah-cost averaging, and exchange security instead of trying to time the exact top.
-- If you already invest in crypto, I think a simple plan beats emotional buying every time.
+- Bitcoin halving mengurangi pasokan BTC baru, dan shock pasokan inilah alasan utama orang berharap harga bergerak.
+- Reaksi harga terbesar sering terjadi sebelum halving atau beberapa bulan sesudahnya, bukan tepat di tanggal event.
+- Siklus sebelumnya menunjukkan halving bisa mendukung tren bullish yang lebih panjang, tapi pasar tetap bergantung pada likuiditas, sentimen, dan kondisi makro.
+- Investor Indonesia sebaiknya fokus pada ukuran posisi, rupiah-cost averaging, dan keamanan exchange, bukan mencoba menebak puncak harga secara presisi.
+- Kalau kamu sudah investasi di crypto, menurut saya rencana sederhana selalu lebih bagus daripada beli karena emosi.
 
 ## What Is Bitcoin Halving, and Why Does It Matter?
 
-Bitcoin halving is when the block reward for miners gets cut in half, reducing the rate of new Bitcoin entering circulation. That matters because Bitcoin has a fixed supply cap of 21 million coins, so every halving makes new supply scarcer.
+Bitcoin halving adalah saat reward blok untuk miner dipotong setengah, sehingga laju Bitcoin baru yang masuk ke peredaran berkurang. Ini penting karena Bitcoin punya batas pasokan tetap 21 juta koin, jadi setiap halving membuat pasokan baru makin langka.
 
-Here’s the simple version. Miners used to receive 50 BTC per block in 2009. Then it dropped to 25, then 12.5, then 6.25, and after the 2024 halving it became 3.125 BTC per block. I like to think of it as Bitcoin tightening the tap every four years.
+Versi sederhananya begini. Dulu miner menerima 50 BTC per blok pada 2009. Lalu turun jadi 25, kemudian 12,5, lalu 6,25, dan setelah halving 2024 menjadi 3,125 BTC per blok. Saya suka mengibaratkannya seperti Bitcoin yang “menutup keran” sedikit demi sedikit setiap empat tahun.
 
-Why should you care? Because price is usually influenced by the balance between supply and demand. If demand stays strong while new supply slows down, the market can reprice Bitcoin higher. But I don’t want to oversimplify this into “halving = price goes up.” That’s lazy thinking, and it’s usually how people end up buying too late.
+Kenapa kamu perlu peduli? Karena harga biasanya dipengaruhi oleh keseimbangan antara pasokan dan permintaan. Kalau permintaan tetap kuat sementara pasokan baru melambat, pasar bisa menaikkan harga Bitcoin. Tapi saya tidak mau menyederhanakan ini jadi “halving = harga naik.” Itu cara pikir yang malas, dan biasanya justru bikin orang beli terlalu telat.
 
-The more useful way to think about halving is this:
+Cara yang lebih berguna untuk memandang halving adalah seperti ini:
 
-1. New supply drops.
-2. Miners may sell less or more efficiently.
-3. Market participants start anticipating scarcity.
-4. If demand is strong, price can trend upward over time.
+1. Pasokan baru turun.
+2. Miner mungkin menjual lebih sedikit atau lebih efisien.
+3. Pelaku pasar mulai mengantisipasi kelangkaan.
+4. Kalau permintaan kuat, harga bisa naik dalam jangka waktu tertentu.
 
-If you want to understand Bitcoin properly, I also recommend reading my guide on [how to create a crypto investment strategy](/blog/how-to-create-a-crypto-investment-strategy/) because halving alone is never a full strategy.
+Kalau kamu ingin benar-benar paham Bitcoin, saya juga sarankan baca panduan saya tentang [cara membuat strategi investasi crypto](/blog/how-to-create-a-crypto-investment-strategy/) karena halving saja tidak pernah cukup jadi strategi lengkap.
 
 ## How Does Bitcoin Halving Impact on Price?
 
-The **Bitcoin halving impact on price** usually comes from a supply shock, but the effect is delayed and shaped by market expectations. In plain English: halving changes the flow of new BTC, and markets often react before the actual reduction fully shows up in price.
+**Bitcoin halving impact on price** biasanya datang dari shock pasokan, tapi efeknya tertunda dan dipengaruhi ekspektasi pasar. Dalam bahasa sederhana: halving mengubah aliran BTC baru, dan pasar sering bereaksi sebelum pengurangan itu benar-benar terasa di harga.
 
 ### The supply side is the main driver
 
-Before the halving, miners earn more BTC per block. After halving, they earn less. That means fewer new coins are being sold into the market each day. If demand stays constant, less sell pressure can support a higher price.
+Sebelum halving, miner memperoleh lebih banyak BTC per blok. Setelah halving, mereka mendapat lebih sedikit. Artinya, lebih sedikit koin baru yang dijual ke pasar setiap hari. Kalau permintaan tetap sama, tekanan jual yang lebih kecil bisa mendukung harga yang lebih tinggi.
 
-A rough way to think about it:
-- Before the 2024 halving, Bitcoin issuance was about 900 BTC per day.
-- After the halving, it dropped to about 450 BTC per day.
-- That’s a 50% cut in new supply.
+Gambaran kasarnya:
+- Sebelum halving 2024, penerbitan Bitcoin sekitar 900 BTC per hari.
+- Setelah halving, turun jadi sekitar 450 BTC per hari.
+- Itu berarti pemotongan pasokan baru sebesar 50%.
 
-For context, if Bitcoin is trading at Rp 1.5 miliar per BTC, cutting daily issuance from 900 BTC to 450 BTC changes the amount of new supply entering the market by a huge nominal value. That doesn’t automatically push price up tomorrow, but it changes the economics.
+Sebagai konteks, kalau Bitcoin diperdagangkan di sekitar Rp 1,5 miliar per BTC, pemotongan penerbitan harian dari 900 BTC ke 450 BTC mengubah nilai nominal pasokan baru yang masuk ke pasar secara sangat besar. Itu memang tidak otomatis bikin harga naik besok, tapi ekonominya berubah.
 
 ### The demand side still decides the outcome
 
-This is where many people get it wrong. Scarcity only matters if buyers show up. During periods of weak liquidity, high interest rates, or bad sentiment, halving can take longer to matter. I’ve seen traders get obsessed with the event itself and ignore the broader market. That’s a mistake.
+Di sinilah banyak orang keliru. Kelangkaan hanya penting kalau ada pembeli. Saat likuiditas lemah, suku bunga tinggi, atau sentimen buruk, efek halving bisa butuh waktu lebih lama untuk terasa. Saya sering lihat trader terlalu fokus ke event-nya dan mengabaikan kondisi pasar yang lebih besar. Itu kesalahan.
 
 ### Market psychology amplifies the move
 
-Bitcoin is one of the most narrative-driven assets I follow. Halving creates a clean story: supply falls, scarcity rises, price should benefit. That story attracts attention from retail investors, funds, and media. Sometimes the narrative itself helps create the move.
+Bitcoin adalah salah satu aset yang paling digerakkan narasi menurut saya. Halving menciptakan cerita yang jelas: pasokan turun, kelangkaan naik, harga seharusnya diuntungkan. Cerita seperti ini menarik perhatian investor ritel, institusi, dan media. Kadang, narasi itu sendiri ikut mendorong pergerakan harga.
 
-If you want a practical comparison, Bitcoin halving is a bit like a developer suddenly reducing the number of new apartment units built in a hot area. If renters still want in, prices can climb. But if no one wants to move there, lower supply won’t save the market.
+Kalau mau perbandingan praktis, halving Bitcoin mirip seperti pengembang yang tiba-tiba mengurangi jumlah unit apartemen baru di area yang sedang panas. Kalau masih banyak orang ingin masuk, harga bisa naik. Tapi kalau tidak ada yang mau pindah ke sana, pasokan yang lebih sedikit tidak akan menyelamatkan pasar.
 
 ## What Has Happened After Previous Bitcoin Halvings?
 
-Historically, Bitcoin has often performed well after halvings, but the gains have not been immediate and not every cycle looked identical. I think this is the most important part for Indonesian readers because it helps you avoid buying on hype alone.
+Secara historis, Bitcoin sering tampil bagus setelah halving, tapi kenaikannya tidak langsung dan tiap siklus tidak selalu sama. Menurut saya ini bagian paling penting untuk pembaca Indonesia karena membantu kamu menghindari beli hanya karena hype.
 
 ### A quick comparison of past cycles
 
-| Halving Date | Block Reward After | Approx. Price Around Halving | What Happened Next |
+| Tanggal Halving | Block Reward Setelahnya | Perkiraan Harga Saat Halving | Apa yang Terjadi Setelahnya |
 |---|---:|---:|---|
-| 2012 | 25 BTC | Around $12 | Strong multi-month rally followed |
-| 2016 | 12.5 BTC | Around $650 | Bull run developed later |
-| 2020 | 6.25 BTC | Around $8,600 | Major rally came in the following year |
-| 2024 | 3.125 BTC | Around $60,000+ | Market reaction was mixed at first |
+| 2012 | 25 BTC | Sekitar $12 | Rally kuat selama beberapa bulan berikutnya |
+| 2016 | 12,5 BTC | Sekitar $650 | Bull run muncul belakangan |
+| 2020 | 6,25 BTC | Sekitar $8.600 | Rally besar terjadi di tahun berikutnya |
+| 2024 | 3,125 BTC | Sekitar $60.000+ | Reaksi pasar awalnya campur aduk |
 
-What stands out to me is that the biggest gains usually came after the halving, not on the exact day. People often expect a candle so huge it looks like a fireworks show. Reality is messier. Sometimes price chops around for weeks or months before the trend becomes obvious.
+Yang paling menonjol bagi saya adalah kenaikan terbesar biasanya terjadi setelah halving, bukan tepat di hari itu. Banyak orang berharap candle yang begitu besar sampai terlihat seperti kembang api. Kenyataannya lebih berantakan. Kadang harga bergerak naik-turun selama berminggu-minggu atau berbulan-bulan sebelum trennya jelas.
 
 ### Why history is useful, but not a guarantee
 
-Past cycles happened in different macro environments. In 2020, liquidity was loose and risk assets were recovering strongly. In other periods, interest rates, regulation, or exchange failures changed the mood completely. That’s why I never tell people to buy just because “it always goes up after halving.”
+Siklus sebelumnya terjadi di lingkungan makro yang berbeda. Pada 2020, likuiditas longgar dan aset berisiko sedang pulih kuat. Di periode lain, suku bunga, regulasi, atau kegagalan exchange mengubah suasana pasar sepenuhnya. Karena itu saya tidak pernah bilang orang harus beli hanya karena “setelah halving pasti naik.”
 
-If you want to study how broader portfolio thinking works, my guide on [how to diversify your investment portfolio Indonesia](/blog/7-smart-ways-to-diversify-your-investment-portfolio-indonesia/) is worth a look. Bitcoin should usually sit inside a plan, not replace one.
+Kalau kamu ingin mempelajari cara berpikir portofolio yang lebih luas, panduan saya tentang [cara diversifikasi portofolio investasi di Indonesia](/blog/7-smart-ways-to-diversify-your-investment-portfolio-indonesia/) layak dibaca. Bitcoin sebaiknya biasanya jadi bagian dari rencana, bukan pengganti rencana.
 
 ## What Should You Expect in the Months After a Halving?
 
-The most realistic expectation is volatility first, trend later. After a halving, Bitcoin often moves through several phases: anticipation, reaction, consolidation, and potentially a stronger trend if demand keeps building.
+Ekspektasi paling realistis adalah volatilitas dulu, tren belakangan. Setelah halving, Bitcoin sering melewati beberapa fase: antisipasi, reaksi, konsolidasi, lalu mungkin tren yang lebih kuat kalau permintaan terus tumbuh.
 
 ### 1. Short-term volatility
 
-Right after halving, price can move in either direction. Traders take profits, miners adjust, and the market reassesses the new supply schedule. I’ve seen people panic because “nothing happened,” then chase candles later when price finally wakes up.
+Tepat setelah halving, harga bisa bergerak ke dua arah. Trader ambil untung, miner menyesuaikan diri, dan pasar menilai ulang jadwal pasokan baru. Saya pernah lihat orang panik karena “nggak terjadi apa-apa,” lalu mengejar candle saat harga akhirnya bergerak.
 
 ### 2. Miner pressure can change
 
-Miners have real costs: electricity, hardware, and operations. When rewards drop, weaker miners may sell more BTC to cover expenses, or shut down if margins get squeezed. Stronger miners usually survive by being more efficient. This can create temporary pressure, but it doesn’t automatically break the market.
+Miner punya biaya nyata: listrik, hardware, dan operasional. Saat reward turun, miner yang lebih lemah mungkin menjual BTC lebih banyak untuk menutup biaya, atau berhenti kalau marginnya terlalu tipis. Miner yang lebih kuat biasanya bertahan karena lebih efisien. Ini bisa menciptakan tekanan sementara, tapi tidak otomatis merusak pasar.
 
 ### 3. Medium-term repricing
 
-If demand improves after the halving, the reduced issuance can matter more and more. This is where many previous cycles started to look powerful. The market slowly realizes fewer new coins are being sold into circulation each day.
+Kalau permintaan membaik setelah halving, penerbitan yang lebih rendah bisa makin terasa dampaknya. Di sinilah banyak siklus sebelumnya mulai terlihat kuat. Pasar perlahan sadar bahwa koin baru yang dijual ke peredaran setiap hari makin sedikit.
 
 ### 4. Emotional extremes
 
-This is the part I think most retail investors underestimate. Halving season attracts FOMO buyers, but it also attracts early sellers who want to “be safe.” You can easily get shaken out before the trend develops.
+Ini bagian yang menurut saya paling sering diremehkan investor ritel. Musim halving menarik pembeli FOMO, tapi juga menarik penjual awal yang ingin “aman.” Kamu bisa dengan mudah tersingkir sebelum tren benar-benar terbentuk.
 
-My practical view: if you’re investing from Indonesia, don’t try to guess the exact top or bottom. That’s a gambler’s game. Instead, use a plan with fixed amounts in Rupiah. For example, if you want exposure, you could allocate Rp 500.000 to Rp 2 juta per week depending on your income and risk tolerance. Consistency matters more than hero timing.
+Pandangan praktis saya: kalau kamu investasi dari Indonesia, jangan coba menebak puncak atau dasar harga secara presisi. Itu permainan penjudi. Sebaliknya, pakai rencana dengan nominal tetap dalam Rupiah. Misalnya, kalau kamu ingin eksposur, kamu bisa alokasikan Rp 500 ribu sampai Rp 2 juta per minggu, tergantung penghasilan dan toleransi risiko. Konsistensi lebih penting daripada timing yang sok jago.
 
-If you’re new to the space, I’d also read my article on [best crypto wallets for Indonesian investors](/blog/best-crypto-wallets-for-indonesian-investors/) before you start moving coins around.
+Kalau kamu masih baru di dunia ini, saya juga sarankan baca artikel saya tentang [best crypto wallets for Indonesian investors](/blog/best-crypto-wallets-for-indonesian-investors/) sebelum mulai memindahkan koin ke sana-sini.
 
 ## What Factors Can Change the Bitcoin Halving Impact on Price?
 
-Bitcoin halving is important, but it’s not the only thing that moves price. In my experience, the biggest mistake is treating halving like a magic switch. It isn’t. A few other forces can overpower or delay the effect.
+Halving itu penting, tapi bukan satu-satunya faktor yang menggerakkan harga. Dari pengalaman saya, kesalahan terbesar adalah menganggap halving seperti tombol ajaib. Padahal bukan. Ada beberapa kekuatan lain yang bisa mengalahkan atau menunda efeknya.
 
 ### 1. Global liquidity and interest rates
 
-When rates are high and liquidity is tight, speculative assets usually struggle. When central banks ease policy or markets expect easier conditions, risk assets often get more support. Bitcoin tends to benefit when investors feel more comfortable taking risk.
+Saat suku bunga tinggi dan likuiditas ketat, aset spekulatif biasanya kesulitan. Saat bank sentral melonggarkan kebijakan atau pasar memperkirakan kondisi akan lebih longgar, aset berisiko sering mendapat dukungan lebih besar. Bitcoin cenderung diuntungkan saat investor merasa lebih nyaman mengambil risiko.
 
 ### 2. ETF and institutional demand
 
-Spot Bitcoin [ETFs](/blog/etf-investing-explained/) have changed the game because they can bring large, persistent demand. If new buyers keep entering through regulated products, the halving supply reduction can become more meaningful. That’s one reason I think recent cycles may behave differently from older ones.
+Spot Bitcoin [ETF](/blog/etf-investing-explained/) mengubah permainan karena bisa membawa permintaan besar dan berkelanjutan. Kalau pembeli baru terus masuk lewat produk yang teregulasi, pengurangan pasokan akibat halving bisa jadi lebih berarti. Itu salah satu alasan saya pikir siklus terbaru mungkin berbeda dari siklus lama.
 
 ### 3. Regulation and local access
 
-In Indonesia, access matters. If people can buy easily through trusted platforms, demand can grow faster. If regulation tightens or trust falls, enthusiasm can cool down quickly. I always tell readers to use reputable platforms and keep security tight. My article on [digital wallet security tips Indonesia](/blog/7-smart-digital-wallet-security-tips-indonesia-2026-guide/) is helpful if you’re moving money between apps and exchanges.
+Di Indonesia, akses itu penting. Kalau orang bisa beli dengan mudah lewat platform tepercaya, permintaan bisa tumbuh lebih cepat. Kalau regulasi mengetat atau kepercayaan turun, antusiasme bisa cepat mendingin. Saya selalu bilang ke pembaca untuk pakai platform yang reputasinya jelas dan jaga keamanan dengan ketat. Artikel saya tentang [tips keamanan dompet digital Indonesia](/blog/7-smart-digital-wallet-security-tips-indonesia-2026-guide/) berguna kalau kamu sering memindahkan uang antar aplikasi dan exchange.
 
 ### 4. Miner behavior
 
-If mining economics get ugly, miners may sell more BTC to survive. That can mute the bullish effect temporarily. On the other hand, efficient miners with low power costs can hold longer and reduce sell pressure.
+Kalau ekonomi mining memburuk, miner bisa menjual lebih banyak BTC demi bertahan. Itu bisa menahan efek bullish untuk sementara. Di sisi lain, miner yang efisien dengan biaya listrik rendah bisa bertahan lebih lama dan mengurangi tekanan jual.
 
 ### 5. Market sentiment
 
-Crypto is emotional. News, macro shocks, hacks, and celebrity hype can all distort the halving effect. I’ve seen a good thesis ruined by bad timing more than once.
+Crypto itu emosional. Berita, guncangan makro, hack, dan hype selebritas bisa mengacaukan efek halving. Saya sudah lebih dari sekali melihat tesis yang bagus rusak karena timing yang buruk.
 
 ## How Should Indonesian Investors Prepare for Bitcoin Halving?
 
-The best preparation is a written plan, not a prediction. If you ask me what to do before and after halving, I’d keep it simple and disciplined.
+Persiapan terbaik adalah rencana tertulis, bukan prediksi. Kalau kamu tanya saya apa yang sebaiknya dilakukan sebelum dan sesudah halving, saya akan bilang: sederhana dan disiplin.
 
 ### Step-by-step plan I’d use
 
-1. **Decide your allocation first.**  
-   I usually suggest keeping crypto as a small slice of your portfolio. For many people, 3% to 10% is already plenty.
+1. **Tentukan alokasi dulu.**  
+   Saya biasanya menyarankan crypto hanya jadi porsi kecil dari portofolio. Untuk banyak orang, 3% sampai 10% sudah cukup.
 
-2. **Use rupiah-cost averaging.**  
-   Instead of buying Rp 10 juta at once, spread it out. For example, Rp 1 juta per week for 10 weeks reduces the pressure of bad timing.
+2. **Gunakan rupiah-cost averaging.**  
+   Daripada beli Rp 10 juta sekaligus, sebar pembelian. Misalnya Rp 1 juta per minggu selama 10 minggu bisa mengurangi tekanan dari timing yang buruk.
 
-3. **Pick a reputable exchange.**  
-   In Indonesia, I’d rather use a platform with clear fees, good liquidity, and strong security than chase the lowest headline price.
+3. **Pilih exchange yang tepercaya.**  
+   Di Indonesia, saya lebih memilih platform dengan biaya jelas, likuiditas bagus, dan keamanan kuat daripada mengejar harga headline terendah.
 
-4. **Secure your holdings.**  
-   If you plan to hold longer than a few months, consider moving coins to a wallet you control. I’ve written about [best crypto wallets for Indonesian investors](/blog/best-crypto-wallets-for-indonesian-investors/) because this part gets ignored way too often.
+4. **Amankan asetmu.**  
+   Kalau kamu berencana hold lebih dari beberapa bulan, pertimbangkan memindahkan koin ke wallet yang kamu kendalikan. Saya sudah menulis tentang [best crypto wallets for Indonesian investors](/blog/best-crypto-wallets-for-indonesian-investors/) karena bagian ini terlalu sering diabaikan.
 
-5. **Set profit-taking rules before you buy.**  
-   For example, you might decide to take partial profits at 25%, 50%, and 100% gains. That way, emotion doesn’t run the show.
+5. **Tentukan aturan ambil untung sebelum beli.**  
+   Misalnya, kamu bisa memutuskan ambil profit sebagian saat untung 25%, 50%, dan 100%. Dengan begitu, emosi tidak mengambil alih.
 
-6. **Track your thesis, not just the chart.**  
-   Watch ETF flows, macro headlines, and exchange volumes. If the reason you bought changes, your position might need to change too.
+6. **Pantau tesis, bukan cuma chart.**  
+   Perhatikan arus ETF, berita makro, dan volume exchange. Kalau alasan kamu beli berubah, posisi kamu mungkin juga perlu berubah.
 
 ### My personal rule
 
-If I buy around a halving cycle, I assume I could be early, late, or wrong. That mindset keeps me from overcommitting. I think this is the healthiest way to approach Bitcoin as an Indonesian investor with real-life bills, family obligations, and maybe a cicilan or two.
+Kalau saya beli di sekitar siklus halving, saya menganggap bisa saja saya terlalu cepat, terlalu lambat, atau salah. Pola pikir itu membantu saya tidak overcommit. Menurut saya ini cara paling sehat untuk mendekati Bitcoin sebagai investor Indonesia yang punya tagihan nyata, tanggungan keluarga, dan mungkin cicilan juga.
 
 ## Is Bitcoin Halving a Good Time to Buy?
 
-Yes, but only if you already understand your risk and timeline. Halving can be a good long-term entry point, but it’s a bad excuse to buy emotionally.
+Ya, tapi hanya kalau kamu sudah paham risiko dan jangka waktunya. Halving bisa jadi titik masuk jangka panjang yang bagus, tapi alasan yang buruk kalau kamu beli karena emosi.
 
 ### When buying makes sense
 
-- You have a long-term horizon of at least 1 to 3 years.
-- Your [emergency fund](/blog/emergency-fund-guide/) is already in place.
-- You can tolerate big swings, including 20% to 40% drawdowns.
-- You’re buying in small, repeatable amounts.
+- Kamu punya horizon jangka panjang minimal 1 sampai 3 tahun.
+- [Dana darurat](/blog/emergency-fund-guide/) kamu sudah aman.
+- Kamu sanggup menghadapi volatilitas besar, termasuk drawdown 20% sampai 40%.
+- Kamu beli dalam nominal kecil dan konsisten.
 
 ### When I think you should wait
 
-- You’re using money for near-term needs.
-- You’re buying because of FOMO.
-- You don’t know where to store the asset safely.
-- You’re already overexposed to crypto.
+- Uang itu akan dipakai dalam waktu dekat.
+- Kamu beli karena FOMO.
+- Kamu belum tahu cara menyimpan aset dengan aman.
+- Kamu sudah terlalu besar eksposurnya ke crypto.
 
-If you’re still building your financial base, I’d honestly prioritize cash flow and savings first. My guide on [money management for fresh graduates Indonesia](/blog/7-smart-money-management-tips-for-fresh-graduates-2026-guide/) can help if you’re early in your career and still figuring out your [monthly budget](/blog/how-to-create-a-monthly-spending-plan/).
+Kalau kamu masih membangun fondasi keuangan, jujur saja saya akan memprioritaskan cash flow dan tabungan dulu. Panduan saya tentang [money management for fresh graduates Indonesia](/blog/7-smart-money-management-tips-for-fresh-graduates-2026-guide/) bisa membantu kalau kamu masih awal karier dan sedang menyusun [anggaran bulanan](/blog/how-to-create-a-monthly-spending-plan/).
 
 ## What Are the Biggest Mistakes People Make Around Halving?
 
-The biggest mistake is assuming the halving itself guarantees profit. The second biggest mistake is going all-in too early or too late. I’ve seen both, and both hurt.
+Kesalahan terbesar adalah menganggap halving itu sendiri menjamin profit. Kesalahan terbesar kedua adalah all-in terlalu cepat atau terlalu lambat. Saya sudah lihat keduanya, dan dua-duanya merugikan.
 
 ### Common mistakes to avoid
 
-- Buying because “the halving is coming” without a plan.
-- Expecting instant gains on the halving date.
-- Ignoring fees, spreads, and withdrawal costs.
-- Putting emergency money into crypto.
-- Selling everything after the first dip.
-- Forgetting security and leaving funds on weak platforms.
+- Beli karena “halving sudah dekat” tanpa rencana.
+- Mengharapkan keuntungan instan tepat di tanggal halving.
+- Mengabaikan fee, spread, dan biaya penarikan.
+- Memasukkan dana darurat ke crypto.
+- Menjual semuanya setelah penurunan pertama.
+- Lupa keamanan dan membiarkan dana di platform yang lemah.
 
 ### A better mindset
 
-Treat halving as a long-term market event, not a lottery ticket. If you build a position gradually, you give yourself room to survive volatility. That matters more than being “right” on one day.
+Anggap halving sebagai event pasar jangka panjang, bukan tiket lotre. Kalau kamu membangun posisi secara bertahap, kamu memberi ruang untuk bertahan dari volatilitas. Itu lebih penting daripada “benar” di satu hari.
 
-If you’re tempted to trade too often, I’d also suggest reading [how to pay off credit card debt fast Indonesia](/blog/how-to-pay-off-credit-card-debt-fast-indonesia/) first. High-interest debt and speculative crypto don’t mix well. I’d rather see you clear expensive debt before trying to chase a halving narrative.
+Kalau kamu tergoda terlalu sering trading, saya juga sarankan baca [cara melunasi utang kartu kredit dengan cepat di Indonesia](/blog/how-to-pay-off-credit-card-debt-fast-indonesia/) dulu. Utang berbunga tinggi dan crypto spekulatif tidak cocok digabung. Saya lebih suka kamu melunasi utang mahal sebelum mengejar narasi halving.
 
 ## Bitcoin Halving Impact on Price: My Practical Outlook
 
-My honest view is that the **Bitcoin halving impact on price** is real, but it works through time, sentiment, and liquidity — not magic. The halving reduces new supply, and that creates a better backdrop for price appreciation if demand stays healthy. But the market can still look ugly in the short term.
+Pandangan jujur saya adalah **Bitcoin halving impact on price** itu nyata, tapi bekerja lewat waktu, sentimen, dan likuiditas — bukan sihir. Halving memang mengurangi pasokan baru, dan itu menciptakan latar yang lebih baik untuk kenaikan harga kalau permintaan tetap sehat. Tapi pasar tetap bisa terlihat jelek dalam jangka pendek.
 
 ### What I’d expect, realistically
 
-- Short-term: choppy price action and lots of opinionated noise.
-- Medium-term: stronger chances of trend formation if liquidity improves.
-- Long-term: Bitcoin remains one of the few assets with a hard-coded supply schedule.
+- Jangka pendek: pergerakan harga yang naik-turun dan banyak noise opini.
+- Jangka menengah: peluang tren terbentuk lebih kuat kalau likuiditas membaik.
+- Jangka panjang: Bitcoin tetap salah satu dari sedikit aset dengan jadwal pasokan yang sudah dipatok.
 
 ### What I’d do if I were starting now
 
-I’d use small, consistent buys. I’d keep my position size modest. I’d secure my coins properly. And I’d prepare emotionally for the fact that the market can move against me before it moves in my favor.
+Saya akan beli kecil-kecil dan konsisten. Saya akan menjaga ukuran posisi tetap wajar. Saya akan mengamankan koin dengan benar. Dan saya akan siap secara mental bahwa pasar bisa bergerak melawan saya sebelum akhirnya bergerak sesuai harapan saya.
 
-That’s the part most people skip. They want the upside without the discomfort. Unfortunately, Bitcoin doesn’t work like that.
-
+Itu bagian yang paling sering dilewati orang. Mereka ingin upside tanpa rasa tidak nyaman. Sayangnya, Bitcoin tidak bekerja seperti itu.

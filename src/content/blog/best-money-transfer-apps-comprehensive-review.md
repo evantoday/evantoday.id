@@ -1,6 +1,6 @@
 ---
-title: "Best Money Transfer Apps in 2026 (Fees Compared)"
-description: "Stop overpaying on domestic and international transfers. Compare Wise, Zelle, Venmo, PayPal, and Remitly on fees, speed, and limits—one app saves the most."
+title: "Aplikasi Transfer Uang Terbaik 2026"
+description: "Hemat biaya transfer domestik dan internasional. Bandingkan Wise, Zelle, Venmo, PayPal, dan Remitly dari segi biaya, kecepatan, dan limit."
 pubDate: 2026-03-08
 category: "fintech"
 tags: ["money transfer", "Wise", "Remitly", "international transfer", "send money"]
@@ -14,270 +14,270 @@ Last year I sent $2,000 to a contractor in the UK through my bank. The wire tran
 
 Whether you're sending money to family abroad, paying international freelancers, or just moving cash between your own accounts domestically, the app you choose can save—or cost—you hundreds of dollars per year. In this guide, I'll compare the best money transfer apps for both domestic and international transfers in 2026.
 
-## Domestic Money Transfers: The Best Options
+## Transfer Uang Domestik: Opsi Terbaik
 
-For sending money within the US, speed and fees are what matter most. Here's how the top options compare:
+Untuk mengirim uang di dalam negeri, yang paling penting adalah kecepatan dan biaya. Ini perbandingan opsi terbaiknya:
 
 ### Zelle
 
-**Best for:** Free, instant transfers between US bank accounts
+**Terbaik untuk:** Transfer gratis dan instan antar rekening bank di AS
 
-Zelle is the fastest and cheapest way to send money domestically. Transfers arrive in minutes, it's completely free, and it's built into most major bank apps.
+Zelle adalah cara tercepat dan termurah untuk mengirim uang secara domestik. Transfer masuk dalam hitungan menit, benar-benar gratis, dan sudah terintegrasi di banyak aplikasi bank besar.
 
-- **Fee:** $0 (always free)
-- **Speed:** 1-3 minutes
-- **Limits:** $500-$5,000/day (set by your bank)
-- **How it works:** Built into your bank app (Chase, BofA, Wells Fargo, etc.) or standalone Zelle app
+- **Biaya:** Rp 0 (selalu gratis)
+- **Kecepatan:** 1-3 menit
+- **Limit:** Rp 7,5 juta-Rp 75 juta/hari (tergantung bank)
+- **Cara kerja:** Sudah ada di aplikasi bank kamu (seperti BCA, Mandiri, Jago, dll.) atau lewat aplikasi Zelle terpisah
 
-**Pros:**
-- Instant delivery
-- Zero fees
-- No separate app needed (usually)
-- Works with email or phone number
+**Kelebihan:**
+- Sampai instan
+- Tanpa biaya
+- Biasanya tidak perlu aplikasi terpisah
+- Bisa pakai email atau nomor ponsel
 
-**Cons:**
-- No buyer protection—money is gone once sent
-- Can't cancel after delivery
-- Limits vary by bank and can be frustrating
-- Only works within the US
+**Kekurangan:**
+- Tidak ada perlindungan pembeli—uang langsung hilang setelah dikirim
+- Tidak bisa dibatalkan setelah terkirim
+- Limit berbeda-beda tiap bank dan kadang bikin repot
+- Hanya berlaku di dalam AS
 
-I use Zelle for nearly all my domestic person-to-person transfers. Paying rent, splitting costs with friends, reimbursing family—it's free and instant. Just never use it to pay strangers.
+Saya pakai Zelle untuk hampir semua transfer antar orang yang sifatnya domestik. Bayar sewa, patungan dengan teman, ganti uang ke keluarga—gratis dan instan. Tapi jangan pernah dipakai untuk bayar orang asing.
 
 ### Venmo
 
-**Best for:** Social payments and splitting bills
+**Terbaik untuk:** Pembayaran sosial dan patungan tagihan
 
-- **Fee:** Free (bank/debit), 3% (credit card), 1.75% for instant cash-out
-- **Speed:** Instant (to Venmo balance), 1-3 days (to bank), instant for 1.75% fee
-- **Limits:** $7,000/week (verified users)
+- **Biaya:** Gratis (dari rekening/debit), 3% (kartu kredit), 1,75% untuk tarik instan
+- **Kecepatan:** Instan (ke saldo Venmo), 1-3 hari (ke bank), instan dengan biaya 1,75%
+- **Limit:** Rp 105 juta/minggu (pengguna terverifikasi)
 
-[Venmo](/blog/best-payment-apps-2026/)'s strength is its social layer and splitting features. For group dinners, shared subscriptions, and casual payments among friends, it's the most popular choice.
+[Venmo](/blog/best-payment-apps-2026/) unggul karena fitur sosial dan patungan biayanya. Untuk makan bareng, langganan bersama, atau pembayaran santai antar teman, ini salah satu pilihan paling populer.
 
 ### Cash App
 
-**Best for:** Versatile payments with investing features
+**Terbaik untuk:** Pembayaran serbaguna dengan fitur investasi
 
-- **Fee:** Free (bank/debit), 3% (credit card), 1.75% for instant cash-out
-- **Speed:** Instant (Cash App balance), 1-3 days (bank), instant for 1.75% fee
-- **Limits:** $7,500/week (verified users)
+- **Biaya:** Gratis (dari rekening/debit), 3% (kartu kredit), 1,75% untuk tarik instan
+- **Kecepatan:** Instan (saldo Cash App), 1-3 hari (ke bank), instan dengan biaya 1,75%
+- **Limit:** Rp 112,5 juta/minggu (pengguna terverifikasi)
 
-[Cash App](/blog/cash-app-review-features-and-how-to-use/) is great if you want payment features plus Bitcoin trading, stock investing, and a debit card with merchant discounts.
+[Cash App](/blog/cash-app-review-features-and-how-to-use/) cocok kalau kamu ingin fitur pembayaran plus trading Bitcoin, investasi saham, dan kartu debit dengan diskon merchant.
 
 ### PayPal
 
-**Best for:** Paying businesses and online merchants
+**Terbaik untuk:** Membayar bisnis dan merchant online
 
-- **Fee:** Free (P2P from bank/balance), 2.99% (credit card), 1.75% for instant cash-out
-- **Speed:** Instant (PayPal balance), 1-3 days (bank), instant for fee
-- **Limits:** $10,000/transaction (verified)
+- **Biaya:** Gratis (P2P dari bank/saldo), 2,99% (kartu kredit), 1,75% untuk tarik instan
+- **Kecepatan:** Instan (saldo PayPal), 1-3 hari (ke bank), instan dengan biaya
+- **Limit:** Rp 150 juta/transaksi (terverifikasi)
 
-PayPal's buyer protection makes it the safest choice for purchasing from online merchants or paying businesses.
+Perlindungan pembeli PayPal membuatnya jadi pilihan paling aman untuk belanja dari merchant online atau membayar bisnis.
 
-### Domestic Transfer Comparison
+### Perbandingan Transfer Domestik
 
-| App | Fee | Speed | Buyer Protection | Best For |
+| Aplikasi | Biaya | Kecepatan | Perlindungan Pembeli | Terbaik Untuk |
 |-----|-----|-------|-----------------|----------|
-| Zelle | Free | Minutes | None | Trusted P2P transfers |
-| Venmo | Free* | Instant-3 days | Limited | Social payments |
-| Cash App | Free* | Instant-3 days | Limited | Versatile users |
-| PayPal | Free* | Instant-3 days | Strong | Business/merchant payments |
+| Zelle | Gratis | Menit | Tidak ada | Transfer P2P yang tepercaya |
+| Venmo | Gratis* | Instan-3 hari | Terbatas | Pembayaran sosial |
+| Cash App | Gratis* | Instan-3 hari | Terbatas | Pengguna serbaguna |
+| PayPal | Gratis* | Instan-3 hari | Kuat | Pembayaran bisnis/merchant |
 
-*Free for bank/debit-funded transfers; fees apply for credit cards and instant cash-out
+*Gratis untuk transfer yang didanai dari rekening/debit; biaya berlaku untuk kartu kredit dan tarik instan
 
-## International Money Transfers: The Best Options
+## Transfer Uang Internasional: Opsi Terbaik
 
-International transfers are where the real money is saved (or wasted). Traditional banks charge $25-50 per wire plus a 2-4% exchange rate markup. The apps below do it for a fraction of that cost.
+Transfer internasional adalah tempat di mana penghematan besar terjadi—atau justru uang banyak terbuang. Bank tradisional biasanya mengenakan biaya Rp 375 ribu-Rp 750 ribu per wire transfer plus markup kurs 2-4%. Aplikasi di bawah ini jauh lebih murah.
 
-### 1. Wise (formerly TransferWise)
+### 1. Wise (dulu TransferWise)
 
-**Best for:** Cheapest international transfers with real exchange rates
+**Terbaik untuk:** Transfer internasional termurah dengan kurs asli
 
-Wise is my top recommendation for international money transfers, and it's not even close. They use the mid-market exchange rate (the real rate you see on Google) with a small, transparent fee on top.
+Wise adalah rekomendasi utama saya untuk transfer uang internasional, dan selisihnya jauh. Mereka memakai kurs tengah pasar (kurs asli yang kamu lihat di Google) dengan biaya kecil yang transparan.
 
-- **Fee structure:** 0.4-1.5% depending on currency and payment method
-- **Exchange rate:** Mid-market (no markup)
-- **Speed:** 1-2 business days (some routes are instant)
-- **Supported countries:** 170+ countries, 40+ currencies
-- **Transfer limits:** Up to $1 million per transfer
+- **Struktur biaya:** 0,4-1,5% tergantung mata uang dan metode pembayaran
+- **Kurs:** Mid-market (tanpa markup)
+- **Kecepatan:** 1-2 hari kerja (beberapa rute bisa instan)
+- **Negara didukung:** 170+ negara, 40+ mata uang
+- **Limit transfer:** Hingga Rp 15 miliar per transfer
 
-**Real example:** Sending $1,000 USD to EUR
-- **Wise fee:** ~$7.50 (0.75%)
-- **Bank wire fee:** ~$45 + ~$25 in exchange rate markup = ~$70
-- **Savings with Wise:** ~$62.50
+**Contoh nyata:** Kirim Rp 15 juta ke EUR
+- **Biaya Wise:** ~Rp 112 ribu (0,75%)
+- **Biaya wire bank:** ~Rp 675 ribu + ~Rp 375 ribu markup kurs = ~Rp 1,05 juta
+- **Hemat dengan Wise:** ~Rp 937 ribu
 
-**Pros:**
-- Cheapest option for most currency corridors
-- Real mid-market exchange rate (no hidden markup)
-- Multi-currency account lets you hold 40+ currencies
-- Wise debit card for spending abroad
-- Transparent fee calculator before you send
+**Kelebihan:**
+- Opsi termurah untuk banyak jalur mata uang
+- Kurs tengah pasar asli (tanpa markup tersembunyi)
+- Akun multi-mata uang memungkinkan kamu menyimpan 40+ mata uang
+- Kartu debit Wise untuk belanja di luar negeri
+- Kalkulator biaya yang transparan sebelum kamu kirim
 
-**Cons:**
-- Not the fastest for all routes (1-2 days typically)
-- Verification process can be slow for first transfer
-- Not ideal for cash pickup (bank transfer focused)
+**Kekurangan:**
+- Tidak selalu yang tercepat untuk semua rute (biasanya 1-2 hari)
+- Proses verifikasi bisa lambat untuk transfer pertama
+- Kurang ideal untuk cash pickup (lebih fokus ke transfer bank)
 
-I've used Wise for dozens of international transfers and have never found a consistently cheaper option. Their fee calculator on the website shows you exactly what you'll pay before you commit.
+Saya sudah memakai Wise untuk puluhan transfer internasional dan belum pernah menemukan opsi yang konsisten lebih murah. Kalkulator biaya di situsnya menunjukkan persis berapa yang harus kamu bayar sebelum lanjut.
 
 ### 2. Remitly
 
-**Best for:** Sending money to family in developing countries
+**Terbaik untuk:** Kirim uang ke keluarga di negara berkembang
 
-Remitly specializes in remittances to developing countries and offers multiple delivery options including bank deposit, mobile money, and cash pickup.
+Remitly fokus pada remitansi ke negara berkembang dan menawarkan banyak opsi pengiriman, termasuk transfer bank, e-wallet, dan cash pickup.
 
-- **Fee structure:** $0-$4.99 depending on delivery speed and payment method
-- **Exchange rate:** Small markup over mid-market (1-2%)
-- **Speed:** Minutes (Express), 3-5 days (Economy)
-- **Supported countries:** 170+ receiving countries
-- **Transfer limits:** Up to $10,000 per transaction
+- **Struktur biaya:** Rp 0-Rp 75 ribu tergantung kecepatan pengiriman dan metode pembayaran
+- **Kurs:** Ada markup kecil di atas mid-market (1-2%)
+- **Kecepatan:** Menit (Express), 3-5 hari (Economy)
+- **Negara tujuan:** 170+ negara penerima
+- **Limit transfer:** Hingga Rp 150 juta per transaksi
 
-**Pros:**
-- Cash pickup option in many countries (not just bank transfers)
-- Mobile money delivery in Africa and Asia
-- Express delivery is very fast (minutes for some corridors)
-- First transfer often has a promotional rate
-- Good for regular recurring transfers
+**Kelebihan:**
+- Ada opsi cash pickup di banyak negara (bukan cuma transfer bank)
+- Pengiriman ke mobile money di Afrika dan Asia
+- Pengiriman Express sangat cepat (beberapa rute cuma butuh menit)
+- Transfer pertama sering dapat promo
+- Cocok untuk transfer rutin
 
-**Cons:**
-- Exchange rate markup is higher than Wise
-- Economy transfers are slow (3-5 days)
-- Limited sending countries (primarily US, UK, Canada)
+**Kekurangan:**
+- Markup kurs lebih tinggi daripada Wise
+- Transfer Economy lambat (3-5 hari)
+- Negara pengirim terbatas (utama AS, Inggris, Kanada)
 
 ### 3. OFX
 
-**Best for:** Large transfers over $10,000
+**Terbaik untuk:** Transfer besar di atas Rp 150 juta
 
-OFX is designed for larger transfers—buying property abroad, paying international tuition, or moving significant sums. Their rates get better with larger amounts.
+OFX dirancang untuk transfer besar—beli properti di luar negeri, bayar kuliah internasional, atau memindahkan dana besar. Kursnya biasanya makin bagus untuk nominal yang lebih besar.
 
-- **Fee structure:** $0 transfer fee (built into exchange rate, typically 0.5-1% markup)
-- **Speed:** 1-3 business days
-- **Supported countries:** 170+ countries
-- **Transfer limits:** No maximum (handles $1M+ transfers)
+- **Struktur biaya:** Rp 0 biaya transfer (sudah termasuk di kurs, biasanya markup 0,5-1%)
+- **Kecepatan:** 1-3 hari kerja
+- **Negara didukung:** 170+ negara
+- **Limit transfer:** Tidak ada maksimum (bisa menangani transfer Rp 15 miliar+)
 
-**Pros:**
-- No transfer fees on any amount
-- Better rates for large transfers
-- Personal dealer assigned for transfers over $50K
-- Forward contracts to lock in exchange rates
-- 24/7 phone support
+**Kelebihan:**
+- Tidak ada biaya transfer untuk nominal berapa pun
+- Kurs lebih baik untuk transfer besar
+- Ada dealer pribadi untuk transfer di atas Rp 750 juta
+- Forward contract untuk mengunci kurs
+- Dukungan telepon 24/7
 
-**Cons:**
-- $1,000 minimum transfer
-- Exchange rate markup isn't as transparent as Wise
-- Not competitive for small transfers
+**Kekurangan:**
+- Minimum transfer Rp 15 juta
+- Markup kurs tidak setransparan Wise
+- Kurang kompetitif untuk transfer kecil
 
 ### 4. Xoom (PayPal)
 
-**Best for:** Fast delivery with multiple cash pickup options
+**Terbaik untuk:** Pengiriman cepat dengan banyak opsi cash pickup
 
-Xoom is PayPal's international transfer service, offering bank deposit, cash pickup, and mobile reload options in 130+ countries.
+Xoom adalah layanan transfer internasional milik PayPal, dengan opsi transfer bank, cash pickup, dan isi ulang ponsel di 130+ negara.
 
-- **Fee structure:** $0-$4.99 depending on payment method and destination
-- **Exchange rate:** 1-3% markup over mid-market
-- **Speed:** Minutes to hours for most transfers
-- **Supported countries:** 130+ receiving countries
+- **Struktur biaya:** Rp 0-Rp 75 ribu tergantung metode pembayaran dan tujuan
+- **Kurs:** Markup 1-3% di atas mid-market
+- **Kecepatan:** Menit hingga jam untuk sebagian besar transfer
+- **Negara tujuan:** 130+ negara penerima
 
-**Pros:**
-- Fast delivery (minutes for cash pickup)
-- Wide cash pickup network (Walmart in the US for receiving)
-- Integrates with PayPal account
-- Mobile reload option in many countries
+**Kelebihan:**
+- Pengiriman cepat (menit untuk cash pickup)
+- Jaringan cash pickup luas
+- Terintegrasi dengan akun PayPal
+- Ada opsi mobile reload di banyak negara
 
-**Cons:**
-- Higher total cost than Wise for most corridors
-- Exchange rate markup is significant
-- Fee structure is less transparent
+**Kekurangan:**
+- Total biaya lebih tinggi daripada Wise untuk kebanyakan rute
+- Markup kurs cukup besar
+- Struktur biaya kurang transparan
 
 ### 5. Western Union
 
-**Best for:** Cash pickup in remote locations
+**Terbaik untuk:** Cash pickup di lokasi terpencil
 
-Western Union has the largest cash pickup network in the world with 500,000+ agent locations. If your recipient needs physical cash and lives in a remote area, WU may be the only option.
+Western Union punya jaringan cash pickup terbesar di dunia dengan 500.000+ lokasi agen. Kalau penerima butuh uang tunai fisik dan tinggal di daerah terpencil, WU bisa jadi satu-satunya pilihan.
 
-- **Fee structure:** $0-$10+ depending on corridor, amount, and payment method
-- **Exchange rate:** 2-5% markup (one of the highest)
-- **Speed:** Minutes for cash pickup
-- **Supported countries:** 200+ countries
+- **Struktur biaya:** Rp 0-Rp 150 ribu+ tergantung rute, nominal, dan metode pembayaran
+- **Kurs:** Markup 2-5% (salah satu yang tertinggi)
+- **Kecepatan:** Menit untuk cash pickup
+- **Negara didukung:** 200+ negara
 
-**Pros:**
-- Largest global agent network
-- Cash pickup in remote areas where other services don't reach
-- Available in person, online, and via app
+**Kelebihan:**
+- Jaringan agen global terbesar
+- Cash pickup di daerah terpencil yang tidak terjangkau layanan lain
+- Tersedia lewat agen, online, dan aplikasi
 
-**Cons:**
-- Expensive (high fees + large exchange rate markup)
-- Often the most expensive option overall
-- Frequent target of scammers who request WU payments
+**Kekurangan:**
+- Mahal (biaya tinggi + markup kurs besar)
+- Sering jadi opsi paling mahal secara total
+- Sering disalahgunakan penipu yang meminta pembayaran via WU
 
-## International Transfer Comparison
+## Perbandingan Transfer Internasional
 
-| Service | $1,000 USD→EUR Total Cost | Speed | Best For |
+| Layanan | Total Biaya Rp 15 juta → EUR | Kecepatan | Terbaik Untuk |
 |---------|--------------------------|-------|----------|
-| Wise | ~$7.50 | 1-2 days | Lowest cost |
-| Remitly (Express) | ~$15-22 | Minutes | Speed + cash pickup |
-| OFX | ~$12-18 | 1-3 days | Large transfers |
-| Xoom | ~$20-30 | Hours | PayPal users |
-| Western Union | ~$30-50 | Minutes | Remote cash pickup |
-| Bank wire | ~$60-80 | 3-5 days | Avoid this |
+| Wise | ~Rp 112 ribu | 1-2 hari | Biaya terendah |
+| Remitly (Express) | ~Rp 225 ribu-Rp 330 ribu | Menit | Kecepatan + cash pickup |
+| OFX | ~Rp 180 ribu-Rp 270 ribu | 1-3 hari | Transfer besar |
+| Xoom | ~Rp 300 ribu-Rp 450 ribu | Jam | Pengguna PayPal |
+| Western Union | ~Rp 450 ribu-Rp 750 ribu | Menit | Cash pickup di daerah terpencil |
+| Bank wire | ~Rp 900 ribu-Rp 1,2 juta | 3-5 hari | Hindari ini |
 
-*Costs include fees + exchange rate markup. Actual costs vary by corridor and payment method.*
+*Biaya mencakup fee + markup kurs. Biaya aktual bisa berbeda tergantung rute dan metode pembayaran.*
 
-## How to Choose the Right Transfer App
+## Cara Memilih Aplikasi Transfer yang Tepat
 
-### For Regular International Transfers
+### Untuk Transfer Internasional Rutin
 
-If you send money abroad frequently (monthly to family, paying international contractors, etc.), set up a Wise account. The multi-currency account lets you hold balances in different currencies and convert when rates are favorable.
+Kalau kamu sering kirim uang ke luar negeri (misalnya tiap bulan ke keluarga atau bayar kontraktor internasional), buat akun Wise. Akun multi-mata uangnya memungkinkan kamu menyimpan saldo dalam mata uang berbeda dan menukar saat kurs sedang bagus.
 
-### For One-Time Large Transfers
+### Untuk Transfer Besar Sekali Jalan
 
-For amounts over $10,000 (property purchase, tuition, investment), compare Wise and OFX. OFX often offers better rates on large amounts and can lock in exchange rates with forward contracts.
+Untuk nominal di atas Rp 150 juta (beli properti, biaya kuliah, investasi), bandingkan Wise dan OFX. OFX sering menawarkan kurs lebih baik untuk nominal besar dan bisa mengunci kurs lewat forward contract.
 
-### For Sending to Family in Developing Countries
+### Untuk Kirim ke Keluarga di Negara Berkembang
 
-Remitly is usually the best balance of speed, cost, and delivery options. Their cash pickup and mobile money options are critical in countries where bank accounts aren't universal.
+Remitly biasanya memberi keseimbangan terbaik antara kecepatan, biaya, dan opsi pengiriman. Opsi cash pickup dan mobile money sangat penting di negara yang belum semua orang punya rekening bank.
 
-### For Domestic Transfers
+### Untuk Transfer Domestik
 
-Use Zelle for free, instant transfers to people you trust. Use PayPal for business payments where buyer protection matters. Use Venmo for social payments and splitting bills.
+Pakai Zelle untuk transfer gratis dan instan ke orang yang kamu percaya. Pakai PayPal untuk pembayaran bisnis yang butuh perlindungan pembeli. Pakai Venmo untuk pembayaran sosial dan patungan tagihan.
 
-## Money Transfer Safety Tips
+## Tips Keamanan Transfer Uang
 
-- **Never send money to someone you haven't met in person** via irreversible transfer methods (Zelle, Wise, Western Union)
-- **Verify recipient details carefully** — One wrong digit in a bank account number can send your money to a stranger, and recovery isn't guaranteed
-- **Use strong, unique passwords** and enable two-factor authentication on all transfer apps
-- **Be wary of "urgent" transfer requests** — Scammers create time pressure to prevent you from thinking clearly
-- **Save confirmation numbers and receipts** for every transfer
-- **Start with a small test transfer** when using a new service or sending to a new recipient
+- **Jangan pernah kirim uang ke orang yang belum kamu temui langsung** lewat metode transfer yang tidak bisa dibatalkan (Zelle, Wise, Western Union)
+- **Periksa detail penerima dengan teliti** — Satu digit salah di nomor rekening bisa membuat uang terkirim ke orang asing, dan pemulihannya tidak dijamin
+- **Gunakan kata sandi yang kuat dan unik** serta aktifkan autentikasi dua faktor di semua aplikasi transfer
+- **Waspadai permintaan transfer yang “mendesak”** — Penipu sengaja bikin kamu panik supaya tidak berpikir jernih
+- **Simpan nomor konfirmasi dan bukti transfer** untuk setiap transaksi
+- **Mulai dengan transfer kecil** saat memakai layanan baru atau mengirim ke penerima baru
 
-## Tax Considerations for US Residents
+## Pertimbangan Pajak untuk Warga AS
 
-If you're sending or receiving international transfers, be aware of reporting requirements:
+Jika kamu mengirim atau menerima transfer internasional, perhatikan kewajiban pelaporan berikut:
 
-- **FBAR (FinCEN 114):** If your combined foreign bank accounts exceed $10,000 at any point during the year, you must file an FBAR
-- **FATCA (Form 8938):** Report foreign financial assets exceeding $50,000 (single) or $100,000 (married filing jointly) at year-end
-- **Gift tax:** Sending money as a gift to a non-US person doesn't require a gift tax return unless it exceeds $18,000/year (2026). Receiving gifts from foreign persons over $100,000 requires reporting on Form 3520
-- **Structuring:** Deliberately breaking up transfers to stay under $10,000 reporting thresholds is illegal (called "structuring") even if the money is legitimate
+- **FBAR (FinCEN 114):** Jika total saldo rekening luar negeri gabungan kamu melebihi $10.000 kapan pun selama tahun berjalan, kamu harus melaporkan FBAR
+- **FATCA (Form 8938):** Laporkan aset keuangan luar negeri yang melebihi $50.000 (lajang) atau $100.000 (menikah lapor bersama) di akhir tahun
+- **Pajak hadiah:** Mengirim uang sebagai hadiah ke non-warga AS tidak perlu laporan pajak hadiah kecuali melebihi $18.000/tahun (2026). Menerima hadiah dari orang asing di atas $100.000 harus dilaporkan di Form 3520
+- **Structuring:** Sengaja memecah transfer agar tetap di bawah ambang pelaporan $10.000 itu ilegal (disebut "structuring"), meskipun uangnya sah
 
-When in doubt, consult a tax professional. The penalties for non-reporting are severe. For a detailed comparison of the two best international options, read our [Wise vs Remitly](/blog/wise-vs-remitly-for-sending-money/) head-to-head review.
+Kalau ragu, konsultasikan dengan profesional pajak. Sanksi karena tidak melapor bisa sangat berat. Untuk perbandingan detail dua opsi internasional terbaik, baca ulasan head-to-head [Wise vs Remitly](/blog/wise-vs-remitly-for-sending-money/).
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### What's the cheapest way to send money internationally?
+### Apa cara termurah untuk kirim uang internasional?
 
-Wise is the cheapest option for most international transfers. They use the real mid-market exchange rate with a small, transparent fee (typically 0.4-1.5%). For a $1,000 transfer, you'll typically save $50-70 compared to a traditional bank wire. For very large transfers ($50,000+), OFX may offer slightly better rates due to their volume-based pricing.
+Wise adalah opsi termurah untuk sebagian besar transfer internasional. Mereka memakai kurs tengah pasar yang asli dengan biaya kecil dan transparan (biasanya 0,4-1,5%). Untuk transfer Rp 15 juta, kamu biasanya bisa hemat Rp 750 ribu-Rp 1,05 juta dibanding wire transfer bank tradisional. Untuk transfer yang sangat besar (Rp 750 juta+), OFX kadang menawarkan kurs sedikit lebih baik karena harga berbasis volume.
 
-### How long do international money transfers take?
+### Berapa lama transfer uang internasional biasanya?
 
-It depends on the service and corridor. Wise takes 1-2 business days for most transfers. Remitly's Express option delivers in minutes for popular corridors. Bank wires take 3-5 business days. Cash pickup services (Western Union, Xoom) are typically available within minutes. The fastest option isn't always the cheapest, so consider whether speed or cost is your priority.
+Tergantung layanan dan rutenya. Wise butuh 1-2 hari kerja untuk sebagian besar transfer. Opsi Express Remitly bisa sampai dalam hitungan menit untuk rute populer. Wire transfer bank biasanya 3-5 hari kerja. Layanan cash pickup (Western Union, Xoom) biasanya tersedia dalam hitungan menit. Opsi tercepat belum tentu yang termurah, jadi tentukan dulu apakah kamu lebih mementingkan kecepatan atau biaya.
 
-### Is Zelle safe for large transfers?
+### Apakah Zelle aman untuk transfer besar?
 
-Zelle is safe in the sense that it's backed by major US banks and uses encryption. However, Zelle offers zero buyer protection—once money is sent, it cannot be reversed. For large transfers to people you trust (landlord, family), Zelle is fine. For large payments to strangers or for goods/services, use PayPal (which offers buyer protection) instead.
+Zelle aman dalam arti didukung bank-bank besar dan memakai enkripsi. Tapi Zelle tidak punya perlindungan pembeli—setelah uang dikirim, tidak bisa dibatalkan. Untuk transfer besar ke orang yang kamu percaya (pemilik rumah, keluarga), Zelle oke. Untuk pembayaran besar ke orang asing atau untuk barang/jasa, lebih baik pakai PayPal yang punya perlindungan pembeli.
 
-### Can I send money internationally with Venmo or Cash App?
+### Bisa kirim uang internasional lewat Venmo atau Cash App?
 
-No, neither Venmo nor Cash App supports international transfers as of 2026. They only work within the US. For international transfers, use Wise, Remitly, OFX, or Xoom. PayPal supports international P2P transfers but charges a 5% fee (max $4.99) plus an exchange rate markup, making it expensive compared to dedicated transfer services.
+Tidak, Venmo maupun Cash App tidak mendukung transfer internasional per 2026. Keduanya hanya berlaku di dalam AS. Untuk transfer internasional, gunakan Wise, Remitly, OFX, atau Xoom. PayPal mendukung transfer P2P internasional, tetapi mengenakan biaya 5% (maks Rp 75 ribu) plus markup kurs, jadi mahal dibanding layanan transfer khusus.
 
-### How do I avoid exchange rate ripoffs?
+### Bagaimana cara menghindari jebakan kurs?
 
-Always check the mid-market exchange rate on Google or XE.com before making a transfer. Then compare the rate your transfer service is offering. The difference is the hidden markup. Wise is the most transparent because they use the actual mid-market rate. Banks and services like Western Union often mark up the rate by 2-5%, which on a $5,000 transfer means $100-250 in hidden fees on top of the stated transfer fee.
+Selalu cek kurs tengah pasar di Google atau XE.com sebelum transfer. Lalu bandingkan dengan kurs yang ditawarkan layanan transfer. Selisihnya adalah markup tersembunyi. Wise paling transparan karena memakai kurs tengah pasar yang sebenarnya. Bank dan layanan seperti Western Union sering menaikkan kurs 2-5%, yang pada transfer Rp 75 juta berarti biaya tersembunyi Rp 1,5 juta-Rp 3,75 juta di luar biaya transfer yang tertera.
