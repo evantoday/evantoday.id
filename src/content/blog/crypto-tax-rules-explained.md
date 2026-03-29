@@ -1,6 +1,6 @@
 ---
-title: "Crypto Tax Rules [2026]: IRS Guide to Avoid Fines"
-description: "The IRS taxes every crypto trade as a capital gain. Get the exact 2026 rates, Form 8949 rules, and audit triggers."
+title: "Aturan Pajak Crypto [2026]: Panduan Dirjen Pajak"
+description: "IRS mengenakan pajak atas tiap transaksi crypto. Simak tarif 2026, aturan Form 8949, dan pemicu audit."
 pubDate: 2026-03-14
 category: "cryptocurrency"
 tags: ["crypto tax", "IRS crypto", "capital gains crypto", "Form 8949", "crypto taxes"]
@@ -10,238 +10,238 @@ heroImageAlt: 'Crypto Tax Rules [2026]: IRS Guide to Avoid Fines'
 
 ---
 
-## Why I Almost Got Burned on Crypto Taxes
+## Kenapa Saya Hampir Kena Masalah Pajak Crypto
 
-I will be honest: the first year I traded cryptocurrency, I had no idea I owed taxes on it. I bought some Bitcoin, sold it a few months later for a profit, and never reported it. It was not until I read about the IRS sending letters to crypto holders that I realized every single trade is a taxable event.
+Jujur saja: di tahun pertama saya trading cryptocurrency, saya sama sekali tidak tahu kalau saya punya kewajiban pajak. Saya beli Bitcoin, lalu beberapa bulan kemudian saya jual dengan untung, dan saya tidak pernah melaporkannya. Baru setelah saya baca soal surat yang dikirim IRS ke pemilik crypto, saya sadar kalau setiap transaksi itu bisa jadi kejadian kena pajak.
 
-Since then, I have learned the rules inside and out, filed amended returns, and now track every transaction carefully. This guide covers everything US crypto investors need to know about taxes in 2026, including the forms you need to file, the rates you will pay, and the mistakes that trigger IRS audits.
+Sejak itu, saya belajar aturannya sampai paham, mengajukan SPT pembetulan, dan sekarang saya mencatat setiap transaksi dengan teliti. Panduan ini membahas semua yang perlu diketahui investor crypto soal pajak di 2026, termasuk formulir yang harus diisi, tarif yang akan dibayar, dan kesalahan yang bisa memicu audit dari Dirjen Pajak.
 
-## The Basic Rule: Every Crypto Transaction Is Taxable
+## Aturan Dasar: Setiap Transaksi Crypto Kena Pajak
 
-The IRS treats cryptocurrency as property, not currency. This means the same tax rules that apply to stocks and real estate apply to crypto. Here are the events that trigger a tax obligation:
+IRS memperlakukan cryptocurrency sebagai aset, bukan mata uang. Artinya, aturan pajak yang sama seperti saham dan properti juga berlaku untuk crypto. Berikut kejadian yang memicu kewajiban pajak:
 
-- **Selling crypto for USD**: If you sell Bitcoin for dollars, that is a taxable event.
-- **Trading one crypto for another**: Swapping ETH for SOL is a taxable event, even though you never touched USD.
-- **Using crypto to buy goods or services**: Paying for a coffee with Bitcoin? Taxable event.
-- **Receiving crypto as payment**: If your employer pays you in crypto, or you earn crypto for freelance work, that is taxable income.
-- **Mining rewards**: Crypto earned through mining is taxed as ordinary income at fair market value when received.
-- **Staking rewards**: Same as mining, staking income is taxed as ordinary income when received.
-- **Airdrops**: Free tokens received through airdrops are taxed as ordinary income at fair market value when you gain control of them.
-- **Hard forks**: If a hard fork results in you receiving new tokens, those are taxed as ordinary income.
+- **Menjual crypto ke USD**: Kalau kamu menjual Bitcoin dan menerima dolar, itu kejadian kena pajak.
+- **Menukar satu crypto ke crypto lain**: Tukar ETH ke SOL tetap kena pajak, meski kamu tidak pernah memegang USD.
+- **Memakai crypto untuk beli barang atau jasa**: Bayar kopi pakai Bitcoin? Tetap kena pajak.
+- **Menerima crypto sebagai pembayaran**: Kalau kamu dibayar pakai crypto, atau dapat crypto dari kerja freelance, itu penghasilan kena pajak.
+- **Imbalan mining**: Crypto yang didapat dari mining dikenakan pajak sebagai penghasilan biasa sesuai nilai pasar saat diterima.
+- **Imbalan staking**: Sama seperti mining, pendapatan staking dikenakan pajak sebagai penghasilan biasa saat diterima.
+- **Airdrop**: Token gratis dari airdrop dikenakan pajak sebagai penghasilan biasa sesuai nilai pasar saat kamu bisa menguasainya.
+- **Hard fork**: Kalau hard fork membuat kamu menerima token baru, token itu dikenakan pajak sebagai penghasilan biasa.
 
-### What Is NOT Taxable
+### Yang TIDAK Kena Pajak
 
-- **Buying crypto with USD**: Simply purchasing crypto is not a taxable event.
-- **Holding crypto**: You do not owe taxes just for holding. Taxes are triggered when you sell, trade, or spend.
-- **Transferring between your own wallets**: Moving Bitcoin from Coinbase to your hardware wallet is not taxable.
-- **Gifting crypto**: Giving crypto as a gift is generally not taxable for the giver (up to $18,000 per recipient per year without filing a gift tax return in 2026). The recipient does not owe taxes until they sell.
+- **Membeli crypto dengan USD**: Sekadar membeli crypto bukan kejadian kena pajak.
+- **Menyimpan crypto**: Kamu tidak otomatis kena pajak hanya karena menyimpan. Pajak muncul saat kamu menjual, menukar, atau membelanjakannya.
+- **Transfer antar dompet milik sendiri**: Pindah Bitcoin dari BCA/Jago-style exchange ke hardware wallet milikmu sendiri tidak kena pajak.
+- **Memberi crypto sebagai hadiah**: Memberi crypto sebagai hadiah umumnya tidak kena pajak bagi pemberi, selama masih dalam batas hadiah tahunan yang berlaku. Penerima baru kena pajak saat menjualnya.
 
-## Capital Gains Tax Rates on Crypto
+## Tarif Pajak Capital Gain untuk Crypto
 
-When you sell crypto for more than you paid, the profit is a capital gain. The tax rate depends on how long you held the asset.
+Saat kamu menjual crypto lebih mahal dari harga beli, selisihnya adalah capital gain. Tarif pajaknya tergantung berapa lama kamu memegang aset itu.
 
-### Short-Term Capital Gains (Held Less Than 1 Year)
+### Capital Gain Jangka Pendek (Dipegang Kurang dari 1 Tahun)
 
-Short-term gains are taxed at your ordinary income tax rate:
+Capital gain jangka pendek dikenakan tarif pajak penghasilan biasa:
 
-| Taxable Income (Single Filer 2026) | Tax Rate |
+| Penghasilan Kena Pajak (Lajang 2026) | Tarif Pajak |
 |---|---|
-| $0 - $11,600 | 10% |
-| $11,601 - $47,150 | 12% |
-| $47,151 - $100,525 | 22% |
-| $100,526 - $191,950 | 24% |
-| $191,951 - $243,725 | 32% |
-| $243,726 - $609,350 | 35% |
-| Over $609,350 | 37% |
+| Rp 0 - Rp 180 juta | 10% |
+| Rp 180 juta - Rp 730 juta | 12% |
+| Rp 730 juta - Rp 1,55 miliar | 22% |
+| Rp 1,55 miliar - Rp 2,95 miliar | 24% |
+| Rp 2,95 miliar - Rp 3,75 miliar | 32% |
+| Rp 3,75 miliar - Rp 9,1 miliar | 35% |
+| Di atas Rp 9,1 miliar | 37% |
 
-### Long-Term Capital Gains (Held More Than 1 Year)
+### Capital Gain Jangka Panjang (Dipegang Lebih dari 1 Tahun)
 
-Long-term gains get preferential rates:
+Capital gain jangka panjang dapat tarif yang lebih ringan:
 
-| Taxable Income (Single Filer 2026) | Tax Rate |
+| Penghasilan Kena Pajak (Lajang 2026) | Tarif Pajak |
 |---|---|
-| $0 - $47,025 | 0% |
-| $47,026 - $518,900 | 15% |
-| Over $518,900 | 20% |
+| Rp 0 - Rp 700 juta | 0% |
+| Rp 700 juta - Rp 7,8 miliar | 15% |
+| Di atas Rp 7,8 miliar | 20% |
 
-### Net Investment Income Tax
+### Pajak Penghasilan Investasi Neto
 
-If your modified adjusted gross income exceeds $200,000 (single) or $250,000 (married filing jointly), you also owe an additional 3.8% Net Investment Income Tax (NIIT) on your crypto gains. This brings the effective maximum long-term rate to 23.8%.
+Kalau penghasilan bruto yang disesuaikan melebihi sekitar Rp 3 miliar untuk lajang atau Rp 3,8 miliar untuk menikah lapor bersama, kamu juga kena tambahan 3,8% pajak investasi neto atas keuntungan crypto. Ini membuat tarif efektif maksimal untuk capital gain jangka panjang bisa mencapai 23,8%.
 
-### The Tax Strategy: Hold for More Than a Year
+### Strategi Pajak: Tahan Lebih dari Setahun
 
-The difference between short-term and long-term rates is enormous. If you are in the 24% tax bracket and sell crypto after 11 months, you pay 24% on the gain. Wait one more month and sell after 13 months, and you might pay only 15%. That is a 9% difference, which on a $10,000 gain is $900 in tax savings just for waiting.
+Perbedaan tarif jangka pendek dan jangka panjang itu besar sekali. Kalau kamu ada di bracket 24% dan menjual crypto setelah 11 bulan, kamu bayar 24% atas untungnya. Tapi kalau kamu tunggu satu bulan lagi dan jual setelah 13 bulan, kamu mungkin hanya bayar 15%. Selisih 9% ini, untuk untung Rp 150 juta, berarti hemat pajak sekitar Rp 13,5 juta hanya karena menunggu.
 
-## How to Calculate Your Crypto Gains and Losses
+## Cara Menghitung Untung dan Rugi Crypto
 
-The formula is straightforward:
+Rumusnya sederhana:
 
-**Capital Gain or Loss = Selling Price - Cost Basis**
+**Capital Gain atau Loss = Harga Jual - Cost Basis**
 
-### What Is Cost Basis?
+### Apa Itu Cost Basis?
 
-Your cost basis is what you originally paid for the crypto, including any fees. For example:
+Cost basis adalah total biaya awal yang kamu keluarkan untuk membeli crypto, termasuk biaya transaksi. Contohnya:
 
-- You bought 1 ETH for $2,000 plus a $5 trading fee.
-- Your cost basis is $2,005.
-- You sell that ETH for $3,000.
-- Your capital gain is $3,000 - $2,005 = $995.
+- Kamu beli 1 ETH seharga Rp 30 juta plus biaya trading Rp 75 ribu.
+- Cost basis kamu jadi Rp 30,075 juta.
+- Lalu ETH itu kamu jual seharga Rp 45 juta.
+- Capital gain kamu adalah Rp 45 juta - Rp 30,075 juta = Rp 14,925 juta.
 
-### Cost Basis Methods
+### Metode Cost Basis
 
-When you have bought the same crypto multiple times at different prices, you need to decide which coins you are "selling." The IRS allows several methods:
+Kalau kamu membeli crypto yang sama berkali-kali dengan harga berbeda, kamu harus menentukan koin mana yang dianggap “dijual”. IRS mengizinkan beberapa metode:
 
-- **FIFO (First In, First Out)**: The first coins you bought are the first ones sold. This is the default if you do not specify.
-- **LIFO (Last In, First Out)**: The most recently bought coins are sold first.
-- **Specific identification**: You choose exactly which coins to sell. This gives you the most control over your tax liability.
+- **FIFO (First In, First Out)**: Koin yang dibeli paling dulu dianggap dijual lebih dulu. Ini jadi default kalau kamu tidak menentukan.
+- **LIFO (Last In, First Out)**: Koin yang paling baru dibeli dianggap dijual lebih dulu.
+- **Specific identification**: Kamu memilih koin mana yang dijual secara spesifik. Ini memberi kontrol paling besar atas kewajiban pajak.
 
-Specific identification is usually the best strategy because you can choose to sell the coins with the highest cost basis first, minimizing your taxable gain.
+Specific identification biasanya paling bagus karena kamu bisa memilih menjual koin dengan cost basis tertinggi lebih dulu, sehingga capital gain kena pajaknya lebih kecil.
 
-## Forms You Need to File
+## Formulir yang Perlu Kamu Isi
 
-### Form 8949: Sales and Other Dispositions of Capital Assets
+### Form 8949: Penjualan dan Pelepasan Aset Modal
 
-This is the main form for reporting crypto transactions. For each sale or trade, you report:
+Ini formulir utama untuk melaporkan transaksi crypto. Untuk setiap penjualan atau pertukaran, kamu harus mencantumkan:
 
-- Description of the asset (e.g., "2.5 BTC")
-- Date acquired
-- Date sold or traded
-- Proceeds (selling price)
-- Cost basis (purchase price plus fees)
-- Gain or loss
+- Deskripsi aset (misalnya, "2,5 BTC")
+- Tanggal diperoleh
+- Tanggal dijual atau ditukar
+- Hasil penjualan
+- Cost basis
+- Untung atau rugi
 
-If you made hundreds of trades, Form 8949 can be dozens of pages long. This is why crypto tax software is essentially mandatory for active traders.
+Kalau kamu melakukan ratusan transaksi, Form 8949 bisa jadi puluhan halaman. Karena itu, software pajak crypto praktis wajib untuk trader aktif.
 
-### Schedule D: Capital Gains and Losses
+### Schedule D: Capital Gains dan Losses
 
-Schedule D summarizes the totals from Form 8949. It separates short-term and long-term gains and losses and calculates your net capital gain or loss for the year.
+Schedule D merangkum total dari Form 8949. Di sini dipisahkan capital gain dan loss jangka pendek serta jangka panjang, lalu dihitung total capital gain atau loss bersih untuk tahun itu.
 
-### Schedule 1 and Schedule C
+### Schedule 1 dan Schedule C
 
-If you received crypto as income (mining, staking, freelance payments), report it on:
+Kalau kamu menerima crypto sebagai penghasilan (mining, staking, atau bayaran freelance), laporkan di:
 
-- **Schedule 1**: For miscellaneous income like staking rewards or airdrops.
-- **Schedule C**: If you are mining or staking as a business.
+- **Schedule 1**: Untuk penghasilan lain-lain seperti imbalan staking atau airdrop.
+- **Schedule C**: Kalau mining atau staking kamu jalankan sebagai bisnis.
 
-### The Crypto Question on Form 1040
+### Pertanyaan Crypto di Form 1040
 
-Since 2019, the IRS has included a question on the front page of Form 1040 asking whether you received, sold, exchanged, or otherwise disposed of any digital assets. You must answer this honestly. Checking "No" when you should check "Yes" can be treated as fraud.
+Sejak 2019, IRS menambahkan pertanyaan di halaman depan Form 1040 yang menanyakan apakah kamu menerima, menjual, menukar, atau melepaskan aset digital. Kamu harus menjawab dengan jujur. Menandai “Tidak” padahal seharusnya “Ya” bisa dianggap penipuan.
 
-## Tax-Loss Harvesting With Crypto
+## Tax-Loss Harvesting dengan Crypto
 
-Here is one area where crypto actually has a tax advantage over stocks. As of 2026, crypto is not subject to the wash sale rule that applies to securities. This means you can:
+Ada satu area di mana crypto justru punya keuntungan pajak dibanding saham. Hingga 2026, crypto belum terkena aturan wash sale seperti sekuritas. Artinya, kamu bisa:
 
-1. Sell crypto at a loss to realize the loss for tax purposes.
-2. Immediately buy back the same crypto.
-3. Use the loss to offset gains or reduce your taxable income.
+1. Menjual crypto saat rugi untuk merealisasikan kerugian pajak.
+2. Langsung membeli kembali crypto yang sama.
+3. Memakai kerugian itu untuk mengimbangi keuntungan atau mengurangi penghasilan kena pajak.
 
-With stocks, you would have to wait 30 days before repurchasing. With crypto, there is no waiting period.
+Kalau saham, kamu harus menunggu 30 hari sebelum membeli kembali. Untuk crypto, tidak ada masa tunggu.
 
-### Important Update
+### Pembaruan Penting
 
-Congress has been discussing applying the wash sale rule to crypto. Check the latest legislation, as this could change. If the rule is applied to crypto, you would need to wait 30 days before repurchasing.
+Pemerintah masih membahas penerapan aturan wash sale untuk crypto. Cek regulasi terbaru, karena ini bisa berubah. Kalau aturan itu diterapkan ke crypto, kamu harus menunggu 30 hari sebelum membeli kembali.
 
-### How to Use Tax-Loss Harvesting
+### Cara Memakai Tax-Loss Harvesting
 
-- **Offset gains**: If you made $5,000 selling Bitcoin but lost $3,000 on Solana, your net taxable gain is only $2,000.
-- **Offset ordinary income**: If your crypto losses exceed your gains, you can deduct up to $3,000 per year against your ordinary income.
-- **Carry forward losses**: Losses exceeding $3,000 can be carried forward to future tax years indefinitely.
+- **Mengimbangi keuntungan**: Kalau kamu untung Rp 75 juta dari jual Bitcoin tapi rugi Rp 45 juta di Solana, keuntungan kena pajak bersih kamu hanya Rp 30 juta.
+- **Mengimbangi penghasilan biasa**: Kalau kerugian crypto kamu lebih besar dari keuntungan, kamu bisa mengurangkan sampai Rp 45 juta per tahun dari penghasilan biasa.
+- **Membawa kerugian ke tahun berikutnya**: Kerugian yang melebihi Rp 45 juta bisa dibawa ke tahun pajak berikutnya tanpa batas waktu.
 
-## Common IRS Audit Triggers
+## Pemicu Audit IRS yang Paling Umum
 
-The IRS has significantly increased its focus on cryptocurrency compliance. Here are the red flags that can trigger an audit:
+IRS semakin serius mengawasi kepatuhan pajak crypto. Berikut tanda-tanda merah yang bisa memicu audit:
 
-### 1. Not Reporting Crypto Income
+### 1. Tidak Melaporkan Penghasilan Crypto
 
-Exchanges like [Coinbase](/blog/coinbase-review-fees-and-features-2026/), Kraken, and Gemini report your transactions to the IRS via Form 1099. If the exchange reports income that does not appear on your tax return, the IRS will notice.
+Exchange seperti [Coinbase](/blog/coinbase-review-fees-and-features-2026/), Kraken, dan Gemini melaporkan transaksi kamu ke IRS lewat formulir 1099. Kalau exchange melaporkan penghasilan yang tidak muncul di SPT kamu, IRS akan sadar.
 
-### 2. Large Transactions Without Documentation
+### 2. Transaksi Besar Tanpa Dokumentasi
 
-Moving large amounts of crypto ($10,000+) can trigger Currency Transaction Reports. If the IRS sees large inflows or outflows without corresponding tax filings, it raises questions.
+Memindahkan crypto dalam jumlah besar (Rp 150 juta+) bisa memicu laporan transaksi tertentu. Kalau IRS melihat arus masuk atau keluar besar tanpa laporan pajak yang sesuai, itu akan menimbulkan pertanyaan.
 
-### 3. Inconsistency Between 1099 Forms and Your Return
+### 3. Tidak Sinkron antara Form 1099 dan SPT Kamu
 
-If Coinbase sends the IRS a 1099 showing $50,000 in proceeds and your return shows only $10,000, expect a notice.
+Kalau Coinbase mengirim 1099 ke IRS yang menunjukkan hasil penjualan Rp 750 juta, tapi di SPT kamu hanya tercantum Rp 150 juta, bersiaplah menerima surat pemberitahuan.
 
-### 4. DeFi and Self-Custody Transactions
+### 4. Transaksi DeFi dan Self-Custody
 
-The IRS is increasingly looking at [DeFi](/blog/defi-explained-in-simple-terms-for-beginners/) activity and self-custody wallets. Transactions that go from a centralized exchange to a personal wallet and then to a DeFi protocol can be tracked through [blockchain](/blog/beginners-guide-to-blockchain-technology/) analysis tools the IRS uses.
+IRS makin memperhatikan aktivitas [DeFi](/blog/defi-explained-in-simple-terms-for-beginners/) dan dompet self-custody. Transaksi yang berpindah dari exchange terpusat ke dompet pribadi lalu ke protokol DeFi bisa dilacak lewat alat analisis [blockchain](/blog/beginners-guide-to-blockchain-technology/) yang dipakai IRS.
 
-### 5. Answering the 1040 Crypto Question Incorrectly
+### 5. Menjawab Pertanyaan Crypto di Form 1040 dengan Salah
 
-If you answer "No" to the digital asset question on Form 1040 but have exchange accounts or blockchain activity tied to your identity, you are inviting scrutiny.
+Kalau kamu menjawab “Tidak” pada pertanyaan aset digital di Form 1040 padahal punya akun exchange atau aktivitas blockchain yang terkait identitasmu, kamu justru mengundang pemeriksaan.
 
-## Crypto Tax Software
+## Software Pajak Crypto
 
-Unless you made fewer than five trades all year, you need crypto tax software. Manually tracking cost basis across multiple exchanges, wallets, and DeFi protocols is virtually impossible.
+Kalau kamu melakukan lebih dari lima transaksi sepanjang tahun, kamu butuh software pajak crypto. Melacak cost basis secara manual di banyak exchange, dompet, dan protokol DeFi hampir mustahil.
 
-### Popular Options
+### Opsi Populer
 
-| Software | Starting Price | Key Features |
+| Software | Harga Awal | Fitur Utama |
 |---|---|---|
-| CoinTracker | Free (25 txns) | Exchange integration, DeFi support, TurboTax integration |
-| Koinly | Free (10,000 txns) | 350+ exchange support, mining/staking tracking |
-| TaxBit | Free (basic) | 500+ integrations, IRS partnership |
-| CryptoTraxer | $49/year | DeFi tracking, portfolio management |
-| ZenLedger | $49/year | NFT support, DeFi, cross-chain tracking |
+| CoinTracker | Gratis (25 transaksi) | Integrasi exchange, dukungan DeFi, integrasi TurboTax |
+| Koinly | Gratis (10.000 transaksi) | Dukungan 350+ exchange, pelacakan mining/staking |
+| TaxBit | Gratis (basic) | 500+ integrasi, kemitraan dengan IRS |
+| CryptoTraxer | Rp 750 ribu/tahun | Pelacakan DeFi, manajemen portofolio |
+| ZenLedger | Rp 750 ribu/tahun | Dukungan NFT, DeFi, pelacakan lintas chain |
 
-### How Crypto Tax Software Works
+### Cara Kerja Software Pajak Crypto
 
-1. Connect your exchange accounts via API or CSV upload.
-2. Import transactions from wallets using public addresses.
-3. The software calculates gains, losses, and income.
-4. Export the completed Form 8949 and import it into TurboTax, H&R Block, or send it to your CPA.
+1. Hubungkan akun exchange lewat API atau unggah CSV.
+2. Impor transaksi dari dompet menggunakan alamat publik.
+3. Software menghitung keuntungan, kerugian, dan penghasilan.
+4. Ekspor Form 8949 yang sudah selesai lalu impor ke TurboTax, H&R Block, atau kirim ke akuntan pajak kamu.
 
-I use Koinly and it has saved me hours of work every tax season. The free tier is generous enough for most casual investors.
+Saya pakai Koinly dan itu menghemat berjam-jam kerja setiap musim pajak. Paket gratisnya juga cukup murah hati untuk kebanyakan investor kasual.
 
-## Penalties for Not Reporting Crypto Taxes
+## Denda Kalau Tidak Melaporkan Pajak Crypto
 
-The IRS takes crypto tax compliance seriously. Penalties include:
+IRS sangat serius soal kepatuhan pajak crypto. Dendanya meliputi:
 
-- **Failure to file**: 5% of unpaid taxes per month, up to 25%.
-- **Failure to pay**: 0.5% of unpaid taxes per month, up to 25%.
-- **Accuracy penalty**: 20% of the underpaid tax if the IRS determines you were negligent.
-- **Fraud penalty**: 75% of the underpaid tax. This applies if the IRS believes you intentionally evaded taxes.
-- **Criminal prosecution**: In extreme cases, crypto tax evasion can result in fines up to $250,000 and up to five years in prison.
+- **Gagal lapor**: 5% dari pajak yang belum dibayar per bulan, maksimal 25%.
+- **Gagal bayar**: 0,5% dari pajak yang belum dibayar per bulan, maksimal 25%.
+- **Denda akurasi**: 20% dari pajak yang kurang dibayar jika IRS menilai kamu lalai.
+- **Denda fraud**: 75% dari pajak yang kurang dibayar. Ini berlaku kalau IRS yakin kamu sengaja menghindari pajak.
+- **Tuntutan pidana**: Dalam kasus ekstrem, penghindaran pajak crypto bisa berujung denda hingga Rp 3,8 miliar dan penjara sampai lima tahun.
 
-### Voluntary Disclosure
+### Pengungkapan Sukarela
 
-If you have unreported crypto income from previous years, the IRS Voluntary Disclosure Program allows you to come forward, pay the back taxes with interest and a reduced penalty, and avoid criminal prosecution. Consult a tax attorney if this applies to you.
+Kalau kamu punya penghasilan crypto yang belum dilaporkan dari tahun-tahun sebelumnya, program pengungkapan sukarela IRS memungkinkan kamu datang melapor, membayar pajak tertunggak beserta bunga dan denda yang lebih ringan, serta menghindari tuntutan pidana. Konsultasikan dengan pengacara pajak kalau ini berlaku untuk kamu.
 
-## Tips to Minimize Your Crypto Tax Bill
+## Tips untuk Mengecilkan Tagihan Pajak Crypto
 
-1. **Hold for more than one year**: Long-term capital gains rates are significantly lower.
-2. **Harvest losses**: Sell losing positions to offset gains.
-3. **Use specific identification**: Choose the highest-cost-basis coins to sell first.
-4. **Donate crypto to charity**: Donating appreciated crypto to a qualified charity lets you deduct the fair market value without paying capital gains tax.
-5. **Max out retirement accounts**: While you cannot hold crypto directly in most [IRA](/blog/how-to-financially-prepare-for-retirement/)s, reducing your overall taxable income helps keep crypto gains in lower tax brackets.
-6. **Track everything**: Keep records of every trade, including date, amount, price, and fees. Your future self will thank you.
-7. **Consider a crypto IRA**: Some providers offer self-directed IRAs that allow crypto investments. Gains within the IRA are tax-deferred (traditional) or tax-free (Roth).
+1. **Tahan lebih dari satu tahun**: Tarif capital gain jangka panjang jauh lebih rendah.
+2. **Panen kerugian**: Jual posisi yang rugi untuk mengimbangi keuntungan.
+3. **Pakai specific identification**: Pilih koin dengan cost basis tertinggi untuk dijual lebih dulu.
+4. **Donasikan crypto ke lembaga amal**: Menyumbangkan crypto yang nilainya naik ke lembaga amal yang memenuhi syarat bisa memberi kamu pengurangan pajak sebesar nilai pasar tanpa membayar pajak capital gain.
+5. **Maksimalkan dana pensiun**: Walau kamu tidak bisa menyimpan crypto langsung di sebagian besar DPLK/dana pensiun, menurunkan penghasilan kena pajak secara keseluruhan bisa membantu keuntungan crypto masuk bracket pajak yang lebih rendah.
+6. **Catat semuanya**: Simpan bukti setiap transaksi, termasuk tanggal, jumlah, harga, dan biaya. Diri kamu di masa depan akan berterima kasih.
+7. **Pertimbangkan crypto IRA**: Beberapa penyedia menawarkan akun investasi mandiri yang memungkinkan investasi crypto. Keuntungan di dalam akun itu bisa ditangguhkan pajaknya (tradisional) atau bebas pajak (Roth/reksadana investasi).
 
-## The Bottom Line
+## Intinya
 
-The IRS treats every crypto transaction as a taxable event, and they are getting better at enforcement. The days of ignoring crypto on your tax return are over. Exchanges report to the IRS, blockchain analysis firms help track transactions, and the IRS has made crypto a compliance priority.
+IRS memperlakukan setiap transaksi crypto sebagai kejadian kena pajak, dan mereka semakin pintar dalam penegakan aturan. Zaman mengabaikan crypto di SPT sudah lewat. Exchange melaporkan data ke IRS, perusahaan analisis blockchain membantu melacak transaksi, dan IRS menjadikan kepatuhan crypto sebagai prioritas.
 
-The good news is that the rules, while complex, are manageable with the right tools. Use crypto tax software, understand the difference between short-term and long-term rates, take advantage of tax-loss harvesting, and keep good records. Do those four things and you will be fine.
+Kabar baiknya, meski aturannya rumit, semuanya masih bisa dikelola dengan alat yang tepat. Pakai software pajak crypto, pahami perbedaan tarif jangka pendek dan jangka panjang, manfaatkan tax-loss harvesting, dan simpan catatan yang rapi. Lakukan empat hal itu, dan kamu akan aman.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Do I owe taxes if I lost money on crypto?
+### Apakah saya tetap berutang pajak kalau rugi di crypto?
 
-You do not owe taxes on losses, but you should still report them. Crypto losses can offset your gains and reduce your tax bill. If your losses exceed your gains, you can deduct up to $3,000 per year from your ordinary income and carry forward any remaining losses to future years. Not reporting losses means you miss out on this tax benefit.
+Kamu tidak berutang pajak atas kerugian, tapi tetap sebaiknya melaporkannya. Kerugian crypto bisa mengimbangi keuntungan dan menurunkan tagihan pajak. Kalau kerugian kamu lebih besar dari keuntungan, kamu bisa mengurangkan sampai Rp 45 juta per tahun dari penghasilan biasa dan membawa sisa kerugian ke tahun berikutnya. Kalau tidak dilaporkan, kamu kehilangan manfaat pajak ini.
 
-### Does the IRS know about my crypto?
+### Apakah IRS tahu soal crypto saya?
 
-Increasingly, yes. US-based exchanges like Coinbase, Kraken, and Gemini are required to report customer transactions to the IRS. The IRS also uses blockchain analysis tools from companies like Chainalysis to trace transactions. Starting in 2026, brokers must report digital asset transactions on the new Form 1099-DA, which provides even more detailed transaction data to the IRS.
+Semakin lama, jawabannya: ya. Exchange berbasis AS seperti Coinbase, Kraken, dan Gemini wajib melaporkan transaksi pelanggan ke IRS. IRS juga memakai alat analisis blockchain dari perusahaan seperti Chainalysis untuk melacak transaksi. Mulai 2026, broker wajib melaporkan transaksi aset digital lewat Form 1099-DA yang baru, sehingga data transaksi yang diterima IRS jadi jauh lebih detail.
 
-### What if I cannot figure out my cost basis?
+### Bagaimana kalau saya tidak tahu cost basis saya?
 
-If you do not have records of your original purchase price, the IRS may default your cost basis to $0, meaning your entire sale proceeds would be treated as a gain. To avoid this, use crypto tax software that can import historical exchange data. If you truly cannot find records, some tax professionals recommend using the price on the date of acquisition from a reliable source like CoinMarketCap. Document your methodology and be consistent.
+Kalau kamu tidak punya catatan harga beli awal, IRS bisa menetapkan cost basis kamu menjadi Rp 0, artinya seluruh hasil penjualan dianggap untung. Untuk menghindari ini, gunakan software pajak crypto yang bisa mengimpor data historis dari exchange. Kalau benar-benar tidak ada catatan, beberapa profesional pajak menyarankan memakai harga pada tanggal perolehan dari sumber tepercaya seperti CoinMarketCap. Dokumentasikan metodenya dan konsisten.
 
-### Do I owe taxes on crypto I received as a gift?
+### Apakah saya kena pajak atas crypto yang saya terima sebagai hadiah?
 
-You do not owe taxes when you receive the gift. However, when you sell the gifted crypto, you inherit the original owner's cost basis and holding period. If the crypto was worth less than the cost basis when gifted to you, special rules apply. Ask the person who gave you the crypto for their purchase information to ensure proper tax reporting.
+Kamu tidak kena pajak saat menerima hadiah. Namun, saat kamu menjual crypto hadiah itu, kamu mewarisi cost basis dan periode kepemilikan dari pemberi. Kalau saat diberikan nilainya lebih rendah dari cost basis asli, ada aturan khusus yang berlaku. Minta informasi pembelian dari orang yang memberi kamu crypto supaya pelaporan pajaknya benar.
 
-### Should I hire a CPA for crypto taxes?
+### Perlukah saya menyewa CPA untuk pajak crypto?
 
-If you made fewer than 50 trades and used only one or two exchanges, crypto tax software combined with TurboTax is usually sufficient. If you had significant DeFi activity, mining income, staking across multiple protocols, or international exchange accounts, a CPA with crypto experience is worth the investment. The cost of a good CPA ($300-$500 for crypto-specific preparation) is much less than the penalties for incorrect filing.
+Kalau kamu melakukan kurang dari 50 transaksi dan hanya memakai satu atau dua exchange, software pajak crypto ditambah TurboTax biasanya sudah cukup. Kalau kamu punya aktivitas DeFi yang besar, penghasilan mining, staking di banyak protokol, atau akun exchange internasional, CPA yang berpengalaman di crypto layak dipertimbangkan. Biaya CPA yang bagus (sekitar Rp 4,5 juta - Rp 7,5 juta untuk persiapan pajak khusus crypto) jauh lebih kecil daripada denda akibat pelaporan yang salah.

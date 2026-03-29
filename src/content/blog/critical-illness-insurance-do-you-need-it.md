@@ -1,6 +1,6 @@
 ---
-title: "Critical Illness Insurance: Do You Really Need It?"
-description: "Cancer treatment averages $150K in the US. Critical illness insurance pays a lump sum on diagnosis—see who needs it, costs, and when to skip it."
+title: "Asuransi Penyakit Kritis: Perlu Nggak Sih?"
+description: "Biaya kanker bisa ratusan juta. Asuransi penyakit kritis bayar lump sum saat diagnosis—lihat siapa yang butuh, biayanya, dan kapan sebaiknya skip."
 pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "insurance"
@@ -11,184 +11,186 @@ heroImageAlt: 'Critical Illness Insurance: Do You Really Need It?'
 
 ---
 
-A coworker of mine was diagnosed with stage 2 colon cancer at 38. His health insurance covered the hospital bills—mostly. But what blindsided him was everything else: three months of unpaid leave, a $6,000 [deductible](/blog/insurance-terms-explained-simply-2026-guide/), parking at the cancer center, meal delivery because he was too exhausted to cook, and the mortgage that didn't care about his diagnosis.
+A coworker saya pernah didiagnosis kanker usus besar stadium 2 di usia 38. Asuransi kesehatannya memang menanggung biaya rumah sakit—sebagian besar. Tapi yang bikin dia kelabakan justru hal-hal lain: cuti tanpa gaji tiga bulan, deductible Rp 90 juta, biaya parkir di pusat kanker, pesan makanan karena dia terlalu lelah untuk masak, dan cicilan rumah yang tetap jalan meski dia sedang sakit.
 
-That's the gap critical illness insurance is designed to fill. It's not about hospital bills. It's about staying financially alive while you're fighting to stay physically alive.
+Itulah celah yang ingin ditutup oleh asuransi penyakit kritis. Bukan untuk tagihan rumah sakit. Tapi untuk menjaga kondisi keuangan kamu tetap hidup saat kamu sedang berjuang supaya tubuhmu tetap bertahan.
 
-In this guide, I'll explain exactly what critical illness insurance covers, what it costs, who actually needs it, and when you're better off skipping it entirely.
+Di panduan ini, saya akan jelaskan apa saja yang ditanggung asuransi penyakit kritis, berapa biayanya, siapa yang benar-benar butuh, dan kapan kamu justru lebih baik tidak perlu ambil sama sekali.
 
-## What Is Critical Illness Insurance?
+## Apa Itu Asuransi Penyakit Kritis?
 
-Critical illness insurance is a supplemental policy that pays you a one-time lump sum if you're diagnosed with a covered serious illness. In the US, covered conditions typically include:
+Asuransi penyakit kritis adalah polis tambahan yang membayar kamu sekali dalam bentuk uang tunai lump sum kalau kamu didiagnosis dengan penyakit serius yang ditanggung. Di Indonesia, kondisi yang biasanya ditanggung antara lain:
 
-- **Cancer** (most common trigger, accounting for about 70% of claims)
-- **Heart attack**
+- **Kanker** (pemicu klaim paling umum, sekitar 70% klaim)
+- **Serangan jantung**
 - **Stroke**
-- **Kidney failure**
-- **Major organ transplant**
-- **Coronary artery bypass surgery**
-- **Paralysis**
-- **Blindness or deafness** (some policies)
+- **Gagal ginjal**
+- **Transplantasi organ besar**
+- **Operasi bypass arteri koroner**
+- **Kelumpuhan**
+- **Kebutaan atau ketulian** (di beberapa polis)
 
-When you're diagnosed with a qualifying condition, the insurer pays the full benefit amount directly to you. There are no restrictions on how you spend it. You can use it for medical bills, mortgage payments, groceries, childcare, travel to a specialist, or anything else.
+Begitu kamu didiagnosis dengan kondisi yang memenuhi syarat, perusahaan asuransi akan membayar manfaat penuh langsung ke kamu. Tidak ada batasan kamu harus pakai untuk apa. Bisa untuk biaya pengobatan, cicilan rumah, belanja kebutuhan harian, biaya anak, perjalanan ke dokter spesialis, atau apa pun.
 
-I think of it as income replacement with a medical trigger. Your health insurance handles the doctors and hospitals. Critical illness insurance handles everything your health insurance doesn't touch.
+Saya melihatnya sebagai pengganti penghasilan dengan pemicu medis. Asuransi kesehatan menangani dokter dan rumah sakit. Asuransi penyakit kritis menangani semua hal yang tidak disentuh asuransi kesehatan.
 
-## How It's Different From Health Insurance
+## Bedanya dengan Asuransi Kesehatan
 
-This is the most common point of confusion I see. Here's the key difference:
+Ini bagian yang paling sering bikin orang bingung. Perbedaannya begini:
 
-| Feature | Health Insurance | Critical Illness Insurance |
-|---------|-----------------|---------------------------|
-| What it pays | Hospital bills, doctor visits, prescriptions | Lump sum cash to you |
-| How it pays | Directly to providers (minus your share) | Directly to you, no restrictions |
-| Deductibles | Yes ($1,500-8,000+ depending on plan) | No deductible |
-| Covers income loss | No | Effectively yes |
-| Covers non-medical costs | No | Yes |
-| Ongoing coverage | Yes, annual renewal | One-time payout per diagnosis |
+| Fitur | Asuransi Kesehatan | Asuransi Penyakit Kritis |
+|---------|-------------------|---------------------------|
+| Yang dibayar | Tagihan rumah sakit, dokter, resep obat | Uang tunai lump sum ke kamu |
+| Cara bayar | Langsung ke penyedia layanan (dikurangi porsi kamu) | Langsung ke kamu, bebas dipakai |
+| Deductible | Ada (Rp 20 juta-120 juta+ tergantung polis) | Tidak ada |
+| Menutup kehilangan penghasilan | Tidak | Ya, secara efektif |
+| Menutup biaya non-medis | Tidak | Ya |
+| Perlindungan berkelanjutan | Ya, diperpanjang tiap tahun | Bayar sekali per diagnosis |
 
-Health insurance is essential. But even with good coverage, a serious diagnosis can cost you $10,000-50,000+ out of pocket when you factor in deductibles, copays, coinsurance, out-of-network care, and lost income.
+Asuransi kesehatan itu wajib. Tapi bahkan dengan perlindungan yang bagus, diagnosis penyakit serius bisa bikin kamu keluar uang sendiri Rp 100 juta-750 juta+ kalau dihitung deductible, copay, coinsurance, perawatan di luar jaringan, dan penghasilan yang hilang.
 
-## What Does Critical Illness Insurance Cost?
+## Berapa Biaya Asuransi Penyakit Kritis?
 
-Premiums depend on your age, health, benefit amount, and the insurer. Here are typical monthly costs for a $25,000 benefit:
+Premi tergantung usia, kondisi kesehatan, jumlah manfaat, dan perusahaan asuransi. Berikut kisaran biaya bulanan untuk manfaat Rp 375 juta:
 
-| Age | Non-smoker (Monthly) | Smoker (Monthly) |
-|-----|---------------------|-------------------|
-| 25 | $15-25 | $25-45 |
-| 30 | $20-35 | $35-60 |
-| 35 | $30-50 | $55-85 |
-| 40 | $45-75 | $80-130 |
-| 50 | $85-140 | $150-250 |
-| 60 | $160-280 | $280-450 |
+| Usia | Non-perokok (Bulanan) | Perokok (Bulanan) |
+|-----|------------------------|-------------------|
+| 25 | Rp 225 ribu-375 ribu | Rp 375 ribu-675 ribu |
+| 30 | Rp 300 ribu-525 ribu | Rp 525 ribu-900 ribu |
+| 35 | Rp 450 ribu-750 ribu | Rp 825 ribu-1,275 juta |
+| 40 | Rp 675 ribu-1,125 juta | Rp 1,2 juta-1,95 juta |
+| 50 | Rp 1,275 juta-2,1 juta | Rp 2,25 juta-3,75 juta |
+| 60 | Rp 2,4 juta-4,2 juta | Rp 4,2 juta-6,75 juta |
 
-For a $50,000 benefit, roughly double those numbers. For $100,000, roughly triple.
+Untuk manfaat Rp 750 juta, kira-kira dua kali angka di atas. Untuk Rp 1,5 miliar, kira-kira tiga kali lipat.
 
-In my experience, the sweet spot for most people is a $25,000-50,000 benefit. That's enough to cover 3-6 months of expenses for a typical household while you recover.
+Menurut saya, titik paling pas untuk kebanyakan orang ada di manfaat Rp 375 juta-750 juta. Itu cukup untuk menutup 3-6 bulan biaya hidup rumah tangga biasa sambil kamu pemulihan.
 
-### Where to Buy It
+### Beli di Mana?
 
-Critical illness insurance is available through:
+Asuransi penyakit kritis tersedia melalui:
 
-- **Employer benefits** — Many employers offer it as a voluntary benefit at group rates (often the cheapest option)
-- **Aflac** — The most well-known supplemental insurer in the US
-- **Colonial Life** — Strong in the employer-sponsored market
-- **MetLife** — Offers critical illness as a voluntary worksite benefit
-- **Mutual of Omaha** — Good for individual policies
-- **Allstate Benefits** — Competitive individual plans
+- **Manfaat karyawan** — Banyak perusahaan menawarkan ini sebagai benefit sukarela dengan tarif grup (biasanya paling murah)
+- **Prudential** — Salah satu penyedia asuransi tambahan yang paling dikenal
+- **Allianz** — Kuat di produk perlindungan kesehatan dan penyakit kritis
+- **AXA Mandiri** — Sering tersedia lewat kanal perbankan dan asuransi
+- **BCA** — Beberapa produk perlindungan bisa diakses lewat kerja sama bank
+- **Mandiri** — Opsi perlindungan tambahan lewat kanal bank
+- **Jago** — Untuk produk proteksi digital tertentu
+- **Seabank** — Kadang menawarkan produk perlindungan lewat mitra
 
-I've found that employer-offered plans are usually 20-40% cheaper than individual policies because of group pricing.
+Dari pengalaman saya, polis dari kantor biasanya 20-40% lebih murah dibanding polis individu karena harga grup.
 
-## Who Actually Needs Critical Illness Insurance
+## Siapa yang Benar-Benar Butuh Asuransi Penyakit Kritis
 
-After researching this extensively and talking to financial advisors, here's my breakdown:
+Setelah saya riset cukup dalam dan ngobrol dengan beberapa penasihat keuangan, ini kesimpulan saya:
 
-### You Probably Need It If:
+### Kamu Mungkin Butuh Kalau:
 
-- **You're the sole or primary breadwinner** — If your family depends on your income and you couldn't work for 3-6 months, a lump sum payout could be the difference between keeping and losing your home
-- **You have a high-deductible health plan (HDHP)** — If your out-of-pocket max is $7,000-16,000, critical illness insurance helps cover that gap
-- **You have limited savings** — If you don't have 6+ months of expenses saved, this is essentially buying yourself an emergency fund for health crises
-- **You have a family history of cancer, heart disease, or stroke** — Your risk is statistically higher, making the coverage more likely to pay off
-- **You're self-employed** — No employer-provided disability insurance means a health crisis hits your income immediately
+- **Kamu satu-satunya atau pencari nafkah utama** — Kalau keluarga bergantung pada penghasilanmu dan kamu tidak bisa kerja 3-6 bulan, pembayaran lump sum bisa jadi pembeda antara tetap punya rumah atau kehilangan rumah
+- **Kamu punya BPJS/asuransi kesehatan dengan biaya sendiri tinggi** — Kalau batas pengeluaran sendiri kamu Rp 100 juta-240 juta, asuransi penyakit kritis membantu menutup celah itu
+- **Tabungan kamu masih terbatas** — Kalau kamu belum punya tabungan setara 6 bulan biaya hidup, ini pada dasarnya seperti membeli dana darurat khusus untuk krisis kesehatan
+- **Ada riwayat keluarga kanker, penyakit jantung, atau stroke** — Risiko kamu secara statistik lebih tinggi, jadi peluang manfaatnya juga lebih besar
+- **Kamu wiraswasta** — Tanpa perlindungan pengganti penghasilan dari kantor, krisis kesehatan langsung menghantam pemasukan kamu
 
-### You Can Probably Skip It If:
+### Kamu Mungkin Bisa Lewatkan Kalau:
 
-- **You have robust savings** — If you have $100,000+ in liquid savings, you can self-insure against most critical illness costs
-- **You already have strong disability insurance** — Long-term disability replaces 60% of income during illness; combined with savings, you may be covered
-- **You have a low-deductible health plan** — If your max out-of-pocket is under $3,000 and you have good savings, the medical cost gap is small
-- **You're single with no dependents** — Your financial risk is lower since no one else depends on your income
-- **You're over 60** — Premiums become very expensive relative to the benefit, and the math often doesn't work
+- **Tabungan kamu sangat kuat** — Kalau kamu punya tabungan likuid Rp 1,5 miliar+, kamu bisa “self-insure” untuk sebagian besar biaya penyakit kritis
+- **Kamu sudah punya asuransi pengganti penghasilan yang bagus** — Asuransi disabilitas jangka panjang mengganti sekitar 60% penghasilan saat sakit; kalau ditambah tabungan, kamu mungkin sudah cukup aman
+- **Kamu punya polis kesehatan dengan deductible rendah** — Kalau batas pengeluaran sendiri kamu di bawah Rp 45 juta dan tabungan kamu kuat, celah biayanya kecil
+- **Kamu lajang tanpa tanggungan** — Risiko finansial kamu lebih rendah karena tidak ada orang lain yang bergantung pada penghasilanmu
+- **Kamu di atas 60 tahun** — Premi jadi sangat mahal dibanding manfaatnya, dan hitung-hitungan sering kali kurang masuk akal
 
-## Critical Illness vs. Disability Insurance vs. Cancer Insurance
+## Asuransi Penyakit Kritis vs Asuransi Disabilitas vs Asuransi Kanker
 
-People often confuse these three products. Here's how they compare:
+Banyak orang mencampuradukkan tiga produk ini. Perbandingannya begini:
 
-### Critical Illness Insurance
-- **Trigger:** Diagnosis of a listed condition
-- **Payout:** One-time lump sum
-- **Use restrictions:** None
-- **Typical cost:** $30-75/month for $25K benefit (age 35)
+### Asuransi Penyakit Kritis
+- **Pemicu:** Diagnosis kondisi yang tercantum
+- **Pembayaran:** Sekali dalam bentuk lump sum
+- **Pembatasan penggunaan:** Tidak ada
+- **Biaya umum:** Rp 450 ribu-1,125 juta/bulan untuk manfaat Rp 375 juta (usia 35)
 
-### Long-Term Disability Insurance
-- **Trigger:** Inability to work due to any illness or injury
-- **Payout:** Monthly payments (usually 60% of income)
-- **Use restrictions:** None
-- **Typical cost:** 1-3% of annual income
+### Asuransi Disabilitas Jangka Panjang
+- **Pemicu:** Tidak bisa bekerja karena sakit atau cedera
+- **Pembayaran:** Bulanan (biasanya 60% penghasilan)
+- **Pembatasan penggunaan:** Tidak ada
+- **Biaya umum:** 1-3% dari penghasilan tahunan
 
-### Cancer Insurance
-- **Trigger:** Cancer diagnosis only
-- **Payout:** Lump sum or per-treatment payments
-- **Use restrictions:** Some policies restrict to cancer-related expenses
-- **Typical cost:** $20-50/month
+### Asuransi Kanker
+- **Pemicu:** Hanya diagnosis kanker
+- **Pembayaran:** Lump sum atau pembayaran per perawatan
+- **Pembatasan penggunaan:** Beberapa polis membatasi hanya untuk biaya terkait kanker
+- **Biaya umum:** Rp 300 ribu-750 ribu/bulan
 
-If I had to rank them by importance, I'd put long-term disability first, critical illness second, and cancer-specific insurance third. Disability insurance covers more scenarios, while critical illness gives you the flexibility of a lump sum.
+Kalau saya harus urutkan berdasarkan pentingnya, saya taruh asuransi disabilitas jangka panjang di posisi pertama, asuransi penyakit kritis kedua, dan asuransi kanker spesifik ketiga. Asuransi disabilitas menutup lebih banyak skenario, sementara asuransi penyakit kritis memberi fleksibilitas berupa lump sum.
 
-## How to Choose the Right Policy
+## Cara Memilih Polis yang Tepat
 
-Here's what I look at when comparing critical illness policies:
+Ini yang saya perhatikan saat membandingkan polis asuransi penyakit kritis:
 
-### 1. Covered Conditions
+### 1. Kondisi yang Ditanggung
 
-Not all policies are equal. Some cover 5-10 conditions, others cover 30+. At minimum, make sure the policy covers:
-- Cancer (including early-stage)
-- Heart attack
+Tidak semua polis sama. Ada yang hanya menanggung 5-10 kondisi, ada juga yang 30+ kondisi. Minimal, pastikan polis menanggung:
+- Kanker (termasuk stadium awal)
+- Serangan jantung
 - Stroke
-- Kidney failure
-- Major organ transplant
+- Gagal ginjal
+- Transplantasi organ besar
 
-### 2. Early-Stage Cancer Coverage
+### 2. Perlindungan Kanker Stadium Awal
 
-This is a big one. Some policies only pay 25-50% of the benefit for early-stage or in-situ cancer. Others pay the full amount. Given that early detection is improving, you want a policy that doesn't penalize you for catching cancer early.
+Ini penting banget. Beberapa polis hanya membayar 25-50% manfaat untuk kanker stadium awal atau in-situ. Yang lain membayar penuh. Karena deteksi dini makin baik, kamu sebaiknya pilih polis yang tidak menghukum kamu karena kanker ketahuan lebih cepat.
 
-### 3. Recurrence Benefit
+### 3. Manfaat Kekambuhan
 
-Can you claim again if you're diagnosed with a different critical illness later? Some policies allow a second claim after a waiting period (usually 12 months). Others are one-and-done.
+Apakah kamu bisa klaim lagi kalau nanti didiagnosis penyakit kritis lain? Beberapa polis mengizinkan klaim kedua setelah masa tunggu tertentu (biasanya 12 bulan). Yang lain hanya sekali.
 
-### 4. Return of Premium Option
+### 4. Opsi Pengembalian Premi
 
-Some policies offer a return of premium rider—if you never [file a claim](/blog/7-proven-steps-to-claim-insurance-2026-guide/), you get some or all of your premiums back after 20-30 years. It costs more, but it eliminates the "wasted money" concern. In my experience, this rider is usually overpriced relative to the benefit.
+Beberapa polis menawarkan rider pengembalian premi—kalau kamu tidak pernah [mengajukan klaim](/blog/7-proven-steps-to-claim-insurance-2026-guide/), kamu bisa dapat kembali sebagian atau seluruh premi setelah 20-30 tahun. Harganya lebih mahal, tapi menghilangkan kekhawatiran soal “uang hangus”. Dari pengalaman saya, rider ini biasanya terlalu mahal dibanding manfaatnya.
 
-### 5. Benefit Amount
+### 5. Besaran Manfaat
 
-Choose an amount that would cover 3-6 months of your essential expenses plus your health insurance out-of-pocket max. For most American households, that's $25,000-75,000.
+Pilih jumlah yang cukup untuk menutup 3-6 bulan biaya pokok hidup kamu plus batas pengeluaran sendiri dari asuransi kesehatan. Untuk kebanyakan rumah tangga di Indonesia, itu sekitar Rp 375 juta-1,1 miliar.
 
-## The Real Cost of Critical Illness in the US
+## Biaya Nyata Penyakit Kritis di Indonesia
 
-To understand why this coverage matters, consider the financial impact of major illnesses:
+Supaya kamu paham kenapa perlindungan ini penting, lihat dampak finansial dari penyakit besar:
 
-- **Cancer:** Average treatment cost of $150,000+; out-of-pocket costs average $12,000-15,000 even with insurance
-- **Heart attack:** Average hospital bill of $100,000+; cardiac rehab and medication costs run $5,000-10,000/year ongoing
-- **Stroke:** Average first-year cost of $100,000-200,000; many survivors need long-term care
-- **Kidney failure:** Dialysis costs $90,000+/year; even with Medicare coverage (available after diagnosis), copays add up
+- **Kanker:** Biaya pengobatan rata-rata bisa ratusan juta hingga miliaran rupiah; biaya keluar sendiri tetap bisa puluhan juta meski punya asuransi
+- **Serangan jantung:** Tagihan rumah sakit bisa sangat besar; rehab jantung dan obat-obatan bisa lanjut bertahun-tahun
+- **Stroke:** Biaya tahun pertama bisa sangat tinggi; banyak penyintas butuh perawatan jangka panjang
+- **Gagal ginjal:** Cuci darah biayanya besar setiap tahun; meski ada perlindungan BPJS, biaya tambahan tetap bisa menumpuk
 
-And those are just the medical costs. Add in lost income—the average critical illness recovery takes 3-12 months off work—and the total financial impact can exceed $200,000.
+Dan itu baru biaya medis. Tambahkan kehilangan penghasilan—pemulihan penyakit kritis rata-rata bisa membuat orang tidak bekerja 3-12 bulan—total dampak finansialnya bisa sangat besar.
 
-## My Honest Take
+## Pendapat Jujur Saya
 
-I think critical illness insurance fills a real gap for many Americans, especially those with high-deductible health plans and limited savings. It's not a must-have for everyone, but for the right person, it's an affordable way to prevent a medical crisis from becoming a financial catastrophe.
+Menurut saya, asuransi penyakit kritis memang menutup celah nyata bagi banyak orang, terutama mereka yang punya polis kesehatan dengan biaya sendiri tinggi dan tabungan terbatas. Ini bukan produk wajib untuk semua orang, tapi untuk orang yang tepat, ini cara yang cukup terjangkau untuk mencegah krisis medis berubah jadi bencana finansial.
 
-If your employer offers it at group rates, it's almost always worth taking. At $20-40/month for a $25,000 benefit, the peace of mind alone has value.
+Kalau kantor kamu menawarkannya dengan tarif grup, hampir selalu layak diambil. Dengan premi Rp 300 ribu-750 ribu per bulan untuk manfaat Rp 375 juta, rasa tenang yang kamu dapat saja sudah bernilai.
 
-If you have solid disability insurance, 6+ months of savings in an [emergency fund](/blog/emergency-fund-guide/), and a low-deductible health plan, you can skip it without losing sleep. You may also want to review whether you need [life insurance](/blog/do-you-need-life-insurance/) alongside critical illness coverage.
+Kalau kamu sudah punya asuransi disabilitas yang kuat, tabungan 6+ bulan di [dana darurat](/blog/emergency-fund-guide/), dan polis kesehatan dengan deductible rendah, kamu bisa melewatkannya tanpa terlalu khawatir. Kamu juga mungkin perlu cek apakah kamu butuh [asuransi jiwa](/blog/do-you-need-life-insurance/) bersamaan dengan perlindungan penyakit kritis.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is critical illness insurance worth it if I already have health insurance?
+### Apakah asuransi penyakit kritis layak kalau saya sudah punya asuransi kesehatan?
 
-Health insurance pays your medical bills, but it doesn't replace your income, cover your mortgage, or pay for childcare while you're in treatment. Critical illness insurance fills that gap with a tax-free lump sum. If you have a high-deductible plan or limited savings, it's worth considering. If you have robust savings and disability insurance, you may not need it.
+Asuransi kesehatan membayar tagihan medis kamu, tapi tidak mengganti penghasilan, tidak membayar cicilan rumah, dan tidak menanggung biaya pengasuhan anak saat kamu menjalani perawatan. Asuransi penyakit kritis menutup celah itu dengan pembayaran lump sum bebas pajak. Kalau kamu punya polis dengan deductible tinggi atau tabungan terbatas, ini layak dipertimbangkan. Kalau tabungan kamu kuat dan ada asuransi disabilitas, mungkin kamu tidak membutuhkannya.
 
-### Does critical illness insurance pay out for early-stage cancer?
+### Apakah asuransi penyakit kritis membayar untuk kanker stadium awal?
 
-It depends on the policy. Some pay the full benefit for any cancer diagnosis, while others pay only 25-50% for early-stage or in-situ cancers. Always check the policy wording before buying. I recommend choosing a policy that covers early-stage cancer at the full benefit amount whenever possible.
+Tergantung polisnya. Ada yang membayar manfaat penuh untuk semua diagnosis kanker, ada juga yang hanya membayar 25-50% untuk kanker stadium awal atau in-situ. Selalu cek isi polis sebelum beli. Saya sarankan pilih polis yang memberi manfaat penuh untuk kanker stadium awal kalau memungkinkan.
 
-### Can I have critical illness insurance and disability insurance at the same time?
+### Apakah saya bisa punya asuransi penyakit kritis dan asuransi disabilitas sekaligus?
 
-Yes, and they serve different purposes. Disability insurance provides ongoing monthly income replacement. Critical illness insurance provides a one-time lump sum for immediate expenses. They complement each other well. If you can only afford one, I'd prioritize long-term disability insurance first.
+Bisa, dan keduanya punya fungsi berbeda. Asuransi disabilitas memberi pengganti penghasilan bulanan. Asuransi penyakit kritis memberi lump sum untuk kebutuhan segera. Keduanya saling melengkapi. Kalau kamu hanya mampu beli satu, saya akan prioritaskan asuransi disabilitas jangka panjang dulu.
 
-### Is the critical illness insurance payout taxable?
+### Apakah pembayaran asuransi penyakit kritis kena pajak?
 
-If you pay the premiums yourself with after-tax dollars, the lump sum payout is generally tax-free. If your employer pays the premiums, the payout may be taxable. Check with a tax professional for your specific situation, but most individual policyholders receive their benefit completely tax-free.
+Kalau kamu bayar premi sendiri dari uang setelah pajak, pembayaran lump sum biasanya bebas pajak. Kalau premi dibayar kantor, pembayarannya bisa kena pajak. Cek dengan konsultan pajak untuk situasi kamu, tapi kebanyakan pemegang polis individu menerima manfaatnya bebas pajak.
 
-### At what age should I buy critical illness insurance?
+### Usia berapa sebaiknya saya beli asuransi penyakit kritis?
 
-The younger you buy, the cheaper the premiums and the more likely you are to qualify without health exclusions. I'd say the ideal window is between 25-45. After 50, premiums increase sharply, and after 60, the cost-to-benefit ratio often doesn't make sense. If your employer offers it at group rates, age matters less because group pricing is more favorable.
+Semakin muda kamu beli, premi biasanya semakin murah dan peluang lolos tanpa pengecualian kesehatan lebih besar. Menurut saya, usia idealnya 25-45 tahun. Setelah 50 tahun, premi naik tajam, dan setelah 60 tahun, rasio biaya terhadap manfaat sering kali kurang masuk akal. Kalau kantor kamu menawarkannya dengan tarif grup, faktor usia jadi tidak terlalu besar karena harga grup lebih menguntungkan.

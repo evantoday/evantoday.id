@@ -1,6 +1,6 @@
 ---
-title: "Debt Snowball vs Avalanche: Which Pays Off Faster?"
-description: "One method saves more on interest, the other keeps you motivated. Compare both debt payoff strategies side-by-side."
+title: "Debt Snowball vs Avalanche: Mana yang Lebih Cepat Lunas?"
+description: "Satu metode lebih hemat bunga, satu lagi lebih bikin semangat. Bandingkan dua strategi lunas utang ini secara berdampingan."
 pubDate: 2026-02-28
 category: "personal-finance"
 tags: ["debt snowball", "debt avalanche", "debt payoff strategy", "Dave Ramsey", "debt repayment"]
@@ -10,221 +10,221 @@ heroImageAlt: 'Debt Snowball vs Avalanche: Which Pays Off Faster?'
 
 ---
 
-## Two Methods, One Goal: Zero Debt
+## Dua Metode, Satu Tujuan: Bebas Utang
 
-If you have decided to get serious about paying off debt, you have probably come across two popular strategies: the debt snowball and the debt avalanche. Both work. Both have helped millions of Americans become debt-free. But they approach the problem from completely different angles, and picking the wrong one for your personality can mean the difference between finishing strong and giving up three months in.
+Kalau kamu sudah memutuskan untuk serius melunasi utang, kamu mungkin pernah dengar dua strategi populer: **debt snowball** dan **debt avalanche**. Keduanya efektif. Keduanya sudah membantu jutaan orang keluar dari utang. Tapi, cara kerjanya sangat berbeda, dan memilih metode yang tidak cocok dengan kepribadianmu bisa jadi pembeda antara sukses sampai lunas atau menyerah di bulan ketiga.
 
-I have used both methods at different points in my own debt payoff journey. In this guide, I will break down exactly how each one works, run the real math, and help you figure out which approach fits your situation.
+Saya sendiri pernah memakai dua metode ini di fase yang berbeda dalam perjalanan saya melunasi utang. Di panduan ini, saya akan membahas cara kerja masing-masing metode, menghitung angkanya, dan membantu kamu menentukan pendekatan yang paling cocok untuk situasimu.
 
-## Key Takeaways
+## Poin Penting
 
-- **The debt snowball** orders debts from smallest to largest balance, giving you quick psychological wins.
-- **The debt avalanche** orders debts from highest to lowest interest rate, saving you the most money mathematically.
-- **The snowball costs more in interest** but has higher completion rates because people stay motivated.
-- **The avalanche saves more money** but can feel slow if your highest-rate debt is also your largest balance.
-- **A hybrid approach** often works best in practice.
+- **Debt snowball** mengurutkan utang dari saldo terkecil ke terbesar, jadi kamu dapat kemenangan psikologis lebih cepat.
+- **Debt avalanche** mengurutkan utang dari bunga tertinggi ke terendah, sehingga secara matematis lebih hemat uang.
+- **Snowball lebih mahal dari sisi bunga** tapi tingkat penyelesaiannya biasanya lebih tinggi karena orang lebih termotivasi.
+- **Avalanche lebih hemat uang** tapi bisa terasa lambat kalau utang berbunga tertinggi juga punya saldo terbesar.
+- **Pendekatan hybrid** sering kali jadi yang paling efektif dalam praktik.
 
-## How the Debt Snowball Works
+## Cara Kerja Debt Snowball
 
-The debt snowball method was popularized by Dave Ramsey and has become one of the most well-known debt payoff strategies in America.
+Metode debt snowball dipopulerkan oleh Dave Ramsey dan menjadi salah satu strategi pelunasan utang paling dikenal di Amerika.
 
-### The Rules
+### Aturannya
 
-1. List all your debts from smallest balance to largest balance (ignore interest rates).
-2. Make minimum payments on every debt except the smallest.
-3. Throw every extra dollar at the smallest debt until it is completely paid off.
-4. Once that debt is gone, take the entire amount you were paying on it (minimum plus extra) and add it to the minimum payment on the next smallest debt.
-5. Repeat until all debts are paid off.
+1. Daftar semua utang dari saldo paling kecil ke paling besar (abaikan bunga).
+2. Bayar minimum untuk semua utang, kecuali yang paling kecil.
+3. Lempar semua uang ekstra ke utang paling kecil sampai lunas.
+4. Setelah utang itu hilang, ambil seluruh pembayaran yang tadinya kamu bayarkan ke utang itu (minimum + ekstra) dan tambahkan ke pembayaran minimum utang terkecil berikutnya.
+5. Ulangi sampai semua utang lunas.
 
-### Snowball Example
+### Contoh Snowball
 
-Let us say you have the following debts and $500 extra per month to put toward debt:
+Misalnya kamu punya utang berikut dan Rp 7,5 juta ekstra per bulan untuk membayar utang:
 
-| Debt | Balance | Interest Rate | Minimum Payment |
+| Utang | Saldo | Suku Bunga | Pembayaran Minimum |
 |------|---------|---------------|-----------------|
-| Medical bill | $1,200 | 0% | $50 |
-| Discover card | $3,800 | 22.49% | $76 |
-| Chase Visa | $8,500 | 24.99% | $170 |
-| Car loan | $12,000 | 6.90% | $280 |
-| Student loan | $18,000 | 5.50% | $190 |
+| Tagihan medis | Rp 18 juta | 0% | Rp 750 ribu |
+| Kartu kredit Discover | Rp 57 juta | 22,49% | Rp 1,1 juta |
+| Kartu Visa | Rp 128 juta | 24,99% | Rp 2,6 juta |
+| Kredit mobil | Rp 180 juta | 6,90% | Rp 4,2 juta |
+| Pinjaman pendidikan | Rp 270 juta | 5,50% | Rp 2,9 juta |
 
-With the snowball, you attack the $1,200 medical bill first. Paying $550 per month ($50 minimum plus $500 extra), you kill it in about 2 months. That first win feels incredible.
+Dengan snowball, kamu serang dulu tagihan medis Rp 18 juta. Kalau kamu bayar Rp 8,25 juta per bulan (minimum Rp 750 ribu + ekstra Rp 7,5 juta), utang itu bisa lunas dalam sekitar 2 bulan. Kemenangan pertama ini rasanya luar biasa.
 
-Next, you roll that $550 into the Discover card payment. Now you are paying $626 per month on a $3,800 balance. Gone in about 6 months.
+Setelah itu, pembayaran Rp 8,25 juta tadi kamu gulirkan ke kartu Discover. Sekarang kamu membayar sekitar Rp 9,35 juta per bulan untuk saldo Rp 57 juta. Lunas dalam kira-kira 6 bulan.
 
-Then the Chase Visa gets $796 per month. Then the car loan. Then the student loan. Each payment grows larger like a snowball rolling downhill.
+Lalu kartu Visa mendapat Rp 11,95 juta per bulan. Setelah itu kredit mobil, lalu pinjaman pendidikan. Setiap pembayaran makin besar, seperti bola salju yang menggelinding turun.
 
-### Why People Love the Snowball
+### Kenapa Banyak Orang Suka Snowball
 
-- **Quick wins build confidence.** Crossing off that first debt in 2-3 months proves the system works.
-- **Simplicity.** No complicated math. Just order by balance size.
-- **Behavioral psychology is on your side.** A Northwestern University study found that people who paid off small debts first were more likely to eliminate all their debt.
+- **Kemenangan cepat membangun rasa percaya diri.** Menyelesaikan utang pertama dalam 2-3 bulan membuktikan sistemnya bekerja.
+- **Sederhana.** Tidak perlu hitung-hitungan rumit. Cukup urutkan berdasarkan saldo.
+- **Psikologi perilaku mendukung.** Sebuah studi dari Northwestern University menemukan bahwa orang yang melunasi utang kecil dulu lebih mungkin menyelesaikan seluruh utangnya.
 
-### The Downside
+### Kekurangannya
 
-You pay more in total interest. In the example above, you are ignoring the 24.99 percent Chase card in favor of the 0 percent medical bill. Those extra months of high interest add up.
+Kamu akan membayar bunga total lebih besar. Dalam contoh di atas, kamu mengabaikan kartu Visa dengan bunga 24,99 persen demi tagihan medis yang bunganya 0 persen. Tambahan bulan-bulan dengan bunga tinggi itu lama-lama sangat terasa.
 
-## How the Debt Avalanche Works
+## Cara Kerja Debt Avalanche
 
-The debt avalanche is the mathematically optimal approach. It prioritizes interest rates over balance sizes.
+Debt avalanche adalah pendekatan yang paling optimal secara matematis. Metode ini memprioritaskan suku bunga, bukan besar saldo.
 
-### The Rules
+### Aturannya
 
-1. List all your debts from highest interest rate to lowest (ignore balance sizes).
-2. Make minimum payments on everything except the highest-rate debt.
-3. Throw every extra dollar at the highest-rate debt.
-4. Once paid off, roll that payment into the next highest-rate debt.
-5. Repeat.
+1. Daftar semua utang dari bunga tertinggi ke terendah (abaikan besar saldo).
+2. Bayar minimum untuk semuanya, kecuali utang dengan bunga tertinggi.
+3. Lempar semua uang ekstra ke utang dengan bunga tertinggi.
+4. Setelah lunas, pindahkan pembayaran itu ke utang dengan bunga tertinggi berikutnya.
+5. Ulangi.
 
-### Avalanche Example
+### Contoh Avalanche
 
-Using the same debts and $500 extra per month:
+Dengan utang yang sama dan ekstra Rp 7,5 juta per bulan:
 
-| Order | Debt | Balance | Interest Rate | Minimum Payment |
+| Urutan | Utang | Saldo | Suku Bunga | Pembayaran Minimum |
 |-------|------|---------|---------------|-----------------|
-| 1st | Chase Visa | $8,500 | 24.99% | $170 |
-| 2nd | Discover card | $3,800 | 22.49% | $76 |
-| 3rd | Car loan | $12,000 | 6.90% | $280 |
-| 4th | Student loan | $18,000 | 5.50% | $190 |
-| 5th | Medical bill | $1,200 | 0% | $50 |
+| 1st | Kartu Visa | Rp 128 juta | 24,99% | Rp 2,6 juta |
+| 2nd | Kartu kredit Discover | Rp 57 juta | 22,49% | Rp 1,1 juta |
+| 3rd | Kredit mobil | Rp 180 juta | 6,90% | Rp 4,2 juta |
+| 4th | Pinjaman pendidikan | Rp 270 juta | 5,50% | Rp 2,9 juta |
+| 5th | Tagihan medis | Rp 18 juta | 0% | Rp 750 ribu |
 
-With the avalanche, you send $670 per month to the Chase Visa ($170 minimum plus $500 extra). It takes about 14 months to pay off, which is a long time without crossing anything off your list.
+Dengan avalanche, kamu mengirim Rp 10,1 juta per bulan ke kartu Visa (minimum Rp 2,6 juta + ekstra Rp 7,5 juta). Butuh sekitar 14 bulan untuk melunasinya, jadi cukup lama tanpa ada item yang dicoret dari daftar.
 
-But during those 14 months, you are stopping the most expensive interest from compounding. Every dollar that goes to the 24.99 percent card saves you roughly 25 cents per year in interest.
+Tapi selama 14 bulan itu, kamu menghentikan bunga paling mahal agar tidak terus berbunga berbunga. Setiap rupiah yang masuk ke kartu dengan bunga 24,99 persen menghemat sekitar 25 sen per tahun dalam bunga.
 
-### Why People Love the Avalanche
+### Kenapa Banyak Orang Suka Avalanche
 
-- **You save the most money.** In the example above, the avalanche saves roughly $1,800-$2,400 in total interest compared to the snowball.
-- **It is mathematically optimal.** No argument there.
-- **Great for people motivated by spreadsheets and numbers.**
+- **Kamu menghemat uang paling banyak.** Dalam contoh di atas, avalanche menghemat sekitar Rp 27 juta-Rp 36 juta bunga total dibanding snowball.
+- **Secara matematis paling optimal.** Itu tidak terbantahkan.
+- **Cocok untuk orang yang termotivasi oleh spreadsheet dan angka.**
 
-### The Downside
+### Kekurangannya
 
-It can take a long time to get your first win, especially if your highest-rate debt also has a large balance. Many people lose motivation and quit before they finish.
+Bisa lama sekali sebelum kamu merasakan kemenangan pertama, terutama kalau utang dengan bunga tertinggi juga punya saldo besar. Banyak orang kehilangan motivasi dan berhenti sebelum selesai.
 
-## Head-to-Head Comparison
+## Perbandingan Langsung
 
-| Factor | Snowball | Avalanche |
+| Faktor | Snowball | Avalanche |
 |--------|----------|-----------|
-| Order | Smallest balance first | Highest interest first |
-| Total interest paid | Higher | Lower |
-| Time to first payoff | Faster | Slower (usually) |
-| Motivation factor | High | Moderate |
-| Best for | Emotional spenders | Analytical types |
-| Popularized by | Dave Ramsey | Math and finance experts |
-| Completion rate | Higher (research-backed) | Lower |
+| Urutan | Saldo terkecil dulu | Bunga tertinggi dulu |
+| Total bunga yang dibayar | Lebih tinggi | Lebih rendah |
+| Waktu ke pelunasan pertama | Lebih cepat | Lebih lambat (biasanya) |
+| Faktor motivasi | Tinggi | Sedang |
+| Paling cocok untuk | Tipe emosional | Tipe analitis |
+| Dipopulerkan oleh | Dave Ramsey | Para ahli matematika dan keuangan |
+| Tingkat penyelesaian | Lebih tinggi (didukung riset) | Lebih rendah |
 
-## Running the Real Math
+## Menghitung Angka Nyata
 
-Let me show you exact numbers using a common American debt scenario:
+Saya akan tunjukkan angka yang lebih konkret dengan skenario utang yang umum:
 
-**Total debt: $43,500 with $700 extra per month**
+**Total utang: Rp 652 juta dengan ekstra Rp 10,5 juta per bulan**
 
-| Debt | Balance | Rate | Min Payment |
+| Utang | Saldo | Bunga | Pembayaran Min. |
 |------|---------|------|-------------|
-| Store credit card | $1,500 | 26.99% | $35 |
-| Visa card | $6,200 | 22.49% | $124 |
-| Personal loan | $4,800 | 12.00% | $110 |
-| Car loan | $14,000 | 7.50% | $310 |
-| Student loan | $17,000 | 5.28% | $180 |
+| Kartu kredit toko | Rp 22,5 juta | 26,99% | Rp 525 ribu |
+| Kartu Visa | Rp 93 juta | 22,49% | Rp 1,9 juta |
+| Pinjaman pribadi | Rp 72 juta | 12,00% | Rp 1,65 juta |
+| Kredit mobil | Rp 210 juta | 7,50% | Rp 4,65 juta |
+| Pinjaman pendidikan | Rp 255 juta | 5,28% | Rp 2,7 juta |
 
-### Snowball Results
+### Hasil Snowball
 
-- **Payoff order:** Store card, Personal loan, Visa, Car loan, Student loan
-- **Total time:** 38 months (3 years, 2 months)
-- **Total interest paid:** $11,340
-- **First debt eliminated:** Month 2
+- **Urutan lunas:** Kartu toko, pinjaman pribadi, Visa, kredit mobil, pinjaman pendidikan
+- **Total waktu:** 38 bulan (3 tahun, 2 bulan)
+- **Total bunga dibayar:** Rp 170 juta
+- **Utang pertama yang lunas:** Bulan ke-2
 
-### Avalanche Results
+### Hasil Avalanche
 
-- **Payoff order:** Store card, Visa, Personal loan, Car loan, Student loan
-- **Total time:** 36 months (3 years)
-- **Total interest paid:** $9,610
-- **First debt eliminated:** Month 2
+- **Urutan lunas:** Kartu toko, Visa, pinjaman pribadi, kredit mobil, pinjaman pendidikan
+- **Total waktu:** 36 bulan (3 tahun)
+- **Total bunga dibayar:** Rp 144 juta
+- **Utang pertama yang lunas:** Bulan ke-2
 
-In this case, the avalanche saves $1,730 and two months. But notice something: the first payoff happens at the same time for both methods because the smallest balance also has the highest interest rate. That does not always happen, but when it does, the choice is obvious.
+Dalam kasus ini, avalanche menghemat sekitar Rp 26 juta dan 2 bulan. Tapi perhatikan sesuatu: pelunasan pertama terjadi pada waktu yang sama untuk kedua metode karena saldo terkecil juga punya bunga tertinggi. Itu tidak selalu terjadi, tapi kalau iya, pilihannya jadi jelas.
 
-## The Hybrid Approach (What I Actually Recommend)
+## Pendekatan Hybrid (Yang Sebenarnya Saya Rekomendasikan)
 
-After trying both methods, here is what I landed on and what I recommend to most people:
+Setelah mencoba keduanya, ini yang saya pilih dan yang saya rekomendasikan untuk kebanyakan orang:
 
-### Start With the Snowball
+### Mulai dengan Snowball
 
-If you have any debts under $1,000, knock them out first regardless of interest rate. The confidence boost is worth more than the small amount of extra interest.
+Kalau kamu punya utang di bawah Rp 15 juta, lunaskan dulu terlepas dari bunganya. Dorongan percaya dirinya sepadan dengan sedikit tambahan bunga yang mungkin kamu bayar.
 
-### Switch to the Avalanche
+### Lalu Pindah ke Avalanche
 
-Once your small debts are gone and you have proven to yourself that you can stick with the plan, switch to attacking the highest interest rate. By this point, your "snowball" payment is large enough to make real dents in bigger balances.
+Begitu utang kecil habis dan kamu sudah membuktikan bahwa kamu bisa konsisten, pindah ke utang dengan bunga tertinggi. Di titik ini, pembayaran “bola salju” kamu sudah cukup besar untuk benar-benar mengurangi saldo utang yang lebih besar.
 
-### Always Prioritize Toxic Debt
+### Selalu Prioritaskan Utang Beracun
 
-Any debt above 20 percent interest (most credit cards) should be treated as an emergency regardless of balance size. The compound interest on these accounts is devastating.
+Utang dengan bunga di atas 20 persen (kebanyakan kartu kredit) harus dianggap darurat, terlepas dari besar saldonya. Bunga berbunga pada akun seperti ini sangat merusak.
 
-## When to Use Each Method
+## Kapan Harus Memakai Masing-Masing Metode
 
-### Use the Snowball If:
+### Pakai Snowball Jika:
 
-- You have tried and failed to [pay off debt](/blog/debt-free-journey-tips/) before
-- You need quick wins to stay motivated
-- You have several small debts under $2,000
-- You are an emotional decision maker
-- Your interest rates are fairly similar across debts
+- Kamu pernah mencoba dan gagal [melunasi utang](/blog/debt-free-journey-tips/) sebelumnya
+- Kamu butuh kemenangan cepat untuk tetap termotivasi
+- Kamu punya beberapa utang kecil di bawah Rp 30 juta
+- Kamu cenderung mengambil keputusan secara emosional
+- Suku bunga antar utangmu relatif mirip
 
-### Use the Avalanche If:
+### Pakai Avalanche Jika:
 
-- You are disciplined and patient
-- You have a wide spread in interest rates (like a 25 percent credit card and a 5 percent student loan)
-- You are motivated by saving money
-- You track your finances in spreadsheets
-- Your smallest debt is also a low-interest debt
+- Kamu disiplin dan sabar
+- Ada jarak bunga yang lebar antar utang (misalnya kartu kredit 25 persen dan pinjaman pendidikan 5 persen)
+- Kamu termotivasi oleh penghematan uang
+- Kamu melacak keuangan di spreadsheet
+- Utang terkecilmu juga punya bunga rendah
 
-## Tips That Apply to Both Methods
+## Tips yang Berlaku untuk Keduanya
 
-### Automate Your Payments
+### Otomatiskan Pembayaran
 
-Set up autopay for every minimum payment. Then set a separate automatic transfer for your extra payment. When the money moves before you see it, temptation disappears. Our guide on [automatic savings](/blog/10-automatic-savings-tips-and-tricks/) covers more ways to put your finances on autopilot.
+Atur autopay untuk semua pembayaran minimum. Lalu buat transfer otomatis terpisah untuk pembayaran ekstra. Saat uang berpindah sebelum kamu sempat melihatnya, godaan jadi hilang. Panduan kami tentang [tabungan otomatis](/blog/10-automatic-savings-tips-and-tricks/) membahas lebih banyak cara untuk mengotomatiskan keuanganmu.
 
-### Celebrate Milestones
+### Rayakan Pencapaian
 
-When you pay off a debt, celebrate. Not with a shopping spree, but with something meaningful. A nice dinner. A day off. Call someone and tell them. The ritual of celebration reinforces the behavior.
+Saat kamu melunasi satu utang, rayakan. Bukan dengan belanja besar-besaran, tapi dengan sesuatu yang bermakna. Makan malam enak. Libur sehari. Telepon seseorang dan beri tahu mereka. Ritual perayaan memperkuat kebiasaan baik.
 
-### Do Not Take on New Debt
+### Jangan Ambil Utang Baru
 
-This sounds obvious, but it is the number one reason debt payoff plans fail. Freeze your credit cards. Delete them from online stores. Use cash or a debit card for everyday spending.
+Ini terdengar jelas, tapi ini adalah alasan nomor satu rencana pelunasan utang gagal. Bekukan kartu kreditmu. Hapus dari toko online. Pakai uang tunai atau kartu debit untuk pengeluaran harian.
 
-### Negotiate Lower Interest Rates
+### Negosiasikan Bunga Lebih Rendah
 
-Call every credit card company and ask for a rate reduction. The worst they can say is no. But if they drop your rate from 24.99 percent to 17.99 percent, you save thousands over the life of the balance. A simple script: "I have been a customer for X years and I would like a lower interest rate. What can you do for me?"
+Hubungi setiap penerbit kartu kredit dan minta penurunan bunga. Jawaban terburuk adalah tidak. Tapi kalau mereka menurunkan bunga dari 24,99 persen ke 17,99 persen, kamu bisa menghemat jutaan rupiah selama masa pinjamannya. Contoh skrip sederhana: "Saya sudah menjadi nasabah selama X tahun dan ingin suku bunga yang lebih rendah. Apa yang bisa Anda bantu untuk saya?"
 
-### Consider Balance Transfer Cards
+### Pertimbangkan Kartu Transfer Saldo
 
-If you have good credit (670+), a 0 percent balance transfer card can save you hundreds or thousands in interest. Cards like the Citi Simplicity or Chase Slate Edge offer 15-21 months of zero interest. Just make sure you can pay off the transferred balance before the promotional period ends, because the regular rate kicks in hard.
+Kalau kamu punya riwayat kredit yang bagus (670+), kartu transfer saldo 0 persen bisa menghemat ratusan ribu hingga jutaan rupiah dalam bunga. Kartu seperti Citi Simplicity atau Chase Slate Edge menawarkan 15-21 bulan tanpa bunga. Pastikan kamu bisa melunasi saldo yang dipindahkan sebelum masa promo berakhir, karena bunga normalnya bisa langsung tinggi.
 
-## Free Tools to Help You Decide
+## Alat Gratis untuk Membantu Kamu Memilih
 
-- **Undebt.it** - Lets you compare snowball vs avalanche with your exact debts, completely free
-- **PowerPay** - Utah State University's free debt payoff calculator
-- **Vertex42 Debt Reduction Calculator** - Free Excel spreadsheet template
-- **YNAB** - Budgeting app that helps you find extra money to throw at debt ($14.99/month)
+- **Undebt.it** - Memungkinkan kamu membandingkan snowball vs avalanche dengan utangmu sendiri, gratis sepenuhnya
+- **PowerPay** - Kalkulator pelunasan utang gratis dari Utah State University
+- **Vertex42 Debt Reduction Calculator** - Template spreadsheet Excel gratis
+- **YNAB** - Aplikasi budgeting yang membantu kamu menemukan uang ekstra untuk membayar utang (Rp 225 ribu/bulan)
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Which method does Dave Ramsey recommend?
+### Metode mana yang direkomendasikan Dave Ramsey?
 
-Dave Ramsey strongly advocates for the debt snowball method. His reasoning is that personal finance is 80 percent behavior and 20 percent math. He argues that the quick wins from paying off small debts first keep people motivated enough to finish the entire process. His track record speaks for itself since millions of people have followed his plan successfully through Financial Peace University.
+Dave Ramsey sangat mendukung metode debt snowball. Alasannya, keuangan pribadi itu 80 persen perilaku dan 20 persen matematika. Menurut dia, kemenangan cepat dari melunasi utang kecil dulu membuat orang cukup termotivasi untuk menyelesaikan seluruh proses. Rekam jejaknya cukup berbicara sendiri karena jutaan orang berhasil mengikuti rencananya lewat Financial Peace University.
 
-### How much faster is the avalanche method?
+### Seberapa lebih cepat metode avalanche?
 
-It depends on your specific debts, but typically the avalanche saves 2-6 months and $1,000-$5,000 in interest compared to the snowball on a $30,000-$50,000 debt load. The savings increase as the spread between your interest rates widens. If all your debts have similar interest rates, the difference is minimal and you should just use whichever method keeps you motivated.
+Tergantung pada struktur utangmu, tetapi biasanya avalanche menghemat 2-6 bulan dan Rp 15 juta-Rp 75 juta bunga dibanding snowball untuk total utang Rp 450 juta-Rp 750 juta. Penghematannya makin besar kalau selisih bunga antar utang makin lebar. Kalau semua utangmu punya bunga yang mirip, bedanya kecil, jadi pilih saja metode yang paling membuatmu konsisten.
 
-### Can I switch methods midway through?
+### Bolehkah saya ganti metode di tengah jalan?
 
-Absolutely. There is no rule that says you must stick with one method forever. Many people start with the snowball to build momentum, then switch to the avalanche once they have a few wins. The most important thing is that you keep making extra payments. The specific order matters less than the consistency of your effort. A solid [monthly budget](/blog/how-to-create-a-monthly-spending-plan/) helps you find that extra money to throw at debt.
+Tentu saja. Tidak ada aturan yang bilang kamu harus selamanya memakai satu metode. Banyak orang mulai dengan snowball untuk membangun momentum, lalu pindah ke avalanche setelah mendapat beberapa kemenangan. Yang paling penting adalah kamu terus melakukan pembayaran ekstra. Urutan spesifiknya kalah penting dibanding konsistensi usahamu. Anggaran bulanan yang solid membantu kamu menemukan uang ekstra untuk membayar utang.
 
-### What about debt consolidation instead?
+### Bagaimana dengan konsolidasi utang?
 
-Debt consolidation is not a payoff method but rather a tool that can be used alongside either approach. If you can consolidate high-interest [credit card debt](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) into a lower-rate personal loan (say dropping from 24 percent to 10 percent), do it. Then use either the snowball or avalanche to pay off the consolidated loan plus your remaining debts. Just do not consolidate and then run up your credit cards again.
+Konsolidasi utang bukan metode pelunasan, melainkan alat yang bisa dipakai bersama salah satu pendekatan. Kalau kamu bisa menggabungkan [utang kartu kredit](/blog/7-proven-ways-to-pay-off-credit-card-debt-fast-indonesia/) berbunga tinggi ke pinjaman pribadi dengan bunga lebih rendah (misalnya turun dari 24 persen ke 10 persen), lakukan. Setelah itu, pakai snowball atau avalanche untuk melunasi pinjaman hasil konsolidasi plus sisa utangmu. Tapi jangan konsolidasi lalu malah menambah utang kartu kredit lagi.
 
-### What if I can only afford minimum payments?
+### Bagaimana kalau saya cuma mampu bayar minimum?
 
-If you genuinely cannot find extra money after cutting expenses, focus on two things. First, look for ways to increase your income through side gigs, overtime, or a better-paying job. Second, call your creditors and ask about hardship programs. Many credit card companies will temporarily lower your interest rate or payment if you explain your situation. Federal student loans offer income-driven repayment plans that can significantly reduce monthly payments.
+Kalau memang kamu benar-benar tidak bisa menemukan uang ekstra setelah memangkas pengeluaran, fokus pada dua hal. Pertama, cari cara menambah penghasilan lewat kerja sampingan, lembur, atau pindah ke pekerjaan dengan gaji lebih tinggi. Kedua, hubungi kreditur dan tanyakan program keringanan. Banyak penerbit kartu kredit bersedia menurunkan bunga atau pembayaran sementara jika kamu menjelaskan situasimu. Pinjaman pendidikan dari pemerintah juga sering punya skema cicilan berbasis penghasilan yang bisa sangat menurunkan pembayaran bulanan.

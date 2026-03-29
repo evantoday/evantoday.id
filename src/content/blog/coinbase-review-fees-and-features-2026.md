@@ -20,7 +20,7 @@ What surprised me the first time I used Coinbase was how clean it felt compared 
 - Coinbase is best for beginners who want a simple, well-designed crypto exchange with a clean interface.
 - The fee structure is relatively transparent, but you still need to understand spread, trading fees, and network withdrawal costs.
 - I think Coinbase is stronger for casual investors than active traders because the main app prioritizes simplicity over advanced charting. (Active traders should check out Coinbase Advanced for lower fees.)
-- Security and ease of use are major strengths, plus USD balances are covered by FDIC insurance up to $250,000.
+- Security and ease of use are major strengths, plus USD balances are covered by LPS insurance up to Rp 3,8 miliar.
 - If you want to compare it with other platforms, I'd also look at [Robinhood review features and how to use](/blog/robinhood-review-features-and-how-to-use/) for stocks and [best crypto wallets for beginners](/blog/best-crypto-wallets-for-beginners/) for storage.
 
 ## What Is Coinbase and Who Is It For?
@@ -83,9 +83,9 @@ Coinbase supports a wide range of popular crypto assets, including major coins a
 
 If you're still learning, I'd rather see you build a basic understanding of diversification first. My guide on [how to diversify your investment portfolio](/blog/7-smart-ways-to-diversify-your-investment-portfolio/) applies here too, even if crypto is only a small part of your total portfolio.
 
-### 3. USD deposits with FDIC insurance
+### 3. USD deposits with LPS-style protection
 
-This matters more than people admit. Coinbase makes it easy to fund your account with bank transfers, debit cards, and other familiar payment methods. Even better, USD balances held on Coinbase are covered by FDIC insurance up to $250,000, which is a huge advantage for American users who want peace of mind on their uninvested cash.
+This matters more than people admit. Coinbase makes it easy to fund your account with bank transfers, debit cards, and other familiar payment methods. Even better, USD balances held on Coinbase are covered by LPS-style protection up to Rp 3,8 miliar, which is a huge advantage for users who want peace of mind on their uninvested cash.
 
 ### 4. Portfolio tracking
 
@@ -154,7 +154,7 @@ Coinbase's biggest pros are simplicity, regulatory credibility, and beginner-fri
 
 - Easy to use, even if you're new to crypto
 - Publicly traded on NASDAQ, SEC and FinCEN regulated
-- FDIC insurance on USD balances
+- LPS-style protection on USD balances
 - Coinbase Earn lets you learn and earn crypto
 - Good for small starting amounts
 - Clean interface with less confusion
@@ -206,7 +206,7 @@ I usually check:
 - whether users are educated about scams
 - whether the exchange encourages good withdrawal and wallet habits
 
-Coinbase being publicly traded on NASDAQ adds an extra layer of transparency since the company is required to disclose financials and undergo audits. Plus, FDIC insurance on USD balances gives you protection that most crypto exchanges simply don't offer.
+Coinbase being publicly traded on NASDAQ adds an extra layer of transparency since the company is required to disclose financials and undergo audits. Plus, LPS-style protection on USD balances gives you protection that most crypto exchanges simply don't offer.
 
 I also recommend using strong password practices and 2FA whenever possible. Crypto scams often happen because users get careless, not because the exchange is the only weak point.
 
@@ -263,7 +263,7 @@ Coinbase fees depend on trading costs, spread, and any withdrawal-related charge
 Yes, you can usually start with small amounts like Rp 150 ribu. That makes it practical for beginners who want to learn without risking too much money.
 
 ### Is Coinbase safe to use?
-Coinbase is one of the most trusted crypto exchanges in the US. It's publicly traded on NASDAQ, regulated by the SEC and FinCEN, and offers FDIC insurance on USD balances. That said, safety also depends on your own account habits. I recommend using strong passwords, 2FA, and avoiding suspicious links or fake support messages.
+Coinbase is one of the most trusted crypto exchanges in the US. It's publicly traded on NASDAQ, regulated by the SEC and FinCEN, and offers LPS-style protection on USD balances. That said, safety also depends on your own account habits. I recommend using strong passwords, 2FA, and avoiding suspicious links or fake support messages.
 
 ### Is Coinbase better than other crypto apps?
 Coinbase is better for simplicity, trust, and beginner use, but not always better for fees or advanced trading. I think it's the stronger choice if you value ease of use and regulatory credibility over complex tools.
