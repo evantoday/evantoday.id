@@ -4,7 +4,7 @@ description: "Riding without proper coverage? Motorcycle accidents average $30K 
 pubDate: 2026-03-17
 category: "insurance"
 tags: ["motorcycle insurance", "bike insurance", "rider insurance", "insurance rates"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/insurance-2.jpg'
 heroImageAlt: 'Motorcycle Insurance: Best Coverage Options [2026]'
 

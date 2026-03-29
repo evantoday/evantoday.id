@@ -5,7 +5,7 @@ pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "personal-finance"
 tags: ["college budget", "student saving tips", "college money", "student discounts", "broke college student"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
 heroImageAlt: '7 Money Saving Tips for College Students [2026]'
 

@@ -29,6 +29,8 @@ const ogImageUrl = slug ? `/og/${slug}.png` : undefined;
 	type="article"
 	publishedDate={pubDate}
 	modifiedDate={updatedDate}
+	category={CATEGORY_LABELS[category as Category]}
+	tags={tags}
 >
 	<SchemaOrg
 		type="article"
@@ -113,7 +115,7 @@ const ogImageUrl = slug ? `/og/${slug}.png` : undefined;
 
 		<ShareButtons title={title} url={articleUrl} />
 
-		<AuthorBio author={author || 'Evan'} />
+		<AuthorBio author={author || 'Evan Today'} />
 
 		<AdSense slot="footer" />
 

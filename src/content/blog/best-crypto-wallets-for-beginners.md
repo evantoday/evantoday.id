@@ -5,7 +5,7 @@ pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "cryptocurrency"
 tags: ["crypto wallet", "hardware wallet", "Ledger", "Trezor", "MetaMask", "crypto security"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/cryptocurrency-2.jpg'
 heroImageAlt: '7 Best Crypto Wallets in 2026 (Ranked by Security)'
 

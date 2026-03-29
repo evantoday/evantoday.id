@@ -4,7 +4,7 @@ description: "Stop overpaying on domestic and international transfers. Compare W
 pubDate: 2026-03-08
 category: "fintech"
 tags: ["money transfer", "Wise", "Remitly", "international transfer", "send money"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/fintech-2.jpg'
 heroImageAlt: 'Best Money Transfer Apps in 2026 (Fees Compared)'
 

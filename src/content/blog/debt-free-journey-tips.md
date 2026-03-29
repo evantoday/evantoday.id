@@ -4,7 +4,7 @@ description: "Average American carries $104K in debt. These 3 proven steps helpe
 pubDate: 2026-03-08
 category: "personal-finance"
 tags: ["debt free", "pay off debt", "debt payoff", "credit card debt", "student loans"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
 heroImageAlt: 'How to Get Debt-Free: 3-Step Plan That Works'
 

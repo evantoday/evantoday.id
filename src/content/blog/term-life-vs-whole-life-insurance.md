@@ -4,7 +4,7 @@ description: "Term life costs 5-10x less than whole life—but has no cash value
 pubDate: 2026-03-16
 category: "insurance"
 tags: ["term life insurance", "whole life insurance", "life insurance comparison", "insurance"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/insurance-1.jpg'
 heroImageAlt: 'Term Life vs Whole Life Insurance [2026 Comparison]'
 

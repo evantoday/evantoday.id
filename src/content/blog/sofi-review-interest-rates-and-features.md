@@ -4,7 +4,7 @@ description: "SoFi pays 4%+ APY on savings with no fees and $2M FDIC insurance. 
 pubDate: 2026-03-12
 category: "digital-banking"
 tags: ["SoFi", "SoFi review", "high-yield savings", "SoFi checking", "online bank"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/digital-banking-2.jpg'
 heroImageAlt: 'SoFi Bank Review [2026]: 4%+ APY Worth It?'
 

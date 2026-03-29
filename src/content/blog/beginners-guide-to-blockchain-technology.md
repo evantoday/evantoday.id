@@ -4,7 +4,7 @@ description: "Blockchain powers every crypto transaction—but most people don't
 pubDate: 2026-03-09
 category: "cryptocurrency"
 tags: ["blockchain", "blockchain explained", "cryptocurrency basics", "distributed ledger", "Web3"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/cryptocurrency-1.jpg'
 heroImageAlt: 'Blockchain Explained Simply (5-Minute Guide)'
 

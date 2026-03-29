@@ -4,7 +4,7 @@ description: "US crypto investors lost billions to scams, crashes, and regulatio
 pubDate: 2026-03-08
 category: "cryptocurrency"
 tags: ["crypto risks", "cryptocurrency risks", "crypto scams", "crypto regulation", "investing risks"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/cryptocurrency-2.jpg'
 heroImageAlt: '5 Crypto Risks Every Investor Must Know [2026]'
 

@@ -4,7 +4,7 @@ description: "Cash App handles P2P payments, Bitcoin, stocks, and direct deposit
 pubDate: 2026-03-18
 category: "fintech"
 tags: ["Cash App", "Cash App review", "P2P payment", "mobile payment", "send money"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/fintech-2.jpg'
 heroImageAlt: 'Cash App Review [2026]: Features, Fees, Safety'
 

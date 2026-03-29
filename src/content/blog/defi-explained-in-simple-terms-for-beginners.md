@@ -5,7 +5,7 @@ pubDate: 2026-03-25
 updatedDate: 2026-03-25
 category: "cryptocurrency"
 tags: ["DeFi", "decentralized finance", "DeFi explained", "yield farming", "crypto lending"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/cryptocurrency-1.jpg'
 heroImageAlt: 'DeFi Explained for Beginners [2026 Guide]'
 

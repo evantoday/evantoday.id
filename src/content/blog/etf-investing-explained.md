@@ -4,7 +4,7 @@ description: "ETFs let you invest in 500+ stocks at once starting from $100. Lea
 pubDate: 2026-03-13
 category: "investing"
 tags: ["ETF investing", "index ETF", "Vanguard", "Fidelity", "beginner investing"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-2.jpg'
 heroImageAlt: 'ETF Investing for Beginners: Start With author: "Evan"00 [2026]'
 

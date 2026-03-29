@@ -4,7 +4,7 @@ description: "Earning minimum wage? These 7 saving methods work on tight budgets
 pubDate: 2026-03-17
 category: "personal-finance"
 tags: ["save on low income", "minimum wage budget", "save money", "low income tips", "frugal"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
 heroImageAlt: 'How to Save Money on a Low Income (7 Real Ways)'
 

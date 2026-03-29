@@ -4,7 +4,7 @@ description: "78% of Americans live paycheck to paycheck. These 5 steps break th
 pubDate: 2026-03-09
 category: "personal-finance"
 tags: ["paycheck to paycheck", "break the cycle", "budgeting", "emergency fund", "financial freedom"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
 heroImageAlt: 'Stop Living Paycheck to Paycheck (5 Steps)'
 

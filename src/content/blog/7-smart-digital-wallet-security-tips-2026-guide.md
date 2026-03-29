@@ -5,7 +5,7 @@ pubDate: 2026-03-26
 updatedDate: 2026-03-26
 category: "fintech"
 tags: ["digital wallet", "e-wallet", "security", "fintech"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/fintech-1.jpg'
 heroImageAlt: '7 Smart Digital Wallet Security Tips [2026 Guide]'
 

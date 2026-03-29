@@ -5,7 +5,7 @@ pubDate: 2026-03-25
 updatedDate: 2026-03-25
 category: "investing"
 tags: ["index funds", "passive investing", "Vanguard", "S&P 500", "VTSAX"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-1.jpg'
 heroImageAlt: 'Index Fund Investing: Beat 80% of Fund Managers'
 

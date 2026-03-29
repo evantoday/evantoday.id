@@ -4,7 +4,7 @@ description: "Chime, SoFi, Ally, or Marcus—which US neobank pays the highest A
 pubDate: 2026-03-21
 category: "digital-banking"
 tags: ["neobank", "best neobanks", "Chime vs SoFi", "online banks", "digital banking"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/digital-banking-1.jpg'
 heroImageAlt: 'Best Neobanks in 2026: Chime, SoFi, Ally Compared'
 

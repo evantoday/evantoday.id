@@ -4,7 +4,7 @@ description: "Your net worth is the single best measure of financial health. Use
 pubDate: 2026-03-08
 category: "financial-tips"
 tags: ["net worth", "net worth calculator", "financial health", "assets vs liabilities", "wealth tracking"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/financial-tips-1.jpg'
 heroImageAlt: 'How to Calculate Your Net Worth [Free Formula]'
 

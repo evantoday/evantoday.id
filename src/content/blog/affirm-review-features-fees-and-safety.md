@@ -4,7 +4,7 @@ description: "Before you click 'Pay with Affirm'—know the real APR (0-36%), la
 pubDate: 2026-03-15
 category: "fintech"
 tags: ["Affirm", "buy now pay later", "BNPL", "Affirm review", "installment payments"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/fintech-2.jpg'
 heroImageAlt: 'Affirm Review [2026]: Hidden Fees and Interest Rates'
 

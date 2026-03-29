@@ -5,7 +5,7 @@ pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "investing"
 tags: ["Fidelity", "brokerage review", "stock trading", "index funds", "investing platform"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-1.jpg'
 heroImageAlt: 'Fidelity Review [2026]: Best Free Brokerage?'
 

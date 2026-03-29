@@ -4,7 +4,7 @@ description: "Tap to pay at 90% of US merchants. Set up Apple Pay or Google Pay 
 pubDate: 2026-03-07
 category: "fintech"
 tags: ["Apple Pay", "Google Pay", "contactless payment", "mobile wallet", "tap to pay"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/fintech-2.jpg'
 heroImageAlt: 'How to Set Up Apple Pay and Google Pay [2026]'
 

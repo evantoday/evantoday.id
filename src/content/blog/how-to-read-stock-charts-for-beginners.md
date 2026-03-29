@@ -4,7 +4,7 @@ description: "Candlesticks, support lines, volume bars—stock charts look compl
 pubDate: 2026-03-11
 category: "investing"
 tags: ["stock charts", "technical analysis", "candlestick charts", "stock trading", "beginner investing"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-2.jpg'
 heroImageAlt: 'How to Read Stock Charts: Beginner Guide [2026]'
 

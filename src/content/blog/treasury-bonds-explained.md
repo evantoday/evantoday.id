@@ -4,7 +4,7 @@ description: "US Treasury bonds and I Bonds pay 4-5% with zero default risk. See
 pubDate: 2026-03-16
 category: "investing"
 tags: ["Treasury bonds", "I Bonds", "TIPS", "government bonds", "safe investments"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-1.jpg'
 heroImageAlt: 'Treasury Bonds & I Bonds: Safe 4-5% Returns [2026]'
 

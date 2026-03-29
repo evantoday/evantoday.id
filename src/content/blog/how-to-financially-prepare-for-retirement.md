@@ -4,7 +4,7 @@ description: "Most Americans have less than $100K saved for retirement at 40. Th
 pubDate: 2026-03-08
 category: "investing"
 tags: ["retirement planning", "401k", "IRA", "Roth IRA", "retirement savings"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-2.jpg'
 heroImageAlt: 'Retirement Planning: 401(k), IRA, and Beyond [2026]'
 

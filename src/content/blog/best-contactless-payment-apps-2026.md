@@ -5,7 +5,7 @@ pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "fintech"
 tags: ["contactless payment", "Apple Pay", "Google Pay", "Samsung Pay", "tap to pay"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/fintech-1.jpg'
 heroImageAlt: 'Best Contactless Payment Apps [2026] Ranked'
 

@@ -4,7 +4,7 @@ description: "Gold hit $2,500/oz and keeps climbing. US investors can buy physic
 pubDate: 2026-03-13
 category: "investing"
 tags: ["gold investing", "gold ETF", "precious metals", "GLD", "gold IRA"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-1.jpg'
 heroImageAlt: 'How to Invest in Gold in 2026 (5 Best Ways)'
 

@@ -2,7 +2,7 @@
 title: "Emergency Fund: How Much You Really Need [2026]"
 description: "One ER visit or layoff can cost $10K-$50K overnight. See exactly how much to save, best accounts to park it in, and 3 ways to build your fund fast."
 pubDate: 2026-03-02
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
 heroImageAlt: 'Emergency Fund: How Much You Really Need [2026]'
 

@@ -5,7 +5,7 @@ pubDate: 2026-03-25
 updatedDate: 2026-03-25
 category: "insurance"
 tags: ["homeowners insurance", "home insurance", "property insurance", "insurance comparison"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/insurance-1.jpg'
 heroImageAlt: 'Homeowners Insurance Guide [2026]: Save author: "Evan",000+'
 

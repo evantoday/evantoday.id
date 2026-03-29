@@ -4,7 +4,7 @@ description: "Americans are retiring in their 30s with $1M+ saved. Learn the FIR
 pubDate: 2026-03-10
 category: "financial-tips"
 tags: ["FIRE movement", "early retirement", "financial independence", "retire early", "FIRE number"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/financial-tips-1.jpg'
 heroImageAlt: 'FIRE Movement: How to Retire Before 40 [2026]'
 

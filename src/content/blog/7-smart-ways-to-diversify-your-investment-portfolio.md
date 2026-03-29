@@ -5,7 +5,7 @@ pubDate: 2026-03-26
 updatedDate: 2026-03-26
 category: "investing"
 tags: ["diversification", "portfolio", "investing", "asset allocation"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-1.jpg'
 heroImageAlt: '7 Smart Ways to Diversify Your Investment Portfolio'
 

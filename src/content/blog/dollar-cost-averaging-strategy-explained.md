@@ -4,7 +4,7 @@ description: "Stop timing the market and losing sleep. DCA lets you invest $500/
 pubDate: 2026-03-20
 category: "investing"
 tags: ["dollar cost averaging", "DCA", "investing strategy", "market volatility", "automatic investing"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-1.jpg'
 heroImageAlt: 'Dollar Cost Averaging: Beat Market Volatility [2026]'
 

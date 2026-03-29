@@ -4,7 +4,7 @@ description: "Stop wondering where your paycheck went. Create a monthly spending
 pubDate: 2026-03-15
 category: "personal-finance"
 tags: ["spending plan", "monthly budget", "budget template", "expense planning", "financial planning"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
 heroImageAlt: 'Monthly Spending Plan in 5 Steps (Free Template)'
 

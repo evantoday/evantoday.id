@@ -4,7 +4,7 @@ description: "Not everyone needs life insurance—but if you have dependents, sk
 pubDate: 2026-03-10
 category: "insurance"
 tags: ["life insurance", "term life", "whole life", "life insurance quotes"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/insurance-2.jpg'
 heroImageAlt: 'Life Insurance in 2026: Who Actually Needs It?'
 

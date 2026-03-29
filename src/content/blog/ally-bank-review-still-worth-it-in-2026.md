@@ -4,7 +4,7 @@ description: "Ally Bank pays 4.25% APY with no minimums and no monthly fees. But
 pubDate: 2026-03-20
 category: "digital-banking"
 tags: ["Ally Bank", "online bank review", "high-yield savings", "Ally Bank review", "best online bank"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/digital-banking-1.jpg'
 heroImageAlt: 'Ally Bank Review [2026]: Best Online Bank?'
 

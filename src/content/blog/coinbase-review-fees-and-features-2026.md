@@ -5,7 +5,7 @@ pubDate: 2026-03-26
 updatedDate: 2026-03-26
 category: "cryptocurrency"
 tags: ["Coinbase", "cryptocurrency exchange", "crypto app", "fees", "features"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/cryptocurrency-1.jpg'
 heroImageAlt: 'Coinbase Review [2026]: Fees, Features, and Is It Worth It?'
 

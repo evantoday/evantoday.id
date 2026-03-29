@@ -5,7 +5,7 @@ pubDate: 2026-03-24
 updatedDate: 2026-03-24
 category: "insurance"
 tags: ["critical illness insurance", "health insurance", "cancer insurance", "supplemental insurance"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/insurance-1.jpg'
 heroImageAlt: 'Critical Illness Insurance: Do You Really Need It?'
 

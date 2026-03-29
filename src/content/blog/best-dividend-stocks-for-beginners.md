@@ -4,7 +4,7 @@ description: "Earn 3-6% passive income from blue-chip dividend stocks. These 7 b
 pubDate: 2026-03-14
 category: "investing"
 tags: ["dividend stocks", "passive income", "S&P 500", "dividend investing", "beginner investing"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-2.jpg'
 heroImageAlt: '7 Best Dividend Stocks for Beginners [2026]'
 

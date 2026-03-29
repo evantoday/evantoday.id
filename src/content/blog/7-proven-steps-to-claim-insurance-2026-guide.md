@@ -5,7 +5,7 @@ pubDate: 2026-03-26
 updatedDate: 2026-03-26
 category: "insurance"
 tags: ["insurance claim", "insurance claim process", "health insurance", "car insurance", "step by step"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/insurance-1.jpg'
 heroImageAlt: '7 Proven Steps to Claim Insurance [2026 Guide]'
 

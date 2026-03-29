@@ -4,7 +4,7 @@ description: "Think you need $10K to invest? Apps like Fidelity and Schwab let y
 pubDate: 2026-03-14
 category: "investing"
 tags: ["start investing", "minimum investment", "Fidelity", "Charles Schwab", "beginner investing"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/investing-2.jpg'
 heroImageAlt: 'How Much Money to Start Investing? [2026 Guide]'
 

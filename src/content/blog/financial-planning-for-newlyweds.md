@@ -4,7 +4,7 @@ description: "70% of couple fights are about money. These 7 financial planning s
 pubDate: 2026-03-14
 category: "financial-tips"
 tags: ["newlywed finances", "couple money management", "joint accounts", "marriage finances", "financial planning"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/financial-tips-2.jpg'
 heroImageAlt: 'Financial Planning for Newlyweds (7 Key Steps)'
 

@@ -5,7 +5,7 @@ pubDate: 2026-03-26
 updatedDate: 2026-03-26
 category: "personal-finance"
 tags: ["job loss", "emergency fund", "unemployment", "budgeting", "personal finance"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
 heroImageAlt: '7 Smart Ways to Survive a Job Loss'
 

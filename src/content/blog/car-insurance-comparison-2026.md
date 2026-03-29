@@ -4,7 +4,7 @@ description: "Average US driver overpays $500/year on car insurance. Compare top
 pubDate: 2026-03-13
 category: "insurance"
 tags: ["car insurance", "auto insurance", "GEICO", "Progressive", "cheap car insurance"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/insurance-2.jpg'
 heroImageAlt: 'Best Cheap Car Insurance in 2026 (Rates Compared)'
 

@@ -13,6 +13,9 @@ export default defineConfig({
 		mdx(),
 		sitemap({
 			serialize(item) {
+				// Add lastmod to all pages so Google knows when to re-crawl
+				item.lastmod = new Date().toISOString();
+
 				// Blog posts get higher priority
 				if (item.url.includes('/blog/') && !item.url.endsWith('/blog/')) {
 					item.changefreq = 'monthly';

@@ -4,7 +4,7 @@ description: "Lock your crypto and earn 5-15% annually through staking. How it w
 pubDate: 2026-03-16
 category: "cryptocurrency"
 tags: ["crypto staking", "passive income crypto", "staking rewards", "PoS", "Ethereum staking"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/cryptocurrency-1.jpg'
 heroImageAlt: 'Crypto Staking: Earn 5-15% Passive Income [2026]'
 

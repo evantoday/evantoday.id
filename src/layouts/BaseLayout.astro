@@ -13,9 +13,11 @@ interface Props {
 	publishedDate?: Date;
 	modifiedDate?: Date;
 	noindex?: boolean;
+	category?: string;
+	tags?: string[];
 }
 
-const { title, description, image, ogImage, type, publishedDate, modifiedDate, noindex } = Astro.props;
+const { title, description, image, ogImage, type, publishedDate, modifiedDate, noindex, category, tags } = Astro.props;
 ---
 
 <!doctype html>
@@ -30,6 +32,8 @@ const { title, description, image, ogImage, type, publishedDate, modifiedDate, n
 			publishedDate={publishedDate}
 			modifiedDate={modifiedDate}
 			noindex={noindex}
+			category={category}
+			tags={tags}
 		/>
 	</head>
 	<body class="min-h-screen flex flex-col bg-white text-gray-900 antialiased">

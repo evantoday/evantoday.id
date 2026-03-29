@@ -4,7 +4,7 @@ description: "These 10 financial mistakes cost 20-somethings $100K+ by age 35. M
 pubDate: 2026-03-09
 category: "personal-finance"
 tags: ["money mistakes", "20s finance", "financial mistakes", "young adults", "money tips"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
 heroImageAlt: '10 Money Mistakes in Your 20s That Cost Thousands'
 

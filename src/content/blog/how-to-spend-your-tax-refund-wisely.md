@@ -4,7 +4,7 @@ description: "Average US tax refund is $3,100. Most people blow it in 2 weeks. T
 pubDate: 2026-03-14
 category: "personal-finance"
 tags: ["tax refund", "IRS refund", "tax season", "tax refund tips", "smart spending"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
 heroImageAlt: 'How to Spend Your Tax Refund Wisely [2026 Guide]'
 

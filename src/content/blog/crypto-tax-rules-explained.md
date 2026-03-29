@@ -4,7 +4,7 @@ description: "The IRS taxes every crypto trade as a capital gain. Miss a filing 
 pubDate: 2026-03-14
 category: "cryptocurrency"
 tags: ["crypto tax", "IRS crypto", "capital gains crypto", "Form 8949", "crypto taxes"]
-author: "Evan"
+author: "Evan Today"
 heroImage: './images/cryptocurrency-2.jpg'
 heroImageAlt: 'Crypto Tax Rules [2026]: IRS Guide to Avoid Fines'
 
