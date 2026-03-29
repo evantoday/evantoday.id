@@ -1,6 +1,6 @@
 ---
-title: "Homeowners Insurance Guide [2026]: Save $1,000+"
-description: "The average US homeowner pays $1,900/year on insurance. Compare top providers, coverage types, and 5 ways to slash your premium without losing protection."
+title: "Panduan Asuransi Rumah 2026: Hemat Rp 15 Juta+"
+description: "Rata-rata pemilik rumah di AS membayar Rp 29 juta/tahun. Bandingkan provider, jenis perlindungan, dan 5 cara menurunkan premi."
 pubDate: 2026-03-25
 updatedDate: 2026-03-25
 category: "insurance"
@@ -13,207 +13,207 @@ heroImageAlt: 'Homeowners Insurance Guide [2026]: Save author: "Evan",000+'
 
 A neighbor of mine had a kitchen fire last year that caused $45,000 in damage. His homeowners insurance covered every dollar above his $1,000 [deductible](/blog/insurance-terms-explained-simply-2026-guide/). Another friend skipped coverage on his paid-off condo and ate a $12,000 water damage bill out of pocket. The difference between those two outcomes is what I want to help you navigate.
 
-The average US homeowner pays roughly $1,900 per year for insurance, but I've seen that number range from $800 to over $4,000 depending on where you live, what you own, and which insurer you choose. In this guide, I'll show you how to get the right coverage without overpaying.
+Rata-rata pemilik rumah di AS membayar sekitar Rp 29 juta per tahun untuk asuransi, tapi saya pernah lihat angkanya berkisar dari Rp 12 juta sampai lebih dari Rp 60 juta, tergantung tempat tinggal, aset yang dimiliki, dan perusahaan asuransi yang dipilih. Di panduan ini, saya akan bantu kamu memahami cara mendapatkan perlindungan yang tepat tanpa bayar terlalu mahal.
 
 ## What Homeowners Insurance Actually Covers
 
-A standard homeowners insurance policy (called an HO-3 in industry terms) covers six main areas:
+Polis asuransi rumah standar (disebut HO-3 dalam istilah industri) mencakup enam area utama:
 
 ### Dwelling Coverage (Coverage A)
 
-This pays to repair or rebuild your home's structure if it's damaged by a covered event—fire, windstorm, hail, lightning, vandalism, and more. Your dwelling coverage should match your home's rebuild cost, not its market value.
+Ini membayar biaya perbaikan atau pembangunan ulang struktur rumah kamu kalau rusak karena kejadian yang ditanggung—kebakaran, angin kencang, hujan es, petir, vandalisme, dan lainnya. Nilai perlindungan ini sebaiknya mengikuti biaya bangun ulang rumah, bukan nilai pasarnya.
 
-I've found that many homeowners confuse market value with rebuild cost. Your land has value, but you don't need to insure dirt. A $400,000 home might only cost $280,000 to rebuild.
+Saya sering lihat pemilik rumah keliru membedakan nilai pasar dengan biaya bangun ulang. Tanah punya nilai, tapi kamu tidak perlu mengasuransikan tanahnya. Rumah senilai Rp 6 miliar mungkin hanya butuh Rp 4,2 miliar untuk dibangun ulang.
 
 ### Other Structures (Coverage B)
 
-This covers detached garages, fences, sheds, and other structures on your property. It's typically set at 10% of your dwelling coverage automatically.
+Ini menanggung garasi terpisah, pagar, gudang, dan bangunan lain di properti kamu. Biasanya otomatis ditetapkan sebesar 10% dari perlindungan dwelling.
 
 ### Personal Property (Coverage C)
 
-This covers your belongings—furniture, electronics, clothing, appliances—if they're stolen or destroyed. Standard policies cover your stuff at actual cash value (depreciated), but I strongly recommend upgrading to **replacement cost** coverage. The premium difference is small, and the payout difference is enormous.
+Ini menanggung barang-barang kamu—furnitur, elektronik, pakaian, peralatan rumah tangga—kalau dicuri atau rusak. Polis standar biasanya mengganti berdasarkan **actual cash value** (nilai setelah depresiasi), tapi saya sangat menyarankan upgrade ke perlindungan **replacement cost**. Selisih preminya kecil, tapi selisih klaimnya besar.
 
 ### Loss of Use (Coverage D)
 
-If your home is uninhabitable after a covered event, this pays for hotel stays, restaurant meals, and other additional living expenses. In my experience, people don't think about this until they need it, and then it's a lifesaver.
+Kalau rumah kamu tidak bisa ditempati setelah kejadian yang ditanggung, ini membayar hotel, makan di luar, dan biaya hidup tambahan lainnya. Dari pengalaman saya, orang sering tidak kepikiran soal ini sampai benar-benar butuh, dan saat itu perlindungan ini sangat menyelamatkan.
 
 ### Liability (Coverage E)
 
-If someone is injured on your property and sues you, liability coverage pays for legal defense and damages. The standard amount is $100,000, but I recommend at least $300,000. If you have significant assets, consider an umbrella policy on top.
+Kalau ada orang cedera di properti kamu lalu menggugat, perlindungan tanggung jawab ini membayar biaya pembelaan hukum dan ganti rugi. Jumlah standar biasanya Rp 1,5 miliar, tapi saya sarankan minimal Rp 4,5 miliar. Kalau aset kamu besar, pertimbangkan juga polis umbrella di atasnya.
 
 ### Medical Payments (Coverage F)
 
-This covers minor injuries to guests on your property regardless of fault—typically $1,000 to $5,000. It's designed to prevent small incidents from becoming lawsuits.
+Ini menanggung cedera ringan pada tamu di properti kamu tanpa melihat siapa yang salah—biasanya sekitar Rp 15 juta sampai Rp 75 juta. Tujuannya supaya insiden kecil tidak berkembang jadi gugatan.
 
 ## What Homeowners Insurance Does NOT Cover
 
-This is where people get burned. Standard policies typically exclude:
+Di sinilah banyak orang terjebak. Polis standar biasanya tidak mencakup:
 
-- **Flooding** — You need a separate flood insurance policy through FEMA's NFIP or a private insurer
-- **Earthquakes** — Requires a separate policy or endorsement
-- **Sewer backup** — Usually an add-on rider ($50-100/year, and worth every penny)
-- **Maintenance issues** — Mold from a slow leak, termite damage, roof wear and tear
-- **Home business equipment** — Typically limited to $2,500; you may need a rider
-- **Certain dog breeds** — Some insurers exclude liability for specific breeds
-- **High-value items** — Jewelry, art, and collectibles often have sub-limits ($1,500-2,500); schedule them separately
+- **Banjir** — Kamu perlu polis asuransi banjir terpisah melalui program pemerintah atau perusahaan swasta
+- **Gempa bumi** — Butuh polis terpisah atau endorsement tambahan
+- **Back-up saluran pembuangan** — Biasanya add-on rider (sekitar Rp 750 ribu–Rp 1,5 juta/tahun, dan sangat layak)
+- **Masalah perawatan** — Jamur akibat kebocoran kecil, kerusakan rayap, aus pada atap
+- **Peralatan usaha rumahan** — Biasanya dibatasi sekitar Rp 37,5 juta; mungkin perlu rider
+- **Ras anjing tertentu** — Beberapa insurer mengecualikan tanggung jawab untuk ras tertentu
+- **Barang bernilai tinggi** — Perhiasan, karya seni, dan koleksi sering punya batas sub-limits (sekitar Rp 22,5 juta–Rp 37,5 juta); perlu dijadwalkan terpisah
 
-I learned about the sewer backup exclusion the hard way when a friend's basement flooded. The $75/year rider would have saved him thousands.
+Saya belajar soal pengecualian back-up saluran pembuangan dengan cara yang pahit saat basement teman saya kebanjiran. Rider Rp 1,1 juta/tahun itu bisa menghemat dia jutaan rupiah.
 
 ## Top Homeowners Insurance Companies in 2026
 
 ### State Farm
 
-**Best for:** Overall value with local agent support
+**Best for:** Nilai keseluruhan terbaik dengan dukungan agen lokal
 
-State Farm is the largest home insurer in the US, and for good reason. Their rates are competitive, their agent network is massive, and their claims process is well-regarded.
+State Farm adalah insurer rumah terbesar di AS, dan itu ada alasannya. Tarifnya kompetitif, jaringan agennya luas, dan proses klaimnya terkenal bagus.
 
-- **Average annual premium:** $1,680
-- **Key discounts:** Bundle with auto (up to 25%), protective devices, new home, claims-free
+- **Average annual premium:** Rp 25 juta
+- **Key discounts:** Paket dengan asuransi mobil (hingga 25%), perangkat proteksi, rumah baru, tanpa klaim
 - **AM Best rating:** A++
-- **Claims satisfaction:** Above average
+- **Claims satisfaction:** Di atas rata-rata
 
 ### Allstate
 
-**Best for:** Customizable coverage and claim forgiveness
+**Best for:** Perlindungan yang bisa disesuaikan dan claim forgiveness
 
-- **Average annual premium:** $1,850
-- **Key discounts:** Multi-policy, protective devices, new home, loyal customer
+- **Average annual premium:** Rp 28 juta
+- **Key discounts:** Multi-policy, perangkat proteksi, rumah baru, pelanggan loyal
 - **AM Best rating:** A+
-- **Claims satisfaction:** Average
+- **Claims satisfaction:** Rata-rata
 
 ### Lemonade
 
-**Best for:** Tech-savvy homeowners who want fast quotes and claims
+**Best for:** Pemilik rumah yang melek teknologi dan ingin penawaran serta klaim cepat
 
-Lemonade's AI-powered claims process can pay simple claims in seconds. I've seen it happen in real time, and it's impressive.
+Proses klaim Lemonade berbasis AI bisa membayar klaim sederhana dalam hitungan detik. Saya pernah melihatnya langsung, dan hasilnya memang mengesankan.
 
-- **Average annual premium:** $1,400
-- **Key discounts:** Bundle, claims-free, smart home devices
-- **AM Best rating:** Not yet rated (backed by reinsurers rated A+)
-- **Claims satisfaction:** Above average for simple claims
+- **Average annual premium:** Rp 21 juta
+- **Key discounts:** Bundle, tanpa klaim, perangkat smart home
+- **AM Best rating:** Belum dirating (didukung reasuradur berperingkat A+)
+- **Claims satisfaction:** Di atas rata-rata untuk klaim sederhana
 
 ### Erie Insurance
 
-**Best for:** Homeowners in the Midwest and East Coast who want low rates
+**Best for:** Pemilik rumah di Midwest dan East Coast yang ingin tarif rendah
 
-Erie is only in 12 states plus DC, but where they operate, they often have the best rates. Their guaranteed replacement cost coverage is a standout feature.
+Erie hanya tersedia di 12 negara bagian plus DC, tapi di wilayah operasinya, mereka sering punya tarif terbaik. Perlindungan guaranteed replacement cost mereka jadi nilai plus utama.
 
-- **Average annual premium:** $1,250
-- **Key discounts:** Multi-policy, protective devices, age of home, claims-free
+- **Average annual premium:** Rp 18,5 juta
+- **Key discounts:** Multi-policy, perangkat proteksi, usia rumah, tanpa klaim
 - **AM Best rating:** A+
-- **Claims satisfaction:** Highest tier
+- **Claims satisfaction:** Peringkat teratas
 
 ### Amica Mutual
 
-**Best for:** Premium service and dividend policies
+**Best for:** Layanan premium dan polis dividen
 
-Amica consistently ranks at the top for customer satisfaction. As a mutual company, they return dividends to policyholders—typically 5-15% of your premium.
+Amica konsisten berada di posisi atas untuk kepuasan pelanggan. Sebagai perusahaan mutual, mereka mengembalikan dividen ke pemegang polis—biasanya 5-15% dari premi kamu.
 
-- **Average annual premium:** $1,750
-- **Key discounts:** Multi-policy, claims-free, home updates, auto-pay
+- **Average annual premium:** Rp 26 juta
+- **Key discounts:** Multi-policy, tanpa klaim, pembaruan rumah, auto-pay
 - **AM Best rating:** A+
-- **Claims satisfaction:** Highest tier
+- **Claims satisfaction:** Peringkat teratas
 
 ## Rate Comparison Table
 
 | Insurer | Avg. Annual Premium | Bundle Discount | Replacement Cost | AM Best |
 |---------|-------------------|-----------------|------------------|---------|
-| Erie | $1,250 | Up to 25% | Guaranteed | A+ |
-| Lemonade | $1,400 | Up to 15% | Standard | NR |
-| State Farm | $1,680 | Up to 25% | Extended (25%) | A++ |
-| Amica | $1,750 | Up to 20% | Guaranteed | A+ |
-| Allstate | $1,850 | Up to 25% | Extended (20%) | A+ |
+| Erie | Rp 18,5 juta | Hingga 25% | Guaranteed | A+ |
+| Lemonade | Rp 21 juta | Hingga 15% | Standard | NR |
+| State Farm | Rp 25 juta | Hingga 25% | Extended (25%) | A++ |
+| Amica | Rp 26 juta | Hingga 20% | Guaranteed | A+ |
+| Allstate | Rp 28 juta | Hingga 25% | Extended (20%) | A+ |
 
-*Based on a $300,000 dwelling, $1,000 deductible, $300K liability, national average.*
+*Berdasarkan dwelling Rp 4,5 miliar, deductible Rp 15 juta, liability Rp 4,5 miliar, rata-rata nasional.*
 
 ## 5 Ways to Save $1,000+ on Homeowners Insurance
 
 ### 1. Bundle Your Policies
 
-Bundling home and [auto insurance](/blog/car-insurance-comparison-2026/) saves 15-25% with most insurers. On a $1,900 premium, that's $285-475 per year. This is the easiest money you'll ever save on insurance.
+Menggabungkan asuransi rumah dan [asuransi mobil](/blog/car-insurance-comparison-2026/) bisa menghemat 15-25% di banyak insurer. Dari premi Rp 29 juta, itu setara sekitar Rp 4,3 juta–Rp 7,2 juta per tahun. Ini salah satu cara termudah untuk hemat di asuransi.
 
 ### 2. Raise Your Deductible
 
-Moving from a $500 to a $2,500 deductible can save 15-30% on your premium. Just make sure you have enough liquid savings to cover the higher deductible if you need to [file a claim](/blog/7-proven-steps-to-claim-insurance-2026-guide/).
+Naik dari deductible Rp 7,5 juta ke Rp 37,5 juta bisa menghemat 15-30% premi kamu. Tapi pastikan kamu punya tabungan likuid yang cukup untuk menutup deductible yang lebih tinggi kalau harus [mengajukan klaim](/blog/7-proven-steps-to-claim-insurance-2026-guide/).
 
 ### 3. Improve Your Home's Safety
 
-Insurance companies reward risk reduction:
+Perusahaan asuransi memberi reward untuk pengurangan risiko:
 
-- **Security system:** 5-15% discount
-- **Smoke detectors and fire extinguishers:** 2-5% discount
-- **Deadbolt locks:** 2-5% discount
-- **Impact-resistant roof:** 10-25% discount (huge in storm-prone states)
-- **Updated electrical, plumbing, and HVAC:** 5-15% discount
+- **Sistem keamanan:** diskon 5-15%
+- **Detektor asap dan alat pemadam kebakaran:** diskon 2-5%
+- **Kunci deadbolt:** diskon 2-5%
+- **Atap tahan benturan:** diskon 10-25% (besar sekali di daerah rawan badai)
+- **Listrik, plumbing, dan HVAC yang diperbarui:** diskon 5-15%
 
 ### 4. Maintain a Claims-Free Record
 
-Filing small claims is often a net negative. If you have a $1,200 repair on a $1,000 deductible, you're claiming $200 but potentially raising your premium for 3-5 years. I generally advise against filing claims under $2,500 unless it's a serious loss.
+Mengajukan klaim kecil sering kali malah merugikan. Kalau ada perbaikan Rp 18 juta dengan deductible Rp 15 juta, kamu hanya klaim Rp 3 juta tapi premi bisa naik selama 3-5 tahun. Saya biasanya menyarankan untuk tidak mengajukan klaim di bawah Rp 37,5 juta kecuali kerugiannya serius.
 
 ### 5. Shop Around Every 2-3 Years
 
-Loyalty doesn't pay in insurance. I've seen homeowners save $600+ just by getting competing quotes and either switching or negotiating with their current insurer. Use sites like Policygenius or Insurify to compare quickly.
+Loyalitas tidak selalu dibayar dalam asuransi. Saya pernah lihat pemilik rumah hemat lebih dari Rp 9 juta hanya dengan membandingkan penawaran lalu pindah atau negosiasi dengan insurer lama. Pakai situs seperti Policygenius atau Insurify untuk membandingkan dengan cepat.
 
 ## How Much Homeowners Insurance Do You Need?
 
-Here's my framework for determining the right coverage:
+Ini kerangka yang saya pakai untuk menentukan perlindungan yang tepat:
 
-**Dwelling coverage:** Get a rebuild cost estimate. Your insurer can calculate this, or use a tool like the Marshall & Swift calculator. Don't use your home's purchase price or Zillow estimate.
+**Dwelling coverage:** Dapatkan estimasi biaya bangun ulang. Insurer kamu bisa menghitungnya, atau pakai alat seperti kalkulator Marshall & Swift. Jangan pakai harga beli rumah atau estimasi Zillow.
 
-**Personal property:** Do a home inventory. Most people need $50,000-150,000 in personal property coverage. Make sure it's replacement cost, not actual cash value.
+**Personal property:** Buat inventaris rumah. Kebanyakan orang butuh perlindungan barang pribadi sekitar Rp 750 juta–Rp 2,25 miliar. Pastikan pakai replacement cost, bukan actual cash value.
 
-**Liability:** At minimum $300,000. If your [net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/) exceeds $300,000, get an umbrella policy ($1 million umbrella typically costs $200-300/year).
+**Liability:** Minimal Rp 4,5 miliar. Kalau [net worth](/blog/how-to-calculate-net-worth-and-why-it-matters/) kamu lebih dari Rp 4,5 miliar, ambil polis umbrella (umbrella Rp 15 miliar biasanya biayanya sekitar Rp 3 juta–Rp 4,5 juta/tahun).
 
-**Deductible:** $1,000-2,500 is the sweet spot for most homeowners. Higher deductibles save on premiums but require more out-of-pocket when you claim.
+**Deductible:** Rp 15 juta–Rp 37,5 juta adalah titik ideal untuk kebanyakan pemilik rumah. Deductible lebih tinggi memang menurunkan premi, tapi kamu harus bayar lebih besar saat klaim.
 
 ## Special Considerations by Region
 
 ### Coastal States (Florida, Texas, Louisiana, Carolinas)
 
-Wind and hurricane deductibles are separate and much higher—often 2-5% of your dwelling coverage. A 2% hurricane deductible on a $300,000 home means $6,000 out of pocket before insurance kicks in for hurricane damage.
+Deductible untuk angin dan badai biasanya terpisah dan jauh lebih tinggi—sering kali 2-5% dari dwelling coverage. Deductible badai 2% pada rumah Rp 4,5 miliar berarti kamu harus keluar Rp 90 juta dulu sebelum asuransi mulai menanggung kerusakan akibat badai.
 
 ### Tornado Alley (Oklahoma, Kansas, Nebraska, Missouri)
 
-Consider impact-resistant roofing for both safety and a substantial premium discount. Some insurers offer 25% off for Class 4 impact-resistant shingles.
+Pertimbangkan atap tahan benturan untuk keamanan sekaligus diskon premi yang cukup besar. Beberapa insurer memberi diskon 25% untuk shingles tahan benturan kelas 4.
 
 ### Wildfire Zones (California, Colorado, Oregon)
 
-Coverage is getting harder and more expensive to find. If you're in a high-risk area, consider the California FAIR Plan (insurer of last resort) or work with an independent agent who can access surplus lines carriers.
+Perlindungan makin sulit dicari dan makin mahal. Kalau kamu berada di area berisiko tinggi, pertimbangkan program FAIR Plan (insurer terakhir) atau bekerja dengan agen independen yang bisa mengakses carrier surplus lines.
 
 ### Flood Zones
 
-Standard homeowners insurance never covers floods. If you're in a FEMA-designated flood zone, your mortgage lender will require flood insurance. Even if you're not in a designated zone, I recommend it—over 25% of flood claims come from outside high-risk areas.
+Asuransi rumah standar tidak pernah menanggung banjir. Kalau kamu berada di zona banjir yang ditetapkan pemerintah, pemberi KPR akan mewajibkan asuransi banjir. Bahkan kalau kamu tidak berada di zona resmi, saya tetap menyarankannya—lebih dari 25% klaim banjir datang dari luar area risiko tinggi.
 
 ## When to File a Claim vs. Pay Out of Pocket
 
-This is something I feel strongly about. Not every loss should be a claim. Here's my rule of thumb:
+Ini sesuatu yang saya sangat yakini. Tidak semua kerugian harus jadi klaim. Ini aturan praktis saya:
 
-- **Damage under $2,500:** Pay out of pocket unless it's part of a larger issue
-- **Damage over $5,000:** File the claim
-- **Between $2,500-5,000:** Consider your claims history and premium impact
-- **Liability claims:** Always file immediately, regardless of amount
-- **Catastrophic damage:** Always file immediately
+- **Kerusakan di bawah Rp 37,5 juta:** Bayar sendiri kecuali bagian dari masalah yang lebih besar
+- **Kerusakan di atas Rp 75 juta:** Ajukan klaim
+- **Di antara Rp 37,5 juta–Rp 75 juta:** Pertimbangkan riwayat klaim dan dampak ke premi
+- **Klaim tanggung jawab:** Selalu ajukan segera, berapa pun nilainya
+- **Kerusakan katastrofik:** Selalu ajukan segera
 
-Each claim stays on your CLUE report for 5-7 years and can affect your premium with any insurer.
+Setiap klaim akan tetap tercatat di laporan CLUE kamu selama 5-7 tahun dan bisa memengaruhi premi di insurer mana pun.
 
 ## Frequently Asked Questions
 
 ### How much homeowners insurance do I need?
 
-Your dwelling coverage should equal your home's estimated rebuild cost—not its market value or purchase price. I recommend getting a rebuild estimate from your insurer or an independent appraiser. For personal property, do a room-by-room inventory and choose replacement cost coverage. Liability should be at least $300,000, with an umbrella policy if your net worth is higher.
+Perlindungan dwelling kamu sebaiknya sama dengan estimasi biaya bangun ulang rumah—not nilai pasar atau harga beli. Saya sarankan minta estimasi bangun ulang dari insurer atau penilai independen. Untuk personal property, buat inventaris per ruangan dan pilih replacement cost. Liability sebaiknya minimal Rp 4,5 miliar, dengan polis umbrella jika net worth kamu lebih tinggi.
 
 ### Is homeowners insurance required by law?
 
-No state legally requires homeowners insurance. However, if you have a mortgage, your lender will require it. Even if your home is paid off, going without insurance is a massive financial risk. One house fire or liability lawsuit could wipe out years of savings.
+Tidak ada negara bagian yang secara hukum mewajibkan asuransi rumah. Tapi kalau kamu punya KPR, pemberi pinjaman akan mewajibkannya. Bahkan kalau rumah sudah lunas, hidup tanpa asuransi tetap sangat berisiko. Satu kebakaran rumah atau gugatan tanggung jawab bisa menghabiskan tabungan bertahun-tahun.
 
 ### What's the difference between actual cash value and replacement cost?
 
-Actual cash value pays what your items are worth today after depreciation. A 5-year-old TV that cost $1,000 might only pay out $300. Replacement cost pays what it costs to buy a new equivalent item—so you'd get the full cost of a comparable new TV. The premium difference is usually 10-15%, and I always recommend replacement cost.
+Actual cash value membayar nilai barang kamu saat ini setelah depresiasi. TV berusia 5 tahun yang dulu harganya Rp 15 juta mungkin hanya dibayar Rp 4,5 juta. Replacement cost membayar biaya untuk membeli barang baru yang setara—jadi kamu dapat biaya penuh untuk TV baru yang sebanding. Selisih premi biasanya 10-15%, dan saya selalu merekomendasikan replacement cost.
 
 ### Does homeowners insurance cover water damage?
 
-It depends on the source. Sudden and accidental water damage (burst pipe, storm damage) is typically covered. Gradual damage (slow leak, poor maintenance) is not. Flood damage from rising water requires a separate flood insurance policy. Sewer backup usually requires an add-on endorsement.
+Tergantung sumbernya. Kerusakan air yang tiba-tiba dan tidak disengaja (pipa pecah, kerusakan akibat badai) biasanya ditanggung. Kerusakan bertahap (kebocoran kecil, perawatan buruk) tidak. Kerusakan akibat banjir dari air yang naik butuh polis asuransi banjir terpisah. Back-up saluran pembuangan biasanya perlu endorsement tambahan.
 
 ### How can I lower my homeowners insurance premium quickly?
 
-The fastest ways are: raise your deductible to $2,500 (saves 15-30%), bundle with auto insurance (saves 15-25%), and install a monitored security system (saves 5-15%). Together, these three changes can save $500-1,000 per year. Then reshop your policy every 2-3 years to make sure you're still getting a competitive rate.
+Cara tercepat adalah: naikkan deductible ke Rp 37,5 juta (hemat 15-30%), bundel dengan asuransi mobil (hemat 15-25%), dan pasang sistem keamanan yang dipantau (hemat 5-15%). Tiga perubahan ini bisa menghemat Rp 7,5 juta–Rp 15 juta per tahun. Setelah itu, bandingkan ulang polis kamu setiap 2-3 tahun supaya tetap dapat tarif yang kompetitif.

@@ -1,6 +1,6 @@
 ---
 title: "Review Flip App: 7 Hal yang Saya Cek Dulu [2026]"
-description: "Flip bisa menghemat Rp 6.500 per transfer, tapi apakah layak dipakai setiap hari? Ini review jujur saya."
+description: "Flip bisa hemat Rp 6.500 per transfer. Tapi apakah layak dipakai tiap hari? Ini review jujur saya."
 pubDate: 2026-03-28
 updatedDate: 2026-03-28
 category: "fintech"

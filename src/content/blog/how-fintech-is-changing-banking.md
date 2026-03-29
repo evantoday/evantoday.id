@@ -1,6 +1,6 @@
 ---
-title: "How Fintech Is Replacing Traditional Banks [2026]"
-description: "Neobanks, BNPL apps, and robo-advisors are replacing traditional banks across America. See the 3 biggest shifts and what they mean for your money in 2026."
+title: "Bagaimana Fintech Menggantikan Bank Tradisional [2026]"
+description: "Neobank, aplikasi BNPL, dan robo-advisor menggantikan bank tradisional. Lihat 3 perubahan terbesar dan dampaknya untuk uangmu di 2026."
 pubDate: 2026-03-12
 category: "fintech"
 tags: ["fintech", "neobanks", "digital banking", "BNPL", "robo-advisors"]
@@ -10,181 +10,181 @@ heroImageAlt: 'How Fintech Is Replacing Traditional Banks [2026]'
 
 ---
 
-## The Day I Realized My Bank Was Obsolete
+## Hari Saat Saya Sadar Bank Saya Sudah Ketinggalan Zaman
 
-I had an awkward moment last year when I tried to remember the last time I walked into a bank branch. It had been over two years. My paychecks go to Chime. My savings sit at Ally earning 4%+. I invest through SoFi and Fidelity. I send money to friends with Venmo. I split restaurant bills with Zelle. I bought my last couch with Affirm's pay-in-four plan.
+Saya sempat merasa canggung tahun lalu saat mencoba mengingat kapan terakhir kali saya masuk ke kantor cabang bank. Ternyata sudah lebih dari dua tahun. Gaji saya masuk ke Jago. Tabungan saya saya simpan di Seabank dan menghasilkan bunga lebih dari 4%. Saya berinvestasi lewat Bibit dan Bareksa. Saya kirim uang ke teman lewat GoPay. Saya patungan makan malam dengan OVO. Sofa terakhir yang saya beli saya cicil pakai skema pay-in-four dari aplikasi BNPL.
 
-Traditional banks still hold trillions of dollars in deposits, but fintech companies are steadily taking over the services that used to require a bank teller, a loan officer, or a financial advisor. In 2026, this shift is accelerating faster than most people realize.
+Bank tradisional memang masih memegang triliunan rupiah simpanan, tapi perusahaan fintech perlahan mengambil alih layanan yang dulu butuh teller bank, petugas pinjaman, atau penasihat keuangan. Di 2026, pergeseran ini makin cepat dari yang disadari banyak orang.
 
-Here are the three biggest ways fintech is replacing traditional banking in America, and what it means for your money.
+Berikut tiga cara terbesar fintech menggantikan perbankan tradisional di Indonesia, dan apa artinya buat uangmu.
 
-## Shift 1: Neobanks Are Replacing Checking and Savings
+## Pergeseran 1: Neobank Menggantikan Rekening Giro dan Tabungan
 
-The most visible fintech disruption is in basic banking. [Neobanks](/blog/best-neobanks-2026/) like Chime, SoFi, Ally, and Marcus have attracted tens of millions of American customers by offering what traditional banks refuse to: high interest rates, zero fees, and modern technology.
+Gangguan fintech yang paling terlihat ada di layanan perbankan dasar. [Neobank](/blog/best-neobanks-2026/) seperti Jago, Seabank, BCA Digital, dan Bank Jago berhasil menarik jutaan nasabah dengan menawarkan hal yang sering tidak diberikan bank tradisional: bunga tinggi, biaya rendah, dan teknologi yang modern.
 
-### The Numbers Tell the Story
+### Angkanya Bercerita
 
-- **Chime**: Over 22 million account holders as of 2025, making it larger than most regional banks.
-- **SoFi**: Crossed 8 million members and holds over $20 billion in deposits since getting its bank charter.
-- **Ally Bank**: Over $150 billion in deposits, larger than many traditional banks with hundreds of branches.
-- **Neobank savings rates**: 4.00% to 4.50% APY.
-- **Traditional bank savings rates**: 0.01% to 0.10% APY at the Big Four (Chase, Bank of America, Wells Fargo, Citi).
+- **Jago**: Jutaan pengguna aktif, dan terus tumbuh sebagai bank digital populer.
+- **Seabank**: Basis nasabahnya besar dan dikenal dengan promo serta bunga tabungan yang kompetitif.
+- **BCA Digital**: Menjadi pilihan banyak pengguna yang ingin pengalaman digital dari bank besar.
+- **Bunga tabungan neobank**: Sekitar 4,00% sampai 4,50% per tahun.
+- **Bunga tabungan bank tradisional**: Jauh lebih rendah, sering kali hanya sekitar 0,01% sampai 0,10% per tahun di bank besar.
 
-### Why People Are Switching
+### Kenapa Orang Pindah
 
-The math is brutally simple. If you keep $10,000 in a Chase savings account at 0.01% APY, you earn $1 per year. Put that same $10,000 in an Ally savings account at 4.25% APY, and you earn $425. That is a $424 difference on the exact same amount of money, both FDIC insured.
+Hitungannya sangat sederhana. Kalau kamu menyimpan Rp 150 juta di tabungan dengan bunga 0,01% per tahun, hasilnya cuma sekitar Rp 15 ribu setahun. Tapi kalau Rp 150 juta itu kamu taruh di tabungan dengan bunga 4,25% per tahun, kamu bisa dapat sekitar Rp 6,4 juta. Selisihnya sangat besar, padahal uangnya sama.
 
-Traditional banks can afford to pay higher rates but choose not to because enough customers stay out of inertia. Every year, more people do the math and make the switch.
+Bank tradisional sebenarnya bisa saja membayar bunga lebih tinggi, tapi mereka memilih tidak melakukannya karena masih banyak nasabah yang bertahan karena kebiasaan. Setiap tahun, makin banyak orang yang mulai berhitung dan akhirnya pindah.
 
-### What Traditional Banks Are Doing About It
+### Apa yang Dilakukan Bank Tradisional
 
-Some legacy banks have launched their own digital-only brands:
+Beberapa bank lama mulai meluncurkan merek digital mereka sendiri:
 
-- **Goldman Sachs**: Created Marcus, which pays competitive rates online while Goldman's traditional wealth management serves a different audience.
-- **Capital One**: The 360 product line offers online savings at rates near neobank levels, plus some physical locations.
-- **JPMorgan Chase**: Launched a high-yield savings product, though rates still lag behind pure online banks.
+- **BCA**: Mengembangkan layanan digital yang makin lengkap untuk menyaingi bank digital.
+- **Mandiri**: Memperkuat aplikasi dan layanan online untuk nasabah yang ingin akses cepat.
+- **Jago**: Menawarkan pengalaman digital yang lebih fleksibel dan terintegrasi.
 
-But these efforts feel more like defensive moves than genuine innovation. The core business model of traditional banking, which depends on paying customers almost nothing for their deposits, is fundamentally at odds with what fintech offers.
+Tapi langkah-langkah ini sering terasa seperti pertahanan, bukan inovasi yang benar-benar baru. Model bisnis inti perbankan tradisional, yang bergantung pada membayar nasabah sangat kecil atas simpanan mereka, memang bertentangan dengan apa yang ditawarkan fintech.
 
-## Shift 2: BNPL and Fintech Lending Are Replacing Credit Cards and Loans
+## Pergeseran 2: BNPL dan Pinjaman Fintech Menggantikan Kartu Kredit dan Pinjaman
 
-Buy Now, Pay Later (BNPL) has exploded in the US, and it is changing how Americans think about credit.
+Buy Now, Pay Later (BNPL) meledak di Indonesia, dan cara ini mengubah bagaimana orang memandang kredit.
 
-### The BNPL Landscape in 2026
+### Lanskap BNPL di 2026
 
-| Provider | How It Works | Interest | Late Fees |
+| Penyedia | Cara Kerja | Bunga | Denda Telat |
 |---|---|---|---|
-| Affirm | Split purchases into monthly payments | 0-36% APR | No late fees |
-| Klarna | Pay in 4, monthly financing | 0% (pay-in-4), variable (financing) | Up to $7 per missed payment |
-| Afterpay | 4 interest-free payments over 6 weeks | 0% | Up to $8 per missed payment |
-| Apple Pay Later | 4 payments over 6 weeks | 0% | No late fees |
-| PayPal Pay Later | Pay in 4 or monthly | 0% (pay-in-4), variable (monthly) | Varies |
+| Kredivo | Pecah pembelian jadi cicilan bulanan | 0-36% per tahun | Ada, tergantung ketentuan |
+| Akulaku | Pay-in-4, cicilan bulanan | 0% (pay-in-4), variabel (cicilan) | Ada, tergantung ketentuan |
+| Shopee PayLater | Cicilan 2-12 bulan | Variabel | Ada, tergantung ketentuan |
+| GoPay Later | Bayar nanti atau cicilan | Variabel | Ada, tergantung ketentuan |
+| DANA PayLater | Bayar bertahap | Variabel | Ada, tergantung ketentuan |
 
-### Why BNPL Is Growing
+### Kenapa BNPL Makin Populer
 
-- **Instant approval**: No lengthy credit application. Most BNPL approvals happen in seconds with a soft credit check.
-- **Interest-free options**: Pay-in-four plans from Afterpay, Klarna, and Apple typically charge zero interest.
-- **Younger consumers**: Gen Z and millennials are more likely to use BNPL than traditional credit cards. Many distrust credit card debt.
-- **Merchant adoption**: Major retailers from Amazon to Walmart now offer BNPL at checkout, both online and in stores.
+- **Persetujuan instan**: Tidak perlu proses pengajuan kredit yang panjang. Sebagian besar persetujuan BNPL keluar dalam hitungan detik.
+- **Opsi tanpa bunga**: Skema pay-in-four dari beberapa penyedia sering kali tanpa bunga.
+- **Konsumen muda**: Gen Z dan milenial lebih sering memakai BNPL dibanding kartu kredit tradisional. Banyak yang tidak suka utang kartu kredit.
+- **Adopsi merchant**: Banyak merchant besar kini menawarkan BNPL saat checkout, baik online maupun offline.
 
-### The Risks of BNPL
+### Risiko BNPL
 
-BNPL is not free money, and it can create problems:
+BNPL bukan uang gratis, dan bisa menimbulkan masalah:
 
-- **Overspending**: The psychological ease of splitting payments can lead people to buy things they cannot actually afford.
-- **Stacking payments**: Using BNPL across multiple purchases creates overlapping payment schedules that become hard to track.
-- **Credit reporting**: Some BNPL providers now report to credit bureaus. A missed payment can hurt your credit score.
-- **Debt accumulation**: The Consumer Financial Protection Bureau (CFPB) has raised concerns about BNPL contributing to consumer debt.
+- **Belanja berlebihan**: Karena terasa ringan, orang jadi mudah membeli barang yang sebenarnya belum mampu dibayar.
+- **Cicilan menumpuk**: Kalau dipakai di banyak transaksi, jadwal pembayaran jadi saling tumpang tindih dan sulit dilacak.
+- **Pelaporan kredit**: Beberapa penyedia BNPL sekarang melapor ke SLIK OJK. Telat bayar bisa merusak riwayat kreditmu.
+- **Akumulasi utang**: OJK terus mengingatkan bahwa BNPL bisa mendorong utang konsumtif jika tidak dipakai hati-hati.
 
-### Fintech Personal Loans
+### Pinjaman Pribadi Fintech
 
-Beyond BNPL, fintech lenders are taking market share from traditional banks in personal lending:
+Selain BNPL, pemberi pinjaman fintech juga merebut pangsa pasar dari bank tradisional di pinjaman pribadi:
 
-- **SoFi**: Personal loans up to $100,000 with no fees.
-- **LendingClub**: Peer-to-peer lending that connects borrowers directly with investors.
-- **Upstart**: Uses AI and alternative data to underwrite loans, approving borrowers that traditional banks might reject.
-- **Marcus by Goldman Sachs**: No-fee personal loans with fixed rates.
+- **Kredivo**: Pinjaman pribadi dengan proses cepat dan biaya yang jelas.
+- **Akulaku**: Menawarkan kredit konsumtif dan pinjaman dengan persetujuan cepat.
+- **Amartha**: Fokus pada pembiayaan dan pinjaman berbasis teknologi untuk segmen tertentu.
+- **Bank digital dan aplikasi pinjaman resmi**: Banyak yang menawarkan pinjaman tanpa perlu datang ke cabang.
 
-These platforms typically offer faster approval, lower fees, and a better user experience than walking into a bank and applying for a loan.
+Platform seperti ini biasanya menawarkan persetujuan lebih cepat, biaya lebih rendah, dan pengalaman pengguna yang lebih nyaman daripada datang ke bank dan mengajukan pinjaman secara manual.
 
-## Shift 3: Robo-Advisors and Fintech Apps Are Replacing Financial Advisors
+## Pergeseran 3: Robo-Advisor dan Aplikasi Fintech Menggantikan Penasihat Keuangan
 
-The third major shift is in investing and wealth management. Traditional financial advisors typically charge 1% of assets under management per year. For a $500,000 portfolio, that is $5,000 annually. [Robo-advisor](/blog/robo-advisor-indonesia-review-2026-guide/)s do much of the same work for a fraction of the cost.
+Pergeseran besar ketiga ada di investasi dan pengelolaan kekayaan. Penasihat keuangan tradisional biasanya mengenakan biaya sekitar 1% dari aset kelolaan per tahun. Untuk portofolio Rp 7,5 miliar, itu berarti Rp 75 juta per tahun. [Robo-advisor](/blog/robo-advisor-indonesia-review-2026-guide/) mengerjakan banyak hal yang sama dengan biaya jauh lebih murah.
 
-### The Robo-Advisor Landscape
+### Lanskap Robo-Advisor
 
-| Platform | Annual Fee | Minimum | Key Features |
+| Platform | Biaya Tahunan | Minimum | Fitur Utama |
 |---|---|---|---|
-| Betterment | 0.25% | $0 | Tax-loss harvesting, goal-based planning |
-| Wealthfront | 0.25% | $500 | Direct indexing, automated tax optimization |
-| SoFi Automated | 0% | $1 | Free robo-investing with SoFi membership |
-| Schwab Intelligent | 0% | $5,000 | No advisory fee (holds cash allocation) |
-| Vanguard Digital | 0.20% | $3,000 | Access to Vanguard's low-cost index funds |
+| Bibit | 0,25% | Rp 0 | Diversifikasi otomatis, tujuan investasi |
+| Bareksa | 0,25% | Rp 500 ribu | Rekomendasi otomatis, produk beragam |
+| Ajaib | 0% | Rp 10 ribu | Investasi mudah lewat aplikasi |
+| Platform investasi bank digital | 0% | Rp 100 ribu | Akses ke produk investasi berbiaya rendah |
+| Mandiri Investasi Digital | 0,20% | Rp 3 juta | Akses ke reksadana dan produk investasi murah |
 
-### Why Robo-Advisors Work
+### Kenapa Robo-Advisor Efektif
 
-For most people, a robo-advisor does everything they need:
+Bagi kebanyakan orang, robo-advisor sudah cukup untuk memenuhi kebutuhan investasi:
 
-- **Automatic diversification**: Your money is spread across stocks, bonds, and other assets based on your risk tolerance.
-- **Automatic rebalancing**: When your portfolio drifts from its target allocation, the robo-advisor rebalances automatically.
-- **Tax-loss harvesting**: Services like Betterment and Wealthfront sell losing investments to offset taxable gains, potentially saving you thousands in taxes.
-- **Low minimums**: You can start investing with $0 to $500, compared to the $250,000+ minimum that many traditional advisors require.
+- **Diversifikasi otomatis**: Uangmu dibagi ke saham, obligasi, dan aset lain sesuai profil risiko.
+- **Rebalancing otomatis**: Saat komposisi portofolio bergeser dari target, sistem akan menyesuaikannya lagi.
+- **Tax-loss harvesting**: Layanan seperti ini bisa membantu mengoptimalkan pajak atas keuntungan investasi.
+- **Minimum rendah**: Kamu bisa mulai investasi dari Rp 0 sampai Rp 500 ribu, jauh lebih rendah dibanding penasihat tradisional yang sering minta dana awal besar.
 
-### What Robo-Advisors Cannot Do
+### Apa yang Tidak Bisa Dilakukan Robo-Advisor
 
-Robo-advisors are not a complete replacement for human financial advisors in every situation:
+Robo-advisor bukan pengganti penuh penasihat keuangan manusia untuk semua situasi:
 
-- **Complex tax planning**: If you have a complicated tax situation (business income, real estate, stock options), you need a human CPA or financial planner.
-- **Estate planning**: Robo-advisors do not create wills, trusts, or estate plans.
-- **Behavioral coaching**: A human advisor can talk you out of panic-selling during a market crash. A robo-advisor just keeps rebalancing.
-- **Life transitions**: Major events like divorce, inheritance, or retirement often benefit from personalized advice.
+- **Perencanaan pajak yang rumit**: Kalau situasi pajakmu kompleks, kamu tetap butuh akuntan atau perencana keuangan manusia.
+- **Perencanaan warisan**: Robo-advisor tidak membuat wasiat, trust, atau rencana warisan.
+- **Pendampingan emosional**: Penasihat manusia bisa mencegah kamu panik jual saat pasar anjlok. Robo-advisor hanya terus melakukan rebalancing.
+- **Transisi hidup**: Peristiwa besar seperti perceraian, warisan, atau pensiun sering lebih cocok dibahas dengan saran personal.
 
-## Other Fintech Disruptions Worth Watching
+## Gangguan Fintech Lain yang Layak Dipantau
 
-### Payment Apps
+### Aplikasi Pembayaran
 
-Venmo, Zelle, and [Cash App](/blog/cash-app-review-features-and-how-to-use/) have largely replaced cash and checks for person-to-person payments. Over 80 million Americans use Venmo, and Zelle processed over $800 billion in 2025. Writing a check to split rent feels almost quaint now.
+GoPay, OVO, dan DANA sudah banyak menggantikan uang tunai dan transfer manual untuk pembayaran antarindividu. Jutaan orang Indonesia memakainya setiap hari, dan sekarang patungan atau kirim uang terasa jauh lebih praktis.
 
-### Insurance Tech
+### Insurtech
 
-Companies like Lemonade, Root, and Jerry are using AI and data to disrupt auto, home, and renters insurance. Lemonade can issue a renters policy in about 90 seconds and process claims in minutes.
+Perusahaan seperti Prudential, Allianz, dan AXA Mandiri memanfaatkan teknologi dan data untuk menyederhanakan asuransi jiwa, kesehatan, kendaraan, dan rumah. Beberapa proses klaim kini bisa jauh lebih cepat daripada cara lama.
 
-### Tax Prep
+### Persiapan Pajak
 
-While TurboTax and H&R Block have dominated for years, newer fintech tools like Column Tax (acquired by Cash App) and various AI-powered tax assistants are making filing simpler and cheaper.
+Walau banyak orang masih mengandalkan jasa konsultan pajak, alat digital dan asisten berbasis AI membuat urusan lapor pajak jadi lebih sederhana dan murah.
 
-### Cryptocurrency and Blockchain
+### Kripto dan Blockchain
 
-Fintech platforms like [Coinbase](/blog/coinbase-review-fees-and-features-2026/), [Robinhood](/blog/robinhood-review-features-and-how-to-use/), and SoFi have made buying cryptocurrency accessible to anyone with a smartphone. Whether crypto becomes a fundamental part of finance or remains speculative, fintech made it available to the masses.
+Platform fintech seperti [Coinbase](/blog/coinbase-review-fees-and-features-2026/), [Robinhood](/blog/robinhood-review-features-and-how-to-use/), dan beberapa aplikasi investasi lokal membuat pembelian kripto jadi mudah diakses siapa pun yang punya smartphone. Entah kripto akan jadi bagian penting dari keuangan atau tetap spekulatif, fintech sudah membuatnya tersedia untuk banyak orang.
 
-## What This Means for Your Money
+## Apa Artinya Buat Uangmu
 
-The fintech revolution is broadly positive for consumers:
+Revolusi fintech secara umum positif untuk konsumen:
 
-- **You earn more on savings**: Competition from neobanks forces better rates.
-- **You pay fewer fees**: Traditional overdraft fees, account maintenance fees, and wire transfer fees are disappearing as consumers switch to fintech alternatives.
-- **You get faster service**: Instant transfers, instant approvals, and 24/7 access through mobile apps.
-- **You have more choices**: Instead of being stuck with whatever your local bank offers, you can pick the best product from anywhere in the country.
+- **Kamu bisa dapat bunga lebih tinggi**: Persaingan dari neobank memaksa bunga jadi lebih baik.
+- **Kamu bayar lebih sedikit biaya**: Biaya admin, biaya transfer, dan denda overdraft makin berkurang karena orang pindah ke alternatif fintech.
+- **Layanan lebih cepat**: Transfer instan, persetujuan instan, dan akses 24/7 lewat aplikasi.
+- **Pilihan lebih banyak**: Kamu tidak lagi terikat pada produk yang ditawarkan bank terdekat; kamu bisa pilih yang terbaik dari mana saja.
 
-### But Also Be Careful
+### Tapi Tetap Harus Hati-Hati
 
-- **Not all fintech is FDIC insured**: Make sure your deposits are at an FDIC-insured institution, not just a fintech app that could fail.
-- **Customer service gaps**: Most fintech companies have weaker customer service than large traditional banks. If something goes wrong, resolution can be slow.
-- **Data privacy**: Fintech apps collect enormous amounts of financial data. Read the privacy policy and understand what you are sharing.
-- **Regulatory uncertainty**: Fintech regulation is still evolving. Rules can change, and some products may not have the same consumer protections as traditional banking.
+- **Tidak semua fintech dijamin LPS**: Pastikan simpananmu ada di lembaga yang dijamin LPS, bukan sekadar aplikasi fintech yang bisa bermasalah.
+- **Layanan pelanggan sering lebih lemah**: Banyak perusahaan fintech punya layanan pelanggan yang lebih lambat dibanding bank besar. Kalau ada masalah, penyelesaiannya bisa lama.
+- **Privasi data**: Aplikasi fintech mengumpulkan banyak data keuangan. Baca kebijakan privasi dan pahami data apa yang kamu bagikan.
+- **Aturan masih berubah**: Regulasi fintech terus berkembang. Aturan bisa berubah, dan beberapa produk mungkin tidak punya perlindungan konsumen yang sama seperti perbankan tradisional.
 
-## How to Take Advantage of Fintech in 2026
+## Cara Memanfaatkan Fintech di 2026
 
-Here is a practical roadmap for using fintech to improve your finances:
+Berikut langkah praktis untuk memakai fintech demi memperbaiki keuanganmu:
 
-1. **Move your savings to a high-yield account**: If you are earning less than 3% on savings, switch to Ally, SoFi, or Marcus today.
-2. **Switch to a no-fee checking account**: Chime or SoFi for everyday spending with zero monthly fees.
-3. **Automate your investing**: Set up a robo-advisor with automatic monthly contributions. Even $100 per month builds significant wealth over time.
-4. **Use BNPL strategically**: Only use pay-in-four for planned purchases you can afford. Never stack multiple BNPL obligations.
-5. **Consolidate where possible**: Fewer accounts means less complexity. Choose platforms that combine multiple services, like SoFi for banking and investing.
+1. **Pindahkan tabungan ke rekening berbunga tinggi**: Kalau bunga tabunganmu di bawah 3%, pertimbangkan pindah ke Jago, Seabank, atau BCA Digital.
+2. **Pakai rekening tanpa biaya admin**: Untuk kebutuhan harian, pilih akun yang tidak membebankan biaya bulanan.
+3. **Otomatiskan investasi**: Aktifkan robo-advisor dengan setoran bulanan otomatis. Bahkan Rp 1 juta per bulan bisa membangun kekayaan besar dalam jangka panjang.
+4. **Gunakan BNPL secara strategis**: Pakai pay-in-four hanya untuk pembelian yang sudah direncanakan dan memang sanggup kamu bayar. Jangan menumpuk banyak cicilan BNPL.
+5. **Gabungkan layanan kalau bisa**: Semakin sedikit akun, semakin sederhana hidupmu. Pilih platform yang menggabungkan banyak layanan, misalnya bank digital untuk tabungan dan investasi.
 
-## The Bottom Line
+## Kesimpulan
 
-Fintech is not killing traditional banks overnight, but it is steadily replacing them service by service. Neobanks handle deposits better. BNPL apps and fintech lenders offer more flexible credit. Robo-advisors manage investments cheaper.
+Fintech memang belum membunuh bank tradisional dalam semalam, tapi perlahan menggantikan mereka layanan demi layanan. Neobank menang di simpanan. Aplikasi BNPL dan pemberi pinjaman fintech menawarkan kredit yang lebih fleksibel. Robo-advisor mengelola investasi dengan biaya lebih murah.
 
-The winners in this shift are consumers who pay attention and move their money to where it is treated best. The losers are people who leave $50,000 in a Chase savings account earning $5 per year when they could be earning $2,000+ at an online bank.
+Pemenang dari perubahan ini adalah konsumen yang mau memperhatikan dan memindahkan uangnya ke tempat yang memberi perlakuan terbaik. Yang rugi adalah orang yang membiarkan Rp 750 juta mengendap di tabungan bank tradisional dengan hasil hampir nol, padahal uang itu bisa menghasilkan jauh lebih banyak di bank digital.
 
-The tools are all available. The question is whether you use them.
+Alatnya sudah tersedia. Pertanyaannya, apakah kamu mau memakainya.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-### Is fintech safe to use for banking?
+### Apakah fintech aman dipakai untuk perbankan?
 
-Fintech banking products are safe as long as your deposits are FDIC insured. Neobanks like Ally and SoFi are FDIC-insured banks. Chime provides FDIC insurance through partner banks. Always verify that your deposits are insured before transferring large amounts. The main risk with fintech is weaker customer service compared to traditional banks.
+Produk perbankan fintech aman selama simpananmu dijamin LPS. Neobank seperti Jago dan Seabank adalah bank yang dijamin LPS. Beberapa aplikasi lain juga bekerja sama dengan bank mitra yang dijamin LPS. Selalu pastikan simpananmu terlindungi sebelum memindahkan dana besar. Risiko utama fintech biasanya ada pada layanan pelanggan yang lebih lemah dibanding bank tradisional.
 
-### Will traditional banks disappear?
+### Apakah bank tradisional akan hilang?
 
-No, at least not anytime soon. Traditional banks still dominate business banking, mortgages, and wealth management for high-net-worth clients. They also provide services like safe deposit boxes, notary services, and in-person assistance that fintech cannot replicate. However, for basic consumer banking, the trend toward digital is irreversible.
+Tidak, setidaknya belum dalam waktu dekat. Bank tradisional masih mendominasi perbankan bisnis, KPR, dan pengelolaan kekayaan untuk nasabah kaya. Mereka juga menyediakan layanan seperti safe deposit box, notaris, dan bantuan tatap muka yang tidak bisa sepenuhnya digantikan fintech. Namun, untuk perbankan konsumen dasar, arah pergeserannya ke digital sudah sulit dibalik.
 
-### What is the biggest risk of using fintech?
+### Apa risiko terbesar memakai fintech?
 
-The biggest practical risk is customer service. If your account gets locked, a payment goes wrong, or you need to resolve a complex issue, fintech companies often have longer wait times and less authority to resolve problems compared to walking into a bank branch. To mitigate this, always keep a backup account at a separate institution.
+Risiko praktis terbesar adalah layanan pelanggan. Kalau akunmu terkunci, ada pembayaran yang gagal, atau kamu perlu menyelesaikan masalah yang rumit, perusahaan fintech sering punya waktu respons lebih lama dan wewenang yang lebih terbatas dibanding datang langsung ke cabang bank. Untuk mengurangi risiko ini, selalu punya rekening cadangan di institusi lain.
 
-### Should I move all my money to fintech?
+### Haruskah saya memindahkan semua uang saya ke fintech?
 
-I would not recommend putting all your money in a single fintech platform. Instead, diversify across two or three institutions. For example, keep your checking at Chime, savings at Ally, and investments at Fidelity or SoFi. This way, if one platform has issues, you still have access to money elsewhere.
+Saya tidak menyarankan menyimpan semua uangmu di satu platform fintech saja. Sebaiknya diversifikasi ke dua atau tiga institusi. Misalnya, simpan rekening harian di Jago, tabungan di Seabank, dan investasi di Bibit atau Bareksa. Dengan begitu, kalau satu platform bermasalah, kamu masih punya akses ke uang di tempat lain.
