@@ -6,7 +6,7 @@ category: "investing"
 tags: ["ETF investing", "index ETF", "Vanguard", "Fidelity", "beginner investing"]
 author: "Evan Today"
 heroImage: './images/investing-2.jpg'
-heroImageAlt: 'ETF Investing for Beginners: Start With author: "Evan"00 [2026]'
+heroImageAlt: 'Ilustrasi investasi ETF untuk pemula di pasar saham Indonesia'
 
 ---
 

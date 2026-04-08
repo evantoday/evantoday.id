@@ -7,7 +7,7 @@ category: "insurance"
 tags: ["homeowners insurance", "home insurance", "property insurance", "insurance comparison"]
 author: "Evan Today"
 heroImage: './images/insurance-1.jpg'
-heroImageAlt: 'Homeowners Insurance Guide [2026]: Save author: "Evan",000+'
+heroImageAlt: 'Rumah keluarga dengan perlindungan asuransi properti'
 
 ---
 

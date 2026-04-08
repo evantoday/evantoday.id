@@ -7,7 +7,7 @@ category: "personal-finance"
 tags: ["save $10,000", "savings plan", "money challenge", "annual savings", "save money fast"]
 author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
-heroImageAlt: 'How to Save author: "Evan"0,000 in 1 Year (Month-by-Month Plan)'
+heroImageAlt: 'Celengan dan uang tabungan untuk target menabung setahun'
 
 ---
 

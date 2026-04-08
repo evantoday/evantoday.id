@@ -6,7 +6,7 @@ category: "financial-tips"
 tags: ["salary negotiation", "raise", "job offer", "compensation", "career"]
 author: "Evan Today"
 heroImage: './images/financial-tips-2.jpg'
-heroImageAlt: 'Salary Negotiation: Get $5K-author: "Evan Today"5K More [2026 Guide]'
+heroImageAlt: 'Negosiasi gaji di kantor dengan atasan'
 
 ---
 
