@@ -5,6 +5,30 @@ import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import rehypeExternalLinks from 'rehype-external-links';
 import { defineConfig } from 'astro/config';
+import { readdirSync, readFileSync } from 'fs';
+import { join } from 'path';
+
+// Build a slug → lastmod date mapping from blog content frontmatter
+function buildDateMap() {
+	const map = {};
+	const blogDir = join(process.cwd(), 'src', 'content', 'blog');
+	try {
+		const files = readdirSync(blogDir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
+		for (const file of files) {
+			const content = readFileSync(join(blogDir, file), 'utf-8');
+			const slug = file.replace(/\.(md|mdx)$/, '');
+			const updatedMatch = content.match(/updatedDate:\s*(.+)/);
+			const pubMatch = content.match(/pubDate:\s*(.+)/);
+			const dateStr = updatedMatch?.[1]?.trim() || pubMatch?.[1]?.trim();
+			if (dateStr) {
+				map[slug] = new Date(dateStr).toISOString();
+			}
+		}
+	} catch {}
+	return map;
+}
+
+const dateMap = buildDateMap();
 
 // https://astro.build/config
 export default defineConfig({
@@ -13,6 +37,11 @@ export default defineConfig({
 		mdx(),
 		sitemap({
 			serialize(item) {
+				// Set lastmod from actual content dates for blog posts
+				const slugMatch = item.url.match(/\/blog\/([^/]+)\/?$/);
+				if (slugMatch && dateMap[slugMatch[1]]) {
+					item.lastmod = dateMap[slugMatch[1]];
+				}
 
 				// Blog posts get higher priority
 				if (item.url.includes('/blog/') && !item.url.endsWith('/blog/')) {
