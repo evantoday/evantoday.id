@@ -6,7 +6,7 @@ category: "investing"
 tags: ["retirement planning", "401k", "IRA", "Roth IRA", "retirement savings"]
 author: "Evan Today"
 heroImage: './images/investing-2.jpg'
-heroImageAlt: 'Retirement Planning: 401(k), IRA, and Beyond [2026]'
+heroImageAlt: 'Memulai investasi dengan aplikasi dan platform digital'
 
 ---
 

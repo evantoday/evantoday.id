@@ -7,7 +7,7 @@ category: "insurance"
 tags: ["insurance claim", "insurance claim process", "health insurance", "car insurance", "step by step"]
 author: "Evan Today"
 heroImage: './images/insurance-1.jpg'
-heroImageAlt: '7 Proven Steps to Claim Insurance [2026 Guide]'
+heroImageAlt: 'Perlindungan asuransi untuk keluarga dan aset'
 
 ---
 

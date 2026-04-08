@@ -7,7 +7,7 @@ category: "cryptocurrency"
 tags: ["stablecoin", "USDT", "USDC", "crypto Indonesia", "investasi"]
 author: "Evan Today"
 heroImage: './images/stablecoin-explained-usdt-vs-usdc-untuk-orang-indonesia.jpg'
-heroImageAlt: 'a cell phone displaying a stock chart on the screen'
+heroImageAlt: 'Stablecoin USDT dan USDC untuk investor kripto Indonesia'
 ---
 
 Kalau kamu pernah lihat orang kirim dolar lewat crypto dengan biaya cuma beberapa ribu rupiah, besar kemungkinan mereka pakai stablecoin. Buat saya pribadi, stablecoin itu salah satu “jembatan” paling berguna di dunia crypto, terutama kalau kamu di Indonesia dan butuh aset yang harganya tidak liar seperti Bitcoin atau altcoin.

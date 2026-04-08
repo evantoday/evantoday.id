@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["frugal living", "frugal tips", "save money", "minimalist living", "spend less"]
 author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
-heroImageAlt: '7 Frugal Living Tips (Without Sacrificing Quality)'
+heroImageAlt: 'Menghitung anggaran bulanan dan mengelola pengeluaran'
 
 ---
 

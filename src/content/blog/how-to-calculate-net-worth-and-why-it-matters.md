@@ -6,7 +6,7 @@ category: "financial-tips"
 tags: ["net worth", "net worth calculator", "financial health", "assets vs liabilities", "wealth tracking"]
 author: "Evan Today"
 heroImage: './images/financial-tips-1.jpg'
-heroImageAlt: 'How to Calculate Your Net Worth [Free Formula]'
+heroImageAlt: 'Tips dan trik keuangan untuk kehidupan sehari-hari'
 
 ---
 

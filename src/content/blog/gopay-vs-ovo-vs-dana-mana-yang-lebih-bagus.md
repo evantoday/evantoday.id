@@ -7,7 +7,7 @@ category: "fintech"
 tags: ["gopay", "ovo", "dana", "e-wallet", "perbandingan"]
 author: "Evan Today"
 heroImage: './images/gopay-vs-ovo-vs-dana-mana-yang-lebih-bagus.jpg'
-heroImageAlt: 'A couple of people sitting on top of a bench'
+heroImageAlt: 'Perbandingan dompet digital GoPay, OVO, dan DANA'
 ---
 
 Kalau saya disuruh pilih satu e-wallet utama untuk dipakai harian, saya tidak akan jawab asal. Soalnya beda orang, beda kebutuhan. Ada yang paling sering bayar GoFood, ada yang hidupnya banyak transfer antarbank, ada juga yang kejar promo belanja online. Jadi pertanyaan **GoPay vs OVO vs DANA which is better** itu memang harus dijawab dengan konteks, bukan sekadar “yang paling populer”.

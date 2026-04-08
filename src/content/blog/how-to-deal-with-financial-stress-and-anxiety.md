@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["financial stress", "money anxiety", "financial wellness", "debt stress", "money worries"]
 author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
-heroImageAlt: '7 Ways to Beat Financial Stress and Anxiety'
+heroImageAlt: 'Tips menabung dan mengatur keuangan rumah tangga'
 
 ---
 

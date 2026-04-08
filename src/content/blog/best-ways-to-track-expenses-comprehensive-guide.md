@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["expense tracking", "budget apps", "Mint", "YNAB", "Copilot", "money management"]
 author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
-heroImageAlt: '5 Best Expense Tracking Apps in 2026 (Free & Paid)'
+heroImageAlt: 'Menghitung anggaran bulanan dan mengelola pengeluaran'
 
 ---
 

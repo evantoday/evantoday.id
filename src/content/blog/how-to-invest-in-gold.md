@@ -6,7 +6,7 @@ category: "investing"
 tags: ["gold investing", "gold ETF", "precious metals", "GLD", "gold IRA"]
 author: "Evan Today"
 heroImage: './images/investing-1.jpg'
-heroImageAlt: 'How to Invest in Gold in 2026 (5 Best Ways)'
+heroImageAlt: 'Grafik investasi saham dan analisis portofolio'
 
 ---
 

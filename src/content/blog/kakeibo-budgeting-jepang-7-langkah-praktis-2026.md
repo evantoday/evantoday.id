@@ -7,7 +7,7 @@ category: "personal-finance"
 tags: ["kakeibo", "budgeting", "keuangan pribadi", "menabung", "gaya hidup"]
 author: "Evan Today"
 heroImage: './images/kakeibo-budgeting-jepang-7-langkah-praktis-2026.jpg'
-heroImageAlt: 'Stack of polish zloty banknotes in a wallet.'
+heroImageAlt: 'Metode budgeting Kakeibo Jepang dengan catatan pengeluaran'
 ---
 
 Saya pertama kali coba **kakeibo Japanese budgeting method for Indonesians** waktu merasa uang gaji “hilang” padahal baru pertengahan bulan. Aneh banget: gaji masuk, transfer sana-sini, jajan sedikit, eh tiba-tiba saldo tinggal sisa recehan. Setelah saya tulis semua pengeluaran pakai cara Kakeibo, baru kelihatan kebocorannya. Ternyata yang bikin bocor bukan cicilan besar, tapi pengeluaran kecil yang berulang.

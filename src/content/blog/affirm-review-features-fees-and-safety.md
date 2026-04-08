@@ -6,7 +6,7 @@ category: "fintech"
 tags: ["Affirm", "buy now pay later", "BNPL", "Affirm review", "installment payments"]
 author: "Evan Today"
 heroImage: './images/fintech-2.jpg'
-heroImageAlt: 'Affirm Review [2026]: Hidden Fees and Interest Rates'
+heroImageAlt: 'Review aplikasi fintech dan perbandingan fitur'
 
 ---
 

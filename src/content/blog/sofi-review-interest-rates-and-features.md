@@ -1,12 +1,13 @@
 ---
 title: "SoFi Bank Review [2026]: 4%+ APY Worth It?"
+draft: true
 description: "SoFi pays 4%+ APY with no fees and $2M FDIC insurance. Full review of checking, savings, investing, and fine print."
 pubDate: 2026-03-12
 category: "digital-banking"
 tags: ["SoFi", "SoFi review", "high-yield savings", "SoFi checking", "online bank"]
 author: "Evan Today"
 heroImage: './images/digital-banking-2.jpg'
-heroImageAlt: 'SoFi Bank Review [2026]: 4%+ APY Worth It?'
+heroImageAlt: 'Perbandingan bunga tabungan bank digital Indonesia'
 
 ---
 

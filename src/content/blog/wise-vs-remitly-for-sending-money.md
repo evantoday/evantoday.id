@@ -7,7 +7,7 @@ category: "fintech"
 tags: ["Wise", "Remitly", "international transfer", "send money abroad", "money transfer comparison"]
 author: "Evan Today"
 heroImage: './images/fintech-1.jpg'
-heroImageAlt: 'Wise vs Remitly: Best for Sending Money Abroad?'
+heroImageAlt: 'Aplikasi keuangan digital dan pembayaran mobile'
 
 ---
 

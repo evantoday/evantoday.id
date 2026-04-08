@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["rent budget", "30 percent rule", "housing costs", "rent to income ratio", "affordable rent"]
 author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
-heroImageAlt: 'How Much Should You Spend on Rent? (30% Rule)'
+heroImageAlt: 'Tips menabung dan mengatur keuangan rumah tangga'
 
 ---
 

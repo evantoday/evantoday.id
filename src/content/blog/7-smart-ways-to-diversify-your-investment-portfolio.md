@@ -7,7 +7,7 @@ category: "investing"
 tags: ["diversification", "portfolio", "investing", "asset allocation"]
 author: "Evan Today"
 heroImage: './images/investing-1.jpg'
-heroImageAlt: '7 Smart Ways to Diversify Your Investment Portfolio'
+heroImageAlt: 'Grafik investasi saham dan analisis portofolio'
 
 ---
 

@@ -7,7 +7,7 @@ category: "investing"
 tags: ["investasi pemula", "investasi indonesia", "cara mulai investasi", "reksa dana", "saham"]
 author: "Evan Today"
 heroImage: './images/cara-mulai-investasi-di-indonesia-untuk-pemula-2026-guide.jpg'
-heroImageAlt: 'a tall white building sitting next to a traffic light'
+heroImageAlt: 'Panduan memulai investasi untuk pemula di Indonesia'
 ---
 
 Saya masih ingat waktu pertama kali mulai investasi di Indonesia: modal saya kecil, bingung pilih aplikasi, dan jujur saja, terlalu cepat tergoda iming-iming return tinggi. Waktu itu saya pikir investasi itu rumit. Ternyata yang bikin rumit justru kita sendiri kalau belum punya urutan langkah yang benar.

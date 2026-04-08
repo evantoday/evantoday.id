@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["impulse buying", "stop impulse spending", "save money", "shopping addiction", "spending habits"]
 author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
-heroImageAlt: '10 Ways to Stop Impulse Buying (Save $5,000/Year)'
+heroImageAlt: 'Menghitung anggaran bulanan dan mengelola pengeluaran'
 
 ---
 

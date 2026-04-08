@@ -6,7 +6,7 @@ category: "digital-banking"
 tags: ["open bank account", "online banking", "bank account online", "checking account", "savings account"]
 author: "Evan Today"
 heroImage: './images/digital-banking-1.jpg'
-heroImageAlt: 'How to Open a Bank Account Online (10 Minutes)'
+heroImageAlt: 'Layanan bank digital dan tabungan online'
 
 ---
 

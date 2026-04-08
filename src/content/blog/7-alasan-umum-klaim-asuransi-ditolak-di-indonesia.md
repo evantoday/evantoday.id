@@ -7,7 +7,7 @@ category: "insurance"
 tags: ["asuransi", "klaim asuransi", "polis", "indonesia", "keuangan"]
 author: "Evan Today"
 heroImage: './images/7-alasan-umum-klaim-asuransi-ditolak-di-indonesia.jpg'
-heroImageAlt: 'a card with a drawing of a person on it'
+heroImageAlt: 'Dokumen klaim asuransi yang ditolak dan alasan penolakan'
 ---
 
 Pernah dengar cerita orang bayar premi rutin bertahun-tahun, lalu pas klaim malah ditolak? Saya sering banget lihat kasus seperti ini, dan jujur saja, penyebabnya sering bukan karena “asuransinya jelek”, tapi karena detail kecil yang diabaikan dari awal. Kalau kamu lagi cari common insurance claim rejection reasons Indonesia, artikel ini akan bantu kamu paham alasan paling sering klaim gagal dan cara menghindarinya.

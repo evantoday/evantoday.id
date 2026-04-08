@@ -1,12 +1,13 @@
 ---
 title: "NYC vs LA vs Austin: Biaya Hidup 2026"
+draft: true
 description: "Sewa di NYC bisa makan 40% gaji, sementara Austin jauh lebih murah. Ini rincian biaya nyata: rumah, makan, transportasi, dan pajak."
 pubDate: 2026-03-19
 category: "personal-finance"
 tags: ["cost of living", "NYC vs LA", "Austin cost of living", "city comparison", "relocation"]
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
-heroImageAlt: 'NYC vs LA vs Austin: Cost of Living Compared [2026]'
+heroImageAlt: 'Perencanaan keuangan pribadi dengan notebook dan kalkulator'
 
 ---
 

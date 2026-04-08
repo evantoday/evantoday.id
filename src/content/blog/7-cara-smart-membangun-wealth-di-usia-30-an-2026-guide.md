@@ -7,7 +7,7 @@ category: "personal-finance"
 tags: ["wealth building", "keuangan pribadi", "investasi", "tabungan", "Indonesia"]
 author: "Evan Today"
 heroImage: './images/7-cara-smart-membangun-wealth-di-usia-30-an-2026-guide.jpg'
-heroImageAlt: 'text'
+heroImageAlt: 'Strategi membangun kekayaan di usia 30-an dengan perencanaan finansial'
 ---
 
 Waktu masuk usia 30-an, banyak orang baru sadar: kerja keras saja tidak otomatis bikin kaya. Saya juga pernah ada di fase itu. Gaji naik, tapi kok tabungan tetap segitu-gitu saja, malah kadang habis duluan sebelum akhir bulan.

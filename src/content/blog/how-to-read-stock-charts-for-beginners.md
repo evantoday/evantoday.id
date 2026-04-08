@@ -6,7 +6,7 @@ category: "investing"
 tags: ["stock charts", "technical analysis", "candlestick charts", "stock trading", "beginner investing"]
 author: "Evan Today"
 heroImage: './images/investing-2.jpg'
-heroImageAlt: 'How to Read Stock Charts: Beginner Guide [2026]'
+heroImageAlt: 'Memulai investasi dengan aplikasi dan platform digital'
 
 ---
 

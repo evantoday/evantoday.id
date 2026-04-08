@@ -6,7 +6,7 @@ category: "cryptocurrency"
 tags: ["crypto risks", "cryptocurrency risks", "crypto scams", "crypto regulation", "investing risks"]
 author: "Evan Today"
 heroImage: './images/cryptocurrency-2.jpg'
-heroImageAlt: '5 Crypto Risks Every Investor Must Know [2026]'
+heroImageAlt: 'Trading crypto dan analisis pasar digital'
 
 ---
 

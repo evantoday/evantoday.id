@@ -6,7 +6,7 @@ category: "financial-tips"
 tags: ["FIRE movement", "early retirement", "financial independence", "retire early", "FIRE number"]
 author: "Evan Today"
 heroImage: './images/financial-tips-1.jpg'
-heroImageAlt: 'FIRE Movement: How to Retire Before 40 [2026]'
+heroImageAlt: 'Tips dan trik keuangan untuk kehidupan sehari-hari'
 
 ---
 

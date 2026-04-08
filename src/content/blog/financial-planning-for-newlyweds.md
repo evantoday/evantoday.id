@@ -6,7 +6,7 @@ category: "financial-tips"
 tags: ["newlywed finances", "couple money management", "joint accounts", "marriage finances", "financial planning"]
 author: "Evan Today"
 heroImage: './images/financial-tips-2.jpg'
-heroImageAlt: 'Financial Planning for Newlyweds (7 Key Steps)'
+heroImageAlt: 'Strategi membangun kekayaan dan kebiasaan finansial'
 
 ---
 

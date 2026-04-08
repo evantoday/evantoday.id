@@ -16,13 +16,13 @@ export const CATEGORIES = [
 export type Category = (typeof CATEGORIES)[number];
 
 export const CATEGORY_LABELS: Record<Category, string> = {
-	'personal-finance': 'Personal Finance',
+	'personal-finance': 'Keuangan Pribadi',
 	'fintech': 'Fintech',
-	'cryptocurrency': 'Cryptocurrency',
-	'insurance': 'Insurance',
-	'investing': 'Investing',
-	'digital-banking': 'Digital Banking',
-	'financial-tips': 'Financial Tips',
+	'cryptocurrency': 'Kripto',
+	'insurance': 'Asuransi',
+	'investing': 'Investasi',
+	'digital-banking': 'Bank Digital',
+	'financial-tips': 'Tips Keuangan',
 };
 
 export const CATEGORY_DESCRIPTIONS: Record<Category, string> = {

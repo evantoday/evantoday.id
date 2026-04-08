@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["automatic savings", "save money", "round-up savings", "paycheck splitting", "wealth building"]
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
-heroImageAlt: '10 Automatic Savings Tricks That Build Wealth'
+heroImageAlt: 'Perencanaan keuangan pribadi dengan notebook dan kalkulator'
 
 ---
 

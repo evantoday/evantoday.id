@@ -25,10 +25,10 @@ const pathname = Astro.url.pathname;
 		<!-- Desktop nav -->
 		<div class="hidden md:flex items-center gap-6">
 			{([
-				{ href: '/', label: 'Home', match: pathname === '/' },
-				{ href: '/blog', label: 'Articles', match: pathname.startsWith('/blog') },
-				{ href: '/about', label: 'About', match: pathname === '/about' },
-				{ href: '/contact', label: 'Contact', match: pathname === '/contact' },
+				{ href: '/', label: 'Beranda', match: pathname === '/' },
+				{ href: '/blog', label: 'Artikel', match: pathname.startsWith('/blog') },
+				{ href: '/about', label: 'Tentang', match: pathname === '/about' },
+				{ href: '/contact', label: 'Kontak', match: pathname === '/contact' },
 			]).map((link) => (
 				<a
 					href={link.href}
@@ -47,10 +47,10 @@ const pathname = Astro.url.pathname;
 	<div id="mobile-menu" class="hidden md:hidden border-t border-gray-100">
 		<div class="px-4 py-3 space-y-3">
 			{([
-				{ href: '/', label: 'Home', match: pathname === '/' },
-				{ href: '/blog', label: 'Articles', match: pathname.startsWith('/blog') },
-				{ href: '/about', label: 'About', match: pathname === '/about' },
-				{ href: '/contact', label: 'Contact', match: pathname === '/contact' },
+				{ href: '/', label: 'Beranda', match: pathname === '/' },
+				{ href: '/blog', label: 'Artikel', match: pathname.startsWith('/blog') },
+				{ href: '/about', label: 'Tentang', match: pathname === '/about' },
+				{ href: '/contact', label: 'Kontak', match: pathname === '/contact' },
 			]).map((link) => (
 				<a
 					href={link.href}

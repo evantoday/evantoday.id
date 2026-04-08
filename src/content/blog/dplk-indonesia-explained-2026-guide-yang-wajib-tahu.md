@@ -7,7 +7,7 @@ category: "insurance"
 tags: ["DPLK", "dana pensiun", "pensiun", "investasi", "asuransi"]
 author: "Evan Today"
 heroImage: './images/dplk-indonesia-explained-2026-guide-yang-wajib-tahu.jpg'
-heroImageAlt: 'round gold-colored rupee coins and banknotes'
+heroImageAlt: 'Dana Pensiun Lembaga Keuangan dan persiapan pensiun di Indonesia'
 ---
 
 Saya masih ingat obrolan dengan teman kantor yang bilang, “Nanti saja mikir pensiun, gaji sekarang aja masih pas-pasan.” Jujur, dulu saya juga pernah berpikir begitu. Tapi setelah lihat sendiri betapa cepatnya biaya hidup naik, saya jadi makin yakin: urusan pensiun itu lebih enak dimulai saat masih 20–30-an, bukan saat umur sudah mendekati 50.

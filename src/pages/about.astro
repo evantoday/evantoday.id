@@ -5,7 +5,7 @@ import SchemaOrg from '../components/SchemaOrg.astro';
 const siteUrl = 'https://evantoday.id';
 ---
 
-<BaseLayout title="About" description="Meet Evan — the person behind Evan Today, a personal finance blog helping Americans make smarter money decisions.">
+<BaseLayout title="Tentang" description="Kenalan dengan Evan — penulis di balik Evan Today, blog keuangan pribadi yang membantu orang Indonesia mengambil keputusan finansial lebih cerdas.">
 	<script type="application/ld+json" set:html={JSON.stringify({
 		'@context': 'https://schema.org',
 		'@type': 'ProfilePage',
@@ -13,12 +13,12 @@ const siteUrl = 'https://evantoday.id';
 			'@type': 'Person',
 			name: 'Evan',
 			url: `${siteUrl}/about`,
-			jobTitle: 'Personal Finance Writer',
-			description: 'Writer, finance nerd, and founder of Evan Today — a personal finance blog helping Americans make smarter money decisions.',
-			knowsAbout: ['Personal Finance', 'Investing', 'Insurance', 'Budgeting', 'Fintech', 'Cryptocurrency'],
+			jobTitle: 'Penulis Keuangan Pribadi',
+			description: 'Penulis dan pendiri Evan Today — blog keuangan pribadi yang membantu orang Indonesia mengambil keputusan finansial lebih cerdas.',
+			knowsAbout: ['Keuangan Pribadi', 'Investasi', 'Asuransi', 'Budgeting', 'Fintech', 'Cryptocurrency', 'Reksadana', 'Saham Indonesia'],
 		},
 	})} />
-	<SchemaOrg type="website" description="Meet Evan — the person behind Evan Today, a personal finance blog helping Americans make smarter money decisions." />
+	<SchemaOrg type="website" description="Kenalan dengan Evan — penulis di balik Evan Today, blog keuangan pribadi untuk orang Indonesia." />
 	<div class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
 		<!-- Author intro -->
 		<div class="flex flex-col sm:flex-row items-start gap-6 mb-12">
@@ -26,66 +26,66 @@ const siteUrl = 'https://evantoday.id';
 				<span class="text-white text-2xl font-bold">E</span>
 			</div>
 			<div>
-				<h1 class="text-3xl font-bold text-gray-900 mb-2">Hey, I'm Evan</h1>
-				<p class="text-lg text-gray-500">Writer, finance nerd, and someone who learned about money the hard way — so you don't have to.</p>
+				<h1 class="text-3xl font-bold text-gray-900 mb-2">Halo, saya Evan</h1>
+				<p class="text-lg text-gray-500">Penulis, pecinta keuangan, dan seseorang yang belajar tentang uang dengan cara yang keras — supaya kamu nggak perlu.</p>
 			</div>
 		</div>
 
 		<div class="prose">
 			<p>
-				I started Evan Today because I was tired of financial advice that was either too vague to be useful
-				or too complicated to follow. Most personal finance content tells you to "just save more" or throws
-				around terms like asset allocation without explaining what to actually do on Monday morning.
+				Saya memulai Evan Today karena capek dengan saran keuangan yang terlalu umum atau terlalu rumit.
+				Kebanyakan konten keuangan di Indonesia cuma bilang "nabung lebih banyak" atau pakai istilah seperti
+				alokasi aset tanpa menjelaskan apa yang harus dilakukan hari Senin pagi.
 			</p>
 
 			<p>
-				I'm not a certified financial planner. I'm someone who spent years making money mistakes —
-				blowing tax refunds on things I didn't need, ignoring my 401(k) match for way too long, and keeping all
-				my savings in a big bank account earning basically nothing. Eventually I started learning,
-				experimenting, and documenting what worked.
+				Saya bukan financial planner bersertifikat. Saya seseorang yang bertahun-tahun melakukan kesalahan keuangan —
+				menghabiskan THR untuk hal yang nggak perlu, mengabaikan kesempatan investasi terlalu lama, dan menyimpan
+				semua tabungan di rekening bank biasa yang bunganya hampir nol. Akhirnya saya mulai belajar,
+				bereksperimen, dan mendokumentasikan apa yang berhasil.
 			</p>
 
 			<p>
-				This blog is that documentation. Everything I write comes from actual research, real experience
-				using financial products, and genuine curiosity about how money works.
+				Blog ini adalah dokumentasi itu. Semua yang saya tulis berasal dari riset nyata, pengalaman langsung
+				menggunakan produk keuangan di Indonesia, dan rasa penasaran tentang cara kerja uang.
 			</p>
 
-			<h2>What you'll find here</h2>
+			<h2>Apa yang akan kamu temukan di sini</h2>
 
 			<p>
-				I write about the stuff that actually matters for your wallet:
+				Saya menulis tentang hal-hal yang benar-benar penting untuk dompet kamu:
 			</p>
 
 			<ul>
-				<li>How to budget when you're living paycheck to paycheck and every dollar counts</li>
-				<li>Which high-yield savings account actually gives the best rate this month</li>
-				<li>Whether that whole life insurance your agent is pushing is actually worth it (usually no)</li>
-				<li>How to start investing with $50 — because not everyone has thousands lying around</li>
-				<li>Honest comparisons of financial apps and services, not sponsored fluff</li>
+				<li>Cara budgeting ketika hidup dari gaji ke gaji dan setiap rupiah dihitung</li>
+				<li>Bank digital mana yang kasih bunga terbaik bulan ini</li>
+				<li>Apakah asuransi unit link yang ditawarkan agen kamu benar-benar worth it (biasanya nggak)</li>
+				<li>Cara mulai investasi dengan Rp 100.000 — karena nggak semua orang punya jutaan nganggur</li>
+				<li>Perbandingan jujur aplikasi dan produk keuangan, bukan konten sponsor</li>
 			</ul>
 
-			<h2>My approach</h2>
+			<h2>Pendekatan saya</h2>
 
 			<p>
-				I try to write like I'm explaining something to a friend over coffee. No jargon for the sake of
-				sounding smart. No generic advice like "just save more." Instead, I focus on specific, actionable
-				steps that you can start using today.
+				Saya berusaha menulis seperti sedang menjelaskan sesuatu ke teman sambil ngopi. Tanpa jargon demi terlihat
+				pintar. Tanpa saran generik seperti "nabung lebih banyak." Sebaliknya, saya fokus pada langkah spesifik
+				dan actionable yang bisa kamu mulai gunakan hari ini.
 			</p>
 
 			<p>
-				If I recommend something, it's because I've used it or researched it thoroughly — not because
-				someone paid me to say it's good. When I do have affiliate links, I'll always tell you.
+				Kalau saya merekomendasikan sesuatu, itu karena saya sudah pakai atau riset menyeluruh — bukan karena
+				seseorang bayar saya untuk bilang itu bagus. Kalau ada affiliate link, saya selalu kasih tahu.
 			</p>
 
-			<h2>Get in touch</h2>
+			<h2>Hubungi saya</h2>
 
 			<p>
-				Found a mistake? Have a topic you want me to cover? Just want to say hi?
-				Drop me a message at <a href="mailto:hello@evantoday.id">hello@evantoday.id</a>.
+				Menemukan kesalahan? Punya topik yang ingin saya bahas? Mau sekadar say hi?
+				Kirim pesan ke <a href="mailto:hello@evantoday.id">hello@evantoday.id</a>.
 			</p>
 
 			<p>
-				Thanks for reading. I hope something here helps you make smarter decisions with your money.
+				Terima kasih sudah membaca. Semoga ada sesuatu di sini yang membantu kamu mengambil keputusan lebih cerdas dengan uangmu.
 			</p>
 
 			<p>

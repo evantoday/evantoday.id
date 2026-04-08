@@ -1,5 +1,6 @@
 ---
 title: "Review Fidelity [2026]: Broker Gratis Terbaik?"
+draft: true
 description: "Fidelity menawarkan transaksi saham Rp 0 dan minimum Rp 0 untuk reksadana indeks. Tapi cocokkah untuk kamu?"
 pubDate: 2026-03-24
 updatedDate: 2026-03-24
@@ -7,7 +8,7 @@ category: "investing"
 tags: ["Fidelity", "brokerage review", "stock trading", "index funds", "investing platform"]
 author: "Evan Today"
 heroImage: './images/investing-1.jpg'
-heroImageAlt: 'Fidelity Review [2026]: Best Free Brokerage?'
+heroImageAlt: 'Grafik investasi saham dan analisis portofolio'
 
 ---
 

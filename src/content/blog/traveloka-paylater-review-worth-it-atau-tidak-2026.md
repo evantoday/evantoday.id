@@ -7,7 +7,7 @@ category: "fintech"
 tags: ["Traveloka PayLater", "review", "paylater", "fintech", "travel"]
 author: "Evan Today"
 heroImage: './images/traveloka-paylater-review-worth-it-atau-tidak-2026.jpg'
-heroImageAlt: 'Man in suit using smartphone and credit card.'
+heroImageAlt: 'Review Traveloka PayLater dan fitur cicilan digital'
 ---
 
 Saya pernah lihat teman yang awalnya cuma mau “gesek dulu, bayar nanti” buat tiket pesawat Jakarta–Bali Rp 1,8 juta, eh ujung-ujungnya cicilan numpuk karena lupa total tagihan plus biaya layanan. Traveloka PayLater memang kelihatan praktis, apalagi kalau lagi buru-buru booking hotel atau tiket. Tapi pertanyaannya sederhana: **Traveloka PayLater review ini benar-benar worth it atau cuma terasa enak di awal?**

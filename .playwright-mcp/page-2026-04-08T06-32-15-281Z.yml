@@ -1,0 +1,579 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Evan Today" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - link "Articles" [ref=e7] [cursor=pointer]:
+          - /url: /blog
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e9] [cursor=pointer]:
+          - /url: /contact
+  - main [ref=e10]:
+    - article [ref=e11]:
+      - navigation "Breadcrumb" [ref=e12]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Home" [ref=e15] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e16]:
+            - generic [ref=e17]: /
+            - link "Investing" [ref=e18] [cursor=pointer]:
+              - /url: /category/investing
+          - listitem [ref=e19]:
+            - generic [ref=e20]: /
+            - generic [ref=e21]: "Investasi ETF untuk Pemula: Mulai dari Rp 1,5 Juta"
+      - 'img "ETF Investing for Beginners: Start With author: \"Evan\"00 [2026]" [ref=e23]'
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - link "Investing" [ref=e26] [cursor=pointer]:
+            - /url: /category/investing
+          - generic [ref=e27]: "|"
+          - time [ref=e28]: Mar 13, 2026
+          - generic [ref=e29]: "|"
+          - generic [ref=e30]: By Evan Today
+          - generic [ref=e31]: "|"
+          - generic [ref=e32]: 10 min read
+        - 'heading "Investasi ETF untuk Pemula: Mulai dari Rp 1,5 Juta" [level=1] [ref=e33]'
+        - paragraph [ref=e34]: ETF memungkinkan kamu berinvestasi di 500+ saham sekaligus mulai dari Rp 1,5 juta. Pelajari 3 jenis utama, biaya terendah, dan cara beli ETF pertama.
+        - generic [ref=e35]:
+          - link "#ETF investing" [ref=e36] [cursor=pointer]:
+            - /url: /tag/ETF investing
+          - link "#index ETF" [ref=e37] [cursor=pointer]:
+            - /url: /tag/index ETF
+          - link "#Vanguard" [ref=e38] [cursor=pointer]:
+            - /url: /tag/Vanguard
+          - link "#Fidelity" [ref=e39] [cursor=pointer]:
+            - /url: /tag/Fidelity
+          - link "#beginner investing" [ref=e40] [cursor=pointer]:
+            - /url: /tag/beginner investing
+      - navigation [ref=e41]:
+        - paragraph [ref=e42]: Contents
+        - list [ref=e43]:
+          - listitem [ref=e44]:
+            - link "Key Takeaways" [ref=e45] [cursor=pointer]:
+              - /url: "#key-takeaways"
+          - listitem [ref=e46]:
+            - link "What Is an ETF?" [ref=e47] [cursor=pointer]:
+              - /url: "#what-is-an-etf"
+          - listitem [ref=e48]:
+            - link "The 3 Main Types of ETFs" [ref=e49] [cursor=pointer]:
+              - /url: "#the-3-main-types-of-etfs"
+          - listitem [ref=e50]:
+            - link "1. Index ETFs (Broad Market)" [ref=e51] [cursor=pointer]:
+              - /url: "#1-index-etfs-broad-market"
+          - listitem [ref=e52]:
+            - link "2. Bond ETFs" [ref=e53] [cursor=pointer]:
+              - /url: "#2-bond-etfs"
+          - listitem [ref=e54]:
+            - link "3. Sector and Thematic ETFs" [ref=e55] [cursor=pointer]:
+              - /url: "#3-sector-and-thematic-etfs"
+          - listitem [ref=e56]:
+            - link "The 5 Best ETFs for Beginners in 2026" [ref=e57] [cursor=pointer]:
+              - /url: "#the-5-best-etfs-for-beginners-in-2026"
+          - listitem [ref=e58]:
+            - link "1. VTI — Vanguard Total Stock Market ETF" [ref=e59] [cursor=pointer]:
+              - /url: "#1-vti--vanguard-total-stock-market-etf"
+          - listitem [ref=e60]:
+            - link "2. VOO — Vanguard S&P 500 ETF" [ref=e61] [cursor=pointer]:
+              - /url: "#2-voo--vanguard-sp-500-etf"
+          - listitem [ref=e62]:
+            - link "3. VXUS — Vanguard Total International Stock ETF" [ref=e63] [cursor=pointer]:
+              - /url: "#3-vxus--vanguard-total-international-stock-etf"
+          - listitem [ref=e64]:
+            - link "4. BND — Vanguard Total Bond Market ETF" [ref=e65] [cursor=pointer]:
+              - /url: "#4-bnd--vanguard-total-bond-market-etf"
+          - listitem [ref=e66]:
+            - link "5. SCHD — Schwab US Dividend Equity ETF" [ref=e67] [cursor=pointer]:
+              - /url: "#5-schd--schwab-us-dividend-equity-etf"
+          - listitem [ref=e68]:
+            - link "How to Buy Your First ETF" [ref=e69] [cursor=pointer]:
+              - /url: "#how-to-buy-your-first-etf"
+          - listitem [ref=e70]:
+            - 'link "Step 1: Open a Brokerage Account" [ref=e71] [cursor=pointer]':
+              - /url: "#step-1-open-a-brokerage-account"
+          - listitem [ref=e72]:
+            - 'link "Step 2: Fund Your Account" [ref=e73] [cursor=pointer]':
+              - /url: "#step-2-fund-your-account"
+          - listitem [ref=e74]:
+            - 'link "Step 3: Search for the ETF" [ref=e75] [cursor=pointer]':
+              - /url: "#step-3-search-for-the-etf"
+          - listitem [ref=e76]:
+            - 'link "Step 4: Place Your Order" [ref=e77] [cursor=pointer]':
+              - /url: "#step-4-place-your-order"
+          - listitem [ref=e78]:
+            - 'link "Step 5: Set Up Automatic Investments" [ref=e79] [cursor=pointer]':
+              - /url: "#step-5-set-up-automatic-investments"
+          - listitem [ref=e80]:
+            - link "Understanding ETF Fees" [ref=e81] [cursor=pointer]:
+              - /url: "#understanding-etf-fees"
+          - listitem [ref=e82]:
+            - 'link "ETF vs. Mutual Fund: What’s the Difference?" [ref=e83] [cursor=pointer]':
+              - /url: "#etf-vs-mutual-fund-whats-the-difference"
+          - listitem [ref=e84]:
+            - link "Building a Simple ETF Portfolio" [ref=e85] [cursor=pointer]:
+              - /url: "#building-a-simple-etf-portfolio"
+          - listitem [ref=e86]:
+            - link "Aggressive (Ages 20-35)" [ref=e87] [cursor=pointer]:
+              - /url: "#aggressive-ages-20-35"
+          - listitem [ref=e88]:
+            - link "Moderate (Ages 35-50)" [ref=e89] [cursor=pointer]:
+              - /url: "#moderate-ages-35-50"
+          - listitem [ref=e90]:
+            - link "Conservative (Ages 50+)" [ref=e91] [cursor=pointer]:
+              - /url: "#conservative-ages-50"
+          - listitem [ref=e92]:
+            - link "Common ETF Mistakes to Avoid" [ref=e93] [cursor=pointer]:
+              - /url: "#common-etf-mistakes-to-avoid"
+          - listitem [ref=e94]:
+            - link "Tax Considerations for ETF Investors" [ref=e95] [cursor=pointer]:
+              - /url: "#tax-considerations-for-etf-investors"
+          - listitem [ref=e96]:
+            - link "Frequently Asked Questions" [ref=e97] [cursor=pointer]:
+              - /url: "#frequently-asked-questions"
+          - listitem [ref=e98]:
+            - link "Can I lose all my money in an ETF?" [ref=e99] [cursor=pointer]:
+              - /url: "#can-i-lose-all-my-money-in-an-etf"
+          - listitem [ref=e100]:
+            - link "What’s the difference between VOO and SPY?" [ref=e101] [cursor=pointer]:
+              - /url: "#whats-the-difference-between-voo-and-spy"
+          - listitem [ref=e102]:
+            - link "How much should I invest in ETFs each month?" [ref=e103] [cursor=pointer]:
+              - /url: "#how-much-should-i-invest-in-etfs-each-month"
+          - listitem [ref=e104]:
+            - link "Should I invest a lump sum or dollar cost average into ETFs?" [ref=e105] [cursor=pointer]:
+              - /url: "#should-i-invest-a-lump-sum-or-dollar-cost-average-into-etfs"
+          - listitem [ref=e106]:
+            - link "Do ETFs pay dividends?" [ref=e107] [cursor=pointer]:
+              - /url: "#do-etfs-pay-dividends"
+      - insertion [ref=e109]:
+        - iframe [ref=e111]:
+          
+      - generic [ref=e112]:
+        - paragraph [ref=e113]: "When I first started investing, I made the classic beginner mistake: I tried to pick individual stocks. I bought a little Apple, some Tesla, threw money at a random biotech company someone on Reddit mentioned. Portofolio saya kelihatan seperti puzzle yang kepingnya banyak hilang."
+        - paragraph [ref=e114]: Lalu seseorang mengenalkan saya ke ETF, dan semuanya langsung masuk akal. Daripada pusing memilih saham satu per satu, saya bisa punya sebagian kecil dari 500 perusahaan hanya dengan satu pembelian. Stres saya turun, hasil investasi saya membaik, dan saya malah jadi menikmati proses investing.
+        - paragraph [ref=e115]: Kalau kamu baru mulai dan punya bahkan Rp 1,5 juta untuk diinvestasikan, ETF adalah tempat terbaik untuk memulai. Ini semua yang dulu ingin saya tahu sejak hari pertama.
+        - heading "Key Takeaways" [level=2] [ref=e116]
+        - list [ref=e117]:
+          - listitem [ref=e118]: ETF (Exchange-Traded Fund) memungkinkan kamu berinvestasi di ratusan saham dengan satu pembelian
+          - listitem [ref=e119]: Rata-rata ETF S&P 500 menghasilkan sekitar 10% per tahun selama 30 tahun terakhir
+          - listitem [ref=e120]: Kamu bisa mulai bahkan dengan Rp 15 ribu lewat fractional shares
+          - listitem [ref=e121]: Total expense ratio di bawah 0,10% dianggap sangat bagus
+          - listitem [ref=e122]: ETF lebih efisien pajak dibanding reksa dana untuk akun kena pajak
+        - heading "What Is an ETF?" [level=2] [ref=e123]
+        - paragraph [ref=e124]: ETF — Exchange-Traded Fund — adalah kumpulan investasi yang dibundel jadi satu produk dan diperdagangkan di bursa saham, sama seperti saham biasa.
+        - paragraph [ref=e125]: Bayangkan seperti membeli paket campuran, bukan barang satuan. Saat kamu membeli satu lembar ETF S&P 500, kamu langsung punya porsi kecil dari semua 500 perusahaan di indeks itu — Apple, Microsoft, Amazon, Google, JPMorgan, dan 495 lainnya.
+        - paragraph [ref=e126]: "Ini yang membuat ETF istimewa:"
+        - list [ref=e127]:
+          - listitem [ref=e128]:
+            - strong [ref=e129]: Diversifikasi instan
+            - text: — Satu pembelian menyebar uangmu ke puluhan atau ratusan investasi
+          - listitem [ref=e130]:
+            - strong [ref=e131]: Biaya rendah
+            - text: — Banyak ETF mengenakan biaya kurang dari 0,10% per tahun (itu sekitar Rp 15 ribu per tahun untuk investasi Rp 15 juta)
+          - listitem [ref=e132]:
+            - strong [ref=e133]: Diperdagangkan seperti saham
+            - text: — Bisa beli dan jual sepanjang hari pada harga pasar
+          - listitem [ref=e134]:
+            - strong [ref=e135]: Efisien pajak
+            - text: — ETF biasanya memunculkan lebih sedikit kejadian kena pajak dibanding reksa dana
+          - listitem [ref=e136]:
+            - strong [ref=e137]: Transparan
+            - text: — Kepemilikan diumumkan setiap hari, jadi kamu selalu tahu isi portofoliomu
+        - heading "The 3 Main Types of ETFs" [level=2] [ref=e138]
+        - heading "1. Index ETFs (Broad Market)" [level=3] [ref=e139]
+        - paragraph [ref=e140]: ETF ini mengikuti indeks pasar seperti S&P 500 atau seluruh pasar saham AS. Ini adalah fondasi dari sebagian besar portofolio investasi.
+        - paragraph [ref=e141]:
+          - strong [ref=e142]: "Contoh:"
+        - list [ref=e143]:
+          - listitem [ref=e144]:
+            - strong [ref=e145]: VOO
+            - text: "(Vanguard S&P 500 ETF) — Expense ratio: 0,03%"
+          - listitem [ref=e146]:
+            - strong [ref=e147]: VTI
+            - text: "(Vanguard Total Stock Market ETF) — Expense ratio: 0,03%"
+          - listitem [ref=e148]:
+            - strong [ref=e149]: SPY
+            - text: "(SPDR S&P 500 ETF) — Expense ratio: 0,09%"
+          - listitem [ref=e150]:
+            - strong [ref=e151]: IVV
+            - text: "(iShares Core S&P 500 ETF) — Expense ratio: 0,03%"
+        - paragraph [ref=e152]:
+          - strong [ref=e153]: "Cocok untuk:"
+          - text: Inti dari portofolio apa pun. Kalau kamu cuma beli satu ETF, pilih ETF indeks pasar luas.
+        - heading "2. Bond ETFs" [level=3] [ref=e154]
+        - paragraph [ref=e155]: ETF ini berisi obligasi pemerintah dan korporasi, memberi pendapatan dan stabilitas saat pasar saham sedang turun.
+        - paragraph [ref=e156]:
+          - strong [ref=e157]: "Contoh:"
+        - list [ref=e158]:
+          - listitem [ref=e159]:
+            - strong [ref=e160]: BND
+            - text: "(Vanguard Total Bond Market ETF) — Expense ratio: 0,03%"
+          - listitem [ref=e161]:
+            - strong [ref=e162]: AGG
+            - text: "(iShares Core US Aggregate Bond ETF) — Expense ratio: 0,03%"
+          - listitem [ref=e163]:
+            - strong [ref=e164]: TLT
+            - text: "(iShares 20+ Year Treasury Bond ETF) — Expense ratio: 0,15%"
+        - paragraph [ref=e165]:
+          - strong [ref=e166]: "Cocok untuk:"
+          - text: Mengurangi volatilitas portofolio, terutama saat kamu makin dekat ke masa pensiun.
+        - heading "3. Sector and Thematic ETFs" [level=3] [ref=e167]
+        - paragraph [ref=e168]: ETF ini fokus pada industri atau tema investasi tertentu — teknologi, kesehatan, energi bersih, properti, dan lain-lain.
+        - paragraph [ref=e169]:
+          - strong [ref=e170]: "Contoh:"
+        - list [ref=e171]:
+          - listitem [ref=e172]:
+            - strong [ref=e173]: QQQ
+            - text: "(Invesco Nasdaq-100 ETF) — Banyak saham teknologi, expense ratio: 0,20%"
+          - listitem [ref=e174]:
+            - strong [ref=e175]: VNQ
+            - text: "(Vanguard Real Estate ETF) — REITs, expense ratio: 0,12%"
+          - listitem [ref=e176]:
+            - strong [ref=e177]: XLF
+            - text: "(Financial Select Sector SPDR) — Sektor keuangan, expense ratio: 0,09%"
+          - listitem [ref=e178]:
+            - strong [ref=e179]: ICLN
+            - text: "(iShares Global Clean Energy ETF) — Energi bersih, expense ratio: 0,40%"
+        - paragraph [ref=e180]:
+          - strong [ref=e181]: "Cocok untuk:"
+          - text: Menambah eksposur ke sektor yang kamu yakini akan unggul, setelah kamu punya posisi inti di ETF indeks.
+        - heading "The 5 Best ETFs for Beginners in 2026" [level=2] [ref=e182]
+        - heading "1. VTI — Vanguard Total Stock Market ETF" [level=3] [ref=e183]
+        - paragraph [ref=e184]:
+          - strong [ref=e185]: "Expense Ratio:"
+          - text: 0,03%
+          - strong [ref=e186]: "Holdings:"
+          - text: 3.600+ saham AS
+          - strong [ref=e187]: "Kenapa jadi #1:"
+          - text: VTI memberi kamu seluruh pasar saham AS dalam satu fund — saham besar, menengah, kecil, semuanya. Ini ETF paling cocok untuk strategi “beli lalu lupakan”.
+        - heading "2. VOO — Vanguard S&P 500 ETF" [level=3] [ref=e188]
+        - paragraph [ref=e189]:
+          - strong [ref=e190]: "Expense Ratio:"
+          - text: 0,03%
+          - strong [ref=e191]: "Holdings:"
+          - text: 500 saham AS berkapitalisasi besar
+          - strong [ref=e192]: "Kenapa pemula suka:"
+          - text: S&P 500 adalah indeks pasar saham yang paling banyak diikuti di dunia. VOO melacaknya hampir sempurna dengan biaya yang sangat rendah.
+        - heading "3. VXUS — Vanguard Total International Stock ETF" [level=3] [ref=e193]
+        - paragraph [ref=e194]:
+          - strong [ref=e195]: "Expense Ratio:"
+          - text: 0,07%
+          - strong [ref=e196]: "Holdings:"
+          - text: 8.500+ saham internasional
+          - strong [ref=e197]: "Kenapa penting:"
+          - link "Diversifikasi" [ref=e198] [cursor=pointer]:
+            - /url: /blog/7-smart-ways-to-diversify-your-investment-portfolio/
+          - text: di luar AS. Saat saham Amerika kurang bagus, saham internasional kadang bisa menutup kekurangannya.
+        - heading "4. BND — Vanguard Total Bond Market ETF" [level=3] [ref=e199]
+        - paragraph [ref=e200]:
+          - strong [ref=e201]: "Expense Ratio:"
+          - text: 0,03%
+          - strong [ref=e202]: "Holdings:"
+          - text: 10.000+ obligasi AS
+          - strong [ref=e203]: "Kenapa perlu obligasi:"
+          - text: Obligasi membantu meredam portofolio saat pasar saham jatuh. Bahkan alokasi obligasi 10-20% bisa sangat mengurangi volatilitas.
+        - heading "5. SCHD — Schwab US Dividend Equity ETF" [level=3] [ref=e204]
+        - paragraph [ref=e205]:
+          - strong [ref=e206]: "Expense Ratio:"
+          - text: 0,06%
+          - strong [ref=e207]: "Holdings:"
+          - text: 100+ saham AS pembagi dividen
+          - strong [ref=e208]: "Kenapa populer:"
+          - text: SCHD fokus pada
+          - link "saham dividen" [ref=e209] [cursor=pointer]:
+            - /url: /blog/best-dividend-stocks-for-beginners/
+          - text: berkualitas tinggi dengan fundamental kuat. Cocok untuk investor yang ingin pendapatan sekaligus pertumbuhan.
+        - heading "How to Buy Your First ETF" [level=2] [ref=e210]
+        - 'heading "Step 1: Open a Brokerage Account" [level=3] [ref=e211]'
+        - paragraph [ref=e212]: "Pilih sekuritas/broker yang bebas komisi. Rekomendasi saya untuk pemula:"
+        - table [ref=e213]:
+          - rowgroup [ref=e214]:
+            - row "Brokerage Account Minimum Fractional Shares Commission" [ref=e215]:
+              - columnheader "Brokerage" [ref=e216]
+              - columnheader "Account Minimum" [ref=e217]
+              - columnheader "Fractional Shares" [ref=e218]
+              - columnheader "Commission" [ref=e219]
+          - rowgroup [ref=e220]:
+            - row "BCA Sekuritas Rp 0 Ya Rp 0" [ref=e221]:
+              - cell "BCA Sekuritas" [ref=e222]:
+                - strong [ref=e223]: BCA Sekuritas
+              - cell "Rp 0" [ref=e224]
+              - cell "Ya" [ref=e225]
+              - cell "Rp 0" [ref=e226]
+            - row "Mandiri Sekuritas Rp 0 Ya Rp 0" [ref=e227]:
+              - cell "Mandiri Sekuritas" [ref=e228]:
+                - strong [ref=e229]: Mandiri Sekuritas
+              - cell "Rp 0" [ref=e230]
+              - cell "Ya" [ref=e231]
+              - cell "Rp 0" [ref=e232]
+            - row "Jago Rp 0 Ya (ETF tertentu) Rp 0" [ref=e233]:
+              - cell "Jago" [ref=e234]:
+                - strong [ref=e235]: Jago
+              - cell "Rp 0" [ref=e236]
+              - cell "Ya (ETF tertentu)" [ref=e237]
+              - cell "Rp 0" [ref=e238]
+            - row "Seabank Rp 0 Ya Rp 0" [ref=e239]:
+              - cell "Seabank" [ref=e240]:
+                - strong [ref=e241]: Seabank
+              - cell "Rp 0" [ref=e242]
+              - cell "Ya" [ref=e243]
+              - cell "Rp 0" [ref=e244]
+        - paragraph [ref=e245]: Saya pribadi suka BCA Sekuritas karena alat risetnya, dan Mandiri Sekuritas karena layanannya. Keduanya sangat bagus.
+        - 'heading "Step 2: Fund Your Account" [level=3] [ref=e246]'
+        - paragraph [ref=e247]: Hubungkan rekening bank kamu dan transfer dana. Sebagian besar broker memproses transfer dalam 1-3 hari kerja. Beberapa memberi akses instan ke sebagian dana setoranmu.
+        - 'heading "Step 3: Search for the ETF" [level=3] [ref=e248]'
+        - paragraph [ref=e249]: Gunakan kode ticker (seperti VOO, VTI, atau SCHD) untuk mencari ETF di kolom pencarian broker kamu.
+        - 'heading "Step 4: Place Your Order" [level=3] [ref=e250]'
+        - list [ref=e251]:
+          - listitem [ref=e252]:
+            - strong [ref=e253]: Market order
+            - text: — Beli di harga saat ini. Sederhana dan cepat.
+          - listitem [ref=e254]:
+            - strong [ref=e255]: Limit order
+            - text: — Beli hanya jika harga turun ke level yang kamu tentukan. Lebih terkontrol.
+        - paragraph [ref=e256]: Untuk pemula yang membeli ETF indeks luas, market order biasanya sudah cukup. Selisih bid-ask pada ETF populer seperti VOO sangat kecil.
+        - 'heading "Step 5: Set Up Automatic Investments" [level=3] [ref=e257]'
+        - paragraph [ref=e258]: Banyak broker memungkinkan kamu menjadwalkan pembelian rutin — Rp 1,5 juta setiap dua minggu, Rp 7,5 juta tiap tanggal 1, dan sebagainya. Otomatisasi menghilangkan emosi dari investasi dan menjaga konsistensi.
+        - heading "Understanding ETF Fees" [level=2] [ref=e259]
+        - paragraph [ref=e260]: Expense ratio adalah biaya tahunan yang kamu bayar untuk memegang ETF. Biaya ini dinyatakan dalam persentase dan dipotong otomatis dari imbal hasil fund.
+        - paragraph [ref=e261]: "Ini gambaran biaya nyata dari beberapa expense ratio:"
+        - table [ref=e262]:
+          - rowgroup [ref=e263]:
+            - row "Expense Ratio Annual Cost on Rp 150 juta 30-Year Cost on Rp 150 juta*" [ref=e264]:
+              - columnheader "Expense Ratio" [ref=e265]
+              - columnheader "Annual Cost on Rp 150 juta" [ref=e266]
+              - columnheader "30-Year Cost on Rp 150 juta*" [ref=e267]
+          - rowgroup [ref=e268]:
+            - row "0,03% Rp 45 ribu Rp 2,7 juta" [ref=e269]:
+              - cell "0,03%" [ref=e270]
+              - cell "Rp 45 ribu" [ref=e271]
+              - cell "Rp 2,7 juta" [ref=e272]
+            - row "0,10% Rp 150 ribu Rp 9 juta" [ref=e273]:
+              - cell "0,10%" [ref=e274]
+              - cell "Rp 150 ribu" [ref=e275]
+              - cell "Rp 9 juta" [ref=e276]
+            - row "0,50% Rp 750 ribu Rp 43,7 juta" [ref=e277]:
+              - cell "0,50%" [ref=e278]
+              - cell "Rp 750 ribu" [ref=e279]
+              - cell "Rp 43,7 juta" [ref=e280]
+            - row "1,00% Rp 1,5 juta Rp 84,4 juta" [ref=e281]:
+              - cell "1,00%" [ref=e282]
+              - cell "Rp 1,5 juta" [ref=e283]
+              - cell "Rp 84,4 juta" [ref=e284]
+        - paragraph [ref=e285]: "*Dengan asumsi return 7% per tahun sebelum biaya"
+        - paragraph [ref=e286]:
+          - text: Perbedaan antara expense ratio 0,03% dan 1,00% bisa berarti
+          - strong [ref=e287]: lebih dari Rp 80 juta
+          - text: pada investasi Rp 150 juta selama 30 tahun. Karena itu biaya rendah sangat penting.
+        - 'heading "ETF vs. Mutual Fund: What’s the Difference?" [level=2] [ref=e288]'
+        - table [ref=e289]:
+          - rowgroup [ref=e290]:
+            - row "Feature ETF Mutual Fund" [ref=e291]:
+              - columnheader "Feature" [ref=e292]
+              - columnheader "ETF" [ref=e293]
+              - columnheader "Mutual Fund" [ref=e294]
+          - rowgroup [ref=e295]:
+            - row "Trading Sepanjang hari Sekali sehari (setelah pasar tutup)" [ref=e296]:
+              - cell "Trading" [ref=e297]:
+                - strong [ref=e298]: Trading
+              - cell "Sepanjang hari" [ref=e299]
+              - cell "Sekali sehari (setelah pasar tutup)" [ref=e300]
+            - row "Minimum Investment 1 lembar (atau Rp 15 ribu fractional) Seringnya Rp 15-45 juta" [ref=e301]:
+              - cell "Minimum Investment" [ref=e302]:
+                - strong [ref=e303]: Minimum Investment
+              - cell "1 lembar (atau Rp 15 ribu fractional)" [ref=e304]
+              - cell "Seringnya Rp 15-45 juta" [ref=e305]
+            - row "Expense Ratios Umumnya lebih rendah Umumnya lebih tinggi" [ref=e306]:
+              - cell "Expense Ratios" [ref=e307]:
+                - strong [ref=e308]: Expense Ratios
+              - cell "Umumnya lebih rendah" [ref=e309]
+              - cell "Umumnya lebih tinggi" [ref=e310]
+            - row "Tax Efficiency Lebih efisien Kurang efisien" [ref=e311]:
+              - cell "Tax Efficiency" [ref=e312]:
+                - strong [ref=e313]: Tax Efficiency
+              - cell "Lebih efisien" [ref=e314]
+              - cell "Kurang efisien" [ref=e315]
+            - row "Automatic Investing Tergantung broker Mudah diotomatisasi" [ref=e316]:
+              - cell "Automatic Investing" [ref=e317]:
+                - strong [ref=e318]: Automatic Investing
+              - cell "Tergantung broker" [ref=e319]
+              - cell "Mudah diotomatisasi" [ref=e320]
+            - row "Pricing Harga pasar real-time Nilai Aktiva Bersih (NAB)" [ref=e321]:
+              - cell "Pricing" [ref=e322]:
+                - strong [ref=e323]: Pricing
+              - cell "Harga pasar real-time" [ref=e324]
+              - cell "Nilai Aktiva Bersih (NAB)" [ref=e325]
+        - paragraph [ref=e326]: "Bagi kebanyakan pemula, ETF adalah pilihan yang lebih baik karena minimum investasinya lebih rendah, biayanya lebih kecil, dan fleksibilitasnya lebih besar. Pengecualian utamanya: kalau kamu ingin berinvestasi di reksa dana saham Vanguard Admiral Shares (expense ratio 0,04% dengan minimum Rp 45 juta), selisih biayanya nyaris tidak terasa."
+        - heading "Building a Simple ETF Portfolio" [level=2] [ref=e327]
+        - paragraph [ref=e328]: "Berikut tiga contoh portofolio berdasarkan usia dan toleransi risiko:"
+        - heading "Aggressive (Ages 20-35)" [level=3] [ref=e329]
+        - list [ref=e330]:
+          - listitem [ref=e331]: 70% VTI (Pasar Saham AS Total)
+          - listitem [ref=e332]: 20% VXUS (Internasional)
+          - listitem [ref=e333]: 10% BND (Obligasi)
+        - heading "Moderate (Ages 35-50)" [level=3] [ref=e334]
+        - list [ref=e335]:
+          - listitem [ref=e336]: 50% VTI (Pasar Saham AS Total)
+          - listitem [ref=e337]: 20% VXUS (Internasional)
+          - listitem [ref=e338]: 30% BND (Obligasi)
+        - heading "Conservative (Ages 50+)" [level=3] [ref=e339]
+        - list [ref=e340]:
+          - listitem [ref=e341]: 30% VTI (Pasar Saham AS Total)
+          - listitem [ref=e342]: 10% VXUS (Internasional)
+          - listitem [ref=e343]: 60% BND (Obligasi)
+        - paragraph [ref=e344]:
+          - text: Ini hanyalah contoh sederhana. Alokasi sebenarnya harus mencerminkan toleransi risiko pribadi kamu,
+          - link "tujuan keuangan" [ref=e345] [cursor=pointer]:
+            - /url: /blog/comprehensive-guide-to-setting-financial-goals-for-beginners/
+          - text: ", dan jangka waktu investasi."
+        - heading "Common ETF Mistakes to Avoid" [level=2] [ref=e346]
+        - list [ref=e347]:
+          - listitem [ref=e348]:
+            - strong [ref=e349]: Terlalu banyak diversifikasi
+            - text: — Punya 15 ETF yang isinya saling tumpang tindih. Tiga sampai lima ETF yang dipilih dengan baik biasanya sudah cukup untuk sebagian besar investor.
+          - listitem [ref=e350]:
+            - strong [ref=e351]: Mengejar performa
+            - text: — Membeli ETF yang naik 40% tahun lalu. Return masa lalu tidak menjamin hasil masa depan.
+          - listitem [ref=e352]:
+            - strong [ref=e353]: Mengabaikan expense ratio
+            - text: — Selisih 0,50% bisa bertambah jadi jutaan rupiah dalam beberapa dekade.
+          - listitem [ref=e354]:
+            - strong [ref=e355]: Terlalu sering trading
+            - text: — ETF dirancang untuk investasi jangka panjang. Day trading ETF justru menghilangkan tujuannya.
+          - listitem [ref=e356]:
+            - strong [ref=e357]: Melewatkan eksposur internasional
+            - text: — Saham AS tidak selalu unggul. Diversifikasi global menurunkan risiko.
+          - listitem [ref=e358]:
+            - strong [ref=e359]: Mencoba timing pasar
+            - text: — Tidak ada yang konsisten mengalahkan pasar dengan keluar-masuk terus. Investasi secara rutin dan tetaplah berinvestasi.
+        - heading "Tax Considerations for ETF Investors" [level=2] [ref=e360]
+        - paragraph [ref=e361]: "ETF punya keunggulan struktural dibanding reksa dana dalam urusan pajak:"
+        - list [ref=e362]:
+          - listitem [ref=e363]:
+            - strong [ref=e364]: Creation/redemption in-kind
+            - text: — ETF bisa menukar sekuritas tanpa memicu capital gain, jadi lebih sedikit kejadian pajak untuk kamu
+          - listitem [ref=e365]:
+            - strong [ref=e366]: Dividen yang memenuhi syarat
+            - text: — Sebagian besar dividen ETF dari saham AS diperlakukan sebagai dividen yang dikenai tarif lebih rendah
+          - listitem [ref=e367]:
+            - strong [ref=e368]: Capital gains
+            - text: — Hanya muncul saat kamu menjual. Kalau kamu hold, kamu tidak membayar.
+          - listitem [ref=e369]:
+            - strong [ref=e370]: Tax-loss harvesting
+            - text: — Kamu bisa menjual ETF saat rugi lalu membeli ETF lain yang mirip tapi tidak identik untuk mengklaim pengurang pajak sambil tetap berinvestasi
+        - paragraph [ref=e371]:
+          - strong [ref=e372]: "Pro tip:"
+          - text: Simpan ETF kamu di
+          - link "reksadana/investasi pensiun" [ref=e373] [cursor=pointer]:
+            - /url: /blog/how-to-financially-prepare-for-retirement/
+          - text: kalau memungkinkan. Semua pertumbuhan dan dividen bisa bebas pajak.
+        - heading "Frequently Asked Questions" [level=2] [ref=e374]
+        - heading "Can I lose all my money in an ETF?" [level=3] [ref=e375]
+        - paragraph [ref=e376]: Secara teori, ETF bisa turun sampai nol kalau semua perusahaan di dalamnya bangkrut bersamaan — tapi untuk ETF pasar luas seperti VOO atau VTI, itu berarti seluruh ekonomi AS runtuh. Itu belum pernah terjadi. ETF memang bisa turun nilainya saat pasar melemah (penurunan 20-40% pernah terjadi secara historis), tetapi ETF pasar luas selalu pulih dan mencapai level tertinggi baru seiring waktu.
+        - heading "What’s the difference between VOO and SPY?" [level=3] [ref=e377]
+        - paragraph [ref=e378]: "Keduanya melacak S&P 500 dan hasilnya hampir identik. Perbedaan utamanya: VOO punya expense ratio lebih rendah (0,03% vs 0,09%), sementara SPY punya volume perdagangan lebih tinggi dan bid-ask spread lebih ketat. Untuk investor jangka panjang, biaya VOO yang lebih rendah membuatnya lebih unggul. Untuk trader aktif, likuiditas SPY lebih menguntungkan."
+        - heading "How much should I invest in ETFs each month?" [level=3] [ref=e379]
+        - paragraph [ref=e380]: Panduan umum adalah menginvestasikan 15-20% dari penghasilan bruto untuk pensiun. Tapi berapa pun jumlahnya lebih baik daripada tidak sama sekali. Kalau kamu baru mampu Rp 750 ribu per bulan, mulai dari situ. Faktor terpenting adalah konsistensi, bukan nominal. Seseorang yang berinvestasi Rp 3 juta per bulan selama 30 tahun hampir pasti akan mengalahkan orang yang menunggu sampai bisa investasi Rp 15 juta per bulan.
+        - heading "Should I invest a lump sum or dollar cost average into ETFs?" [level=3] [ref=e381]
+        - paragraph [ref=e382]:
+          - text: Riset menunjukkan bahwa investasi sekaligus biasanya mengungguli
+          - link "dollar cost averaging" [ref=e383] [cursor=pointer]:
+            - /url: /blog/dollar-cost-averaging-strategy-explained/
+          - text: sekitar dua pertiga dari waktu karena pasar cenderung naik. Namun, DCA mengurangi risiko membeli di puncak dan secara psikologis lebih nyaman. Kalau kamu punya dana besar dan masih ragu, kompromi yang masuk akal adalah menginvestasikannya selama 3-6 bulan dalam cicilan yang sama.
+        - heading "Do ETFs pay dividends?" [level=3] [ref=e384]
+        - paragraph [ref=e385]: Ya, sebagian besar ETF saham membayar dividen, biasanya tiap kuartal. Dividen ini berasal dari saham-saham yang ada di dalam ETF. Misalnya, VOO membagikan dividen yang dibayar oleh semua 500 perusahaan di S&P 500. Kamu bisa memilih menerima dividen sebagai uang tunai atau menginvestasikannya kembali secara otomatis untuk membeli lebih banyak lembar. Untuk pertumbuhan jangka panjang, reinvestasi sangat disarankan.
+      - insertion [ref=e387]
+      - generic [ref=e389]:
+        - generic [ref=e390]: "Share:"
+        - link "Share on X (Twitter)" [ref=e391] [cursor=pointer]:
+          - /url: https://twitter.com/intent/tweet?text=Investasi%20ETF%20untuk%20Pemula%3A%20Mulai%20dari%20Rp%201%2C5%20Juta&url=https%3A%2F%2Fevantoday.id%2Fblog%2Fetf-investing-explained%2F
+          - img [ref=e392]
+          - text: Twitter
+        - link "Share on Facebook" [ref=e394] [cursor=pointer]:
+          - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevantoday.id%2Fblog%2Fetf-investing-explained%2F
+          - img [ref=e395]
+          - text: Facebook
+        - link "Share on LinkedIn" [ref=e397] [cursor=pointer]:
+          - /url: https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fevantoday.id%2Fblog%2Fetf-investing-explained%2F
+          - img [ref=e398]
+          - text: LinkedIn
+        - link "Share on WhatsApp" [ref=e400] [cursor=pointer]:
+          - /url: https://wa.me/?text=Investasi%20ETF%20untuk%20Pemula%3A%20Mulai%20dari%20Rp%201%2C5%20Juta%20https%3A%2F%2Fevantoday.id%2Fblog%2Fetf-investing-explained%2F
+          - img [ref=e401]
+          - text: WhatsApp
+      - generic [ref=e403]:
+        - generic [ref=e405]: E
+        - generic [ref=e406]:
+          - generic [ref=e408]: Written by Evan Today
+          - paragraph [ref=e409]: Writing about personal finance, investing, and money management. Making financial literacy accessible — one article at a time.
+          - link "More about me" [ref=e410] [cursor=pointer]:
+            - /url: /about
+      - insertion [ref=e412]
+      - generic [ref=e414]:
+        - heading "Related Articles" [level=2] [ref=e415]
+        - generic [ref=e416]:
+          - link "Investing Berapa Uang untuk Mulai Investasi? [Panduan 2026] Pikir perlu Rp 150 juta? Kamu bisa mulai dari Rp 15 ribu. Lihat minimum tiap jenis investasi dan akun terbaik." [ref=e417] [cursor=pointer]:
+            - /url: /blog/how-much-money-do-you-need-to-start-investing/
+            - text: Investing
+            - heading "Berapa Uang untuk Mulai Investasi? [Panduan 2026]" [level=3] [ref=e418]
+            - paragraph [ref=e419]: Pikir perlu Rp 150 juta? Kamu bisa mulai dari Rp 15 ribu. Lihat minimum tiap jenis investasi dan akun terbaik.
+          - 'link "Investing Investasi Reksa Dana Indeks: Kalahkan 80% Manajer Kenapa pilih saham kalau reksa dana indeks mengalahkan 80% manajer aktif dalam 15 tahun? Mulai dari Rp 15 ribu." [ref=e420] [cursor=pointer]':
+            - /url: /blog/index-fund-investing-guide/
+            - text: Investing
+            - 'heading "Investasi Reksa Dana Indeks: Kalahkan 80% Manajer" [level=3] [ref=e421]'
+            - paragraph [ref=e422]: Kenapa pilih saham kalau reksa dana indeks mengalahkan 80% manajer aktif dalam 15 tahun? Mulai dari Rp 15 ribu.
+          - 'link "Investing Review Fidelity [2026]: Broker Gratis Terbaik? Fidelity menawarkan transaksi saham Rp 0 dan minimum Rp 0 untuk reksadana indeks. Tapi cocokkah untuk kamu?" [ref=e423] [cursor=pointer]':
+            - /url: /blog/fidelity-review-for-stock-and-fund-investing/
+            - text: Investing
+            - 'heading "Review Fidelity [2026]: Broker Gratis Terbaik?" [level=3] [ref=e424]'
+            - paragraph [ref=e425]: Fidelity menawarkan transaksi saham Rp 0 dan minimum Rp 0 untuk reksadana indeks. Tapi cocokkah untuk kamu?
+  - contentinfo [ref=e426]:
+    - generic [ref=e427]:
+      - generic [ref=e428]:
+        - generic [ref=e429]:
+          - text: Evan Today
+          - paragraph [ref=e430]: Tips keuangan praktis yang benar-benar works.
+        - generic [ref=e431]:
+          - heading "Topik" [level=3] [ref=e432]
+          - list [ref=e433]:
+            - listitem [ref=e434]:
+              - link "Keuangan Pribadi" [ref=e435] [cursor=pointer]:
+                - /url: /category/personal-finance
+            - listitem [ref=e436]:
+              - link "Fintech" [ref=e437] [cursor=pointer]:
+                - /url: /category/fintech
+            - listitem [ref=e438]:
+              - link "Investasi" [ref=e439] [cursor=pointer]:
+                - /url: /category/investing
+            - listitem [ref=e440]:
+              - link "Crypto" [ref=e441] [cursor=pointer]:
+                - /url: /category/cryptocurrency
+        - generic [ref=e442]:
+          - heading "Lainnya" [level=3] [ref=e443]
+          - list [ref=e444]:
+            - listitem [ref=e445]:
+              - link "Asuransi" [ref=e446] [cursor=pointer]:
+                - /url: /category/insurance
+            - listitem [ref=e447]:
+              - link "Bank Digital" [ref=e448] [cursor=pointer]:
+                - /url: /category/digital-banking
+            - listitem [ref=e449]:
+              - link "Tentang" [ref=e450] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e451]:
+              - link "Kontak" [ref=e452] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e453]:
+          - heading "Legal" [level=3] [ref=e454]
+          - list [ref=e455]:
+            - listitem [ref=e456]:
+              - link "Privasi" [ref=e457] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e458]:
+              - link "Disclaimer" [ref=e459] [cursor=pointer]:
+                - /url: /disclaimer
+      - generic [ref=e460]: © 2026 Evan Today

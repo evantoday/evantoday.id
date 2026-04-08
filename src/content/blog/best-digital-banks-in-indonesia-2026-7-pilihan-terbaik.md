@@ -7,7 +7,7 @@ category: "fintech"
 tags: ["digital bank", "bank digital", "fintech", "tabungan", "Indonesia"]
 author: "Evan Today"
 heroImage: './images/best-digital-banks-in-indonesia-2026-7-pilihan-terbaik.jpg'
-heroImageAlt: 'a man sitting at a desk'
+heroImageAlt: 'Perbandingan bank digital terbaik di Indonesia'
 ---
 
 Kalau kamu pernah kesal karena transfer antarbank kena biaya, buka rekening harus ke cabang, lalu bunga tabungan nyaris tidak terasa, kamu bukan sendirian. Saya juga pernah ada di fase itu. Makanya waktu beberapa tahun terakhir bank digital mulai meledak di Indonesia, saya cukup serius mencoba satu per satu untuk cari tahu mana yang benar-benar enak dipakai, bukan cuma ramai iklan.

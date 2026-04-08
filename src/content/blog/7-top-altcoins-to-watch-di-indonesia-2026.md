@@ -7,7 +7,7 @@ category: "cryptocurrency"
 tags: ["altcoins", "crypto Indonesia", "investasi 2026", "Bitcoin", "Ethereum"]
 author: "Evan Today"
 heroImage: './images/7-top-altcoins-to-watch-di-indonesia-2026.jpg'
-heroImageAlt: 'person holding black remote control'
+heroImageAlt: 'Altcoin dan mata uang kripto populer untuk investor Indonesia'
 ---
 
 Banyak orang di Indonesia mulai cari **top altcoins to watch in Indonesia 2026** setelah lihat Bitcoin bergerak, lalu bertanya: “Kalau BTC sudah mahal, altcoin mana yang masih masuk akal?” Saya paham banget pertanyaannya. Waktu pertama kali saya masuk ke crypto, saya juga sempat terlalu fokus ke koin yang lagi viral, padahal yang sering selamat justru yang punya utilitas jelas dan likuiditas kuat.

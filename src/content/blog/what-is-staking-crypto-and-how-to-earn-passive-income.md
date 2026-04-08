@@ -6,7 +6,7 @@ category: "cryptocurrency"
 tags: ["crypto staking", "passive income crypto", "staking rewards", "PoS", "Ethereum staking"]
 author: "Evan Today"
 heroImage: './images/cryptocurrency-1.jpg'
-heroImageAlt: 'Crypto Staking: Earn 5-15% Passive Income [2026]'
+heroImageAlt: 'Investasi cryptocurrency Bitcoin dan aset digital'
 
 ---
 

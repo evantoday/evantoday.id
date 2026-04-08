@@ -7,7 +7,7 @@ category: "investing"
 tags: ["micro investing", "investasi pemula", "aplikasi investasi", "reksadana", "Indonesia"]
 author: "Evan Today"
 heroImage: './images/7-micro-investing-apps-indonesia-terbaik-2026-guide.jpg'
-heroImageAlt: 'icon'
+heroImageAlt: 'Aplikasi micro investing terbaik untuk investor pemula Indonesia'
 ---
 
 Saya masih ingat waktu pertama kali coba investasi kecil-kecilan. Uangnya cuma Rp 50.000, dan jujur saya sempat mikir, “Ini beneran bisa tumbuh apa cuma lewat doang?” Ternyata justru dari nominal kecil seperti itu, saya jadi lebih disiplin. Buat banyak orang Indonesia, **micro investing apps Indonesia** memang jadi pintu masuk paling masuk akal: modal kecil, proses simpel, dan nggak bikin kepala panas.

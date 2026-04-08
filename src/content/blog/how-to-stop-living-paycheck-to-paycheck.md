@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["paycheck to paycheck", "break the cycle", "budgeting", "emergency fund", "financial freedom"]
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
-heroImageAlt: 'Stop Living Paycheck to Paycheck (5 Steps)'
+heroImageAlt: 'Perencanaan keuangan pribadi dengan notebook dan kalkulator'
 
 ---
 

@@ -4,7 +4,7 @@ description: "Belum pernah bikin anggaran? Mulai dari sini. Bangun budget 3 lang
 pubDate: 2026-02-14
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
-heroImageAlt: 'How to Budget Money (Beginner Guide for 2026)'
+heroImageAlt: 'Perencanaan keuangan pribadi dengan notebook dan kalkulator'
 
 category: "personal-finance"
 tags: ["budgeting", "budget for beginners", "50-30-20 rule", "money management", "personal finance"]

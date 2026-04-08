@@ -1,12 +1,13 @@
 ---
 title: "Review Chime [2026]: Banking Gratis Worth It?"
+draft: true
 description: "Chime menawarkan rekening tanpa biaya, gaji lebih cepat, dan tabungan otomatis—tapi tanpa cabang fisik. Ini ulasan lengkapnya."
 pubDate: 2026-03-08
 category: "digital-banking"
 tags: ["Chime", "Chime review", "free checking", "neobank", "online banking"]
 author: "Evan Today"
 heroImage: './images/digital-banking-2.jpg'
-heroImageAlt: 'Chime Review [2026]: Free Banking Worth It?'
+heroImageAlt: 'Perbandingan bunga tabungan bank digital Indonesia'
 
 ---
 

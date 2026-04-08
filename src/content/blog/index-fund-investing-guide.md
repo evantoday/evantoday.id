@@ -7,7 +7,7 @@ category: "investing"
 tags: ["index funds", "passive investing", "Vanguard", "S&P 500", "VTSAX"]
 author: "Evan Today"
 heroImage: './images/investing-1.jpg'
-heroImageAlt: 'Index Fund Investing: Beat 80% of Fund Managers'
+heroImageAlt: 'Grafik investasi saham dan analisis portofolio'
 
 ---
 

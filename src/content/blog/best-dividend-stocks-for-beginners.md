@@ -6,7 +6,7 @@ category: "investing"
 tags: ["dividend stocks", "passive income", "S&P 500", "dividend investing", "beginner investing"]
 author: "Evan Today"
 heroImage: './images/investing-2.jpg'
-heroImageAlt: '7 Best Dividend Stocks for Beginners [2026]'
+heroImageAlt: 'Memulai investasi dengan aplikasi dan platform digital'
 
 ---
 

@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["spending plan", "monthly budget", "budget template", "expense planning", "financial planning"]
 author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
-heroImageAlt: 'Monthly Spending Plan in 5 Steps (Free Template)'
+heroImageAlt: 'Menghitung anggaran bulanan dan mengelola pengeluaran'
 
 ---
 

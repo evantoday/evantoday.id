@@ -1,12 +1,13 @@
 ---
 title: "Treasury Bonds & I Bonds: Safe 4-5% Returns [2026]"
+draft: true
 description: "US Treasury bonds and I Bonds pay 4-5% with zero default risk. Types, how to buy on TreasuryDirect, and minimums."
 pubDate: 2026-03-16
 category: "investing"
 tags: ["Treasury bonds", "I Bonds", "TIPS", "government bonds", "safe investments"]
 author: "Evan Today"
 heroImage: './images/investing-1.jpg'
-heroImageAlt: 'Treasury Bonds & I Bonds: Safe 4-5% Returns [2026]'
+heroImageAlt: 'Grafik investasi saham dan analisis portofolio'
 
 ---
 

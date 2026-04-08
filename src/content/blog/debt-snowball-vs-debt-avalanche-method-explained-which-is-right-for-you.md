@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["debt snowball", "debt avalanche", "debt payoff strategy", "Dave Ramsey", "debt repayment"]
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
-heroImageAlt: 'Debt Snowball vs Avalanche: Which Pays Off Faster?'
+heroImageAlt: 'Perencanaan keuangan pribadi dengan notebook dan kalkulator'
 
 ---
 

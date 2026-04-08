@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["cut expenses", "reduce bills", "save money", "lower costs", "frugal living"]
 author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
-heroImageAlt: '10 Ways to Slash Monthly Expenses (Save $500+/Mo)'
+heroImageAlt: 'Tips menabung dan mengatur keuangan rumah tangga'
 
 ---
 

@@ -6,7 +6,7 @@ category: "investing"
 tags: ["start investing", "minimum investment", "Fidelity", "Charles Schwab", "beginner investing"]
 author: "Evan Today"
 heroImage: './images/investing-2.jpg'
-heroImageAlt: 'How Much Money to Start Investing? [2026 Guide]'
+heroImageAlt: 'Memulai investasi dengan aplikasi dan platform digital'
 
 ---
 

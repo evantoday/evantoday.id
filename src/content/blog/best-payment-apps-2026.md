@@ -1,10 +1,11 @@
 ---
 title: "5 Aplikasi Pembayaran Terbaik 2026"
+draft: true
 description: "Venmo, Zelle, Cash App, PayPal, atau Apple Pay—mana yang paling cepat, murah, dan praktis?"
 pubDate: 2026-02-21
 author: "Evan Today"
 heroImage: './images/fintech-1.jpg'
-heroImageAlt: '5 Best Payment Apps in 2026 (Venmo, Zelle, More)'
+heroImageAlt: 'Aplikasi keuangan digital dan pembayaran mobile'
 
 category: "fintech"
 tags: ["payment apps", "Venmo", "Zelle", "Cash App", "PayPal", "Apple Pay"]

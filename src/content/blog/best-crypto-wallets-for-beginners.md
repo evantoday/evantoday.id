@@ -7,7 +7,7 @@ category: "cryptocurrency"
 tags: ["crypto wallet", "hardware wallet", "Ledger", "Trezor", "MetaMask", "crypto security"]
 author: "Evan Today"
 heroImage: './images/cryptocurrency-2.jpg'
-heroImageAlt: '7 Best Crypto Wallets in 2026 (Ranked by Security)'
+heroImageAlt: 'Trading crypto dan analisis pasar digital'
 
 ---
 

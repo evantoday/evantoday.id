@@ -17,16 +17,16 @@ const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
 const posts = allPosts.slice(0, POSTS_PER_PAGE);
 ---
 
-<BaseLayout title={`Blog | ${SITE_TITLE}`} description="All articles about personal finance, fintech, and money management.">
-	<SchemaOrg type="website" description="All articles about personal finance, fintech, and money management." />
+<BaseLayout title={`Blog | ${SITE_TITLE}`} description="Semua artikel tentang keuangan pribadi, fintech, dan pengelolaan uang di Indonesia.">
+	<SchemaOrg type="website" description="Semua artikel tentang keuangan pribadi, fintech, dan pengelolaan uang di Indonesia." />
 	<section class="max-w-5xl mx-auto px-4 py-12">
 		<Breadcrumbs items={[
-			{ label: 'Home', href: '/' },
+			{ label: 'Beranda', href: '/' },
 			{ label: 'Blog' },
 		]} />
 		<div class="flex items-center justify-between mb-8">
-			<h1 class="text-3xl font-bold text-gray-900">All Articles</h1>
-			<span class="text-sm text-gray-500">{allPosts.length} articles</span>
+			<h1 class="text-3xl font-bold text-gray-900">Semua Artikel</h1>
+			<span class="text-sm text-gray-500">{allPosts.length} artikel</span>
 		</div>
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 			{posts.map((post) => (

@@ -6,7 +6,7 @@ category: "fintech"
 tags: ["fintech", "neobanks", "digital banking", "BNPL", "robo-advisors"]
 author: "Evan Today"
 heroImage: './images/fintech-1.jpg'
-heroImageAlt: 'How Fintech Is Replacing Traditional Banks [2026]'
+heroImageAlt: 'Aplikasi keuangan digital dan pembayaran mobile'
 
 ---
 

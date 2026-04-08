@@ -15,7 +15,7 @@ function parseFaqItems(content: string): FaqItem[] {
 	if (!content) return items;
 
 	// Find the FAQ section starting with "## Frequently Asked Questions"
-	const faqMatch = content.match(/## Frequently Asked Questions\s*\n([\s\S]*?)(?=\n## [^#]|$)/i);
+	const faqMatch = content.match(/## (?:Frequently Asked Questions|Pertanyaan yang Sering Diajukan|FAQ[:\s])\s*\n([\s\S]*?)(?=\n## [^#]|$)/i);
 	if (!faqMatch) return items;
 
 	const faqSection = faqMatch[1];

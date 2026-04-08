@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["save on low income", "minimum wage budget", "save money", "low income tips", "frugal"]
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
-heroImageAlt: 'How to Save Money on a Low Income (7 Real Ways)'
+heroImageAlt: 'Perencanaan keuangan pribadi dengan notebook dan kalkulator'
 
 ---
 

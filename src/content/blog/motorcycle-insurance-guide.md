@@ -6,7 +6,7 @@ category: "insurance"
 tags: ["motorcycle insurance", "bike insurance", "rider insurance", "insurance rates"]
 author: "Evan Today"
 heroImage: './images/insurance-2.jpg'
-heroImageAlt: 'Motorcycle Insurance: Best Coverage Options [2026]'
+heroImageAlt: 'Perbandingan produk asuransi dan polis terbaik'
 
 ---
 

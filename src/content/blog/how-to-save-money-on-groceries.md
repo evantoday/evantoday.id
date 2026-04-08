@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["save on groceries", "grocery budget", "frugal groceries", "meal planning", "grocery savings"]
 author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
-heroImageAlt: '10 Ways to Cut Grocery Costs in 2026 (Save $200/Mo)'
+heroImageAlt: 'Menghitung anggaran bulanan dan mengelola pengeluaran'
 
 ---
 

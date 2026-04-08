@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["debt free", "pay off debt", "debt payoff", "credit card debt", "student loans"]
 author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
-heroImageAlt: 'How to Get Debt-Free: 3-Step Plan That Works'
+heroImageAlt: 'Tips menabung dan mengatur keuangan rumah tangga'
 
 ---
 

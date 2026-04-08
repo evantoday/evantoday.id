@@ -1,12 +1,13 @@
 ---
 title: "Neobank Terbaik 2026: Chime, SoFi, Ally"
+draft: true
 description: "Chime, SoFi, Ally, atau Marcus—neobank mana yang kasih bunga tertinggi dengan biaya terendah? Ini perbandingan lengkapnya."
 pubDate: 2026-03-21
 category: "digital-banking"
 tags: ["neobank", "best neobanks", "Chime vs SoFi", "online banks", "digital banking"]
 author: "Evan Today"
 heroImage: './images/digital-banking-1.jpg'
-heroImageAlt: 'Best Neobanks in 2026: Chime, SoFi, Ally Compared'
+heroImageAlt: 'Layanan bank digital dan tabungan online'
 
 ---
 

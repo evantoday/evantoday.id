@@ -6,7 +6,7 @@ category: "fintech"
 tags: ["money transfer", "Wise", "Remitly", "international transfer", "send money"]
 author: "Evan Today"
 heroImage: './images/fintech-2.jpg'
-heroImageAlt: 'Best Money Transfer Apps in 2026 (Fees Compared)'
+heroImageAlt: 'Review aplikasi fintech dan perbandingan fitur'
 
 ---
 

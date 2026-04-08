@@ -6,7 +6,7 @@ category: "insurance"
 tags: ["term life insurance", "whole life insurance", "life insurance comparison", "insurance"]
 author: "Evan Today"
 heroImage: './images/insurance-1.jpg'
-heroImageAlt: 'Term Life vs Whole Life Insurance [2026 Comparison]'
+heroImageAlt: 'Perlindungan asuransi untuk keluarga dan aset'
 
 ---
 

@@ -6,7 +6,7 @@ category: "investing"
 tags: ["P2P lending", "Prosper", "LendingClub", "peer to peer", "alternative investments"]
 author: "Evan Today"
 heroImage: './images/investing-1.jpg'
-heroImageAlt: 'P2P Lending: Earn 5-10% Returns in 2026 (Risks)'
+heroImageAlt: 'Grafik investasi saham dan analisis portofolio'
 
 ---
 

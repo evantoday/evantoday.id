@@ -1,12 +1,13 @@
 ---
 title: "Review Ally Bank [2026]: Bank Online Terbaik?"
+draft: true
 description: "Ally Bank memberi APY 4,25% tanpa minimum saldo dan tanpa biaya bulanan. Tapi apakah ini bank online terbaik?"
 pubDate: 2026-03-20
 category: "digital-banking"
 tags: ["Ally Bank", "online bank review", "high-yield savings", "Ally Bank review", "best online bank"]
 author: "Evan Today"
 heroImage: './images/digital-banking-1.jpg'
-heroImageAlt: 'Ally Bank Review [2026]: Best Online Bank?'
+heroImageAlt: 'Layanan bank digital dan tabungan online'
 
 ---
 

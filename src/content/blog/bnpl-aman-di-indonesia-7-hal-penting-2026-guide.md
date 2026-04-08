@@ -7,7 +7,7 @@ category: "fintech"
 tags: ["BNPL", "paylater", "keuangan pribadi", "fintech", "Indonesia"]
 author: "Evan Today"
 heroImage: './images/bnpl-aman-di-indonesia-7-hal-penting-2026-guide.jpg'
-heroImageAlt: 'man in red and black polo shirt carrying red and black backpack'
+heroImageAlt: 'Layanan Buy Now Pay Later dan tips penggunaan yang aman'
 ---
 
 Pernah nggak, kamu lagi checkout di Tokopedia atau Traveloka, lalu muncul tombol “Bayar nanti” dan rasanya sangat menggoda? Saya paham banget. BNPL atau buy now pay later memang bikin belanja terasa ringan di depan, tapi pertanyaannya sederhana: **is buy now pay later safe in Indonesia**?

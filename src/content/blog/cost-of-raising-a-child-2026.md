@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["cost of raising child", "family budget", "childcare costs", "parenting expenses", "family finances"]
 author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
-heroImageAlt: 'Cost of Raising a Child in 2026: $310K+ Breakdown'
+heroImageAlt: 'Menghitung anggaran bulanan dan mengelola pengeluaran'
 
 ---
 

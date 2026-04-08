@@ -7,7 +7,7 @@ category: "insurance"
 tags: ["asuransi syariah", "asuransi islam", "proteksi keluarga", "keuangan muslim", "indonesia"]
 author: "Evan Today"
 heroImage: './images/asuransi-syariah-dijelaskan-panduan-praktis-muslim-indonesia.jpg'
-heroImageAlt: 'grayscale photo of dome building'
+heroImageAlt: 'Konsep asuransi syariah dan prinsip keuangan Islam'
 ---
 
 Waktu pertama kali saya bantu teman cari proteksi keluarga, dia langsung bilang, “Saya maunya yang syariah, tapi jujur masih bingung bedanya apa.” Dan itu sangat umum. Banyak orang Indonesia ingin produk yang sesuai prinsip Islam, tapi begitu masuk ke istilah tabarru’, wakalah, dan surplus underwriting, kepala langsung pening.

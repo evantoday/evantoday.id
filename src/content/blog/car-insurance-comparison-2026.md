@@ -6,7 +6,7 @@ category: "insurance"
 tags: ["car insurance", "auto insurance", "GEICO", "Progressive", "cheap car insurance"]
 author: "Evan Today"
 heroImage: './images/insurance-2.jpg'
-heroImageAlt: 'Best Cheap Car Insurance in 2026 (Rates Compared)'
+heroImageAlt: 'Perbandingan produk asuransi dan polis terbaik'
 
 ---
 

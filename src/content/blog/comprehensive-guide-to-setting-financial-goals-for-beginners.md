@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["financial goals", "money goals", "SMART goals", "beginner finance", "financial planning"]
 author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
-heroImageAlt: '5 Financial Goals Every Beginner Needs to Set'
+heroImageAlt: 'Tips menabung dan mengatur keuangan rumah tangga'
 
 ---
 

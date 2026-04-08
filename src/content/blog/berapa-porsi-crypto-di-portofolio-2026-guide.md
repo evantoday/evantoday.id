@@ -7,7 +7,7 @@ category: "cryptocurrency"
 tags: ["crypto", "portofolio", "investasi", "alokasi aset", "Indonesia"]
 author: "Evan Today"
 heroImage: './images/berapa-porsi-crypto-di-portofolio-2026-guide.jpg'
-heroImageAlt: 'person holding black remote control'
+heroImageAlt: 'Alokasi portofolio investasi crypto yang ideal'
 ---
 
 Saya masih ingat waktu pertama kali teman saya tanya, “Kalau mau masuk crypto, enaknya taruh berapa persen sih?” Waktu itu dia baru mulai kerja, gaji Rp8 juta, dan lagi semangat banget lihat Bitcoin naik turun seperti roller coaster. Masalahnya, banyak orang masuk crypto bukan karena tahu porsinya, tapi karena takut ketinggalan.

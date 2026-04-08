@@ -7,7 +7,7 @@ category: "cryptocurrency"
 tags: ["bitcoin", "investasi", "crypto", "indonesia", "legal"]
 author: "Evan Today"
 heroImage: './images/cara-beli-bitcoin-legal-di-indonesia-2026-guide.jpg'
-heroImageAlt: 'a man riding a motorcycle down a street next to a tall white building'
+heroImageAlt: 'Panduan cara membeli Bitcoin secara legal di Indonesia'
 ---
 
 Saya masih ingat waktu pertama kali teman saya tanya, “Kalau mau beli Bitcoin di Indonesia yang legal, harus mulai dari mana sih?” Jujur, pertanyaan itu sangat wajar. Di satu sisi orang penasaran karena harga Bitcoin sering bikin heboh. Di sisi lain, banyak yang takut salah pilih platform, salah langkah, atau malah kena masalah pajak.

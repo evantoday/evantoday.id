@@ -6,7 +6,7 @@ category: "investing"
 tags: ["dollar cost averaging", "DCA", "investing strategy", "market volatility", "automatic investing"]
 author: "Evan Today"
 heroImage: './images/investing-1.jpg'
-heroImageAlt: 'Dollar Cost Averaging: Beat Market Volatility [2026]'
+heroImageAlt: 'Grafik investasi saham dan analisis portofolio'
 
 ---
 

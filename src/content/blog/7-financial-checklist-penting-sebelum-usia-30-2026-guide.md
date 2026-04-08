@@ -7,7 +7,7 @@ category: "personal-finance"
 tags: ["financial checklist", "usia 30", "keuangan pribadi", "tabungan", "investasi"]
 author: "Evan Today"
 heroImage: './images/7-financial-checklist-penting-sebelum-usia-30-2026-guide.jpg'
-heroImageAlt: 'a close up of a text on a book'
+heroImageAlt: 'Checklist keuangan penting yang harus dipenuhi sebelum usia 30'
 ---
 
 Pernah nggak, kamu sadar tiba-tiba umur sudah mau 30, tapi tabungan masih tipis, utang masih ada, dan kamu belum punya arah keuangan yang jelas? Saya pernah lihat banyak orang di usia 20-an yang gajinya lumayan, tapi habis begitu saja karena nggak punya sistem. Nah, *financial checklist before turning 30* ini saya susun supaya kamu nggak masuk ke umur 30 dengan keuangan yang berantakan.

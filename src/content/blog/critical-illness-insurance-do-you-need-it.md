@@ -7,7 +7,7 @@ category: "insurance"
 tags: ["critical illness insurance", "health insurance", "cancer insurance", "supplemental insurance"]
 author: "Evan Today"
 heroImage: './images/insurance-1.jpg'
-heroImageAlt: 'Critical Illness Insurance: Do You Really Need It?'
+heroImageAlt: 'Perlindungan asuransi untuk keluarga dan aset'
 
 ---
 

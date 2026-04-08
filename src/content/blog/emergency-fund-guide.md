@@ -4,7 +4,7 @@ description: "Satu ke IGD atau kena PHK bisa habiskan Rp 150-750 juta. Lihat jum
 pubDate: 2026-03-02
 author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
-heroImageAlt: 'Emergency Fund: How Much You Really Need [2026]'
+heroImageAlt: 'Menghitung anggaran bulanan dan mengelola pengeluaran'
 
 category: "personal-finance"
 tags: ["emergency fund", "rainy day fund", "savings", "financial safety net", "high-yield savings"]

@@ -7,7 +7,7 @@ category: "insurance"
 tags: ["manulife", "aia", "sequis", "asuransi", "perbandingan"]
 author: "Evan Today"
 heroImage: './images/manulife-vs-aia-vs-sequis-compared-2026.jpg'
-heroImageAlt: 'Family posing by the ocean on a sunny day'
+heroImageAlt: 'Perbandingan produk asuransi Manulife, AIA, dan Sequis'
 ---
 
 Kalau kamu lagi cari **Manulife vs AIA vs Sequis insurance comparison**, biasanya masalahnya bukan “mana yang paling terkenal”, tapi “mana yang paling masuk akal buat kondisi saya”. Saya sering lihat orang keburu beli karena nama besar, lalu baru sadar premi naik, manfaatnya tidak sesuai kebutuhan, atau proses klaimnya ribet di belakang.

@@ -6,7 +6,7 @@ category: "cryptocurrency"
 tags: ["crypto tax", "IRS crypto", "capital gains crypto", "Form 8949", "crypto taxes"]
 author: "Evan Today"
 heroImage: './images/cryptocurrency-2.jpg'
-heroImageAlt: 'Crypto Tax Rules [2026]: IRS Guide to Avoid Fines'
+heroImageAlt: 'Trading crypto dan analisis pasar digital'
 
 ---
 

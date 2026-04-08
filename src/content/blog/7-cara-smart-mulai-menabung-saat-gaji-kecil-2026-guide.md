@@ -7,7 +7,7 @@ category: "personal-finance"
 tags: ["menabung", "gaji kecil", "keuangan pribadi", "budgeting", "Indonesia"]
 author: "Evan Today"
 heroImage: './images/7-cara-smart-mulai-menabung-saat-gaji-kecil-2026-guide.jpg'
-heroImageAlt: 'Coins falling into a piggy bank on a black background.'
+heroImageAlt: 'Celengan dan koin untuk tips menabung dengan gaji kecil'
 ---
 
 Pernah nggak, baru gajian tanggal 25 tapi tanggal 10 saldo sudah menipis? Saya pernah ada di fase itu. Waktu gaji masih pas-pasan, rasanya menabung itu cuma teori bagus yang enak dibaca, tapi susah dipraktikkan.

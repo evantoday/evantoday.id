@@ -7,7 +7,7 @@ category: "personal-finance"
 tags: ["job loss", "emergency fund", "unemployment", "budgeting", "personal finance"]
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
-heroImageAlt: '7 Smart Ways to Survive a Job Loss'
+heroImageAlt: 'Perencanaan keuangan pribadi dengan notebook dan kalkulator'
 
 ---
 

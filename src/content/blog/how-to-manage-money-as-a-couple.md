@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["couple finances", "joint accounts", "money management", "marriage money", "split bills"]
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
-heroImageAlt: 'Money Management for Couples: 5 Proven Habits'
+heroImageAlt: 'Perencanaan keuangan pribadi dengan notebook dan kalkulator'
 
 ---
 

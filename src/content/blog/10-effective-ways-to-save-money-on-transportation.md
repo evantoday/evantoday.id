@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["save on transport", "car expenses", "commute savings", "gas savings", "transportation costs"]
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
-heroImageAlt: '10 Ways to Save $300/Month on Transportation'
+heroImageAlt: 'Perencanaan keuangan pribadi dengan notebook dan kalkulator'
 
 ---
 

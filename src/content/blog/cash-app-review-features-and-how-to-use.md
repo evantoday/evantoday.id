@@ -1,12 +1,13 @@
 ---
 title: "Ulasan Cash App [2026]: Fitur, Biaya, Keamanan"
+draft: true
 description: "Cash App mendukung pembayaran P2P, Bitcoin, saham, dan direct deposit, tapi biayanya bisa menumpuk. Ulasan lengkapnya."
 pubDate: 2026-03-18
 category: "fintech"
 tags: ["Cash App", "Cash App review", "P2P payment", "mobile payment", "send money"]
 author: "Evan Today"
 heroImage: './images/fintech-2.jpg'
-heroImageAlt: 'Cash App Review [2026]: Features, Fees, Safety'
+heroImageAlt: 'Review aplikasi fintech dan perbandingan fitur'
 
 ---
 

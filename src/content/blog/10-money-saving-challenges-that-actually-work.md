@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["saving challenge", "money challenge", "52 week challenge", "save money", "no spend challenge"]
 author: "Evan Today"
 heroImage: './images/personal-finance-2.jpg'
-heroImageAlt: '10 Money Saving Challenges That Actually Work'
+heroImageAlt: 'Menghitung anggaran bulanan dan mengelola pengeluaran'
 
 ---
 

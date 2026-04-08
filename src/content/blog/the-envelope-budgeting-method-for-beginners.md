@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["envelope budgeting", "cash envelope system", "budgeting method", "save money", "spending control"]
 author: "Evan Today"
 heroImage: './images/personal-finance-1.jpg'
-heroImageAlt: 'Envelope Budgeting: Save 20% More Each Month'
+heroImageAlt: 'Perencanaan keuangan pribadi dengan notebook dan kalkulator'
 
 ---
 

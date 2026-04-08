@@ -1,12 +1,13 @@
 ---
 title: "Review Robinhood [2026]: Masih Layak?"
+draft: true
 description: "Robinhood menawarkan trading komisi Rp 0 dan aplikasi yang mulus, tapi PFOF dan fitur terbatas jadi catatan. Ulasan jujur plus alternatif."
 pubDate: 2026-03-10
 category: "investing"
 tags: ["Robinhood", "stock trading", "investing app", "commission-free", "brokerage review"]
 author: "Evan Today"
 heroImage: './images/investing-2.jpg'
-heroImageAlt: 'Robinhood Review [2026]: Still Worth It?'
+heroImageAlt: 'Memulai investasi dengan aplikasi dan platform digital'
 
 ---
 

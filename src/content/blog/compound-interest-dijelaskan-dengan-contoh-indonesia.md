@@ -7,7 +7,7 @@ category: "investing"
 tags: ["compound interest", "bunga berbunga", "investasi", "keuangan pribadi", "indonesia"]
 author: "Evan Today"
 heroImage: './images/compound-interest-dijelaskan-dengan-contoh-indonesia.jpg'
-heroImageAlt: 'Hand reaching towards floating percentage symbols.'
+heroImageAlt: 'Ilustrasi bunga majemuk dan pertumbuhan investasi'
 ---
 
 Saya masih ingat waktu pertama kali benar-benar paham compound interest. Rasanya seperti ada tombol “percepatan” yang selama ini saya abaikan. Uang kecil yang saya simpan rutin ternyata bisa tumbuh jauh lebih cepat daripada yang saya kira, asal waktunya cukup panjang.

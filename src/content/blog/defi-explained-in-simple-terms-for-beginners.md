@@ -7,7 +7,7 @@ category: "cryptocurrency"
 tags: ["DeFi", "decentralized finance", "DeFi explained", "yield farming", "crypto lending"]
 author: "Evan Today"
 heroImage: './images/cryptocurrency-1.jpg'
-heroImageAlt: 'DeFi Explained for Beginners [2026 Guide]'
+heroImageAlt: 'Investasi cryptocurrency Bitcoin dan aset digital'
 
 ---
 

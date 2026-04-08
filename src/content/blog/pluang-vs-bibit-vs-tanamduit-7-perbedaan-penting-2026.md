@@ -7,7 +7,7 @@ category: "investing"
 tags: ["Pluang", "Bibit", "Tanamduit", "investasi", "aplikasi investasi"]
 author: "Evan Today"
 heroImage: './images/pluang-vs-bibit-vs-tanamduit-7-perbedaan-penting-2026.jpg'
-heroImageAlt: 'black flat screen computer monitor'
+heroImageAlt: 'Perbandingan aplikasi investasi Pluang, Bibit, dan Tanamduit'
 ---
 
 Saya masih ingat waktu pertama kali bantu teman pilih aplikasi investasi. Dia buka tiga aplikasi sekaligus: Pluang, Bibit, dan Tanamduit. Hasilnya? Malah bingung sendiri karena semuanya terlihat “mudah”, padahal kebutuhan tiap orang beda. Kalau kamu sedang cari **Pluang vs Bibit vs Tanamduit comparison**, saya paham banget—yang kamu butuhkan itu jawaban praktis, bukan slogan marketing.

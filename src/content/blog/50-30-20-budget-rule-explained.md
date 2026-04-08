@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["50-30-20 rule", "budgeting", "budget rule", "spending plan", "personal finance"]
 author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
-heroImageAlt: '50/30/20 Budget Rule: Stop Overspending in 30 Days'
+heroImageAlt: 'Tips menabung dan mengatur keuangan rumah tangga'
 
 ---
 

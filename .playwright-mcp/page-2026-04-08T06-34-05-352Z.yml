@@ -1,0 +1,479 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Evan Today" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - link "Articles" [ref=e7] [cursor=pointer]:
+          - /url: /blog
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e9] [cursor=pointer]:
+          - /url: /contact
+  - main [ref=e10]:
+    - article [ref=e11]:
+      - navigation "Breadcrumb" [ref=e12]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Home" [ref=e15] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e16]:
+            - generic [ref=e17]: /
+            - link "Financial Tips" [ref=e18] [cursor=pointer]:
+              - /url: /category/financial-tips
+          - listitem [ref=e19]:
+            - generic [ref=e20]: /
+            - generic [ref=e21]: "Negosiasi Gaji: Dapatkan Rp 75-225 Juta Lebih"
+      - img "Negosiasi gaji di kantor dengan atasan" [ref=e23]
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - link "Financial Tips" [ref=e26] [cursor=pointer]:
+            - /url: /category/financial-tips
+          - generic [ref=e27]: "|"
+          - time [ref=e28]: Jan 18, 2026
+          - generic [ref=e29]: "|"
+          - generic [ref=e30]: By Evan Today
+          - generic [ref=e31]: "|"
+          - generic [ref=e32]: 10 min read
+        - 'heading "Negosiasi Gaji: Dapatkan Rp 75-225 Juta Lebih" [level=1] [ref=e33]'
+        - paragraph [ref=e34]: Karyawan sering kehilangan Rp 75-225 juta karena tak negosiasi. Pakai 7 taktik ini untuk dapat gaji lebih tinggi.
+        - generic [ref=e35]:
+          - link "#salary negotiation" [ref=e36] [cursor=pointer]:
+            - /url: /tag/salary negotiation
+          - link "#raise" [ref=e37] [cursor=pointer]:
+            - /url: /tag/raise
+          - link "#job offer" [ref=e38] [cursor=pointer]:
+            - /url: /tag/job offer
+          - link "#compensation" [ref=e39] [cursor=pointer]:
+            - /url: /tag/compensation
+          - link "#career" [ref=e40] [cursor=pointer]:
+            - /url: /tag/career
+      - navigation [ref=e41]:
+        - paragraph [ref=e42]: Contents
+        - list [ref=e43]:
+          - listitem [ref=e44]:
+            - link "Kenapa Saya Hampir Kehilangan Rp 180 Juta" [ref=e45] [cursor=pointer]:
+              - /url: "#kenapa-saya-hampir-kehilangan-rp-180-juta"
+          - listitem [ref=e46]:
+            - link "Kenapa Perusahaan Mengharapkan Kamu Negosiasi" [ref=e47] [cursor=pointer]:
+              - /url: "#kenapa-perusahaan-mengharapkan-kamu-negosiasi"
+          - listitem [ref=e48]:
+            - link "7 Taktik yang Benar-Benar Berhasil" [ref=e49] [cursor=pointer]:
+              - /url: "#7-taktik-yang-benar-benar-berhasil"
+          - listitem [ref=e50]:
+            - 'link "Taktik 1: Riset Nilai Pasarmu Dulu" [ref=e51] [cursor=pointer]':
+              - /url: "#taktik-1-riset-nilai-pasarmu-dulu"
+          - listitem [ref=e52]:
+            - link "Cara Menggunakan Datanya" [ref=e53] [cursor=pointer]:
+              - /url: "#cara-menggunakan-datanya"
+          - listitem [ref=e54]:
+            - 'link "Taktik 2: Biarkan Mereka Sebut Angka Dulu" [ref=e55] [cursor=pointer]':
+              - /url: "#taktik-2-biarkan-mereka-sebut-angka-dulu"
+          - listitem [ref=e56]:
+            - 'link "Taktik 3: Pasang Angka Lebih Tinggi" [ref=e57] [cursor=pointer]':
+              - /url: "#taktik-3-pasang-angka-lebih-tinggi"
+          - listitem [ref=e58]:
+            - 'link "Taktik 4: Pakai Formula Penawaran Balik" [ref=e59] [cursor=pointer]':
+              - /url: "#taktik-4-pakai-formula-penawaran-balik"
+          - listitem [ref=e60]:
+            - link "Template Email" [ref=e61] [cursor=pointer]:
+              - /url: "#template-email"
+          - listitem [ref=e62]:
+            - 'link "Taktik 5: Negosiasikan Paket Secara Menyeluruh" [ref=e63] [cursor=pointer]':
+              - /url: "#taktik-5-negosiasikan-paket-secara-menyeluruh"
+          - listitem [ref=e64]:
+            - 'link "Taktik 6: Gunakan Tawaran yang Bersaing" [ref=e65] [cursor=pointer]':
+              - /url: "#taktik-6-gunakan-tawaran-yang-bersaing"
+          - listitem [ref=e66]:
+            - 'link "Taktik 7: Latih Jeda yang Tidak Nyaman" [ref=e67] [cursor=pointer]':
+              - /url: "#taktik-7-latih-jeda-yang-tidak-nyaman"
+          - listitem [ref=e68]:
+            - link "Negosiasi Kenaikan Gaji di Tempat Kerja Sekarang" [ref=e69] [cursor=pointer]:
+              - /url: "#negosiasi-kenaikan-gaji-di-tempat-kerja-sekarang"
+          - listitem [ref=e70]:
+            - link "Bangun Kasusmu Selama Berbulan-bulan" [ref=e71] [cursor=pointer]:
+              - /url: "#bangun-kasusmu-selama-berbulan-bulan"
+          - listitem [ref=e72]:
+            - link "Timing Itu Penting" [ref=e73] [cursor=pointer]:
+              - /url: "#timing-itu-penting"
+          - listitem [ref=e74]:
+            - link "Skrip Percakapan Kenaikan Gaji" [ref=e75] [cursor=pointer]:
+              - /url: "#skrip-percakapan-kenaikan-gaji"
+          - listitem [ref=e76]:
+            - link "Apa yang Harus Dilakukan Kalau Mereka Bilang Tidak" [ref=e77] [cursor=pointer]:
+              - /url: "#apa-yang-harus-dilakukan-kalau-mereka-bilang-tidak"
+          - listitem [ref=e78]:
+            - link "Kesalahan Negosiasi yang Umum" [ref=e79] [cursor=pointer]:
+              - /url: "#kesalahan-negosiasi-yang-umum"
+          - listitem [ref=e80]:
+            - link "Dampak Negosiasi Seumur Hidup" [ref=e81] [cursor=pointer]:
+              - /url: "#dampak-negosiasi-seumur-hidup"
+      - insertion [ref=e83]:
+        - iframe [ref=e85]:
+          
+      - generic [ref=e86]:
+        - heading "Kenapa Saya Hampir Kehilangan Rp 180 Juta" [level=2] [ref=e87]
+        - paragraph [ref=e88]: Tiga tahun lalu, saya dapat tawaran kerja sebesar Rp 1,4 miliar per tahun. Reaksi pertama saya tentu senang sekali. Itu berarti naik sekitar Rp 225 juta dari gaji saya sebelumnya, dan saya hampir langsung menerimanya. Tapi saya minta waktu 48 jam untuk berpikir, melakukan riset, lalu kembali dengan penawaran balik.
+        - paragraph [ref=e89]: Angka akhirnya? Rp 1,6 miliar, ditambah cuti ekstra satu minggu dan bonus tanda tangan Rp 75 juta.
+        - paragraph [ref=e90]:
+          - text: "Satu percakapan itu, yang benar-benar cuma butuh sekitar 20 menit negosiasi, bernilai lebih dari Rp 180 juta di kompensasi tahun pertama. Dan yang lebih penting: karena kenaikan gaji dan bonus di masa depan biasanya dihitung dari gaji pokok, kenaikan Rp 180 juta itu akan terus berdampak sepanjang karier saya. Estimasi konservatifnya, nilainya bisa mencapai Rp 4,5 miliar atau lebih seumur hidup. Uang tambahan itu, kalau diinvestasikan dengan bijak lewat"
+          - link "reksadana" [ref=e91] [cursor=pointer]:
+            - /url: /blog/index-fund-investing-guide/
+          - text: atau
+          - link "investasi pensiun" [ref=e92] [cursor=pointer]:
+            - /url: /blog/how-to-financially-prepare-for-retirement/
+          - text: ", bisa mempercepat jalanmu menuju kebebasan finansial secara signifikan."
+        - paragraph [ref=e93]: Namun menurut riset dari Salary.com, 57% orang Amerika tidak pernah menegosiasikan gaji mereka. Mereka menerima apa pun yang ditawarkan. Kalau kamu termasuk orang seperti itu, panduan ini akan mengubah cara kamu selamanya.
+        - heading "Kenapa Perusahaan Mengharapkan Kamu Negosiasi" [level=2] [ref=e94]
+        - paragraph [ref=e95]: "Saya mau luruskan mitos terbesar dulu: menegosiasikan gaji tidak akan membuat perusahaan menarik kembali tawaran kerja. Dalam survei 2024 terhadap hiring manager, 84% bilang mereka memang mengharapkan kandidat negosiasi, dan hanya 1% yang pernah menarik tawaran karena seseorang meminta gaji lebih tinggi."
+        - paragraph [ref=e96]: "Inilah alasan perusahaan sengaja menyisakan ruang dalam tawaran mereka:"
+        - list [ref=e97]:
+          - listitem [ref=e98]:
+            - strong [ref=e99]: Rentang anggaran
+            - text: ": Setiap posisi punya kisaran gaji. Tawaran awal jarang sekali berada di batas atas"
+          - listitem [ref=e100]:
+            - strong [ref=e101]: Biaya rekrutmen
+            - text: ": Perusahaan bisa menghabiskan Rp 60 juta-Rp 300 juta+ untuk mengisi satu posisi. Mereka tidak akan membuang itu hanya karena kenaikan gaji 5-10%"
+          - listitem [ref=e102]:
+            - strong [ref=e103]: Negosiasi adalah skill yang mereka nilai
+            - text: ": Terutama untuk posisi yang berhubungan dengan klien atau kepemimpinan, kemampuan negosiasimu memang sedang dinilai"
+        - paragraph [ref=e104]: Risiko tidak negosiasi jauh lebih besar daripada risiko meminta lebih.
+        - heading "7 Taktik yang Benar-Benar Berhasil" [level=2] [ref=e105]
+        - 'heading "Taktik 1: Riset Nilai Pasarmu Dulu" [level=3] [ref=e106]'
+        - paragraph [ref=e107]: "Kamu tidak bisa negosiasi dengan efektif kalau tidak tahu nilai dirimu. Sebelum bicara soal gaji, luangkan 30 menit untuk mengumpulkan data dari sumber-sumber ini:"
+        - list [ref=e108]:
+          - listitem [ref=e109]:
+            - strong [ref=e110]: Glassdoor Salary
+            - text: ": Cari judul pekerjaan dan lokasi yang sama persis"
+          - listitem [ref=e111]:
+            - strong [ref=e112]: Levels.fyi
+            - text: ": Sangat berguna untuk posisi tech, termasuk data saham dan bonus"
+          - listitem [ref=e113]:
+            - strong [ref=e114]: Payscale
+            - text: ": Laporan gaji detail berdasarkan pengalaman, pendidikan, dan skill"
+          - listitem [ref=e115]:
+            - strong [ref=e116]: LinkedIn Salary
+            - text: ": Menampilkan kisaran berdasarkan data anggota nyata"
+          - listitem [ref=e117]:
+            - strong [ref=e118]: Badan Pusat Statistik
+            - text: ": Data resmi soal upah berdasarkan wilayah dan jenis pekerjaan"
+        - heading "Cara Menggunakan Datanya" [level=3] [ref=e119]
+        - paragraph [ref=e120]: "Buat kisaran gaji berdasarkan risetmu:"
+        - table [ref=e121]:
+          - rowgroup [ref=e122]:
+            - row "Data Point Artinya" [ref=e123]:
+              - columnheader "Data Point" [ref=e124]
+              - columnheader "Artinya" [ref=e125]
+          - rowgroup [ref=e126]:
+            - row "Persentil 25 Batas bawah, jangan terima di bawah ini" [ref=e127]:
+              - cell "Persentil 25" [ref=e128]
+              - cell "Batas bawah, jangan terima di bawah ini" [ref=e129]
+            - row "Persentil 50 (median) Tarif pasar untuk posisi kamu" [ref=e130]:
+              - cell "Persentil 50 (median)" [ref=e131]
+              - cell "Tarif pasar untuk posisi kamu" [ref=e132]
+            - row "Persentil 75 Targetmu kalau kamu punya kualifikasi kuat" [ref=e133]:
+              - cell "Persentil 75" [ref=e134]
+              - cell "Targetmu kalau kamu punya kualifikasi kuat" [ref=e135]
+            - row "Persentil 90 Mungkin dicapai dengan pengalaman luar biasa atau tawaran kompetitor" [ref=e136]:
+              - cell "Persentil 90" [ref=e137]
+              - cell "Mungkin dicapai dengan pengalaman luar biasa atau tawaran kompetitor" [ref=e138]
+        - paragraph [ref=e139]: Permintaan awalmu sebaiknya di persentil 75 atau sedikit di atasnya. Ini memberi ruang untuk turun sedikit, tapi kamu tetap di angka yang kamu suka.
+        - 'heading "Taktik 2: Biarkan Mereka Sebut Angka Dulu" [level=3] [ref=e140]'
+        - paragraph [ref=e141]: "Saat ditanya ekspektasi gaji di awal proses, jangan buru-buru jawab. Pakai skrip seperti ini:"
+        - paragraph [ref=e142]:
+          - strong [ref=e143]: “Berapa ekspektasi gaji Anda?”
+        - list [ref=e144]:
+          - listitem [ref=e145]: “Saya fokus mencari kecocokan yang tepat, dan saya yakin kita bisa sepakat soal kompensasi yang adil. Boleh saya tahu kisaran anggaran untuk posisi ini?”
+          - listitem [ref=e146]: “Saya lebih suka memahami tanggung jawabnya dulu sebelum membahas angka spesifik. Kisaran berapa yang Anda bayangkan?”
+          - listitem [ref=e147]: “Berdasarkan riset saya, posisi seperti ini biasanya ada di kisaran Rp X sampai Rp Y. Saya fleksibel dalam kisaran itu, tergantung paket kompensasi totalnya.”
+        - paragraph [ref=e148]: Orang yang menyebut angka dulu biasanya berada di posisi yang kurang menguntungkan karena dia yang menetapkan patokan awal. Kalau kamu menyebut Rp 15 juta per bulan, padahal mereka siap menawarkan Rp 17,5 juta, berarti kamu baru saja meninggalkan Rp 30 juta setahun di meja.
+        - 'heading "Taktik 3: Pasang Angka Lebih Tinggi" [level=3] [ref=e149]'
+        - paragraph [ref=e150]: "Kalau kamu yang menyebut angka, targetkan 10-20% di atas angka idealmu. Ini disebut efek anchoring: angka pertama dalam negosiasi sangat memengaruhi hasil akhir, terlepas dari apakah angka itu terasa masuk akal atau tidak."
+        - paragraph [ref=e151]:
+          - strong [ref=e152]: Contoh
+          - text: ":"
+        - list [ref=e153]:
+          - listitem [ref=e154]: "Gaji targetmu: Rp 1,6 miliar"
+          - listitem [ref=e155]: "Angka anchor: Rp 1,75 miliar-Rp 1,8 miliar"
+          - listitem [ref=e156]: "Hasil yang diharapkan: Rp 1,6 miliar-Rp 1,68 miliar"
+        - paragraph [ref=e157]: Ini memang terasa tidak nyaman. Kamu mungkin khawatir terlihat serakah atau tidak realistis. Tapi riset terus menunjukkan bahwa anchor yang lebih tinggi mendorong hasil akhir yang lebih tinggi, bahkan saat angkanya cukup agresif.
+        - 'heading "Taktik 4: Pakai Formula Penawaran Balik" [level=3] [ref=e158]'
+        - paragraph [ref=e159]: "Saat kamu menerima tawaran, pakai kerangka ini:"
+        - list [ref=e160]:
+          - listitem [ref=e161]:
+            - strong [ref=e162]: Tunjukkan antusiasme
+            - text: ": “Terima kasih, saya sangat senang dengan kesempatan ini.”"
+          - listitem [ref=e163]:
+            - strong [ref=e164]: Akui tawarannya
+            - text: ": “Saya menghargai tawaran sebesar Rp 1,4 miliar.”"
+          - listitem [ref=e165]:
+            - strong [ref=e166]: Sampaikan penawaran balik dengan alasan
+            - text: ": “Berdasarkan riset saya tentang kisaran pasar untuk posisi ini di [kota], dan melihat [kualifikasi spesifik] yang saya miliki, saya berharap kita bisa membahas gaji pokok sebesar Rp 1,7 miliar.”"
+          - listitem [ref=e167]:
+            - strong [ref=e168]: Tambahkan nada kolaboratif
+            - text: ": “Saya yakin kita bisa menemukan angka yang cocok untuk kita berdua.”"
+        - heading "Template Email" [level=3] [ref=e169]
+        - paragraph [ref=e170]: "Kalau negosiasi lewat tulisan (ini saya sarankan untuk penawaran awal karena memberi waktu kedua pihak untuk berpikir):"
+        - blockquote [ref=e171]:
+          - paragraph [ref=e172]: Hai [Nama],
+          - paragraph [ref=e173]: Terima kasih banyak atas tawarannya. Saya benar-benar antusias untuk bergabung dengan [Perusahaan] dan berkontribusi pada [proyek atau tim spesifik].
+          - paragraph [ref=e174]: Setelah meninjau tawaran dan meneliti kompensasi untuk posisi serupa di [kota], saya ingin mendiskusikan gaji pokoknya. Dengan [X tahun pengalaman di Y], [pencapaian atau skill spesifik] saya, dan data pasar yang sudah saya kumpulkan, saya percaya gaji pokok sebesar Rp [jumlah] akan lebih mencerminkan nilai saya dan cakupan peran ini.
+          - paragraph [ref=e175]: Saya cukup fleksibel soal struktur paket keseluruhan, jadi saya juga senang membahas komponen lain seperti bonus, saham/insentif, atau cuti. Saya ingin menemukan angka yang cocok untuk kita berdua.
+          - paragraph [ref=e176]: Saya menantikan diskusi lanjutannya.
+        - 'heading "Taktik 5: Negosiasikan Paket Secara Menyeluruh" [level=3] [ref=e177]'
+        - paragraph [ref=e178]: "Gaji pokok hanyalah satu bagian. Kalau perusahaan tidak bisa menaikkan gaji pokok, biasanya masih ada komponen lain yang bisa dinegosiasikan:"
+        - table [ref=e179]:
+          - rowgroup [ref=e180]:
+            - row "Komponen Kisaran yang Umumnya Bisa Dinegosiasikan" [ref=e181]:
+              - columnheader "Komponen" [ref=e182]
+              - columnheader "Kisaran yang Umumnya Bisa Dinegosiasikan" [ref=e183]
+          - rowgroup [ref=e184]:
+            - row "Bonus tanda tangan Rp 75 juta-Rp 375 juta" [ref=e185]:
+              - cell "Bonus tanda tangan" [ref=e186]
+              - cell "Rp 75 juta-Rp 375 juta" [ref=e187]
+            - row "Target bonus tahunan 5-20% dari gaji pokok" [ref=e188]:
+              - cell "Target bonus tahunan" [ref=e189]
+              - cell "5-20% dari gaji pokok" [ref=e190]
+            - row "Saham/insentif Sangat bervariasi" [ref=e191]:
+              - cell "Saham/insentif" [ref=e192]
+              - cell "Sangat bervariasi" [ref=e193]
+            - row "Cuti tambahan 1-2 minggu tambahan" [ref=e194]:
+              - cell "Cuti tambahan" [ref=e195]
+              - cell "1-2 minggu tambahan" [ref=e196]
+            - row "Fleksibilitas kerja remote Hybrid atau full remote" [ref=e197]:
+              - cell "Fleksibilitas kerja remote" [ref=e198]
+              - cell "Hybrid atau full remote" [ref=e199]
+            - row "Tanggal mulai kerja Fleksibilitas untuk menyelesaikan pekerjaan lama" [ref=e200]:
+              - cell "Tanggal mulai kerja" [ref=e201]
+              - cell "Fleksibilitas untuk menyelesaikan pekerjaan lama" [ref=e202]
+            - row "Pengembangan profesional Budget Rp 30 juta-Rp 150 juta/tahun" [ref=e203]:
+              - cell "Pengembangan profesional" [ref=e204]
+              - cell "Budget Rp 30 juta-Rp 150 juta/tahun" [ref=e205]
+            - row "Bantuan relokasi Rp 75 juta-Rp 225 juta" [ref=e206]:
+              - cell "Bantuan relokasi" [ref=e207]
+              - cell "Rp 75 juta-Rp 225 juta" [ref=e208]
+            - row "Jabatan Title yang lebih tinggi bisa berarti band gaji lebih tinggi" [ref=e209]:
+              - cell "Jabatan" [ref=e210]
+              - cell "Title yang lebih tinggi bisa berarti band gaji lebih tinggi" [ref=e211]
+        - paragraph [ref=e212]: Saat saya negosiasi peran saya sekarang, perusahaan tidak bisa menaikkan gaji pokok di atas Rp 1,6 miliar. Tapi mereka menambah bonus tanda tangan Rp 75 juta dan memberi saya cuti ekstra satu minggu, yang secara efektif menutup selisih ke target kompensasi total saya.
+        - 'heading "Taktik 6: Gunakan Tawaran yang Bersaing" [level=3] [ref=e213]'
+        - paragraph [ref=e214]: Tidak ada yang lebih memperkuat posisi negosiasimu selain tawaran dari perusahaan lain. Kalau kamu sedang aktif interview, coba atur prosesnya supaya tawaran masuk di waktu yang berdekatan.
+        - paragraph [ref=e215]:
+          - strong [ref=e216]: "Cara memanfaatkan tawaran pesaing tanpa terkesan memaksa:"
+        - paragraph [ref=e217]: “Saya ingin jujur. Saya menerima tawaran dari [Perusahaan] sebesar [gaji]. Posisi Anda adalah pilihan utama saya karena [alasan yang tulus]. Apakah ada fleksibilitas untuk menyamai atau mendekati kompensasi itu?”
+        - paragraph [ref=e218]: "Beberapa aturan penting:"
+        - list [ref=e219]:
+          - listitem [ref=e220]:
+            - strong [ref=e221]: Jangan pernah mengarang tawaran pesaing
+            - text: ": Itu tidak etis dan bisa ketahuan"
+          - listitem [ref=e222]:
+            - strong [ref=e223]: Hargai waktu kedua perusahaan
+            - text: ": Jangan memperpanjang negosiasi tanpa akhir"
+          - listitem [ref=e224]:
+            - strong [ref=e225]: Sebut nama perusahaan hanya jika nyaman
+            - text: ": Kamu bisa bilang “tawaran pesaing” tanpa menyebut nama"
+          - listitem [ref=e226]:
+            - strong [ref=e227]: Punya tenggat waktu
+            - text: ": “Saya perlu memberi jawaban ke mereka hari Jumat” menciptakan urgensi"
+        - 'heading "Taktik 7: Latih Jeda yang Tidak Nyaman" [level=3] [ref=e228]'
+        - paragraph [ref=e229]: Setelah menyebut penawaran balikmu, diam. Heningnya memang terasa sangat canggung, tapi justru sangat efektif. Kebanyakan orang buru-buru mengisi keheningan itu dengan menurunkan permintaan mereka sendiri.
+        - paragraph [ref=e230]: "Latih ini: sebut angka, lalu hitung sampai 10 di dalam kepala. Biarkan lawan bicara merespons duluan."
+        - heading "Negosiasi Kenaikan Gaji di Tempat Kerja Sekarang" [level=2] [ref=e231]
+        - paragraph [ref=e232]: Taktik di atas fokus pada tawaran kerja baru, tapi negosiasi kenaikan gaji di perusahaan saat ini butuh pendekatan berbeda.
+        - heading "Bangun Kasusmu Selama Berbulan-bulan" [level=3] [ref=e233]
+        - paragraph [ref=e234]: "Mulailah mendokumentasikan pencapaianmu 3-6 bulan sebelum meminta kenaikan gaji:"
+        - list [ref=e235]:
+          - listitem [ref=e236]:
+            - strong [ref=e237]: Dampak pendapatan
+            - text: ": “Saya menutup bisnis baru senilai Rp 7,5 miliar kuartal ini”"
+          - listitem [ref=e238]:
+            - strong [ref=e239]: Penghematan biaya
+            - text: ": “Perbaikan proses saya menghemat 15 jam kerja tim per minggu”"
+          - listitem [ref=e240]:
+            - strong [ref=e241]: Perluasan tanggung jawab
+            - text: ": “Saya mengambil alih pengelolaan 3 anggota tim tambahan”"
+          - listitem [ref=e242]:
+            - strong [ref=e243]: Data pasar
+            - text: ": “Tarif pasar untuk posisi saya naik 8% sejak review terakhir”"
+        - heading "Timing Itu Penting" [level=3] [ref=e244]
+        - paragraph [ref=e245]: "Waktu terbaik untuk meminta kenaikan gaji:"
+        - list [ref=e246]:
+          - listitem [ref=e247]: Setelah menyelesaikan proyek besar dengan sukses
+          - listitem [ref=e248]: Saat musim review tahunan (tapi bawa data sendiri, jangan cuma menunggu angka dari mereka)
+          - listitem [ref=e249]: Setelah memikul tanggung jawab yang jauh lebih besar
+          - listitem [ref=e250]: Saat kamu punya tawaran pesaing (gunakan dengan hati-hati)
+        - paragraph [ref=e251]: "Waktu terburuk:"
+        - list [ref=e252]:
+          - listitem [ref=e253]: Tepat setelah PHK perusahaan atau kuartal yang buruk
+          - listitem [ref=e254]: Saat atasanmu sedang stres atau punya masalah sendiri
+          - listitem [ref=e255]: Tanpa data atau persiapan
+        - heading "Skrip Percakapan Kenaikan Gaji" [level=3] [ref=e256]
+        - paragraph [ref=e257]: “Hi [Manager], saya ingin mendiskusikan kompensasi saya. Dalam [jangka waktu] terakhir, saya telah [2-3 pencapaian spesifik dengan dampak terukur]. Berdasarkan riset saya, tarif pasar untuk posisi saya dengan pengalaman saya adalah Rp [jumlah]. Saat ini saya berada di Rp [gaji sekarang], yang [X%] di bawah pasar. Saya ingin mendiskusikan kenaikan ke Rp [target], karena menurut saya itu mencerminkan kontribusi dan nilai pasar saya.”
+        - heading "Apa yang Harus Dilakukan Kalau Mereka Bilang Tidak" [level=2] [ref=e258]
+        - paragraph [ref=e259]: "Penolakan bukan akhir pembicaraan. Coba respons ini:"
+        - list [ref=e260]:
+          - listitem [ref=e261]:
+            - strong [ref=e262]: “Saya mengerti. Apa yang perlu saya capai agar bisa mendapatkan gaji itu dalam 6 bulan ke depan?”
+            - text: Ini menggeser percakapan dari tidak menjadi ya, pada akhirnya
+          - listitem [ref=e263]:
+            - strong [ref=e264]: “Bisa kita tinjau lagi dalam 3 bulan dengan target yang spesifik?”
+            - text: Minta kriterianya secara tertulis
+          - listitem [ref=e265]:
+            - strong [ref=e266]: “Apakah ada komponen kompensasi lain yang bisa kita sesuaikan?”
+            - text: Bonus, saham/insentif, cuti, jabatan
+          - listitem [ref=e267]:
+            - strong [ref=e268]: “Terima kasih sudah mempertimbangkan. Saya menghargai keterbukaannya.”
+            - text: Tetap sopan. Akan ada kesempatan lain
+        - heading "Kesalahan Negosiasi yang Umum" [level=2] [ref=e269]
+        - list [ref=e270]:
+          - listitem [ref=e271]:
+            - strong [ref=e272]: Langsung menerima
+            - text: ": Selalu minta 24-48 jam untuk mempertimbangkan tawaran"
+          - listitem [ref=e273]:
+            - strong [ref=e274]: Minta maaf saat negosiasi
+            - text: ": Jangan pernah bilang “maaf ya saya minta” atau “saya tidak enak sebenarnya”"
+          - listitem [ref=e275]:
+            - strong [ref=e276]: Menyebut gaji sekarang
+            - text: ": Banyak wilayah sudah melarang pertanyaan ini. Bahkan kalau legal, alihkan pembicaraan"
+          - listitem [ref=e277]:
+            - strong [ref=e278]: Negosiasi lewat chat singkat
+            - text: ": Gunakan telepon, video, atau email. Jangan negosiasi lewat pesan teks"
+          - listitem [ref=e279]:
+            - strong [ref=e280]: Membuat suasana jadi konfrontatif
+            - text: ": Bingkai sebagai pemecahan masalah bersama, bukan pertarungan"
+          - listitem [ref=e281]:
+            - strong [ref=e282]: Hanya fokus pada gaji pokok
+            - text: ": Kompensasi total lebih penting daripada satu angka saja"
+          - listitem [ref=e283]:
+            - strong [ref=e284]: Tidak meminta tawaran final secara tertulis
+            - text: ": Kesepakatan lisan tidak mengikat. Untuk lebih banyak tips membangun kekayaan dari penghasilanmu, lihat panduan kami tentang"
+            - link "kebiasaan uang yang cerdas" [ref=e285] [cursor=pointer]:
+              - /url: /blog/smart-money-habits-of-wealthy-people/
+        - heading "Dampak Negosiasi Seumur Hidup" [level=2] [ref=e286]
+        - paragraph [ref=e287]: "Saya tunjukkan kenapa satu negosiasi saja bisa sangat berarti:"
+        - table [ref=e288]:
+          - rowgroup [ref=e289]:
+            - row "Skenario Gaji Awal Setelah 10 Tahun (kenaikan 3% per tahun) Setelah 20 Tahun Setelah 30 Tahun" [ref=e290]:
+              - columnheader "Skenario" [ref=e291]
+              - columnheader "Gaji Awal" [ref=e292]
+              - columnheader "Setelah 10 Tahun (kenaikan 3% per tahun)" [ref=e293]
+              - columnheader "Setelah 20 Tahun" [ref=e294]
+              - columnheader "Setelah 30 Tahun" [ref=e295]
+          - rowgroup [ref=e296]:
+            - row "Terima tawaran Rp 1,3 miliar Rp 1,7 miliar Rp 2,3 miliar Rp 3,1 miliar" [ref=e297]:
+              - cell "Terima tawaran" [ref=e298]
+              - cell "Rp 1,3 miliar" [ref=e299]
+              - cell "Rp 1,7 miliar" [ref=e300]
+              - cell "Rp 2,3 miliar" [ref=e301]
+              - cell "Rp 3,1 miliar" [ref=e302]
+            - row "Negosiasi +Rp 150 juta Rp 1,4 miliar Rp 1,9 miliar Rp 2,6 miliar Rp 3,5 miliar" [ref=e303]:
+              - cell "Negosiasi +Rp 150 juta" [ref=e304]
+              - cell "Rp 1,4 miliar" [ref=e305]
+              - cell "Rp 1,9 miliar" [ref=e306]
+              - cell "Rp 2,6 miliar" [ref=e307]
+              - cell "Rp 3,5 miliar" [ref=e308]
+            - row "Negosiasi +Rp 300 juta Rp 1,6 miliar Rp 2,1 miliar Rp 2,8 miliar Rp 3,8 miliar" [ref=e309]:
+              - cell "Negosiasi +Rp 300 juta" [ref=e310]
+              - cell "Rp 1,6 miliar" [ref=e311]
+              - cell "Rp 2,1 miliar" [ref=e312]
+              - cell "Rp 2,8 miliar" [ref=e313]
+              - cell "Rp 3,8 miliar" [ref=e314]
+        - paragraph [ref=e315]: Perbedaan antara menerima Rp 1,3 miliar dan menegosiasikan Rp 1,6 miliar adalah tambahan Rp 300 juta per tahun di awal, yang tumbuh menjadi sekitar Rp 720 juta per tahun pada tahun ke-30. Selama 30 tahun, dengan asumsi kenaikan 3% per tahun, satu negosiasi itu bernilai sekitar Rp 9 miliar dalam tambahan penghasilan kumulatif.
+        - paragraph [ref=e316]:
+          - text: Dan itu belum termasuk kontribusi tambahan
+          - link "DPLK/dana pensiun" [ref=e317] [cursor=pointer]:
+            - /url: /blog/how-to-financially-prepare-for-retirement/
+          - text: ", manfaat BPJS, dan imbal hasil investasi dari penghasilan ekstra tersebut."
+      - insertion [ref=e319]
+      - generic [ref=e321]:
+        - generic [ref=e322]: "Share:"
+        - link "Share on X (Twitter)" [ref=e323] [cursor=pointer]:
+          - /url: https://twitter.com/intent/tweet?text=Negosiasi%20Gaji%3A%20Dapatkan%20Rp%2075-225%20Juta%20Lebih&url=https%3A%2F%2Fevantoday.id%2Fblog%2Fhow-to-negotiate-salary%2F
+          - img [ref=e324]
+          - text: Twitter
+        - link "Share on Facebook" [ref=e326] [cursor=pointer]:
+          - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevantoday.id%2Fblog%2Fhow-to-negotiate-salary%2F
+          - img [ref=e327]
+          - text: Facebook
+        - link "Share on LinkedIn" [ref=e329] [cursor=pointer]:
+          - /url: https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fevantoday.id%2Fblog%2Fhow-to-negotiate-salary%2F
+          - img [ref=e330]
+          - text: LinkedIn
+        - link "Share on WhatsApp" [ref=e332] [cursor=pointer]:
+          - /url: https://wa.me/?text=Negosiasi%20Gaji%3A%20Dapatkan%20Rp%2075-225%20Juta%20Lebih%20https%3A%2F%2Fevantoday.id%2Fblog%2Fhow-to-negotiate-salary%2F
+          - img [ref=e333]
+          - text: WhatsApp
+      - generic [ref=e335]:
+        - generic [ref=e337]: E
+        - generic [ref=e338]:
+          - generic [ref=e340]: Written by Evan Today
+          - paragraph [ref=e341]: Writing about personal finance, investing, and money management. Making financial literacy accessible — one article at a time.
+          - link "More about me" [ref=e342] [cursor=pointer]:
+            - /url: /about
+      - insertion [ref=e344]
+      - generic [ref=e346]:
+        - heading "Related Articles" [level=2] [ref=e347]
+        - generic [ref=e348]:
+          - link "Financial Tips Perencanaan Keuangan untuk Pengantin Baru 7 langkah keuangan ini membantu pasangan baru menyamakan budget, rekening, asuransi, dan tujuan jangka panjang." [ref=e349] [cursor=pointer]:
+            - /url: /blog/financial-planning-for-newlyweds/
+            - text: Financial Tips
+            - heading "Perencanaan Keuangan untuk Pengantin Baru" [level=3] [ref=e350]
+            - paragraph [ref=e351]: 7 langkah keuangan ini membantu pasangan baru menyamakan budget, rekening, asuransi, dan tujuan jangka panjang.
+          - 'link "Financial Tips Gerakan FIRE: Pensiun Sebelum 40 Orang Amerika pensiun di usia 30-an dengan tabungan Rp 15 miliar+. Pelajari rumus FIRE, aturan 25x, dan cara hitung angka FIRE." [ref=e352] [cursor=pointer]':
+            - /url: /blog/achieving-financial-independence-and-early-retirement-fire-movement/
+            - text: Financial Tips
+            - 'heading "Gerakan FIRE: Pensiun Sebelum 40" [level=3] [ref=e353]'
+            - paragraph [ref=e354]: Orang Amerika pensiun di usia 30-an dengan tabungan Rp 15 miliar+. Pelajari rumus FIRE, aturan 25x, dan cara hitung angka FIRE.
+          - link "Financial Tips Cara Menghitung Net Worth Kamu Net worth adalah ukuran terbaik kesehatan finansial. Pakai rumus ini untuk menghitungnya dalam 10 menit." [ref=e355] [cursor=pointer]:
+            - /url: /blog/how-to-calculate-net-worth-and-why-it-matters/
+            - text: Financial Tips
+            - heading "Cara Menghitung Net Worth Kamu" [level=3] [ref=e356]
+            - paragraph [ref=e357]: Net worth adalah ukuran terbaik kesehatan finansial. Pakai rumus ini untuk menghitungnya dalam 10 menit.
+  - contentinfo [ref=e358]:
+    - generic [ref=e359]:
+      - generic [ref=e360]:
+        - generic [ref=e361]:
+          - text: Evan Today
+          - paragraph [ref=e362]: Tips keuangan praktis yang benar-benar works.
+        - generic [ref=e363]:
+          - heading "Topik" [level=3] [ref=e364]
+          - list [ref=e365]:
+            - listitem [ref=e366]:
+              - link "Keuangan Pribadi" [ref=e367] [cursor=pointer]:
+                - /url: /category/personal-finance
+            - listitem [ref=e368]:
+              - link "Fintech" [ref=e369] [cursor=pointer]:
+                - /url: /category/fintech
+            - listitem [ref=e370]:
+              - link "Investasi" [ref=e371] [cursor=pointer]:
+                - /url: /category/investing
+            - listitem [ref=e372]:
+              - link "Crypto" [ref=e373] [cursor=pointer]:
+                - /url: /category/cryptocurrency
+        - generic [ref=e374]:
+          - heading "Lainnya" [level=3] [ref=e375]
+          - list [ref=e376]:
+            - listitem [ref=e377]:
+              - link "Asuransi" [ref=e378] [cursor=pointer]:
+                - /url: /category/insurance
+            - listitem [ref=e379]:
+              - link "Bank Digital" [ref=e380] [cursor=pointer]:
+                - /url: /category/digital-banking
+            - listitem [ref=e381]:
+              - link "Tentang" [ref=e382] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e383]:
+              - link "Kontak" [ref=e384] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e385]:
+          - heading "Legal" [level=3] [ref=e386]
+          - list [ref=e387]:
+            - listitem [ref=e388]:
+              - link "Privasi" [ref=e389] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e390]:
+              - link "Disclaimer" [ref=e391] [cursor=pointer]:
+                - /url: /disclaimer
+      - generic [ref=e392]: © 2026 Evan Today

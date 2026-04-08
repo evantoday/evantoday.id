@@ -1,12 +1,13 @@
 ---
 title: "Cara Mengatur Apple Pay dan Google Pay [2026]"
+draft: true
 description: "Tap to pay di 90% merchant AS. Atur Apple Pay atau Google Pay dalam 2 menit—panduan iPhone dan Android."
 pubDate: 2026-03-07
 category: "fintech"
 tags: ["Apple Pay", "Google Pay", "contactless payment", "mobile wallet", "tap to pay"]
 author: "Evan Today"
 heroImage: './images/fintech-2.jpg'
-heroImageAlt: 'How to Set Up Apple Pay and Google Pay [2026]'
+heroImageAlt: 'Review aplikasi fintech dan perbandingan fitur'
 
 ---
 

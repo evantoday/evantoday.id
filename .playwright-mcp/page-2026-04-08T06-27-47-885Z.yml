@@ -1,0 +1,564 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Evan Today" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - link "Articles" [ref=e7] [cursor=pointer]:
+          - /url: /blog
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e9] [cursor=pointer]:
+          - /url: /contact
+  - main [ref=e10]:
+    - article [ref=e11]:
+      - navigation "Breadcrumb" [ref=e12]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Home" [ref=e15] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e16]:
+            - generic [ref=e17]: /
+            - link "Cryptocurrency" [ref=e18] [cursor=pointer]:
+              - /url: /category/cryptocurrency
+          - listitem [ref=e19]:
+            - generic [ref=e20]: /
+            - generic [ref=e21]: Cara Beli Bitcoin Legal di Indonesia [2026 Guide]
+      - img "a man riding a motorcycle down a street next to a tall white building" [ref=e23]
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - link "Cryptocurrency" [ref=e26] [cursor=pointer]:
+            - /url: /category/cryptocurrency
+          - generic [ref=e27]: "|"
+          - time [ref=e28]: Apr 2, 2026
+          - generic [ref=e29]: "|"
+          - generic [ref=e30]: By Evan Today
+          - generic [ref=e31]: "|"
+          - generic [ref=e32]: 13 min read
+        - heading "Cara Beli Bitcoin Legal di Indonesia [2026 Guide]" [level=1] [ref=e33]
+        - paragraph [ref=e34]: Beli Bitcoin legal di Indonesia tanpa ribet, dari pilih aplikasi sampai pajak. Langkah praktis, aman, dan jelas dalam 10 menit.
+        - generic [ref=e35]:
+          - link "#bitcoin" [ref=e36] [cursor=pointer]:
+            - /url: /tag/bitcoin
+          - link "#investasi" [ref=e37] [cursor=pointer]:
+            - /url: /tag/investasi
+          - link "#crypto" [ref=e38] [cursor=pointer]:
+            - /url: /tag/crypto
+          - link "#indonesia" [ref=e39] [cursor=pointer]:
+            - /url: /tag/indonesia
+          - link "#legal" [ref=e40] [cursor=pointer]:
+            - /url: /tag/legal
+      - navigation [ref=e41]:
+        - paragraph [ref=e42]: Contents
+        - list [ref=e43]:
+          - listitem [ref=e44]:
+            - link "Key Takeaways" [ref=e45] [cursor=pointer]:
+              - /url: "#key-takeaways"
+          - listitem [ref=e46]:
+            - link "Apa Sebenarnya Cara Beli Bitcoin Legal di Indonesia?" [ref=e47] [cursor=pointer]:
+              - /url: "#apa-sebenarnya-cara-beli-bitcoin-legal-di-indonesia"
+          - listitem [ref=e48]:
+            - link "Kenapa legalitas itu penting?" [ref=e49] [cursor=pointer]:
+              - /url: "#kenapa-legalitas-itu-penting"
+          - listitem [ref=e50]:
+            - link "Platform Mana yang Bisa Dipakai untuk Beli Bitcoin Legal?" [ref=e51] [cursor=pointer]:
+              - /url: "#platform-mana-yang-bisa-dipakai-untuk-beli-bitcoin-legal"
+          - listitem [ref=e52]:
+            - link "Perbandingan singkat platform crypto" [ref=e53] [cursor=pointer]:
+              - /url: "#perbandingan-singkat-platform-crypto"
+          - listitem [ref=e54]:
+            - link "Cara memilih platform yang benar" [ref=e55] [cursor=pointer]:
+              - /url: "#cara-memilih-platform-yang-benar"
+          - listitem [ref=e56]:
+            - link "Bagaimana Langkah-Langkah Beli Bitcoin Legal?" [ref=e57] [cursor=pointer]:
+              - /url: "#bagaimana-langkah-langkah-beli-bitcoin-legal"
+          - listitem [ref=e58]:
+            - link "1) Pilih exchange yang tepat" [ref=e59] [cursor=pointer]:
+              - /url: "#1-pilih-exchange-yang-tepat"
+          - listitem [ref=e60]:
+            - link "2) Daftar pakai data asli" [ref=e61] [cursor=pointer]:
+              - /url: "#2-daftar-pakai-data-asli"
+          - listitem [ref=e62]:
+            - link "3) Selesaikan verifikasi identitas" [ref=e63] [cursor=pointer]:
+              - /url: "#3-selesaikan-verifikasi-identitas"
+          - listitem [ref=e64]:
+            - link "4) Deposit Rupiah" [ref=e65] [cursor=pointer]:
+              - /url: "#4-deposit-rupiah"
+          - listitem [ref=e66]:
+            - link "5) Beli Bitcoin" [ref=e67] [cursor=pointer]:
+              - /url: "#5-beli-bitcoin"
+          - listitem [ref=e68]:
+            - link "6) Cek saldo dan simpan" [ref=e69] [cursor=pointer]:
+              - /url: "#6-cek-saldo-dan-simpan"
+          - listitem [ref=e70]:
+            - link "Berapa Modal Minimal untuk Beli Bitcoin?" [ref=e71] [cursor=pointer]:
+              - /url: "#berapa-modal-minimal-untuk-beli-bitcoin"
+          - listitem [ref=e72]:
+            - link "Contoh sederhana alokasi awal" [ref=e73] [cursor=pointer]:
+              - /url: "#contoh-sederhana-alokasi-awal"
+          - listitem [ref=e74]:
+            - link "Bagaimana Cara Simpan Bitcoin dengan Aman?" [ref=e75] [cursor=pointer]:
+              - /url: "#bagaimana-cara-simpan-bitcoin-dengan-aman"
+          - listitem [ref=e76]:
+            - link "1) Simpan di exchange" [ref=e77] [cursor=pointer]:
+              - /url: "#1-simpan-di-exchange"
+          - listitem [ref=e78]:
+            - link "2) Simpan di wallet pribadi" [ref=e79] [cursor=pointer]:
+              - /url: "#2-simpan-di-wallet-pribadi"
+          - listitem [ref=e80]:
+            - link "Hal yang wajib kamu lakukan" [ref=e81] [cursor=pointer]:
+              - /url: "#hal-yang-wajib-kamu-lakukan"
+          - listitem [ref=e82]:
+            - link "Berapa Biaya Beli Bitcoin di Indonesia?" [ref=e83] [cursor=pointer]:
+              - /url: "#berapa-biaya-beli-bitcoin-di-indonesia"
+          - listitem [ref=e84]:
+            - link "Komponen biaya yang perlu dicek" [ref=e85] [cursor=pointer]:
+              - /url: "#komponen-biaya-yang-perlu-dicek"
+          - listitem [ref=e86]:
+            - link "Contoh hitungan sederhana" [ref=e87] [cursor=pointer]:
+              - /url: "#contoh-hitungan-sederhana"
+          - listitem [ref=e88]:
+            - link "Apakah Beli Bitcoin di Indonesia Kena Pajak?" [ref=e89] [cursor=pointer]:
+              - /url: "#apakah-beli-bitcoin-di-indonesia-kena-pajak"
+          - listitem [ref=e90]:
+            - link "Apakah Bitcoin Cocok untuk Pemula di Indonesia?" [ref=e91] [cursor=pointer]:
+              - /url: "#apakah-bitcoin-cocok-untuk-pemula-di-indonesia"
+          - listitem [ref=e92]:
+            - link "Kesalahan Paling Sering Saat Beli Bitcoin" [ref=e93] [cursor=pointer]:
+              - /url: "#kesalahan-paling-sering-saat-beli-bitcoin"
+          - listitem [ref=e94]:
+            - link "1) Beli karena ikut-ikutan" [ref=e95] [cursor=pointer]:
+              - /url: "#1-beli-karena-ikut-ikutan"
+          - listitem [ref=e96]:
+            - link "2) Pakai uang kebutuhan" [ref=e97] [cursor=pointer]:
+              - /url: "#2-pakai-uang-kebutuhan"
+          - listitem [ref=e98]:
+            - link "3) Tidak cek biaya" [ref=e99] [cursor=pointer]:
+              - /url: "#3-tidak-cek-biaya"
+          - listitem [ref=e100]:
+            - link "4) Simpan password sembarangan" [ref=e101] [cursor=pointer]:
+              - /url: "#4-simpan-password-sembarangan"
+          - listitem [ref=e102]:
+            - link "5) Tidak punya target" [ref=e103] [cursor=pointer]:
+              - /url: "#5-tidak-punya-target"
+          - listitem [ref=e104]:
+            - link "Cara Paling Aman Memulai Hari Ini" [ref=e105] [cursor=pointer]:
+              - /url: "#cara-paling-aman-memulai-hari-ini"
+          - listitem [ref=e106]:
+            - link "Checklist praktis" [ref=e107] [cursor=pointer]:
+              - /url: "#checklist-praktis"
+          - listitem [ref=e108]:
+            - link "Frequently Asked Questions" [ref=e109] [cursor=pointer]:
+              - /url: "#frequently-asked-questions"
+          - listitem [ref=e110]:
+            - link "Apakah beli Bitcoin legal di Indonesia?" [ref=e111] [cursor=pointer]:
+              - /url: "#apakah-beli-bitcoin-legal-di-indonesia"
+          - listitem [ref=e112]:
+            - link "Berapa minimal beli Bitcoin?" [ref=e113] [cursor=pointer]:
+              - /url: "#berapa-minimal-beli-bitcoin"
+          - listitem [ref=e114]:
+            - link "Apakah saya perlu wallet pribadi?" [ref=e115] [cursor=pointer]:
+              - /url: "#apakah-saya-perlu-wallet-pribadi"
+          - listitem [ref=e116]:
+            - link "Apakah Bitcoin kena pajak di Indonesia?" [ref=e117] [cursor=pointer]:
+              - /url: "#apakah-bitcoin-kena-pajak-di-indonesia"
+          - listitem [ref=e118]:
+            - link "Bottom Line" [ref=e119] [cursor=pointer]:
+              - /url: "#bottom-line"
+      - insertion [ref=e121]
+      - generic [ref=e123]:
+        - paragraph [ref=e124]: Saya masih ingat waktu pertama kali teman saya tanya, “Kalau mau beli Bitcoin di Indonesia yang legal, harus mulai dari mana sih?” Jujur, pertanyaan itu sangat wajar. Di satu sisi orang penasaran karena harga Bitcoin sering bikin heboh. Di sisi lain, banyak yang takut salah pilih platform, salah langkah, atau malah kena masalah pajak.
+        - paragraph [ref=e125]:
+          - text: Kalau kamu sedang mencari
+          - strong [ref=e126]: cara beli Bitcoin legal di Indonesia
+          - text: ", jawabannya sebenarnya tidak rumit. Yang penting kamu beli lewat platform crypto yang terdaftar resmi, pakai akun atas nama sendiri, dan paham alur deposit, beli, simpan, lalu catat pajaknya."
+        - heading "Key Takeaways" [level=2] [ref=e127]
+        - list [ref=e128]:
+          - listitem [ref=e129]: Bitcoin bisa dibeli secara legal di Indonesia lewat platform crypto yang terdaftar resmi di bawah pengawasan otoritas yang relevan.
+          - listitem [ref=e130]: "Langkah paling aman adalah: pilih exchange, verifikasi identitas, deposit Rupiah, beli Bitcoin, lalu simpan dengan benar."
+          - listitem [ref=e131]: Biaya transaksi, spread, dan biaya tarik dana bisa beda jauh antar aplikasi. Ini sering lebih penting daripada sekadar “fee murah”.
+          - listitem [ref=e132]: Untuk pemula, mulai kecil saja dulu, misalnya Rp 100.000–Rp 500.000, sambil belajar cara kerja aset ini.
+          - listitem [ref=e133]: Kalau kamu serius, jangan cuma fokus beli. Pahami cara simpan, cara jual, dan kewajiban pajaknya juga.
+        - heading "Apa Sebenarnya Cara Beli Bitcoin Legal di Indonesia?" [level=2] [ref=e134]
+        - paragraph [ref=e135]:
+          - text: Cara beli Bitcoin legal di Indonesia adalah membeli BTC lewat platform crypto yang berizin atau terdaftar resmi, menggunakan rekening bank dan identitas pribadi yang valid. Singkatnya, kamu tidak perlu cari jalur aneh-aneh.
+          - text: "Yang saya rekomendasikan justru jalur paling lurus: daftar di exchange yang jelas, lakukan KYC, deposit Rupiah, lalu beli Bitcoin di aplikasi tersebut."
+        - paragraph [ref=e136]: Di Indonesia, pembelian Bitcoin untuk individu umumnya dilakukan lewat exchange crypto lokal atau platform yang melayani pengguna Indonesia dengan kepatuhan regulasi yang berlaku. Saya pribadi selalu menyarankan orang untuk menghindari transaksi “titip beli” lewat orang lain. Selain rawan penipuan, jejak transaksinya juga berantakan. Kalau nanti kamu butuh bukti kepemilikan atau ingin tarik dana, repot sendiri.
+        - paragraph [ref=e137]: "Hal penting lain: legal bukan berarti bebas risiko. Bitcoin tetap aset yang harganya naik turun liar. Jadi legalitas hanya menjawab “boleh atau tidak”, bukan “pasti untung atau aman”. Itu beda cerita."
+        - paragraph [ref=e138]:
+          - text: Kalau kamu baru mulai dari nol, saya sarankan baca juga panduan dasar seperti
+          - link "cara mulai investasi di Indonesia untuk pemula" [ref=e139] [cursor=pointer]:
+            - /url: /blog/cara-mulai-investasi-di-indonesia-untuk-pemula-2026-guide/
+          - text: supaya kamu punya kerangka berpikir yang lebih rapi sebelum masuk ke crypto.
+        - heading "Kenapa legalitas itu penting?" [level=3] [ref=e140]
+        - paragraph [ref=e141]: "Karena ini menyangkut tiga hal:"
+        - list [ref=e142]:
+          - listitem [ref=e143]:
+            - strong [ref=e144]: Keamanan dana
+          - listitem [ref=e145]:
+            - strong [ref=e146]: Kemudahan tarik dana ke rekening bank
+          - listitem [ref=e147]:
+            - strong [ref=e148]: Jejak pajak dan kepatuhan
+        - paragraph [ref=e149]: Kalau platformnya jelas, hidup kamu jauh lebih tenang. Saya pernah lihat orang tergoda promo besar di platform yang tidak jelas, lalu bingung sendiri saat mau tarik saldo. Menurut saya, itu bukan “hemat”, itu cuma memindahkan masalah ke masa depan.
+        - heading "Platform Mana yang Bisa Dipakai untuk Beli Bitcoin Legal?" [level=2] [ref=e150]
+        - paragraph [ref=e151]:
+          - text: Platform terbaik untuk beli Bitcoin legal adalah exchange yang punya reputasi bagus, likuiditas memadai, biaya masuk akal, dan proses KYC yang rapi.
+          - text: Buat saya, pilihan platform itu sebaiknya dinilai dari keamanan, kemudahan pakai, dan total biaya, bukan sekadar iklan bonus pendaftaran.
+        - paragraph [ref=e152]: Di Indonesia, kamu akan sering ketemu nama-nama seperti Indodax, Reku, Pintu, Pluang, dan beberapa aplikasi lain yang memang populer di kalangan pengguna ritel. Masing-masing punya karakter berbeda. Ada yang lebih cocok untuk pemula, ada yang lebih enak untuk trading aktif, ada juga yang lebih nyaman untuk beli rutin nominal kecil.
+        - paragraph [ref=e153]: "Saya pribadi suka membandingkan platform dari hal sederhana:"
+        - list [ref=e154]:
+          - listitem [ref=e155]: Apakah deposit Rupiah mudah?
+          - listitem [ref=e156]: Apakah ada biaya tersembunyi?
+          - listitem [ref=e157]: Apakah tampilan aplikasinya bikin pusing?
+          - listitem [ref=e158]: Apakah proses jual dan tarik dana lancar?
+        - paragraph [ref=e159]:
+          - text: Kalau kamu ingin membandingkan beberapa aplikasi, artikel
+          - link "Pluang vs Bibit vs Tanamduit" [ref=e160] [cursor=pointer]:
+            - /url: /blog/pluang-vs-bibit-vs-tanamduit-7-perbedaan-penting-2026/
+          - text: memang bukan khusus Bitcoin, tapi tetap berguna untuk melihat gaya platform investasi digital yang berbeda. Kalau fokusmu crypto, kamu juga bisa lihat
+          - link "review Reku crypto exchange Indonesia" [ref=e161] [cursor=pointer]:
+            - /url: /blog/reku-crypto-exchange-review-indonesia-2026-guide/
+          - text: untuk gambaran yang lebih spesifik.
+        - heading "Perbandingan singkat platform crypto" [level=3] [ref=e162]
+        - table [ref=e163]:
+          - rowgroup [ref=e164]:
+            - row "Kriteria Exchange A Exchange B Exchange C" [ref=e165]:
+              - columnheader "Kriteria" [ref=e166]
+              - columnheader "Exchange A" [ref=e167]
+              - columnheader "Exchange B" [ref=e168]
+              - columnheader "Exchange C" [ref=e169]
+          - rowgroup [ref=e170]:
+            - row "Cocok untuk pemula Ya Ya Sedang" [ref=e171]:
+              - cell "Cocok untuk pemula" [ref=e172]
+              - cell "Ya" [ref=e173]
+              - cell "Ya" [ref=e174]
+              - cell "Sedang" [ref=e175]
+            - row "Biaya transaksi Rendah-sedang Sedang Bervariasi" [ref=e176]:
+              - cell "Biaya transaksi" [ref=e177]
+              - cell "Rendah-sedang" [ref=e178]
+              - cell "Sedang" [ref=e179]
+              - cell "Bervariasi" [ref=e180]
+            - row "Kemudahan deposit Rupiah Mudah Mudah Mudah" [ref=e181]:
+              - cell "Kemudahan deposit Rupiah" [ref=e182]
+              - cell "Mudah" [ref=e183]
+              - cell "Mudah" [ref=e184]
+              - cell "Mudah" [ref=e185]
+            - row "Tampilan aplikasi Sederhana Modern Cukup ramai" [ref=e186]:
+              - cell "Tampilan aplikasi" [ref=e187]
+              - cell "Sederhana" [ref=e188]
+              - cell "Modern" [ref=e189]
+              - cell "Cukup ramai" [ref=e190]
+            - row "Cocok untuk beli rutin Ya Ya Ya" [ref=e191]:
+              - cell "Cocok untuk beli rutin" [ref=e192]
+              - cell "Ya" [ref=e193]
+              - cell "Ya" [ref=e194]
+              - cell "Ya" [ref=e195]
+        - paragraph [ref=e196]: Saya sengaja tidak bilang satu platform paling bagus untuk semua orang, karena menurut saya itu tidak realistis. Yang paling bagus itu tergantung kebiasaan kamu.
+        - heading "Cara memilih platform yang benar" [level=3] [ref=e197]
+        - paragraph [ref=e198]: "Pakai urutan ini:"
+        - list [ref=e199]:
+          - listitem [ref=e200]: Cek legalitas dan reputasi
+          - listitem [ref=e201]: Lihat biaya beli dan jual
+          - listitem [ref=e202]: Pastikan ada deposit Rupiah via bank lokal
+          - listitem [ref=e203]: Baca review soal penarikan dana
+          - listitem [ref=e204]: Coba aplikasi dengan nominal kecil dulu
+        - paragraph [ref=e205]:
+          - text: Kalau kamu suka pendekatan yang santai tapi disiplin, saya juga sering menyarankan baca
+          - link "review Flip untuk transfer bank gratis" [ref=e206] [cursor=pointer]:
+            - /url: /blog/flip-app-review-7-things-i-d-check-first-2026/
+          - text: "karena mindset memilih aplikasi finansial itu mirip: jangan cuma lihat promonya, lihat pengalaman pakainya."
+        - heading "Bagaimana Langkah-Langkah Beli Bitcoin Legal?" [level=2] [ref=e207]
+        - paragraph [ref=e208]:
+          - text: "Langkah beli Bitcoin legal itu sederhana: pilih exchange, daftar akun, verifikasi identitas, deposit Rupiah, beli BTC, lalu simpan dengan aman."
+          - text: Kalau kamu ikuti urutan ini, kemungkinan besar kamu akan terhindar dari kesalahan pemula yang paling umum.
+        - paragraph [ref=e209]: Saya akan pecah jadi langkah yang benar-benar praktis.
+        - heading "1) Pilih exchange yang tepat" [level=3] [ref=e210]
+        - paragraph [ref=e211]: Mulailah dari aplikasi yang jelas identitas perusahaannya, punya proses KYC, dan reputasinya bagus di komunitas pengguna Indonesia. Jangan tergoda hanya karena ada bonus referral besar. Bonus Rp 50.000 itu kecil kalau dibandingkan risiko dana macet.
+        - heading "2) Daftar pakai data asli" [level=3] [ref=e212]
+        - paragraph [ref=e213]: Gunakan nama sesuai KTP, nomor HP aktif, email yang kamu akses, dan rekening bank atas nama sendiri. Ini penting. Kalau data tidak cocok, proses deposit atau tarik dana bisa tertahan.
+        - heading "3) Selesaikan verifikasi identitas" [level=3] [ref=e214]
+        - paragraph [ref=e215]: "Biasanya kamu akan diminta:"
+        - list [ref=e216]:
+          - listitem [ref=e217]: Foto KTP
+          - listitem [ref=e218]: Selfie
+          - listitem [ref=e219]: Data pekerjaan atau sumber dana
+          - listitem [ref=e220]: Rekening bank
+        - paragraph [ref=e221]: Proses ini normal. Saya justru lebih percaya platform yang tegas soal verifikasi, karena itu tanda mereka serius menjaga kepatuhan.
+        - heading "4) Deposit Rupiah" [level=3] [ref=e222]
+        - paragraph [ref=e223]:
+          - text: Setelah akun aktif, transfer Rupiah dari rekening bank kamu. Banyak platform mendukung bank-bank umum seperti BCA, Mandiri, BRI, BNI, CIMB Niaga, dan bank digital.
+          - text: Kalau kamu sering mengelola uang lewat bank digital, artikel
+          - link "best digital banks in Indonesia 2026" [ref=e224] [cursor=pointer]:
+            - /url: /blog/best-digital-banks-in-indonesia-2026-7-pilihan-terbaik/
+          - text: bisa membantu kamu memilih rekening yang nyaman untuk transaksi harian.
+        - heading "5) Beli Bitcoin" [level=3] [ref=e225]
+        - paragraph [ref=e226]: Cari BTC atau Bitcoin, lalu masukkan nominal Rupiah yang ingin dibeli. Kalau kamu pemula, saya sangat menyarankan mulai dari nominal kecil dulu. Misalnya Rp 100.000 atau Rp 250.000. Bukan karena kecil itu jelek, tapi karena kamu perlu belajar dulu cara kerja spread, fee, dan volatilitas.
+        - heading "6) Cek saldo dan simpan" [level=3] [ref=e227]
+        - paragraph [ref=e228]: Setelah beli, periksa saldo BTC kamu. Kalau mau simpan lama, pertimbangkan pindah ke wallet pribadi. Kalau masih belajar, simpan dulu di exchange yang reputasinya baik sambil memahami risikonya.
+        - heading "Berapa Modal Minimal untuk Beli Bitcoin?" [level=2] [ref=e229]
+        - paragraph [ref=e230]:
+          - text: Modal minimal untuk beli Bitcoin di Indonesia biasanya sangat kecil, sering mulai dari Rp 10.000 sampai Rp 100.000 tergantung platform.
+          - text: Tapi menurut saya, modal ideal untuk pemula bukan soal “minimum”, melainkan soal “cukup untuk belajar tanpa bikin stres”.
+        - paragraph [ref=e231]: Banyak orang salah paham. Mereka pikir harus beli 1 Bitcoin penuh. Padahal tidak. Bitcoin bisa dibeli sebagian kecil. Jadi kalau kamu punya Rp 200.000, kamu tetap bisa masuk. Ini salah satu kelebihan Bitcoin dibanding aset mahal yang harus dibeli utuh.
+        - paragraph [ref=e232]: "Saya pribadi lebih suka pendekatan begini:"
+        - list [ref=e233]:
+          - listitem [ref=e234]:
+            - strong [ref=e235]: "Pemula total:"
+            - text: Rp 100.000–Rp 500.000
+          - listitem [ref=e236]:
+            - strong [ref=e237]: "Belajar rutin bulanan:"
+            - text: Rp 500.000–Rp 2.000.000
+          - listitem [ref=e238]:
+            - strong [ref=e239]: "Lebih serius dan terencana:"
+            - text: sesuaikan dengan alokasi portofolio
+        - paragraph [ref=e240]:
+          - text: Kalau kamu masih bingung soal porsi aset digital, baca dulu
+          - link "berapa porsi crypto di portofolio" [ref=e241] [cursor=pointer]:
+            - /url: /blog/berapa-porsi-crypto-di-portofolio-2026-guide/
+          - text: ". Saya cukup tegas soal ini: jangan taruh terlalu besar di Bitcoin hanya karena FOMO. Crypto itu menarik, tapi tetap bagian kecil dari strategi keuangan yang sehat."
+        - heading "Contoh sederhana alokasi awal" [level=3] [ref=e242]
+        - paragraph [ref=e243]: "Misalnya kamu punya uang investasi Rp 1.000.000 per bulan:"
+        - list [ref=e244]:
+          - listitem [ref=e245]: Rp 600.000 ke instrumen yang lebih stabil
+          - listitem [ref=e246]: Rp 200.000 ke Bitcoin
+          - listitem [ref=e247]: Rp 200.000 ke aset lain yang kamu pahami
+        - paragraph [ref=e248]: Itu jauh lebih waras daripada langsung all-in ke Bitcoin hanya karena lihat teman posting profit.
+        - heading "Bagaimana Cara Simpan Bitcoin dengan Aman?" [level=2] [ref=e249]
+        - paragraph [ref=e250]:
+          - text: "Cara simpan Bitcoin yang aman adalah memilih tempat penyimpanan sesuai tujuan: exchange untuk praktis, wallet pribadi untuk kontrol lebih besar."
+          - text: Kalau kamu beli Bitcoin dan lupa soal penyimpanan, itu sama saja seperti beli emas lalu ditaruh sembarangan di laci.
+        - paragraph [ref=e251]: "Ada dua opsi utama:"
+        - heading "1) Simpan di exchange" [level=3] [ref=e252]
+        - paragraph [ref=e253]: Ini paling praktis untuk pemula. Kamu bisa beli dan jual cepat tanpa ribet. Kekurangannya, kamu bergantung pada keamanan platform.
+        - heading "2) Simpan di wallet pribadi" [level=3] [ref=e254]
+        - paragraph [ref=e255]: Ini lebih aman dari sisi kontrol aset, terutama kalau kamu pegang jangka panjang. Tapi kamu harus paham private key, seed phrase, dan cara backup yang benar.
+        - paragraph [ref=e256]: Menurut pengalaman saya, pemula sebaiknya mulai dari exchange dulu sambil belajar. Setelah nominal makin besar, baru pertimbangkan wallet pribadi. Jangan kebalik. Banyak orang baru belajar 2 hari lalu langsung beli hardware wallet, padahal belum paham cara simpan seed phrase. Itu juga berbahaya.
+        - heading "Hal yang wajib kamu lakukan" [level=3] [ref=e257]
+        - list [ref=e258]:
+          - listitem [ref=e259]: Aktifkan 2FA
+          - listitem [ref=e260]: Pakai password unik
+          - listitem [ref=e261]: Jangan simpan seed phrase di screenshot
+          - listitem [ref=e262]: Jangan bagikan akses akun ke siapa pun
+          - listitem [ref=e263]: Cek ulang alamat wallet sebelum transfer
+        - paragraph [ref=e264]:
+          - text: Kalau kamu ingin memahami dasar-dasar penyimpanan dan jenis aset lain yang sering dipakai di crypto, artikel
+          - link "stablecoin explained USDT vs USDC untuk orang Indonesia" [ref=e265] [cursor=pointer]:
+            - /url: /blog/stablecoin-explained-usdt-vs-usdc-untuk-orang-indonesia/
+          - text: juga bisa membantu kamu memahami cara kerja aset digital yang sering dipakai sebagai “parkir dana” sementara.
+        - heading "Berapa Biaya Beli Bitcoin di Indonesia?" [level=2] [ref=e266]
+        - paragraph [ref=e267]:
+          - text: Biaya beli Bitcoin di Indonesia biasanya terdiri dari fee transaksi, spread harga, dan kadang biaya deposit atau penarikan.
+          - text: Yang sering mengecoh pemula bukan fee yang terlihat kecil, tapi spread yang diam-diam membuat harga beli lebih mahal.
+        - paragraph [ref=e268]: Ini bagian yang menurut saya paling sering diabaikan. Orang lihat fee 0,1% lalu merasa murah. Padahal harga beli di aplikasi A bisa sedikit lebih tinggi dari aplikasi B. Selisih kecil itu kalau dibeli rutin bisa terasa.
+        - heading "Komponen biaya yang perlu dicek" [level=3] [ref=e269]
+        - list [ref=e270]:
+          - listitem [ref=e271]:
+            - strong [ref=e272]: Trading fee
+            - text: — biaya saat beli/jual
+          - listitem [ref=e273]:
+            - strong [ref=e274]: Spread
+            - text: — selisih harga beli dan jual
+          - listitem [ref=e275]:
+            - strong [ref=e276]: Withdrawal fee
+            - text: — biaya tarik dana ke bank atau wallet
+          - listitem [ref=e277]:
+            - strong [ref=e278]: Network fee
+            - text: — biaya kirim aset ke blockchain
+          - listitem [ref=e279]:
+            - strong [ref=e280]: Biaya deposit
+            - text: — kadang gratis, kadang ada biaya kecil
+        - heading "Contoh hitungan sederhana" [level=3] [ref=e281]
+        - paragraph [ref=e282]: "Misalnya kamu beli Bitcoin senilai Rp 1.000.000:"
+        - list [ref=e283]:
+          - listitem [ref=e284]: Trading fee 0,2% = Rp 2.000
+          - listitem [ref=e285]: Spread efektif = bisa terasa Rp 5.000–Rp 20.000 tergantung platform dan kondisi pasar
+          - listitem [ref=e286]: Total biaya nyata bisa lebih besar dari fee yang tertulis
+        - paragraph [ref=e287]:
+          - text: Jadi, kalau kamu mau hemat, jangan cuma tanya “fee berapa persen?”
+          - text: "Tanya juga: “Harga akhirnya berapa setelah semua biaya?”"
+        - paragraph [ref=e288]: Saya biasanya menyarankan orang bandingkan total hasil akhir, bukan angka promosi. Itu jauh lebih jujur.
+        - heading "Apakah Beli Bitcoin di Indonesia Kena Pajak?" [level=2] [ref=e289]
+        - paragraph [ref=e290]:
+          - text: Ya, transaksi aset kripto di Indonesia bisa terkena pajak sesuai ketentuan yang berlaku.
+          - text: Artinya, beli Bitcoin secara legal bukan berarti bebas urusan pajak. Justru karena legal, jejak transaksinya lebih rapi.
+        - paragraph [ref=e291]: "Untuk pemula, kamu tidak perlu pusing seperti akuntan. Yang penting pahami prinsip dasarnya:"
+        - list [ref=e292]:
+          - listitem [ref=e293]: Ada transaksi beli
+          - listitem [ref=e294]: Ada transaksi jual
+          - listitem [ref=e295]: Ada pencatatan
+          - listitem [ref=e296]: Ada potensi pajak sesuai aturan
+        - paragraph [ref=e297]: "Saya sarankan simpan catatan sederhana:"
+        - list [ref=e298]:
+          - listitem [ref=e299]: Tanggal beli
+          - listitem [ref=e300]: Nominal Rupiah
+          - listitem [ref=e301]: Harga BTC saat beli
+          - listitem [ref=e302]: Tanggal jual
+          - listitem [ref=e303]: Nominal hasil jual
+        - paragraph [ref=e304]: Kalau nanti kamu aktif transaksi, catatan ini sangat membantu. Saya pribadi lebih suka pakai spreadsheet sederhana daripada mengandalkan ingatan. Ingatan itu murah, tapi sering salah.
+        - paragraph [ref=e305]:
+          - text: Kalau kamu ingin membangun kebiasaan finansial yang lebih rapi, artikel
+          - link "kakeibo budgeting Jepang untuk orang Indonesia" [ref=e306] [cursor=pointer]:
+            - /url: /blog/kakeibo-budgeting-jepang-7-langkah-praktis-2026/
+          - text: bisa jadi inspirasi. Menurut saya, disiplin mencatat uang masuk-keluar itu relevan banget untuk investor crypto juga.
+        - heading "Apakah Bitcoin Cocok untuk Pemula di Indonesia?" [level=2] [ref=e307]
+        - paragraph [ref=e308]:
+          - text: Bitcoin cocok untuk pemula yang mau belajar aset digital dengan risiko tinggi, asal dimulai kecil dan tidak memakai uang kebutuhan hidup.
+          - text: Kalau kamu baru mulai, Bitcoin bisa jadi pintu masuk yang masuk akal karena namanya paling dikenal dan likuiditasnya besar.
+        - paragraph [ref=e309]: "Tapi saya juga harus jujur: Bitcoin bukan tempat parkir dana darurat. Bukan juga tempat buat uang DP rumah dalam 6 bulan ke depan. Harga Bitcoin bisa turun tajam dalam waktu singkat. Jadi kalau kamu tipe orang yang gampang panik lihat portofolio merah, kamu harus hati-hati."
+        - paragraph [ref=e310]: "Saya biasanya melihat Bitcoin cocok untuk orang yang:"
+        - list [ref=e311]:
+          - listitem [ref=e312]: Punya dana darurat dulu
+          - listitem [ref=e313]: Paham bahwa harga bisa naik-turun ekstrem
+          - listitem [ref=e314]: Mau investasi jangka panjang
+          - listitem [ref=e315]: Siap belajar soal keamanan digital
+        - paragraph [ref=e316]:
+          - text: Kalau kamu masih dalam fase membangun pondasi keuangan, saya sarankan baca
+          - link "7 smart money management tips for fresh graduates" [ref=e317] [cursor=pointer]:
+            - /url: /blog/7-smart-money-management-tips-for-fresh-graduates-2026-guide/
+          - text: atau
+          - link "how to start saving money with low income" [ref=e318] [cursor=pointer]:
+            - /url: /blog/7-cara-smart-mulai-menabung-saat-gaji-kecil-2026-guide/
+          - text: . Karena jujur saja, investasi terbaik itu tetap arus kas yang sehat.
+        - heading "Kesalahan Paling Sering Saat Beli Bitcoin" [level=2] [ref=e319]
+        - paragraph [ref=e320]:
+          - text: Kesalahan paling sering saat beli Bitcoin adalah FOMO, salah pilih platform, dan tidak punya rencana keluar.
+          - text: Banyak orang fokus di “cara beli”, tapi lupa bahwa keputusan jual itu sama pentingnya.
+        - paragraph [ref=e321]: "Berikut kesalahan yang paling sering saya lihat:"
+        - heading "1) Beli karena ikut-ikutan" [level=3] [ref=e322]
+        - paragraph [ref=e323]: Teman profit, kamu langsung masuk. Ini resep paling cepat untuk beli di harga yang kurang enak.
+        - heading "2) Pakai uang kebutuhan" [level=3] [ref=e324]
+        - paragraph [ref=e325]: Ini fatal. Kalau uang sewa, uang sekolah, atau uang darurat dipakai beli Bitcoin, kamu sedang berjudi dengan beban hidup sendiri.
+        - heading "3) Tidak cek biaya" [level=3] [ref=e326]
+        - paragraph [ref=e327]: Fee kecil di brosur sering tidak sama dengan biaya total yang kamu rasakan.
+        - heading "4) Simpan password sembarangan" [level=3] [ref=e328]
+        - paragraph [ref=e329]: Masih banyak orang pakai password yang sama untuk email, exchange, dan media sosial. Ini sangat buruk.
+        - heading "5) Tidak punya target" [level=3] [ref=e330]
+        - paragraph [ref=e331]: Kalau beli tanpa rencana, kamu bakal bingung kapan harus beli lagi, kapan harus jual, dan kapan harus diam saja.
+        - paragraph [ref=e332]: "Menurut saya, investor pemula harus punya satu aturan sederhana: kalau belum paham risikonya, jangan tambah nominal dulu. Tambah pengetahuan lebih dulu."
+        - heading "Cara Paling Aman Memulai Hari Ini" [level=2] [ref=e333]
+        - paragraph [ref=e334]:
+          - text: Cara paling aman memulai adalah beli kecil, pakai platform resmi, dan belajar sambil jalan.
+          - text: Kalau kamu mau eksekusi hari ini juga, saya sarankan pakai checklist berikut.
+        - heading "Checklist praktis" [level=3] [ref=e335]
+        - list [ref=e336]:
+          - listitem [ref=e337]: Pilih 1 exchange crypto yang jelas
+          - listitem [ref=e338]: Siapkan KTP dan rekening bank atas nama sendiri
+          - listitem [ref=e339]: Verifikasi akun
+          - listitem [ref=e340]: Deposit Rp 100.000–Rp 500.000
+          - listitem [ref=e341]: Beli Bitcoin sedikit dulu
+          - listitem [ref=e342]: Aktifkan keamanan akun
+          - listitem [ref=e343]: Catat transaksi
+          - listitem [ref=e344]: Evaluasi setelah 1–3 bulan
+        - paragraph [ref=e345]:
+          - text: Kalau kamu ingin pendekatan yang lebih sistematis, baca juga
+          - link "how to create a crypto investment strategy" [ref=e346] [cursor=pointer]:
+            - /url: /blog/7-smart-steps-to-create-a-crypto-investment-strategy/
+          - text: supaya pembelian pertamamu tidak cuma impulsif.
+        - heading "Frequently Asked Questions" [level=2] [ref=e347]
+        - heading "Apakah beli Bitcoin legal di Indonesia?" [level=3] [ref=e348]
+        - paragraph [ref=e349]: Ya, beli Bitcoin legal di Indonesia selama kamu menggunakan platform crypto yang resmi dan mengikuti proses identitas serta aturan yang berlaku. Yang penting, transaksi dilakukan atas nama sendiri dan tidak lewat jalur yang meragukan.
+        - heading "Berapa minimal beli Bitcoin?" [level=3] [ref=e350]
+        - paragraph [ref=e351]: Minimal pembelian Bitcoin biasanya sangat kecil, sering mulai dari Rp 10.000 sampai Rp 100.000 tergantung platform. Saya tetap menyarankan mulai dari nominal yang nyaman, misalnya Rp 100.000, supaya kamu bisa belajar tanpa tekanan.
+        - heading "Apakah saya perlu wallet pribadi?" [level=3] [ref=e352]
+        - paragraph [ref=e353]: Tidak wajib untuk pemula, tapi wallet pribadi berguna kalau kamu ingin kontrol lebih besar atas asetmu. Kalau nominal masih kecil, simpan di exchange tepercaya dulu sambil belajar cara kerja private key dan seed phrase.
+        - heading "Apakah Bitcoin kena pajak di Indonesia?" [level=3] [ref=e354]
+        - paragraph [ref=e355]: Ya, transaksi aset kripto dapat terkena pajak sesuai aturan yang berlaku. Simpan catatan pembelian dan penjualan agar kamu lebih mudah melacak transaksi.
+        - heading "Bottom Line" [level=2] [ref=e356]
+        - paragraph [ref=e357]:
+          - text: Kalau kamu mencari
+          - strong [ref=e358]: cara beli Bitcoin legal di Indonesia
+          - text: ", jalurnya sebenarnya jelas: pilih exchange resmi, verifikasi akun, deposit Rupiah, beli BTC, lalu simpan dengan aman dan catat transaksinya. Menurut saya, kunci sukses bukan di “cepat beli”, tapi di “paham apa yang kamu lakukan”."
+        - paragraph [ref=e359]: Kalau kamu baru mulai, jangan kejar untung besar dulu. Mulai kecil, pelajari biayanya, pahami risikonya, dan bangun kebiasaan investasi yang rapi. Itu jauh lebih penting daripada sekadar punya Bitcoin pertama.
+      - insertion [ref=e361]
+      - generic [ref=e363]:
+        - generic [ref=e364]: "Share:"
+        - link "Share on X (Twitter)" [ref=e365] [cursor=pointer]:
+          - /url: https://twitter.com/intent/tweet?text=Cara%20Beli%20Bitcoin%20Legal%20di%20Indonesia%20%5B2026%20Guide%5D&url=https%3A%2F%2Fevantoday.id%2Fblog%2Fcara-beli-bitcoin-legal-di-indonesia-2026-guide%2F
+          - img [ref=e366]
+          - text: Twitter
+        - link "Share on Facebook" [ref=e368] [cursor=pointer]:
+          - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevantoday.id%2Fblog%2Fcara-beli-bitcoin-legal-di-indonesia-2026-guide%2F
+          - img [ref=e369]
+          - text: Facebook
+        - link "Share on LinkedIn" [ref=e371] [cursor=pointer]:
+          - /url: https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fevantoday.id%2Fblog%2Fcara-beli-bitcoin-legal-di-indonesia-2026-guide%2F
+          - img [ref=e372]
+          - text: LinkedIn
+        - link "Share on WhatsApp" [ref=e374] [cursor=pointer]:
+          - /url: https://wa.me/?text=Cara%20Beli%20Bitcoin%20Legal%20di%20Indonesia%20%5B2026%20Guide%5D%20https%3A%2F%2Fevantoday.id%2Fblog%2Fcara-beli-bitcoin-legal-di-indonesia-2026-guide%2F
+          - img [ref=e375]
+          - text: WhatsApp
+      - generic [ref=e377]:
+        - generic [ref=e379]: E
+        - generic [ref=e380]:
+          - generic [ref=e382]: Written by Evan Today
+          - paragraph [ref=e383]: Writing about personal finance, investing, and money management. Making financial literacy accessible — one article at a time.
+          - link "More about me" [ref=e384] [cursor=pointer]:
+            - /url: /about
+      - insertion [ref=e386]
+      - generic [ref=e388]:
+        - heading "Related Articles" [level=2] [ref=e389]
+        - generic [ref=e390]:
+          - link "Cryptocurrency Berapa Porsi Crypto di Portofolio? [2026 Guide] Porsi crypto yang masuk akal bisa mulai dari 1%–10% dari portofolio. Ini cara hitungnya biar tidak kebablasan." [ref=e391] [cursor=pointer]:
+            - /url: /blog/berapa-porsi-crypto-di-portofolio-2026-guide/
+            - text: Cryptocurrency
+            - heading "Berapa Porsi Crypto di Portofolio? [2026 Guide]" [level=3] [ref=e392]
+            - paragraph [ref=e393]: Porsi crypto yang masuk akal bisa mulai dari 1%–10% dari portofolio. Ini cara hitungnya biar tidak kebablasan.
+          - 'link "Cryptocurrency Stablecoin Explained: USDT vs USDC untuk Orang Indonesia USDT dan USDC sering dianggap sama, padahal beda. Pahami risiko, biaya, dan cara pakai yang aman dalam 10 menit." [ref=e394] [cursor=pointer]':
+            - /url: /blog/stablecoin-explained-usdt-vs-usdc-untuk-orang-indonesia/
+            - text: Cryptocurrency
+            - 'heading "Stablecoin Explained: USDT vs USDC untuk Orang Indonesia" [level=3] [ref=e395]'
+            - paragraph [ref=e396]: USDT dan USDC sering dianggap sama, padahal beda. Pahami risiko, biaya, dan cara pakai yang aman dalam 10 menit.
+          - 'link "Cryptocurrency Bitcoin Halving 2026: 7 Prediksi Harga Halving Bitcoin bisa menggerakkan harga cepat. Saya bahas apa yang biasanya terjadi, apa yang perlu dipantau, dan cara orang Indonesia bersiap." [ref=e397] [cursor=pointer]':
+            - /url: /blog/bitcoin-halving-impact-on-price-7-things-to-expect/
+            - text: Cryptocurrency
+            - 'heading "Bitcoin Halving 2026: 7 Prediksi Harga" [level=3] [ref=e398]'
+            - paragraph [ref=e399]: Halving Bitcoin bisa menggerakkan harga cepat. Saya bahas apa yang biasanya terjadi, apa yang perlu dipantau, dan cara orang Indonesia bersiap.
+  - contentinfo [ref=e400]:
+    - generic [ref=e401]:
+      - generic [ref=e402]:
+        - generic [ref=e403]:
+          - text: Evan Today
+          - paragraph [ref=e404]: Tips keuangan praktis yang benar-benar works.
+        - generic [ref=e405]:
+          - heading "Topik" [level=3] [ref=e406]
+          - list [ref=e407]:
+            - listitem [ref=e408]:
+              - link "Keuangan Pribadi" [ref=e409] [cursor=pointer]:
+                - /url: /category/personal-finance
+            - listitem [ref=e410]:
+              - link "Fintech" [ref=e411] [cursor=pointer]:
+                - /url: /category/fintech
+            - listitem [ref=e412]:
+              - link "Investasi" [ref=e413] [cursor=pointer]:
+                - /url: /category/investing
+            - listitem [ref=e414]:
+              - link "Crypto" [ref=e415] [cursor=pointer]:
+                - /url: /category/cryptocurrency
+        - generic [ref=e416]:
+          - heading "Lainnya" [level=3] [ref=e417]
+          - list [ref=e418]:
+            - listitem [ref=e419]:
+              - link "Asuransi" [ref=e420] [cursor=pointer]:
+                - /url: /category/insurance
+            - listitem [ref=e421]:
+              - link "Bank Digital" [ref=e422] [cursor=pointer]:
+                - /url: /category/digital-banking
+            - listitem [ref=e423]:
+              - link "Tentang" [ref=e424] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e425]:
+              - link "Kontak" [ref=e426] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e427]:
+          - heading "Legal" [level=3] [ref=e428]
+          - list [ref=e429]:
+            - listitem [ref=e430]:
+              - link "Privasi" [ref=e431] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e432]:
+              - link "Disclaimer" [ref=e433] [cursor=pointer]:
+                - /url: /disclaimer
+      - generic [ref=e434]: © 2026 Evan Today

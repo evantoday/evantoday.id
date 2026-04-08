@@ -7,7 +7,7 @@ category: "cryptocurrency"
 tags: ["Coinbase", "cryptocurrency exchange", "crypto app", "fees", "features"]
 author: "Evan Today"
 heroImage: './images/cryptocurrency-1.jpg'
-heroImageAlt: 'Coinbase Review [2026]: Fees, Features, and Is It Worth It?'
+heroImageAlt: 'Investasi cryptocurrency Bitcoin dan aset digital'
 
 ---
 

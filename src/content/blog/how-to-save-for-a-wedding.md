@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["wedding budget", "save for wedding", "wedding costs", "wedding planning", "frugal wedding"]
 author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
-heroImageAlt: 'How to Save for a Wedding in 2026 (Average: $35K)'
+heroImageAlt: 'Tips menabung dan mengatur keuangan rumah tangga'
 
 ---
 

@@ -6,7 +6,7 @@ category: "insurance"
 tags: ["life insurance", "term life", "whole life", "life insurance quotes"]
 author: "Evan Today"
 heroImage: './images/insurance-2.jpg'
-heroImageAlt: 'Life Insurance in 2026: Who Actually Needs It?'
+heroImageAlt: 'Perbandingan produk asuransi dan polis terbaik'
 
 ---
 

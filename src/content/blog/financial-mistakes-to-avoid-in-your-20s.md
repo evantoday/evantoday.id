@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["money mistakes", "20s finance", "financial mistakes", "young adults", "money tips"]
 author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
-heroImageAlt: '10 Money Mistakes in Your 20s That Cost Thousands'
+heroImageAlt: 'Tips menabung dan mengatur keuangan rumah tangga'
 
 ---
 

@@ -1,0 +1,520 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - link "Evan Today" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - link "Articles" [ref=e7] [cursor=pointer]:
+          - /url: /blog
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e9] [cursor=pointer]:
+          - /url: /contact
+  - main [ref=e10]:
+    - article [ref=e11]:
+      - navigation "Breadcrumb" [ref=e12]:
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Home" [ref=e15] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e16]:
+            - generic [ref=e17]: /
+            - link "Insurance" [ref=e18] [cursor=pointer]:
+              - /url: /category/insurance
+          - listitem [ref=e19]:
+            - generic [ref=e20]: /
+            - generic [ref=e21]: "Panduan Asuransi Rumah 2026: Hemat Rp 15 Juta+"
+      - img "Rumah keluarga dengan perlindungan asuransi properti" [ref=e23]
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - link "Insurance" [ref=e26] [cursor=pointer]:
+            - /url: /category/insurance
+          - generic [ref=e27]: "|"
+          - time [ref=e28]: Mar 25, 2026
+          - generic [ref=e29]: "|"
+          - generic [ref=e30]: By Evan Today
+          - generic [ref=e31]: "|"
+          - generic [ref=e32]: 10 min read
+        - 'heading "Panduan Asuransi Rumah 2026: Hemat Rp 15 Juta+" [level=1] [ref=e33]'
+        - paragraph [ref=e34]: Rata-rata pemilik rumah bayar Rp 29 juta/tahun. Bandingkan provider, perlindungan, dan 5 cara menurunkan premi.
+        - generic [ref=e35]:
+          - link "#homeowners insurance" [ref=e36] [cursor=pointer]:
+            - /url: /tag/homeowners insurance
+          - link "#home insurance" [ref=e37] [cursor=pointer]:
+            - /url: /tag/home insurance
+          - link "#property insurance" [ref=e38] [cursor=pointer]:
+            - /url: /tag/property insurance
+          - link "#insurance comparison" [ref=e39] [cursor=pointer]:
+            - /url: /tag/insurance comparison
+      - navigation [ref=e40]:
+        - paragraph [ref=e41]: Contents
+        - list [ref=e42]:
+          - listitem [ref=e43]:
+            - link "What Homeowners Insurance Actually Covers" [ref=e44] [cursor=pointer]:
+              - /url: "#what-homeowners-insurance-actually-covers"
+          - listitem [ref=e45]:
+            - link "Dwelling Coverage (Coverage A)" [ref=e46] [cursor=pointer]:
+              - /url: "#dwelling-coverage-coverage-a"
+          - listitem [ref=e47]:
+            - link "Other Structures (Coverage B)" [ref=e48] [cursor=pointer]:
+              - /url: "#other-structures-coverage-b"
+          - listitem [ref=e49]:
+            - link "Personal Property (Coverage C)" [ref=e50] [cursor=pointer]:
+              - /url: "#personal-property-coverage-c"
+          - listitem [ref=e51]:
+            - link "Loss of Use (Coverage D)" [ref=e52] [cursor=pointer]:
+              - /url: "#loss-of-use-coverage-d"
+          - listitem [ref=e53]:
+            - link "Liability (Coverage E)" [ref=e54] [cursor=pointer]:
+              - /url: "#liability-coverage-e"
+          - listitem [ref=e55]:
+            - link "Medical Payments (Coverage F)" [ref=e56] [cursor=pointer]:
+              - /url: "#medical-payments-coverage-f"
+          - listitem [ref=e57]:
+            - link "What Homeowners Insurance Does NOT Cover" [ref=e58] [cursor=pointer]:
+              - /url: "#what-homeowners-insurance-does-not-cover"
+          - listitem [ref=e59]:
+            - link "Top Homeowners Insurance Companies in 2026" [ref=e60] [cursor=pointer]:
+              - /url: "#top-homeowners-insurance-companies-in-2026"
+          - listitem [ref=e61]:
+            - link "BCA" [ref=e62] [cursor=pointer]:
+              - /url: "#bca"
+          - listitem [ref=e63]:
+            - link "Mandiri" [ref=e64] [cursor=pointer]:
+              - /url: "#mandiri"
+          - listitem [ref=e65]:
+            - link "Jago" [ref=e66] [cursor=pointer]:
+              - /url: "#jago"
+          - listitem [ref=e67]:
+            - link "Seabank" [ref=e68] [cursor=pointer]:
+              - /url: "#seabank"
+          - listitem [ref=e69]:
+            - link "Allianz" [ref=e70] [cursor=pointer]:
+              - /url: "#allianz"
+          - listitem [ref=e71]:
+            - link "Rate Comparison Table" [ref=e72] [cursor=pointer]:
+              - /url: "#rate-comparison-table"
+          - listitem [ref=e73]:
+            - link "5 Ways to Save $1,000+ on Homeowners Insurance" [ref=e74] [cursor=pointer]:
+              - /url: "#5-ways-to-save-1000-on-homeowners-insurance"
+          - listitem [ref=e75]:
+            - link "1. Bundle Your Policies" [ref=e76] [cursor=pointer]:
+              - /url: "#1-bundle-your-policies"
+          - listitem [ref=e77]:
+            - link "2. Raise Your Deductible" [ref=e78] [cursor=pointer]:
+              - /url: "#2-raise-your-deductible"
+          - listitem [ref=e79]:
+            - link "3. Improve Your Home’s Safety" [ref=e80] [cursor=pointer]:
+              - /url: "#3-improve-your-homes-safety"
+          - listitem [ref=e81]:
+            - link "4. Maintain a Claims-Free Record" [ref=e82] [cursor=pointer]:
+              - /url: "#4-maintain-a-claims-free-record"
+          - listitem [ref=e83]:
+            - link "5. Shop Around Every 2-3 Years" [ref=e84] [cursor=pointer]:
+              - /url: "#5-shop-around-every-2-3-years"
+          - listitem [ref=e85]:
+            - link "How Much Homeowners Insurance Do You Need?" [ref=e86] [cursor=pointer]:
+              - /url: "#how-much-homeowners-insurance-do-you-need"
+          - listitem [ref=e87]:
+            - link "Special Considerations by Region" [ref=e88] [cursor=pointer]:
+              - /url: "#special-considerations-by-region"
+          - listitem [ref=e89]:
+            - link "Coastal States (Florida, Texas, Louisiana, Carolinas)" [ref=e90] [cursor=pointer]:
+              - /url: "#coastal-states-florida-texas-louisiana-carolinas"
+          - listitem [ref=e91]:
+            - link "Tornado Alley (Oklahoma, Kansas, Nebraska, Missouri)" [ref=e92] [cursor=pointer]:
+              - /url: "#tornado-alley-oklahoma-kansas-nebraska-missouri"
+          - listitem [ref=e93]:
+            - link "Wildfire Zones (California, Colorado, Oregon)" [ref=e94] [cursor=pointer]:
+              - /url: "#wildfire-zones-california-colorado-oregon"
+          - listitem [ref=e95]:
+            - link "Flood Zones" [ref=e96] [cursor=pointer]:
+              - /url: "#flood-zones"
+          - listitem [ref=e97]:
+            - link "When to File a Claim vs. Pay Out of Pocket" [ref=e98] [cursor=pointer]:
+              - /url: "#when-to-file-a-claim-vs-pay-out-of-pocket"
+          - listitem [ref=e99]:
+            - link "Frequently Asked Questions" [ref=e100] [cursor=pointer]:
+              - /url: "#frequently-asked-questions"
+          - listitem [ref=e101]:
+            - link "How much homeowners insurance do I need?" [ref=e102] [cursor=pointer]:
+              - /url: "#how-much-homeowners-insurance-do-i-need"
+          - listitem [ref=e103]:
+            - link "Is homeowners insurance required by law?" [ref=e104] [cursor=pointer]:
+              - /url: "#is-homeowners-insurance-required-by-law"
+          - listitem [ref=e105]:
+            - link "What’s the difference between actual cash value and replacement cost?" [ref=e106] [cursor=pointer]:
+              - /url: "#whats-the-difference-between-actual-cash-value-and-replacement-cost"
+          - listitem [ref=e107]:
+            - link "Does homeowners insurance cover water damage?" [ref=e108] [cursor=pointer]:
+              - /url: "#does-homeowners-insurance-cover-water-damage"
+          - listitem [ref=e109]:
+            - link "How can I lower my homeowners insurance premium quickly?" [ref=e110] [cursor=pointer]:
+              - /url: "#how-can-i-lower-my-homeowners-insurance-premium-quickly"
+      - insertion [ref=e112]:
+        - iframe [ref=e114]:
+          
+      - generic [ref=e115]:
+        - paragraph [ref=e116]: Seorang tetangga saya mengalami kebakaran dapur tahun lalu yang menyebabkan kerusakan sekitar Rp 675 juta. Asuransi rumahnya menanggung semua biaya di atas deductible Rp 15 juta. Sementara itu, teman lain memilih tidak ambil perlindungan untuk kondominium yang sudah lunas, lalu harus bayar sendiri tagihan kerusakan air sebesar Rp 180 juta. Perbedaan dua hasil itu adalah hal yang ingin saya bantu kamu pahami.
+        - paragraph [ref=e117]: Rata-rata pemilik rumah di AS membayar sekitar Rp 29 juta per tahun untuk asuransi, tapi saya pernah lihat angkanya berkisar dari Rp 12 juta sampai lebih dari Rp 60 juta, tergantung lokasi, aset yang dimiliki, dan perusahaan asuransi yang dipilih. Di panduan ini, saya akan bantu kamu memahami cara mendapatkan perlindungan yang tepat tanpa bayar terlalu mahal.
+        - heading "What Homeowners Insurance Actually Covers" [level=2] [ref=e118]
+        - paragraph [ref=e119]: "Polis asuransi rumah standar (disebut HO-3 dalam istilah industri) mencakup enam area utama:"
+        - heading "Dwelling Coverage (Coverage A)" [level=3] [ref=e120]
+        - paragraph [ref=e121]: Ini membayar biaya perbaikan atau pembangunan ulang struktur rumah kamu kalau rusak karena kejadian yang ditanggung—kebakaran, angin kencang, hujan es, petir, vandalisme, dan lainnya. Nilai perlindungan ini sebaiknya mengikuti biaya bangun ulang rumah, bukan nilai pasarnya.
+        - paragraph [ref=e122]: Saya sering lihat pemilik rumah keliru membedakan nilai pasar dengan biaya bangun ulang. Tanah punya nilai, tapi kamu tidak perlu mengasuransikan tanahnya. Rumah senilai Rp 6 miliar mungkin hanya butuh Rp 4,2 miliar untuk dibangun ulang.
+        - heading "Other Structures (Coverage B)" [level=3] [ref=e123]
+        - paragraph [ref=e124]: Ini menanggung garasi terpisah, pagar, gudang, dan bangunan lain di properti kamu. Biasanya otomatis ditetapkan sebesar 10% dari perlindungan dwelling.
+        - heading "Personal Property (Coverage C)" [level=3] [ref=e125]
+        - paragraph [ref=e126]:
+          - text: Ini menanggung barang-barang kamu—furnitur, elektronik, pakaian, peralatan rumah tangga—kalau dicuri atau rusak. Polis standar biasanya mengganti berdasarkan
+          - strong [ref=e127]: actual cash value
+          - text: (nilai setelah depresiasi), tapi saya sangat menyarankan upgrade ke perlindungan
+          - strong [ref=e128]: replacement cost
+          - text: . Selisih preminya kecil, tapi selisih klaimnya besar.
+        - heading "Loss of Use (Coverage D)" [level=3] [ref=e129]
+        - paragraph [ref=e130]: Kalau rumah kamu tidak bisa ditempati setelah kejadian yang ditanggung, ini membayar hotel, makan di luar, dan biaya hidup tambahan lainnya. Dari pengalaman saya, orang sering tidak kepikiran soal ini sampai benar-benar butuh, dan saat itu perlindungan ini sangat menyelamatkan.
+        - heading "Liability (Coverage E)" [level=3] [ref=e131]
+        - paragraph [ref=e132]: Kalau ada orang cedera di properti kamu lalu menggugat, perlindungan tanggung jawab ini membayar biaya pembelaan hukum dan ganti rugi. Jumlah standar biasanya Rp 1,5 miliar, tapi saya sarankan minimal Rp 4,5 miliar. Kalau aset kamu besar, pertimbangkan juga polis umbrella di atasnya.
+        - heading "Medical Payments (Coverage F)" [level=3] [ref=e133]
+        - paragraph [ref=e134]: Ini menanggung cedera ringan pada tamu di properti kamu tanpa melihat siapa yang salah—biasanya sekitar Rp 15 juta sampai Rp 75 juta. Tujuannya supaya insiden kecil tidak berkembang jadi gugatan.
+        - heading "What Homeowners Insurance Does NOT Cover" [level=2] [ref=e135]
+        - paragraph [ref=e136]: "Di sinilah banyak orang terjebak. Polis standar biasanya tidak mencakup:"
+        - list [ref=e137]:
+          - listitem [ref=e138]:
+            - strong [ref=e139]: Banjir
+            - text: — Kamu perlu polis asuransi banjir terpisah melalui program pemerintah atau perusahaan swasta
+          - listitem [ref=e140]:
+            - strong [ref=e141]: Gempa bumi
+            - text: — Butuh polis terpisah atau endorsement tambahan
+          - listitem [ref=e142]:
+            - strong [ref=e143]: Back-up saluran pembuangan
+            - text: — Biasanya add-on rider (sekitar Rp 750 ribu–Rp 1,5 juta/tahun, dan sangat layak)
+          - listitem [ref=e144]:
+            - strong [ref=e145]: Masalah perawatan
+            - text: — Jamur akibat kebocoran kecil, kerusakan rayap, aus pada atap
+          - listitem [ref=e146]:
+            - strong [ref=e147]: Peralatan usaha rumahan
+            - text: — Biasanya dibatasi sekitar Rp 37,5 juta; mungkin perlu rider
+          - listitem [ref=e148]:
+            - strong [ref=e149]: Ras anjing tertentu
+            - text: — Beberapa insurer mengecualikan tanggung jawab untuk ras tertentu
+          - listitem [ref=e150]:
+            - strong [ref=e151]: Barang bernilai tinggi
+            - text: — Perhiasan, karya seni, dan koleksi sering punya batas sub-limits (sekitar Rp 22,5 juta–Rp 37,5 juta); perlu dijadwalkan terpisah
+        - paragraph [ref=e152]: Saya belajar soal pengecualian back-up saluran pembuangan dengan cara yang pahit saat basement teman saya kebanjiran. Rider Rp 1,1 juta/tahun itu bisa menghemat dia jutaan rupiah.
+        - heading "Top Homeowners Insurance Companies in 2026" [level=2] [ref=e153]
+        - heading "BCA" [level=3] [ref=e154]
+        - paragraph [ref=e155]:
+          - strong [ref=e156]: "Best for:"
+          - text: Nilai keseluruhan terbaik dengan dukungan agen lokal
+        - paragraph [ref=e157]: BCA adalah salah satu penyedia asuransi rumah besar di Indonesia, dan itu ada alasannya. Tarifnya kompetitif, jaringan agennya luas, dan proses klaimnya terkenal bagus.
+        - list [ref=e158]:
+          - listitem [ref=e159]:
+            - strong [ref=e160]: "Average annual premium:"
+            - text: Rp 25 juta
+          - listitem [ref=e161]:
+            - strong [ref=e162]: "Key discounts:"
+            - text: Paket dengan asuransi mobil (hingga 25%), perangkat proteksi, rumah baru, tanpa klaim
+          - listitem [ref=e163]:
+            - strong [ref=e164]: "AM Best rating:"
+            - text: A++
+          - listitem [ref=e165]:
+            - strong [ref=e166]: "Claims satisfaction:"
+            - text: Di atas rata-rata
+        - heading "Mandiri" [level=3] [ref=e167]
+        - paragraph [ref=e168]:
+          - strong [ref=e169]: "Best for:"
+          - text: Perlindungan yang bisa disesuaikan dan claim forgiveness
+        - list [ref=e170]:
+          - listitem [ref=e171]:
+            - strong [ref=e172]: "Average annual premium:"
+            - text: Rp 28 juta
+          - listitem [ref=e173]:
+            - strong [ref=e174]: "Key discounts:"
+            - text: Multi-policy, perangkat proteksi, rumah baru, pelanggan loyal
+          - listitem [ref=e175]:
+            - strong [ref=e176]: "AM Best rating:"
+            - text: A+
+          - listitem [ref=e177]:
+            - strong [ref=e178]: "Claims satisfaction:"
+            - text: Rata-rata
+        - heading "Jago" [level=3] [ref=e179]
+        - paragraph [ref=e180]:
+          - strong [ref=e181]: "Best for:"
+          - text: Pemilik rumah yang melek teknologi dan ingin penawaran serta klaim cepat
+        - paragraph [ref=e182]: Proses klaim Jago berbasis AI bisa membayar klaim sederhana dalam hitungan detik. Saya pernah melihatnya langsung, dan hasilnya memang mengesankan.
+        - list [ref=e183]:
+          - listitem [ref=e184]:
+            - strong [ref=e185]: "Average annual premium:"
+            - text: Rp 21 juta
+          - listitem [ref=e186]:
+            - strong [ref=e187]: "Key discounts:"
+            - text: Bundle, tanpa klaim, perangkat smart home
+          - listitem [ref=e188]:
+            - strong [ref=e189]: "AM Best rating:"
+            - text: Belum dirating (didukung reasuradur berperingkat A+)
+          - listitem [ref=e190]:
+            - strong [ref=e191]: "Claims satisfaction:"
+            - text: Di atas rata-rata untuk klaim sederhana
+        - heading "Seabank" [level=3] [ref=e192]
+        - paragraph [ref=e193]:
+          - strong [ref=e194]: "Best for:"
+          - text: Pemilik rumah yang ingin tarif rendah
+        - paragraph [ref=e195]: Seabank sering menawarkan tarif yang sangat kompetitif di wilayah operasinya, dan perlindungan guaranteed replacement cost jadi nilai plus utama.
+        - list [ref=e196]:
+          - listitem [ref=e197]:
+            - strong [ref=e198]: "Average annual premium:"
+            - text: Rp 18,5 juta
+          - listitem [ref=e199]:
+            - strong [ref=e200]: "Key discounts:"
+            - text: Multi-policy, perangkat proteksi, usia rumah, tanpa klaim
+          - listitem [ref=e201]:
+            - strong [ref=e202]: "AM Best rating:"
+            - text: A+
+          - listitem [ref=e203]:
+            - strong [ref=e204]: "Claims satisfaction:"
+            - text: Peringkat teratas
+        - heading "Allianz" [level=3] [ref=e205]
+        - paragraph [ref=e206]:
+          - strong [ref=e207]: "Best for:"
+          - text: Layanan premium dan polis dividen
+        - paragraph [ref=e208]: Allianz konsisten berada di posisi atas untuk kepuasan pelanggan. Sebagai perusahaan mutual, mereka mengembalikan dividen ke pemegang polis—biasanya 5-15% dari premi kamu.
+        - list [ref=e209]:
+          - listitem [ref=e210]:
+            - strong [ref=e211]: "Average annual premium:"
+            - text: Rp 26 juta
+          - listitem [ref=e212]:
+            - strong [ref=e213]: "Key discounts:"
+            - text: Multi-policy, tanpa klaim, pembaruan rumah, auto-pay
+          - listitem [ref=e214]:
+            - strong [ref=e215]: "AM Best rating:"
+            - text: A+
+          - listitem [ref=e216]:
+            - strong [ref=e217]: "Claims satisfaction:"
+            - text: Peringkat teratas
+        - heading "Rate Comparison Table" [level=2] [ref=e218]
+        - table [ref=e219]:
+          - rowgroup [ref=e220]:
+            - row "Insurer Avg. Annual Premium Bundle Discount Replacement Cost AM Best" [ref=e221]:
+              - columnheader "Insurer" [ref=e222]
+              - columnheader "Avg. Annual Premium" [ref=e223]
+              - columnheader "Bundle Discount" [ref=e224]
+              - columnheader "Replacement Cost" [ref=e225]
+              - columnheader "AM Best" [ref=e226]
+          - rowgroup [ref=e227]:
+            - row "Seabank Rp 18,5 juta Hingga 25% Guaranteed A+" [ref=e228]:
+              - cell "Seabank" [ref=e229]
+              - cell "Rp 18,5 juta" [ref=e230]
+              - cell "Hingga 25%" [ref=e231]
+              - cell "Guaranteed" [ref=e232]
+              - cell "A+" [ref=e233]
+            - row "Jago Rp 21 juta Hingga 15% Standard NR" [ref=e234]:
+              - cell "Jago" [ref=e235]
+              - cell "Rp 21 juta" [ref=e236]
+              - cell "Hingga 15%" [ref=e237]
+              - cell "Standard" [ref=e238]
+              - cell "NR" [ref=e239]
+            - row "BCA Rp 25 juta Hingga 25% Extended (25%) A++" [ref=e240]:
+              - cell "BCA" [ref=e241]
+              - cell "Rp 25 juta" [ref=e242]
+              - cell "Hingga 25%" [ref=e243]
+              - cell "Extended (25%)" [ref=e244]
+              - cell "A++" [ref=e245]
+            - row "Allianz Rp 26 juta Hingga 20% Guaranteed A+" [ref=e246]:
+              - cell "Allianz" [ref=e247]
+              - cell "Rp 26 juta" [ref=e248]
+              - cell "Hingga 20%" [ref=e249]
+              - cell "Guaranteed" [ref=e250]
+              - cell "A+" [ref=e251]
+            - row "Mandiri Rp 28 juta Hingga 25% Extended (20%) A+" [ref=e252]:
+              - cell "Mandiri" [ref=e253]
+              - cell "Rp 28 juta" [ref=e254]
+              - cell "Hingga 25%" [ref=e255]
+              - cell "Extended (20%)" [ref=e256]
+              - cell "A+" [ref=e257]
+        - paragraph [ref=e258]:
+          - emphasis [ref=e259]: Berdasarkan dwelling Rp 4,5 miliar, deductible Rp 15 juta, liability Rp 4,5 miliar, rata-rata nasional.
+        - heading "5 Ways to Save $1,000+ on Homeowners Insurance" [level=2] [ref=e260]
+        - heading "1. Bundle Your Policies" [level=3] [ref=e261]
+        - paragraph [ref=e262]:
+          - text: Menggabungkan asuransi rumah dan
+          - link "asuransi mobil" [ref=e263] [cursor=pointer]:
+            - /url: /blog/car-insurance-comparison-2026/
+          - text: bisa menghemat 15-25% di banyak insurer. Dari premi Rp 29 juta, itu setara sekitar Rp 4,3 juta–Rp 7,2 juta per tahun. Ini salah satu cara termudah untuk hemat di asuransi.
+        - heading "2. Raise Your Deductible" [level=3] [ref=e264]
+        - paragraph [ref=e265]:
+          - text: Naik dari deductible Rp 7,5 juta ke Rp 37,5 juta bisa menghemat 15-30% premi kamu. Tapi pastikan kamu punya tabungan likuid yang cukup untuk menutup deductible yang lebih tinggi kalau harus
+          - link "mengajukan klaim" [ref=e266] [cursor=pointer]:
+            - /url: /blog/7-proven-steps-to-claim-insurance-2026-guide/
+          - text: .
+        - heading "3. Improve Your Home’s Safety" [level=3] [ref=e267]
+        - paragraph [ref=e268]: "Perusahaan asuransi memberi reward untuk pengurangan risiko:"
+        - list [ref=e269]:
+          - listitem [ref=e270]:
+            - strong [ref=e271]: "Sistem keamanan:"
+            - text: diskon 5-15%
+          - listitem [ref=e272]:
+            - strong [ref=e273]: "Detektor asap dan alat pemadam kebakaran:"
+            - text: diskon 2-5%
+          - listitem [ref=e274]:
+            - strong [ref=e275]: "Kunci deadbolt:"
+            - text: diskon 2-5%
+          - listitem [ref=e276]:
+            - strong [ref=e277]: "Atap tahan benturan:"
+            - text: diskon 10-25% (besar sekali di daerah rawan badai)
+          - listitem [ref=e278]:
+            - strong [ref=e279]: "Listrik, plumbing, dan HVAC yang diperbarui:"
+            - text: diskon 5-15%
+        - heading "4. Maintain a Claims-Free Record" [level=3] [ref=e280]
+        - paragraph [ref=e281]: Mengajukan klaim kecil sering kali malah merugikan. Kalau ada perbaikan Rp 18 juta dengan deductible Rp 15 juta, kamu hanya klaim Rp 3 juta tapi premi bisa naik selama 3-5 tahun. Saya biasanya menyarankan untuk tidak mengajukan klaim di bawah Rp 37,5 juta kecuali kerugiannya serius.
+        - heading "5. Shop Around Every 2-3 Years" [level=3] [ref=e282]
+        - paragraph [ref=e283]: Loyalitas tidak selalu dibayar dalam asuransi. Saya pernah lihat pemilik rumah hemat lebih dari Rp 9 juta hanya dengan membandingkan penawaran lalu pindah atau negosiasi dengan insurer lama. Pakai situs seperti Policygenius atau Insurify untuk membandingkan dengan cepat.
+        - heading "How Much Homeowners Insurance Do You Need?" [level=2] [ref=e284]
+        - paragraph [ref=e285]: "Ini kerangka yang saya pakai untuk menentukan perlindungan yang tepat:"
+        - paragraph [ref=e286]:
+          - strong [ref=e287]: "Dwelling coverage:"
+          - text: Dapatkan estimasi biaya bangun ulang. Insurer kamu bisa menghitungnya, atau pakai alat seperti kalkulator Marshall & Swift. Jangan pakai harga beli rumah atau estimasi Zillow.
+        - paragraph [ref=e288]:
+          - strong [ref=e289]: "Personal property:"
+          - text: Buat inventaris rumah. Kebanyakan orang butuh perlindungan barang pribadi sekitar Rp 750 juta–Rp 2,25 miliar. Pastikan pakai replacement cost, bukan actual cash value.
+        - paragraph [ref=e290]:
+          - strong [ref=e291]: "Liability:"
+          - text: Minimal Rp 4,5 miliar. Kalau
+          - link "net worth" [ref=e292] [cursor=pointer]:
+            - /url: /blog/how-to-calculate-net-worth-and-why-it-matters/
+          - text: kamu lebih dari Rp 4,5 miliar, ambil polis umbrella (umbrella Rp 15 miliar biasanya biayanya sekitar Rp 3 juta–Rp 4,5 juta/tahun).
+        - paragraph [ref=e293]:
+          - strong [ref=e294]: "Deductible:"
+          - text: Rp 15 juta–Rp 37,5 juta adalah titik ideal untuk kebanyakan pemilik rumah. Deductible lebih tinggi memang menurunkan premi, tapi kamu harus bayar lebih besar saat klaim.
+        - heading "Special Considerations by Region" [level=2] [ref=e295]
+        - heading "Coastal States (Florida, Texas, Louisiana, Carolinas)" [level=3] [ref=e296]
+        - paragraph [ref=e297]: Deductible untuk angin dan badai biasanya terpisah dan jauh lebih tinggi—sering kali 2-5% dari dwelling coverage. Deductible badai 2% pada rumah Rp 4,5 miliar berarti kamu harus keluar Rp 90 juta dulu sebelum asuransi mulai menanggung kerusakan akibat badai.
+        - heading "Tornado Alley (Oklahoma, Kansas, Nebraska, Missouri)" [level=3] [ref=e298]
+        - paragraph [ref=e299]: Pertimbangkan atap tahan benturan untuk keamanan sekaligus diskon premi yang cukup besar. Beberapa insurer memberi diskon 25% untuk shingles tahan benturan kelas 4.
+        - heading "Wildfire Zones (California, Colorado, Oregon)" [level=3] [ref=e300]
+        - paragraph [ref=e301]: Perlindungan makin sulit dicari dan makin mahal. Kalau kamu berada di area berisiko tinggi, pertimbangkan program FAIR Plan (insurer terakhir) atau bekerja dengan agen independen yang bisa mengakses carrier surplus lines.
+        - heading "Flood Zones" [level=3] [ref=e302]
+        - paragraph [ref=e303]: Asuransi rumah standar tidak pernah menanggung banjir. Kalau kamu berada di zona banjir yang ditetapkan pemerintah, pemberi KPR akan mewajibkan asuransi banjir. Bahkan kalau kamu tidak berada di zona resmi, saya tetap menyarankannya—lebih dari 25% klaim banjir datang dari luar area risiko tinggi.
+        - heading "When to File a Claim vs. Pay Out of Pocket" [level=2] [ref=e304]
+        - paragraph [ref=e305]: "Ini sesuatu yang saya sangat yakini. Tidak semua kerugian harus jadi klaim. Ini aturan praktis saya:"
+        - list [ref=e306]:
+          - listitem [ref=e307]:
+            - strong [ref=e308]: "Kerusakan di bawah Rp 37,5 juta:"
+            - text: Bayar sendiri kecuali bagian dari masalah yang lebih besar
+          - listitem [ref=e309]:
+            - strong [ref=e310]: "Kerusakan di atas Rp 75 juta:"
+            - text: Ajukan klaim
+          - listitem [ref=e311]:
+            - strong [ref=e312]: "Di antara Rp 37,5 juta–Rp 75 juta:"
+            - text: Pertimbangkan riwayat klaim dan dampak ke premi
+          - listitem [ref=e313]:
+            - strong [ref=e314]: "Klaim tanggung jawab:"
+            - text: Selalu ajukan segera, berapa pun nilainya
+          - listitem [ref=e315]:
+            - strong [ref=e316]: "Kerusakan katastrofik:"
+            - text: Selalu ajukan segera
+        - paragraph [ref=e317]: Setiap klaim akan tetap tercatat di laporan CLUE kamu selama 5-7 tahun dan bisa memengaruhi premi di insurer mana pun.
+        - heading "Frequently Asked Questions" [level=2] [ref=e318]
+        - heading "How much homeowners insurance do I need?" [level=3] [ref=e319]
+        - paragraph [ref=e320]: Perlindungan dwelling kamu sebaiknya sama dengan estimasi biaya bangun ulang rumah—not nilai pasar atau harga beli. Saya sarankan minta estimasi bangun ulang dari insurer atau penilai independen. Untuk personal property, buat inventaris per ruangan dan pilih replacement cost. Liability sebaiknya minimal Rp 4,5 miliar, dengan polis umbrella jika net worth kamu lebih tinggi.
+        - heading "Is homeowners insurance required by law?" [level=3] [ref=e321]
+        - paragraph [ref=e322]: Tidak ada negara bagian yang secara hukum mewajibkan asuransi rumah. Tapi kalau kamu punya KPR, pemberi pinjaman akan mewajibkannya. Bahkan kalau rumah sudah lunas, hidup tanpa asuransi tetap sangat berisiko. Satu kebakaran rumah atau gugatan tanggung jawab bisa menghabiskan tabungan bertahun-tahun.
+        - heading "What’s the difference between actual cash value and replacement cost?" [level=3] [ref=e323]
+        - paragraph [ref=e324]: Actual cash value membayar nilai barang kamu saat ini setelah depresiasi. TV berusia 5 tahun yang dulu harganya Rp 15 juta mungkin hanya dibayar Rp 4,5 juta. Replacement cost membayar biaya untuk membeli barang baru yang setara—jadi kamu dapat biaya penuh untuk TV baru yang sebanding. Selisih premi biasanya 10-15%, dan saya selalu merekomendasikan replacement cost.
+        - heading "Does homeowners insurance cover water damage?" [level=3] [ref=e325]
+        - paragraph [ref=e326]: Tergantung sumbernya. Kerusakan air yang tiba-tiba dan tidak disengaja (pipa pecah, kerusakan akibat badai) biasanya ditanggung. Kerusakan bertahap (kebocoran kecil, perawatan buruk) tidak. Kerusakan akibat banjir dari air yang naik butuh polis asuransi banjir terpisah. Back-up saluran pembuangan biasanya perlu endorsement tambahan.
+        - heading "How can I lower my homeowners insurance premium quickly?" [level=3] [ref=e327]
+        - paragraph [ref=e328]: "Cara tercepat adalah: naikkan deductible ke Rp 37,5 juta (hemat 15-30%), bundel dengan asuransi mobil (hemat 15-25%), dan pasang sistem keamanan yang dipantau (hemat 5-15%). Tiga perubahan ini bisa menghemat Rp 7,5 juta–Rp 15 juta per tahun. Setelah itu, bandingkan ulang polis kamu setiap 2-3 tahun supaya tetap dapat tarif yang kompetitif."
+      - insertion [ref=e330]
+      - generic [ref=e332]:
+        - generic [ref=e333]: "Share:"
+        - link "Share on X (Twitter)" [ref=e334] [cursor=pointer]:
+          - /url: https://twitter.com/intent/tweet?text=Panduan%20Asuransi%20Rumah%202026%3A%20Hemat%20Rp%2015%20Juta%2B&url=https%3A%2F%2Fevantoday.id%2Fblog%2Fhome-insurance-guide-and-comparison%2F
+          - img [ref=e335]
+          - text: Twitter
+        - link "Share on Facebook" [ref=e337] [cursor=pointer]:
+          - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fevantoday.id%2Fblog%2Fhome-insurance-guide-and-comparison%2F
+          - img [ref=e338]
+          - text: Facebook
+        - link "Share on LinkedIn" [ref=e340] [cursor=pointer]:
+          - /url: https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fevantoday.id%2Fblog%2Fhome-insurance-guide-and-comparison%2F
+          - img [ref=e341]
+          - text: LinkedIn
+        - link "Share on WhatsApp" [ref=e343] [cursor=pointer]:
+          - /url: https://wa.me/?text=Panduan%20Asuransi%20Rumah%202026%3A%20Hemat%20Rp%2015%20Juta%2B%20https%3A%2F%2Fevantoday.id%2Fblog%2Fhome-insurance-guide-and-comparison%2F
+          - img [ref=e344]
+          - text: WhatsApp
+      - generic [ref=e346]:
+        - generic [ref=e348]: E
+        - generic [ref=e349]:
+          - generic [ref=e351]: Written by Evan Today
+          - paragraph [ref=e352]: Writing about personal finance, investing, and money management. Making financial literacy accessible — one article at a time.
+          - link "More about me" [ref=e353] [cursor=pointer]:
+            - /url: /about
+      - insertion [ref=e355]
+      - generic [ref=e357]:
+        - heading "Related Articles" [level=2] [ref=e358]
+        - generic [ref=e359]:
+          - link "Insurance 7 Alasan Umum Klaim Asuransi Ditolak di Indonesia Klaim asuransi ditolak karena 7 alasan ini. Saya bahas cara menghindarinya supaya polis Anda tidak mentok di meja verifikasi." [ref=e360] [cursor=pointer]:
+            - /url: /blog/7-alasan-umum-klaim-asuransi-ditolak-di-indonesia/
+            - text: Insurance
+            - heading "7 Alasan Umum Klaim Asuransi Ditolak di Indonesia" [level=3] [ref=e361]
+            - paragraph [ref=e362]: Klaim asuransi ditolak karena 7 alasan ini. Saya bahas cara menghindarinya supaya polis Anda tidak mentok di meja verifikasi.
+          - link "Insurance DPLK Indonesia Explained [2026 Guide] yang Wajib Tahu DPLK bisa bantu pensiun lebih tenang dengan setoran mulai Rp100 ribu. Ini cara kerja, manfaat, biaya, dan langkah mulainya." [ref=e363] [cursor=pointer]:
+            - /url: /blog/dplk-indonesia-explained-2026-guide-yang-wajib-tahu/
+            - text: Insurance
+            - heading "DPLK Indonesia Explained [2026 Guide] yang Wajib Tahu" [level=3] [ref=e364]
+            - paragraph [ref=e365]: DPLK bisa bantu pensiun lebih tenang dengan setoran mulai Rp100 ribu. Ini cara kerja, manfaat, biaya, dan langkah mulainya.
+          - 'link "Insurance Asuransi Syariah Dijelaskan: Panduan Praktis Muslim Indonesia Asuransi syariah bisa hemat Rp 300 ribu–Rp 1 juta/bulan jika dipahami benar. Ini cara kerjanya, bedanya, dan cara pilihnya." [ref=e366] [cursor=pointer]':
+            - /url: /blog/asuransi-syariah-dijelaskan-panduan-praktis-muslim-indonesia/
+            - text: Insurance
+            - 'heading "Asuransi Syariah Dijelaskan: Panduan Praktis Muslim Indonesia" [level=3] [ref=e367]'
+            - paragraph [ref=e368]: Asuransi syariah bisa hemat Rp 300 ribu–Rp 1 juta/bulan jika dipahami benar. Ini cara kerjanya, bedanya, dan cara pilihnya.
+  - contentinfo [ref=e369]:
+    - generic [ref=e370]:
+      - generic [ref=e371]:
+        - generic [ref=e372]:
+          - text: Evan Today
+          - paragraph [ref=e373]: Tips keuangan praktis yang benar-benar works.
+        - generic [ref=e374]:
+          - heading "Topik" [level=3] [ref=e375]
+          - list [ref=e376]:
+            - listitem [ref=e377]:
+              - link "Keuangan Pribadi" [ref=e378] [cursor=pointer]:
+                - /url: /category/personal-finance
+            - listitem [ref=e379]:
+              - link "Fintech" [ref=e380] [cursor=pointer]:
+                - /url: /category/fintech
+            - listitem [ref=e381]:
+              - link "Investasi" [ref=e382] [cursor=pointer]:
+                - /url: /category/investing
+            - listitem [ref=e383]:
+              - link "Crypto" [ref=e384] [cursor=pointer]:
+                - /url: /category/cryptocurrency
+        - generic [ref=e385]:
+          - heading "Lainnya" [level=3] [ref=e386]
+          - list [ref=e387]:
+            - listitem [ref=e388]:
+              - link "Asuransi" [ref=e389] [cursor=pointer]:
+                - /url: /category/insurance
+            - listitem [ref=e390]:
+              - link "Bank Digital" [ref=e391] [cursor=pointer]:
+                - /url: /category/digital-banking
+            - listitem [ref=e392]:
+              - link "Tentang" [ref=e393] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e394]:
+              - link "Kontak" [ref=e395] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e396]:
+          - heading "Legal" [level=3] [ref=e397]
+          - list [ref=e398]:
+            - listitem [ref=e399]:
+              - link "Privasi" [ref=e400] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e401]:
+              - link "Disclaimer" [ref=e402] [cursor=pointer]:
+                - /url: /disclaimer
+      - generic [ref=e403]: © 2026 Evan Today

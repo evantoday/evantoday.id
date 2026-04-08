@@ -6,7 +6,7 @@ category: "personal-finance"
 tags: ["tax refund", "IRS refund", "tax season", "tax refund tips", "smart spending"]
 author: "Evan Today"
 heroImage: './images/personal-finance-3.jpg'
-heroImageAlt: 'How to Spend Your Tax Refund Wisely [2026 Guide]'
+heroImageAlt: 'Tips menabung dan mengatur keuangan rumah tangga'
 
 ---
 

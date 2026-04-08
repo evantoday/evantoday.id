@@ -6,7 +6,7 @@ category: "cryptocurrency"
 tags: ["blockchain", "blockchain explained", "cryptocurrency basics", "distributed ledger", "Web3"]
 author: "Evan Today"
 heroImage: './images/cryptocurrency-1.jpg'
-heroImageAlt: 'Blockchain Explained Simply (5-Minute Guide)'
+heroImageAlt: 'Investasi cryptocurrency Bitcoin dan aset digital'
 
 ---
 
